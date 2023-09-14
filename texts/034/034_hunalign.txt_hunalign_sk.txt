@@ -1,0 +1,196 @@
+Martinus Beijerinck, holandský botanik, ktorý študoval vírus tabakovej mozaiky v roku 1898 predpokladal, že ide o infekčnú tekutinu.
+Vírus bol istý čas definovaný iba svojou veľkosťou, ako vec omnoho menšia než baktéria, ktorá by však podobne ako baktéria mohla spôsobiť ochorenie.
+Neskôr sa predpokladalo, že vírus je submikroskopické činidlo nesúce veľmi malý genóm, ktoré sa replikuje vo vnútri živých buniek. Ale to bol iba prvý krôčik k lepšiemu pochopeniu.
+(Pozrite, ako vírusy vyzerajú zblízka.)
+Francúzsky mikrobiológ André Lwoff napísal vo vplyvnej eseji Poňatie vírusu z roku 1957: Budem obhajovať paradoxné stanovisko, a to, že vírusy sú vírusy.
+Nie je to veľmi užitočná definícia ale varovanie, iný spôsob ako povedať jediné svojho druhu.
+Práve si odkašľal pred začatím zložitejšieho výkladu.
+Lwoff vedel, že vírusy je jednoduchšie opísať než definovať.
+Každá vírusová častica pozostáva z genetickej informácie (zapísanej buď v DNA alebo v RNA), ktorá je vložená do proteínového obalu (známy ako kapsid).
+Kapsid je v niektorých prípadoch obklopený membránovým obalom (ako karamel na karamelovom jablku), ktorý ju chráni a pomáha jej lepšie sa zachytiť bunky.
+Vírus sa môže kopírovať iba vstupom do bunky a privlastnením si 3D tlačiarne, ktorá premieňa genetickú informáciu na proteíny.
+Neandertálska lebka, jedna zo zatiaľ najzachovalejších, je uložená vedľa ľudských kostier v Musée de l’ Homme v Paríži.
+Keď moderní ľudia opustili Afriku, skrížili sa s neandertálcami a nadobudli gény, ktoré sa vyvíjali stovky tisíc rokov.
+Vedci našli 152 génov zdedených od neandertálcov, ktoré pomáhajú vytvárať imunitnú odpoveď.
+Dospeli k záveru, že tieto gény umožnili našim predkom bojovať proti novým vírusom, s ktorými sa stretli v Európe.
+Ak má hostiteľská bunka smolu, vytvorí sa veľké množstvo nových vírusových častíc, ktoré prasknú a bunka zostane zničená.
+Tento druh poškodenia – ktorý spôsobuje SARS-CoV-2 v epiteliálnych bunkách dýchacích ciest – je čiastočne spôsob, akým sa vírus stáva patogénom.
+Ale ak má hostiteľská bunka šťastie, vírus sa možno usadí na útulné miesto – buď bude nečinný, alebo prebehne reverzná transkripcia malého vírusového genómu na hostiteľský genóm, a bude vyčkávať.
+Táto druhá možnosť má množstvo dôsledkov týkajúcich sa zmiešava nia genómov, evolúcie, dokonca aj pre zmysel nášho bytia (téma, ku ktorej sa ešte vrátim).
+Zatiaľ jeden tip: V populárnej knihe z roku 1983 britský biológ Peter Medawar a jeho žena Jean, editorka, tvrdili: Žiadny vírus nie je známy tým, že je prospešný: je dnoducho sa hovorilo, že vírus je nemilé prekvapenie obalené v proteíne.
+Mýlili sa.
+Rovnako aj veľa iných vedcov v tom čase, a tento názor si osvojuje každý, ktorého znalosti o vírusoch sú obmedzené na také minimum ako chrípka alebo COVID-19.
+Dnes je už známe, že niektoré vírusy sú prospešné.
+To, čo je zabalené v proteíne, je genetický prenos, ktorý môžeme považovať za milé i nemilé prekvapenie, všetko záleží.
+Kde sa vzali prvé vírusy?
+To si vyžaduje, aby sme sa pozreli takmer o štyri miliardy rokov späť do minulosti. Do čias, kedy sa život na Zemi začal vytvárať v dlhých molekulách, jednoduchších organických zlúčeninách a v energii.
+Povedzme, že niektoré z dlhých molekúl (pravdepodobne RNA) sa začali replikovať.
+Darwinovský prírodný výber by sa začal tam, pretože tieto molekuly, prvé genómy, sa reprodukovali, mutovali a vyvíjali.
+Pri hľadaní konkurencieschopnosti niektoré mohli nájsť spôsob na vytvorenie si ochrany v membránach a stenách, čo viedlo k vzniku prvých buniek.
+Tieto bunky umožnili vznik potomstva priečnym delením na dve bunky.
+Rozlišuje sa vznik baktérií a archeónov, to sú dve z troch hlavných domén bunkového života.
+Tretia doména, eukraryot, vznikla o niečo neskôr.
+Zahŕňa nás a iné tvory (zvieratá, rastliny, plesne, určité mikróby) pozostávajúce z buniek so zložitou vnútornou stavbou.
+Toto sú momentálne tri najhlavnejšie vetvy fylogenetického stromu.
+Ale kam zapadajú vírusy?
+Sú štvrtou hlavnou vetvou?
+Alebo je to druh imela, parazit, ktorý sa zjavil znenazdajky?
+Väčšina verzií fylogenetického stromu úplne vynecháva vírusy.
+Jason Sheperd, neurovedec na Utahskej univerzite, drží snímku trojdimenzionálnej rekonštrukcie proteínovej kapsuly, ktorá je podobná vírusu a hrá rozhodujúcu úlohu v poznaní a pamäti.
+ARC gén, ktorý nesie kód na vytvorenie tohto guľatého zázraku, bol získaný suchozemskými stavovcami z predka, ktorý sa podobal vírusu približne pred 400 miliónmi rokov.
+Kapsula pripomínajúca kapsidy, ktoré obklopujú vírusové genómy, prenáša genetickú informáciu medzi neurónmi v ľudskom mozgu, ako aj v mozgoch mnohých iných zvierat.
+Jedna myšlienková škola tvrdí, že vírusy by nemali byť zaradené do fylogenetického stromu, pretože sú neživé.
+Je to pretrvávajúci argument, ktorý závisí od toho, ako definujete pojem živý.
+Bolo by horšie garantovať zaradenie vírusov do veľkého stanu s názvom Život, a neskôr premýšľať ako sa tam dostali.
+Existujú tri hlavné hypotézy, ktoré vysvetľujú evolučný pôvod vírusov, pre vedcov známe ako hypotéza prvých vírusov, úniková hypotéza a redukčná hypotéza.
+Hypotéza prvých vírusov predstavuje myšlienku, že vírusy začali existovať už pred bunkami a nejako sa sami zostavili z prehistorickej dielne.
+Úniková hypotéza predpokladá, že gény alebo úseky genómov z buniek unikli, boli uzavreté v proteínových kapsidoch, zatúlali sa, obrátili na stranu zla a našli si nové miesto ako parazity.
+Redukčná hypotéza naznačuje, že vírusy vznikli keď sa niektoré bunky zmenšili kvôli konkurencieschopnosti (je jednoduchšie replikovať sa ak si malý a jednoduchý), strácali gény až kým sa zredukovali tak, že prežili iba parazitovaním buniek.
+Existuje aj štvrtý variant, známy ako chimérická hypotéza, ktorá je inšpirovaná inou kategóriou genetických elementov: transpozónmi (nazývané aj skáčuce gény).
+Genetička Barbara McClintocková vyvodzuje ich existenciu v roku 1948, za čo získala Nobelovu cenu.
+Tieto oportunistické prvky dosahujú Darwinovský úspech iba skákaním z jednej časti genómu do inej, v ojedinelých prípadoch z jednej bunky do druhej, dokonca z jedného druhu, využívaním bunkových zdrojov na kopírovanie sa znova a znova.
+Toto kopírovanie sa ich chráni pred prípadným vyhynutím.
+Hromadia sa nezvyčajne.
+Tvoria napríklad približne polovicu ľudského genómu.
+Prvé vírusy teda podľa tejto myšlienky mohli vzniknúť z takýchto prvkov, požičiavaním si proteínov z buniek na ich zaobalenie vo vnútri ochranných kapsidov, je to zložitejšia stratégia.
+Každá zo spomenutých hypotéz má význam.
+Ale nové zistenia z roku 2003 navádzali názor odborníkov smerom k jednoduchosti: obrovský vírus.
+Bol nájdený v meňavkách, jednobunkových eukaryotoch.
+Tieto meňavky odobrali z vody v chladiacej veže v anglickom Bradforde.
+V niektorých z nich sa nachádzala záhadná škvrna.
+Bola dostatočne veľká na pozorovanie pomocou svetelného mikroskopu (vírusy boli na to údajne príliš malé, viditeľné iba pomocou elektrónového mikroskopu), a vyzerala ako baktéria.
+Vedci sa pokúšali v rámci vzorky detekovať bakteriálne gény, žiadne však nenašli.
+Tím odborníkov z Francúzskeho Marseille nechali touto vecou infikovať iné meňavky, sekvenovali jej genóm, rozpoznali čo to je a nazvali ju mimivírus, pretože napodobňuje baktérie, aspoň pokiaľ ide o veľkosť.
+V priemere bola obrovská, väčšia než najmenšia baktéria.
+Jej genóm bol tiež na vírus obrovský, takmer 1,2 milióna písmen dlhý. V porovnaní s 13 000 za vírus chrípky a 194 000 za ovčie kiahne.
+(DNA podobne ako RNA, je dlhá molekula tvorená štyrmi rôznymi molekulárnymi bázami, ktoré vedci skrátia prvými začiatočnými písmenami.)
+Bol to nemožný vírus: príliš veľký ale predsa vírus, ako novoobjavený amazonský motýľ s rozpätím krídel tridsať centimetrov.
+Jean-Michel Claverie bol vysokopostavený člen Marseillského tímu.
+Claverie mi povedal, že objavenie mimivírusu spôsobilo veľa problémov.
+Prečo?
+Pretože sekvenovanie genómu odhalilo štyri veľmi nečakané gény – gény na kódovanie enzýmov boli považované za výhradne bunkové a nikdy predtým neboli nájdené vo víruse.
+Tieto enzýmy, ako Claverie vysvetlil, sa nachádzajú medzi komponentami, ktoré prevážajú genetický kód na zhromažďovanie aminokyselín do proteínov.
+Takže otázkou bolo, povedal Claverie, akú má ten vírus potrebu pre tie malé enzýmy fungujúce v bunkách, keď majú celú bunku iba pre seba, OK?
+Vskutku, čo chce?
+Logickým záverom je, že mimivírus ich má ako potomok, pretože jeho pôvod vychádza z genomického redukovania bunky.
+Objavenie mimivírusu nebola náhoda.
+Podobné obrovské vírusy sa čoskoro objavili v Sargassovom mori, a ich prvý názov sa stal pomenovaním rodu, mimivírus, obsahujúci niekoľko gigantov.
+Potom marseillský tím objavil ďalšie dva giganty – znova oba parazity meňaviek – jednu odobrali z plytkých morských sedimentov na pobreží Čile, druhú z austrálskeho rybníka.
+Tieto dvojnásobne väčšie a nezvyčajnejšieako mimivírus boli pridelené do osobitného rodu, ktorý Claverie a jeho kolegovia pomenovali pandoravírus, pretože pripomínal Pandorinu skrinku, ako vysvetlili v roku 2013, kvôli prekvapeniam očakávaným z ďalšieho výskumu.
+Už pred 150 miliónmi rokov, vírusy infikovali cicavce a zanechali v nich gény, ktoré viedli k dramatickému evolučnému pokroku: k placente, ktorá umožňuje živinám a kyslíku dosiahnuť plod a odstraňuje odpad a oxid uhličitý.
+Ľudia a ostatné cicavce s placentami sa môžu pohybovať spolu s nenarodenými mláďatami, preto sú menej zraniteľné pred predátormi.
+Ľuďom pomáhajú dva gény pochádzajúce z vírusov.
+Táto membrána môže tiež pomôcť zabrániť imunitnému systému matky napadnúť plod, ktorý môže považovať za cudzí predmet.
+Hlavnou spoluautorkou Claveriovej práce bola Chantal Abergel, virologička a štrukturálna biologička (a jeho manželka).
+O pandoravírusoch mi Abergel rozprával s unaveným smiechom: Boli veľkou výzvou.
+Sú to moje deti.
+Vysvetlila, ako náročné bolo určiť čo sú zač – sú veľmi odlišné od buniek, od klasických vírusov, nesú mnoho génov, ktoré sa nepodobajú ničomu, čo sme už videli.
+Preto sú tak záhadne fascinujúce.
+Chvíľu ich nazývala NFŽ: nová forma života.
+Ale z pozorovania s kolegami zistili, že sa nerozmnožujú priečnym delením, a teda ide o vírusy – najväčšie a najkomplikovanejšie zo všetkých už objavených.
+Tieto objavy naznačili marseillskej skupine, že ide o variant redukčnej hypotézy.
+Možno vírusy pochádzajú z redukovaných starovekých buniek, ale z tých buniek, ktoré už na Zemi neexistujú.
+Tento druh starovekej protobunky sa mohol líšiť od – a byť v konkurenčnom vzťahu s – univerzálnym spoločným predkom všetkých, dnes známych buniek.
+Možno tieto protobunky stratili konkurenciu a boli vylúčené zo všetkých priestorov dostupných pre voľne žijúce veci.
+Možno prežili parazitovaním na iných bunkách, zmenšili svoje genómy, a stali sa tým, čo nazývame vírusy.
+Zo stratenej bunkovej ríše možno zostali iba vírusy, ako obrovské kamenné hl vy na Veľkonočných ostrovoch.
+Objavenie obrovských vírusov inšpirovalo ďalších vedcov, najmä Patricka Forterre z Pasteurovho inštitútu v Paríži, k sformulovaniu nových predstáv o tom, čo sú vírusy, akú konštruktívnu rolu zohrali a budú zohrávať v evolúcii a vo funkciách bunkového života.
+Predchádzajúce definície vírusu boli nedostačujúce, predložil Forterre, pretože vedci si zamieňali vírusové častice – kapsidovo-uzavreté kúsky genómu, riadne známe ako virióny – s vírusom ako takým.
+Tvrdil, že je to také zlé, ako zamieňať si semeno s rastlinou alebo spóru s hubou.
+Argumentoval tým, že virión je iba rozptýlený mechanizmus.
+Skutočná celistvosť vírusu zahŕňa aj jeho prítomnosť v bunke, akonáhle sa zmocní bunkového aparátu na rozmnoženie ďalších viriónov, teda ďalších semien.
+Pochopiť tieto dve fázy znamená pochopiť, že bunka sa skutočne stala súčasťou životnej histórie vírusu.
+Forterre podporil tento názor vytvorením nového názvu pre kombinovanú entitu: virobunku.
+Táto myšlienka prekonala aj otázku živého a neživého.
+Podľa Forterra je vírus živý vo forme virobunky bez ohľadu na to, že jeho virióny sú neživé.
+Počas hovoru cez Skype z Paríža mi povedal: Myšlienka za virobunkovým konceptom bola zameraná hlavne na túto medzibunkovú fázu.
+Je to krehká fáza, v ktorej infikovaná bunka poslúcha príkazy vírusu, číta vírusový genóm a replikuje ho, ale nie vždy bez úskokov, sklzov a chýb.
+Podvedomie je podivuhodný úkaz.
+Väčšinu času buď bdieme, alebo spíme. Zďaleka to však nie sú jediné stavy, ktorými naša myseľ prechádza.
+Na nasledujúcich 15 stranách sa vydáme na niektoré z týchto ciest do ľudskej mysle, počnúc od hypnózy až po spánkovú paralýzu.
+Poniektoré z nich znejú možno strašidelne a exoticky, no pravdou je, že mnohí z nás v určitej etape svojho života zažijú minimálne jednu z týchto príhod.
+Všetky odhaľujú tvárnosť ľudskej mysle a krehkosť zmyslu pre naše vlastné ja, tu a teraz.
+Užite si túto výpravu.
+Myslíte si, že bdiete, avšak časť vášho mozgu spí.
+Môže sa vám to diať práve teraz, hovorí Laura Spinneyová.
+Začiatkom roku 2009 sa v časopise Sleep Medicine objavila záhadná správa o dvoch Talianoch, ktorí nikdy skutočne nespali.
+Hoci ležali a mali zavreté oči, výsledky merania mozgovej aktivity nepreukázali žiadne signály charakteristické pre spánok.
+Ich správanie bolo taktiež celkom zvláštne.
+Hoci väčšinou počas svojho odpočinku nevnímali okolie, prechádzali sa, ich telá sa chveli a srdcový tep narastal.
+Zvyšok času síce boli pri vedomí a vnímali, no mali silnú tendenciu podliehať halucináciám, akoby práve snívali.
+Obom diagnostikovali neurodegeneratívne ochorenie zvané multisystémová atrofia.
+Podľa autorov správy Roberta Vetrugna a jeho kolegov z Bolonskej univerzity v Taliansku ochorenie poškodilo ich mozog do takej miery, že dosiahli disociatívny stav, akúsi zónu šera, kedy sa hranice medzi spánkom a bdením celkom zotierajú.
+Táto skutočnosť vyvracia všetko, čo sme si o spánku vždy mysleli. Marka Mahowalda, riaditeľa Regionálneho centra pre poruchy spánku v Minneapolise (Minesota) však tento fakt neprekvapil. Práve on vyvrátil dogmu, že spánok a bdenie sú dva rôzne a odlišné stavy.
+Teraz je tu jasný dôkaz, že základné stavy bytia sa navzájom nevylučujú, tvrdí Mahowald.
+Rozmazávanie hraníc medzi spánkom a bdením je typické práve pre disociatívny stav, no je presvedčený, že sa to môže stať každému z nás.
+Ak má pravdu, budeme musieť prehodnotiť naše chápanie toho, čo vlastne spánok je a k čomu slúži.
+Možno bdenie nie je fenoménom všetkého a ničoho, ako sme si doteraz mysleli.
+Podľa všeobecne známych poznatkov sa zdravý človek nachádza v jednej z troch fáz vedomia: v bdelom stave, paradoxnom (REM) spánku alebo ortodoxnom (NREM) spánku.
+Jednotlivé fázy sú odlišné a môžu byť rozoznané na základe snímok mozgovej aktivity meranej elektroencefalogramom (EEG).
+Bdelosť je ľahké rozoznať.
+Okrem faktu, že človek má otvorené oči a reaguje na podnety, jeho aktivita EEG ukazuje vlny s vysokou frekvenciou a nízkou amplitúdou.
+Ortodoxný (NREM) spánok je rozdelený do štyroch fáz, z ktorých každá má svoj charakteristický EEG obraz.
+Paradoxný (REM) spánok je ťažšie zachytiť, lebo podľa záznamu EEG je veľmi podobný prvej fáze ortodoxného (NREM) spánku.
+Aby sa odborníci uistili, že skutočne ide o paradoxný spánok, pozorujú rýchle pohyby očí a uvoľnenie svalstva brady a čeľuste.
+Mahowald nie je jediný, kto sa zaoberá týmito jasnými signálmi.
+Psychiater z Pennsylvánskej univerzity vo Filadelfii David Dinges už odoprel spánok v mene vedy mnohým ľuďom.
+V jednej z týchto štúdií počas druhej polovice 80.-tych rokov Dinges a jeho tím zistil, ako ľahko sa môžu jednotlivé fázy vedomia striedať.
+Keď boli dobrovoľníci podrobení testom pracovnej pamäte, v ktorých mali odčítavať čísla, boli schopní urobiť s malými chybami v priemere 90 výpočtov za tri minúty.
+Po 52 hodinách bez spánku ich výkon klesol na približne 70 výpočtov, pričom počet chýb sa výrazne nezmenil.
+Po dvojhodinovom spánku však došlo k výraznej zmene.
+Keď sme ich náhle zobudili, cítili sa síce čulí a pripravení počítať, no nedokázali urobiť čo i len jeden výpočet, hovorí Dinges.
+Dokonca sa zdalo akoby stále snívali, kým sa snažili riešiť úlohu.
+Spolu s množstvom nesprávnych odpovedí prichádza podnet na zamyslenie sa: Čo ak ľudia bežali rýchlejšie než normálni ľudia bežia domov.
+Ľahšou formou takejto dezorientácie je spánková inercia, ktorá je v súčasnosti všeobecne známou príčinou slabosti, ktorú niektorí ľudia pociťujú po zazvonení budíka.
+Akoby boli navonok prebudení, no ich mozgové funkcie ešte spia, akoby mozgové spojenia zodpovedné za vnímanie plne fungovali, no pracovná pamäť je ešte vypnutá.
+Mahowald je presvedčený, že je to len jedna z mnohých porúch, ktoré možno vysvetliť ako rozpad hraníc medzi spánkom a bdením.
+V tom istom vydaní časopisu Sleep Medicine vymenoval celý rad rôznych stavov ako Vetrugnov opis ľudí s disociatívnym stavom (roč. 10, s. 159).
+Jednou z porúch je porucha správania v REM spánku (REM sleep behavior disorder – RBD), kedy ľudia počas REM spánku reagujú zo sna. Vtedy dochádza k prechodu z dočasnej paralýzy alebo kataplexie, ktoré zvyčajne sprevádzajú túto poruchu, k plnej mobilite a bdelosti.
+Pri spánkovej paralýze dochádza k pravému opaku.
+V tomto štádiu prechádza kataplexia do stavu bdelosti, kedy sa človek po prebudení nedokáže hýbať.
+Tento zvláštny jav zažilo odhadom už vyše 40 % ľudí.
+Prekvapivo bežné sú aj hypnagogické halucinácie – zmyslové obrazy, ktoré sa objavujú na prahu spánku, kedy snový komponent paradoxného spánku prechádza do bdelého stavu.
+Mahowaldov zoznam zahŕňa taktiež námesačnosť, nočný teror a narkolepsiu, čo je vrodená nestabilita v rozoznávaní hraníc medzi bdelosťou a spánkom, ktorá zahŕňa prudké striedanie jednotlivých fáz s tendenciou zaspať uprostred vety.
+Zoznam zahŕňa aj také sporné témy ako zážitky blízkosti smrti a únosy mimozemšťanmi.
+Podľa Mahowalda nie je náhoda, že únosy mimozemšťanmi sa takmer vždy vyskytujú v polohe ležmo počas prechodu z bdelého stavu do spánku.
+Spánok je vysoko komplexný stav, v ktorom musia byť zmeny v zmyslovom, svalovom, hormonálnom a nervovom systéme vzájomne koordinované k navodeniu bdelého stavu.
+Keď sa nad tým zamyslíte, u miliardy ľudí na svete dochádza každých 24 hodín nespočetne veľakrát k striedaniu medzi jednotlivými fázami bdelosti, paradoxného (REM) a ortodoxného (NREM) spánku.
+Presnosť tohto striedania je priam udivujúca, hovorí Mahowald.
+Táto presnosť svedčí o existencii akejsi prispôsobivej sily, ktorá nás udržiava buď v jednej, alebo druhej fáze.
+Tiež si však myslí, že disociatívny stav, teda prítomnosť viac ako jedného bdelého stavu súčasne, je bežnejší než sa zdal.
+Hranice medzi spánkom a bdením sú obzvlášť nejasné po odoprení spánku.
+Približne pred pätnástimi rokmi si Dinges uvedomil, že hoci jeho dobrovoľníci ochudobnení o spánok pôsobili bdelo, v skutočnosti zažívali krátkodobé mikrospánky alebo výpadky vedomia.
+Od tej doby zistil, že tieto letmé zdriemnutia trvajú v priemere od pol sekundy až do dvoch sekúnd a sú tým frekventovanejšie, čím väčší nedostatok spánku máme, až kým už viac nedokážeme byť hore a zaspíme.
+Dinges ich vníma ako určitý boj medzi nervovým systémom, ktorý sa snaží spustiť spánok, a ostatnými systémami, ktoré sa snažia udržať stav bdenia.
+Tieto tvrdenia sa zhodujú s myšlienkami Jamesa Kruegera z Washingtonskej štátnej univerzity v Pullmane, ktorý tvrdí, že jednotlivé spracovateľské jednotky v mozgu, známe ako kortikálne stĺpce, zaspia nezávisle od seba po tom, čo sa unavia.
+Podľa neho k striedaniu bdelého stavu a spánku dochádza vtedy, keď je väčšina stĺpcov buď v jednom, alebo druhom štádiu (Nature Reviews Neuroscience, roč. 9, s. 910).
+Krueger verí, že táto mozaika spánku vysvetľuje spánkovú inerciu a námesačnosť.
+Niektorí ľudia podliehajú mikrospánkom ľahšie než druhí.
+Výskum jeho kolegov z roku 2007 ukázal, že existujú výrazné rozdiely v ľudskej schopnosti odolávať spánku pri únave.
+V skupine zdravých dospelých ľudí s dostatkom spánku sú rozdiely v čulosti nepatrné.
+Akonáhle však vyprovokujeme systém odoprením spánku, dochádza k väčším a väčším zmenám, hovorí Krueger (Journal of Sleep Research, roč. 116, s. 170).
+Týka sa to všetkých, najmä však ľudí s takou profesiou, pri ktorej je udržanie bdelého stavu otázkou života a smrti (pozri Základná kontrola majora Toma).
+Ak jazdíte po diaľnici rýchlosťou 100 kilometrov za hodinu a dostanete krátky výpadok vedomia, vaše prsty sa na volante uvoľnia a odkloníte sa na ceste o 4 stupne, hovorí Dinges.
+Stačia dve sekundy na úplné vybočenie z trate.
+Vyše 20 percent dopravných nehôd súvisí s únavou.
+Zobrazenia mozgu odhalili duševný rezervný systém u ľudí, ktorí dokážu zotrvať v bdelosti aj po tom, čo im bol odoprený spánok (Journal of Neuroscience, roč. 29, s. 7848).
+Kým u ostatných ľudí bola mozgová aktivita pri únave znížená, ľudia odolní voči spánku dokážu udržať úroveň mozgovej aktivity.
+Zaujímavý je aj fakt, že títo ľudia dokážu spustiť nové centrá, ktoré im pomáhajú kompenzovať dlhý čas bez spánku.
+Týchto respondentov vybrali do výskumu kvôli špecifickej genetickej informácii objavenej u asi 40 % ľudí, ktorá podľa všetkého súvisí s odolnosťou voči zaspaniu aj po odoprení spánku.
+Zdá sa, že títo ľudia sú menej náchylní voči disociovanému stavu, hoci to ešte nie je vedecky preukázané.
+Ďalšia skupina ľudí, ktorí v porovnaní s druhými vyzerajú viac čulo, sú ľudia trpiaci primárnou insomniou, ktorá nesúvisí so žiadnym iným stavom.
+Existuje dôkaz, ktorý poukazuje na to, že títo ľudia sú v neustálom stave nadmernej aktivity, majú relatívne vysoké metabolické tempo a vysokú hladinu stresového hormónu kortizolu.
+Akoby niekto jednoducho spúšťal 24 hodín denne ich aktivitu, a teda sú čulí nielen v noci, no ešte viac cez deň, hovorí Mahowald.
+Teória nejasných hraníc medzi spánkom a bdelosťou sa začína plno akceptovať a výskumníci ďalej hľadajú nové spôsoby na zachytenie letmých spánkov a kolísania v mozgu.
+Napríklad neurovedec Giulio Tononi z Wisconsinskej univerzity v Madisone sleduje mozog ľudí počas spánku, pričom používa EEG s 256 elektródami namiesto zvyčajných 32, aby tak zvýšil priestorové rozloženie a tým uľahčil možnosť zachytiť mozog v momente chvíľkového spánku.
+Podľa Tononiho je mikrospánok len špičkou ľadovca.
+Obzvlášť sa zaoberá možnosťou, že niektoré časti nášho mozgu sa môžu vypnúť bez toho, aby sme si to vôbec uvedomili.
+V mnohých ohľadoch je to akoby ste zažili dočasnú mentálnu poruchu a pritom o tom nikto, vrátane vás, nemusí ani vedieť, hovorí.
+Ako príklad možno uviesť zábudlivosť a fantazírovanie, rovnako ako aj abnormálne, či dokonca kriminálne správanie (Pozri Keď zločin nie je zločinom).
+Medzitým začal Pierre Maquet z Univerzity Liège v Belgicku používať fMRI 1, aby zaznamenal obrazy mozgovej aktivity počas rozličných štádií spánku.
+Jeho tím postupne odhaľuje, že rozdiely medzi spánkom a bdelým stavom vyzerajú úplne inak pri porovnávaní obrazov zachytávajúcich aktivitu celého mozgu (vrátane hlbokých štruktúr), kým EEG meria aktivitu len v niekoľkocentimetrovej vonkajšej vrstve kortexu.
+Spolu s týmito metódami prichádza aj nádej, že sa konečne objasní taká diskutovaná otázka, akou je funkcia spánku.
+Podľa hlavnej teórie je spánok dôležitý pre konsolidáciu pamäte.
+Stále však zostáva nevyjasnená otázka, prečo sa u dvoch Talianov s disociatívnym stavom neprejavil žiaden deficit v pamäti, a to aj napriek kompletnému rozpadu oboch fáz REM a NREM spánku.
+Prispieva tento fakt len k názoru, že spánok nemá žiaden iný účel iba šetriť našu energiu a udržať nás v bezpečí (New Scientist 15 marec 2008, s. 30)?
+Alebo to znamená, že títo ľudia v skutočnosti zažili istý druh mozaikového spánku, tak ako tvrdí Mahowald?

@@ -1,0 +1,978 @@
+# Sentence pair (1) source length 25 target length 24 alignment score : 8.42026e-36
+NASLEDUJÚCI deň som cestoval vlakom pozdĺž vedľajšej železničnej trate do slovinskej stanice Zidani Most a neskôr som prestúpil na iný vlak smerujúci do Záhrebu. 
+NULL ({ 15 19 }) I ({ 3 }) TRAVELLED ({ }) the ({ }) next ({ }) day ({ }) on ({ }) a ({ }) train ({ }) along ({ 4 5 6 }) a ({ }) secondary ({ }) railway ({ 7 8 9 }) line ({ 10 }) to ({ }) Zidani ({ 11 12 13 14 }) Most ({ }) and ({ }) then ({ 16 }) changed ({ }) and ({ }) took ({ }) a ({ }) train ({ 17 18 20 21 22 }) to ({ }) Zagreb. ({ 1 2 23 24 }) 
+# Sentence pair (2) source length 19 target length 21 alignment score : 2.86858e-25
+V tom čase sa na hraniciach nepohybovali ešte žiadne hliadky. V skutočnosti som ani len netušil, kde sa tieto hranice nachádzajú. 
+NULL ({ 4 5 18 }) This ({ }) time, ({ 1 2 3 }) there ({ }) were ({ }) no ({ }) patrols ({ }) at ({ }) the ({ }) border; ({ 6 7 8 9 }) in ({ }) fact, ({ 10 11 12 }) I ({ 13 }) had ({ }) no ({ }) idea ({ 14 15 16 }) where ({ 17 }) the ({ }) border ({ 19 20 }) was. ({ 21 }) 
+# Sentence pair (3) source length 12 target length 12 alignment score : 2.80709e-17
+Zdalo sa, že preukazovanie "slovinskej sily" platilo iba na hlavnej železničnej trati. 
+NULL ({ 9 }) The ({ }) show ({ }) of ({ }) Slovenian ({ 1 2 3 }) strength ({ 4 }) was ({ }) for ({ }) the ({ }) mainline ({ }) only, ({ 5 6 7 8 10 }) it ({ }) seemed. ({ 11 12 }) 
+# Sentence pair (4) source length 17 target length 12 alignment score : 6.77565e-14
+Cestou som mal možnosť vidieť špicaté veže kostolov na vrchole zalesnených kopcov. 
+NULL ({ 9 }) Along ({ 1 }) the ({ }) way ({ }) I ({ 2 }) could ({ }) see ({ }) the ({ }) spiky ({ 3 4 5 }) spires ({ }) of ({ }) churches ({ 6 7 }) on ({ }) the ({ }) top ({ }) of ({ }) wooded ({ 8 }) hills. ({ 10 11 12 }) 
+# Sentence pair (5) source length 19 target length 17 alignment score : 2.26937e-23
+Minuli sme malé farmy s priľahlými stodolami, ktoré mali podobu obrovských počítadiel na sušenie sena a dreva. 
+NULL ({ 13 16 }) We ({ }) passed ({ 1 2 }) small ({ }) holdings ({ 3 4 }) with ({ 5 }) barns ({ 6 7 }) beside ({ }) them ({ }) in ({ }) the ({ }) shape ({ 8 }) of ({ }) oversized ({ }) abacuses ({ 11 12 }) for ({ }) drying ({ 9 10 }) hay ({ }) or ({ }) wood. ({ 14 15 17 }) 
+# Sentence pair (6) source length 21 target length 16 alignment score : 3.2308e-21
+Keď sme prechádzali cez jednotlivé stanice, výpravca, dokonale nastrojený, zakaždým vyšiel na nástupište, aby vypravil vlak. 
+NULL ({ 12 }) As ({ 1 2 }) we ({ }) passed ({ }) each ({ 3 }) station ({ 4 }) the ({ }) station ({ }) master ({ 5 6 }) would ({ }) walk ({ }) out ({ }) on ({ }) to ({ }) the ({ }) platform, ({ }) perfectly ({ }) dressed, ({ 7 8 }) and ({ }) salute ({ 9 10 11 }) the ({ }) train. ({ 13 14 15 16 }) 
+# Sentence pair (7) source length 19 target length 17 alignment score : 1.90153e-21
+V Záhrebe na stanici som si odložil batožinu a kúpil si lístok na nočný vlak do Viedne. 
+NULL ({ 9 13 }) In ({ 1 }) Zagreb ({ 2 3 4 }) I ({ 5 }) left ({ }) my ({ }) bags ({ 6 7 8 10 }) in ({ }) the ({ }) station ({ }) and ({ }) bought ({ }) a ({ }) ticket ({ 11 12 }) for ({ }) the ({ }) night ({ 14 }) train ({ }) to ({ }) Vienna. ({ 15 16 17 }) 
+# Sentence pair (8) source length 54 target length 44 alignment score : 3.9107e-64
+Vyšiel som na hlavné námestie, ktoré však v bežný pracovný večer vyzeralo o čosi inak. Námestie bolo rušnejšie, davy ľudí čakali na električky, vo všetkých obchodoch sa svietilo. Kaviarne na hornej strane námestia najbližšie pri katedrále sa teraz, keď práve nemrholilo, javili oveľa elegantnejšie. 
+NULL ({ 2 3 8 22 27 30 37 }) I ({ }) walked ({ }) up ({ }) to ({ }) the ({ }) main ({ }) square, ({ }) which ({ }) was ({ }) different ({ }) on ({ }) an ({ }) ordinary ({ 1 4 5 6 7 9 10 11 }) working ({ 12 13 14 }) evening: ({ 15 16 17 18 }) there ({ }) were ({ }) crowds ({ 19 20 }) of ({ }) people ({ }) waiting ({ 21 }) for ({ }) trams, ({ 23 24 }) it ({ }) was ({ }) busier, ({ 25 26 }) the ({ }) shops ({ 28 29 31 }) were ({ }) all ({ }) lit ({ 33 34 35 36 }) up, ({ }) and ({ }) the ({ }) cafes ({ 32 }) on ({ }) the ({ }) upper ({ }) side ({ }) of ({ }) the ({ }) square ({ }) nearest ({ 38 }) the ({ }) cathedral ({ }) seemed ({ }) more ({ }) elegant ({ }) now ({ }) that ({ }) it ({ }) was ({ }) not ({ }) drizzling. ({ 39 40 41 42 43 44 }) 
+# Sentence pair (9) source length 19 target length 13 alignment score : 2.33525e-16
+Strávil som niekoľko hodín potulovaním sa po námestí, ktoré budilo dojem malého mesta. 
+NULL ({ 6 }) I ({ }) spent ({ 1 2 3 }) a ({ }) couple ({ }) of ({ }) hours ({ 4 5 }) wandering ({ 7 8 }) around ({ }) the ({ }) square ({ 9 10 }) as ({ }) though ({ }) it ({ }) were ({ }) a ({ }) little ({ }) city ({ }) in ({ }) itself. ({ 11 12 13 }) 
+# Sentence pair (10) source length 41 target length 33 alignment score : 2.91394e-52
+Z času na čas dojem všednosti námestia, koniec-koncov aj samotného mesta, narušil príchod vojakov v uniformách. Statných, vážne sa tváriacich chlapíkov, ktorí sa prechádzali po námestí, hoci im vlastne nik iný nevenoval pozornosť. 
+NULL ({ 3 15 19 23 }) Every ({ 2 6 7 }) now ({ }) and ({ }) then ({ }) the ({ }) general ({ 4 5 }) sense ({ }) of ({ }) ordinariness, ({ 1 }) the ({ }) city ({ }) at ({ }) the ({ }) end ({ }) of ({ }) the ({ }) day, ({ }) was ({ }) disrupted ({ 21 22 24 }) by ({ }) the ({ }) appearance ({ 18 20 }) of ({ }) soldiers ({ 13 14 }) in ({ }) fatigues, ({ 16 17 }) big ({ }) serious-looking ({ 8 9 }) fellows ({ 10 11 12 }) crossing ({ 25 }) the ({ }) square, ({ 26 }) but ({ }) no ({ }) one ({ }) else ({ 27 28 29 30 31 }) paid ({ }) any ({ }) attention ({ 32 33 }) to ({ }) them. ({ }) 
+# Sentence pair (11) source length 33 target length 26 alignment score : 1.56879e-36
+V jednej kaviarničke som pozoroval, ako sa pri susednom stole zišli priatelia, pozdravili sa, znovu sa posadili a hľadeli na menu, zatiaľ čo debatovali s čašníčkou. 
+NULL ({ 4 7 16 18 20 }) In ({ 1 }) one ({ }) cafe, ({ 2 3 5 }) I ({ }) watched ({ }) as ({ 6 }) friends ({ }) arrived ({ }) at ({ }) the ({ }) neighbouring ({ 8 9 10 11 12 }) table ({ }) and ({ }) there ({ }) was ({ }) the ({ }) ceremony ({ 13 }) of ({ }) greeting ({ 14 15 17 }) and ({ }) sitting ({ }) down ({ }) again ({ }) and ({ }) looking ({ }) at ({ }) the ({ }) menu ({ 19 21 22 }) and ({ }) talking ({ 23 }) to ({ }) the ({ }) waitress. ({ 24 25 26 }) 
+# Sentence pair (12) source length 18 target length 18 alignment score : 4.75892e-27
+Mal som pocit, že títo ľudia nemali núdzu o peniaze a takýmito posedeniami si chvíle krátili veľmi často. 
+NULL ({ 2 4 11 }) A ({ 1 }) feeling ({ 3 5 6 7 }) that ({ }) these ({ }) people ({ }) had ({ }) money ({ 8 9 10 12 13 }) and ({ }) had ({ }) been ({ }) doing ({ }) this ({ }) sort ({ }) of ({ }) thing ({ 14 }) all ({ }) their ({ }) lives. ({ 15 16 17 18 }) 
+# Sentence pair (13) source length 24 target length 17 alignment score : 2.71797e-23
+Z okna kaviarne som sledoval, ako sa zhon na námestí utíšil a ponoril sa do ticha noci. 
+NULL ({ 7 9 12 }) I ({ }) watched ({ }) from ({ }) the ({ }) plate-glass ({ }) window ({ 1 2 3 }) of ({ }) a ({ }) cafe ({ 4 5 }) as ({ 6 }) the ({ }) rush ({ 8 10 11 }) in ({ }) the ({ }) square ({ }) slowed ({ 13 }) down ({ 14 }) and ({ }) settled ({ 15 }) into ({ }) silence ({ 16 17 }) for ({ }) the ({ }) evening. ({ }) 
+# Sentence pair (14) source length 31 target length 22 alignment score : 2.91947e-30
+Mnoho zúbožených ľudí sa nečinne potĺkalo chodbami železničnej stanice, jediným miestom v meste, kde ste sa mohli zohriať, ak ste nemali peniaze. 
+NULL ({ 4 12 16 }) There ({ }) were ({ }) a ({ }) lot ({ }) of ({ }) desolate-looking ({ }) people ({ }) hanging ({ 1 2 3 5 }) around ({ }) the ({ }) corridors ({ 6 7 8 }) of ({ }) the ({ }) railway ({ }) station, ({ 9 10 11 13 }) the ({ }) only ({ }) place ({ }) where ({ 14 }) you ({ }) could ({ }) keep ({ 15 }) warm ({ 17 18 }) in ({ }) the ({ }) city ({ }) if ({ }) you ({ 19 20 }) had ({ }) no ({ }) money. ({ 21 22 }) 
+# Sentence pair (15) source length 15 target length 12 alignment score : 1.06559e-16
+Pozoroval som jedného z nich, asi štyridsaťročného muža, ktorý zablúdil k baru. 
+NULL ({ }) I ({ }) watched ({ 1 2 3 4 }) as ({ }) one ({ }) of ({ }) them, ({ 5 6 7 }) a ({ }) man ({ }) in ({ }) his ({ }) forties, ({ }) strayed ({ 8 9 10 11 }) into ({ }) the ({ }) bar. ({ 12 }) 
+# Sentence pair (16) source length 26 target length 24 alignment score : 2.10835e-29
+Chorvátsky vojak sa k nemu pomaly priblížil, na pobavenie svojich kolegov ho chytil za ramená a veľmi hrubým spôsobom ho nasmeroval späť na chodbu. 
+NULL ({ 3 8 16 23 }) A ({ }) Croatian ({ 1 2 }) soldier ({ 4 5 6 7 }) moved ({ }) slowly ({ }) towards ({ }) him, ({ }) to ({ }) the ({ }) amusement ({ }) of ({ }) his ({ }) colleagues, ({ 9 }) ceremoniously ({ 10 }) caught ({ 11 12 }) him ({ }) by ({ }) the ({ }) shoulders ({ 13 14 15 }) and ({ }) steered ({ 17 18 19 }) him ({ 20 }) back ({ }) to ({ }) the ({ }) corridor. ({ 21 22 24 }) 
+# Sentence pair (17) source length 33 target length 30 alignment score : 3.76744e-41
+Na hranici medzi Chorvátskom a Rakúskom strážnik otvoril dvere na mojom kupé v spacom vozni, zasvietil mi baterkou do tváre a spýtal sa ma, či mám nejakú whisky alebo cigarety. 
+NULL ({ 5 10 13 21 23 }) At ({ 1 2 }) the ({ }) border ({ }) between ({ 3 }) Croatia ({ 4 }) and ({ }) Austria, ({ }) a ({ }) guard ({ 6 7 8 }) opened ({ }) the ({ }) door ({ }) of ({ }) my ({ }) sleeping ({ 9 11 }) cabin ({ 12 }) and ({ }) shone ({ }) a ({ }) torch ({ 14 15 16 }) in ({ }) my ({ }) face ({ }) and ({ }) asked ({ }) me ({ 17 }) if ({ }) l ({ 18 19 20 22 24 }) had ({ }) any ({ }) whisky ({ 25 26 27 28 }) or ({ 29 }) cigarettes. ({ 30 }) 
+# Sentence pair (18) source length 6 target length 4 alignment score : 2.50624e-06
+Odpovedal som, že nie. 
+NULL ({ }) I ({ }) told ({ }) him ({ }) I ({ }) did ({ }) not. ({ 1 2 3 4 }) 
+# Sentence pair (19) source length 8 target length 6 alignment score : 5.82571e-09
+Ďalší strážnik chcel vidieť môj pas. 
+NULL ({ }) The ({ }) next ({ }) guard ({ }) wanted ({ }) to ({ }) see ({ }) my ({ }) passport. ({ 1 2 3 4 5 6 }) 
+# Sentence pair (20) source length 19 target length 14 alignment score : 2.91458e-17
+Opäť som zaspal a neskôr, keď som sa prebudil, vlak už vchádzal do Viedne. 
+NULL ({ 4 8 }) I ({ }) fell ({ 1 2 3 }) asleep ({ 5 6 }) again ({ }) and ({ }) the ({ }) next ({ }) time ({ }) I ({ 7 }) woke ({ 9 }) up ({ }) the ({ }) train ({ 10 }) was ({ }) about ({ }) to ({ }) arrive ({ 11 12 }) in ({ }) Vienna. ({ 13 14 }) 
+# Sentence pair (21) source length 15 target length 15 alignment score : 6.07186e-19
+V priebehu pol hodiny som si zistil spoj do Bratislavy a pricestoval tam okolo poludnia. 
+NULL ({ 11 }) Within ({ 1 2 3 }) half ({ 4 }) an ({ }) hour ({ }) I ({ 5 }) found ({ 6 }) a ({ }) connection ({ 7 8 9 10 }) to ({ }) Bratislava ({ }) and ({ }) arrived ({ }) there ({ }) around ({ }) midday. ({ 12 13 14 15 }) 
+# Sentence pair (22) source length 8 target length 4 alignment score : 3.48717e-06
+Práve bol Veľký piatok. 
+NULL ({ }) It ({ }) was ({ }) now ({ }) the ({ }) Friday ({ }) of ({ }) Easter ({ }) week. ({ 1 2 3 4 }) 
+# Sentence pair (23) source length 31 target length 24 alignment score : 6.01625e-30
+Rezervoval som si hotel s výhľadom na Dunaj a zavolal mužovi menom Juraj Mihálik, ktorého mi odporučili ako odborníka na nedávne udalosti na Slovensku. 
+NULL ({ 9 20 }) I ({ }) booked ({ 1 2 }) into ({ }) a ({ }) hotel ({ 3 }) overlooking ({ 4 5 6 7 }) the ({ }) Danube ({ 8 }) and ({ }) rang ({ }) a ({ }) man ({ }) called ({ }) Juraj ({ }) Mihalik ({ 10 11 12 13 }) whose ({ }) name ({ }) I ({ }) had ({ }) been ({ }) given ({ 14 15 16 17 }) as ({ 18 }) a ({ }) good ({ }) guide ({ 19 }) to ({ }) the ({ }) recent ({ }) changes ({ 21 22 }) in ({ }) Slovakia. ({ 23 24 }) 
+# Sentence pair (24) source length 37 target length 33 alignment score : 2.00651e-55
+Pri prechádzke Bratislavou som si uvedomil, že sa ako hlavné mesto nedá s Prahou ani porovnať, s čím sa nový štát mohol len ťažko vyrovnať. Cudzinci by ju okamžite začali porovnávať s Českom. 
+NULL ({ 8 19 }) As ({ }) I ({ }) walked ({ }) around ({ }) Bratislava ({ }) I ({ 4 }) realised ({ 5 6 }) that ({ 7 }) it ({ }) did ({ }) not ({ }) match ({ 10 11 12 }) Prague ({ }) as ({ 9 }) a ({ }) capital ({ }) city, ({ }) which ({ }) must ({ }) be ({ }) difficult ({ }) for ({ }) the ({ }) new ({ }) state: ({ 1 2 3 }) everyone ({ 16 17 }) from ({ }) outside ({ 13 14 15 }) would ({ 27 }) immediately ({ 28 29 30 }) start ({ 31 32 33 }) comparing ({ 26 }) it ({ }) to ({ }) the ({ }) Czech ({ }) Republic. ({ 18 20 21 22 23 24 25 }) 
+# Sentence pair (25) source length 41 target length 33 alignment score : 3.57035e-46
+Niektoré zo starších budov sa vypínali majestátne a dôstojne, no zdalo sa, že renovácia prebiehala azda na každej ulici, takže bolo ťažké pozorovať mesto bez toho, aby ste si nevšimli miešačky či nákladiaky. 
+NULL ({ 5 8 17 }) Some ({ 1 2 3 4 }) of ({ }) the ({ }) old ({ }) buildings ({ }) were ({ }) stately ({ 6 7 9 }) and ({ }) dignified, ({ }) but ({ 10 }) there ({ }) seemed ({ 11 12 13 }) to ({ }) be ({ }) restoration ({ 14 15 16 18 }) and ({ }) reconstruction ({ }) going ({ }) on ({ }) in ({ }) every ({ 19 }) street ({ }) so ({ }) that ({ }) it ({ }) was ({ }) hard ({ }) to ({ }) look ({ 20 21 22 23 }) at ({ }) the ({ }) city ({ }) as ({ }) you ({ }) walked ({ 24 }) around ({ 28 29 }) without ({ 25 26 27 }) seeing ({ }) cement-mixers ({ 30 }) and ({ }) lorries. ({ 31 32 33 }) 
+# Sentence pair (26) source length 57 target length 46 alignment score : 2.82268e-71
+Vybral som sa do národnej galérie a pokúšal sa nemyslieť na tú pražskú, vypínajúcu sa na kopci v celej svojej vznešenosti. Táto skromná malá budova v provinčnom meste na Dunaji, ktoré sa náhle a nečakane stalo hlavným mestom nového štátu, sa jej totiž vonkoncom nemohla rovnať. 
+NULL ({ 7 9 11 15 16 29 32 34 41 }) I ({ }) went ({ }) into ({ }) the ({ }) new ({ }) national ({ 1 }) gallery, ({ }) and ({ }) I ({ 2 }) tried ({ 3 }) to ({ 4 }) stop ({ 5 6 8 10 }) myself ({ }) thinking ({ }) of ({ }) the ({ }) national ({ }) gallery ({ 12 13 14 17 }) in ({ 18 }) Prague ({ }) up ({ }) on ({ }) the ({ }) hill, ({ }) the ({ }) sheer ({ 19 20 21 }) grandeur ({ 22 23 24 }) of ({ }) it, ({ }) as ({ }) against ({ }) the ({ }) modesty ({ 25 }) of ({ }) this ({ }) small ({ 26 }) building ({ }) in ({ }) a ({ }) provincial ({ 27 28 30 33 }) capital ({ 35 36 37 38 }) on ({ }) the ({ }) Danube ({ }) which ({ }) had ({ }) suddenly ({ 31 }) and ({ }) unexpectedly ({ 44 45 46 }) become ({ }) the ({ }) capital ({ }) city ({ }) of ({ }) a ({ }) new ({ 39 40 42 43 }) state. ({ }) 
+# Sentence pair (27) source length 56 target length 40 alignment score : 4.01376e-64
+V blízkosti hotela stála ďalšia galéria, zrejme zrekonštruovaná v 60. rokoch 19. storočia. Pôvodne tam bola budova z 18. storočia s výhľadom na rieku, ku ktorej bolo pristavené obrovské monštrum pripomínajúce letiskovú chodbu medzi terminálmi. Prepájala horné poschodie dvoch krídel. 
+NULL ({ 9 23 }) Close ({ 10 11 12 13 14 }) to ({ }) my ({ }) hotel ({ }) was ({ }) another ({ 15 }) gallery, ({ 16 17 }) which ({ }) had ({ }) obviously ({ }) been ({ }) restored ({ }) inthe ({ }) 196os: ({ 1 }) originally, ({ 2 3 4 5 6 7 8 }) there ({ }) was ({ }) an ({ }) eighteenth-century ({ }) building ({ }) overlooking ({ 21 22 }) the ({ }) river ({ 24 25 26 }) to ({ }) which ({ }) had ({ }) been ({ 18 }) added ({ }) a ({ }) huge ({ }) monstrosity ({ 19 }) like ({ }) the ({ }) sort ({ }) of ({ }) corridor ({ 20 }) which ({ }) gets ({ }) you ({ }) from ({ }) one ({ }) terminal ({ 27 }) to ({ }) another ({ }) in ({ }) an ({ }) airport; ({ }) this ({ }) linked ({ }) the ({ }) upper ({ }) storeys ({ 28 29 30 31 }) of ({ }) the ({ }) two ({ }) wings. ({ 32 33 34 35 36 37 38 39 40 }) 
+# Sentence pair (28) source length 12 target length 7 alignment score : 1.14057e-10
+Stála vonku samobytne ako časť intervenčnej architektúry. 
+NULL ({ }) It ({ }) was ({ }) out ({ }) on ({ }) its ({ }) own ({ }) as ({ }) a ({ }) piece ({ 2 }) of ({ }) interventionist ({ 3 4 5 6 }) architecture. ({ 1 7 }) 
+# Sentence pair (29) source length 26 target length 25 alignment score : 1.97118e-36
+V ten večer som si zobral taxík k bytu Juraja Mihálika, ktorý sa nachádzal neďaleko centra mesta na kopci vo veľkom dome s nedokončenou fasádou. 
+NULL ({ 13 18 }) That ({ }) evening ({ 1 2 3 }) I ({ 4 }) took ({ }) a ({ 5 }) taxi ({ 6 7 8 }) to ({ }) Juraj ({ }) Mihalik's ({ 9 10 }) apartment, ({ 11 12 14 15 }) which ({ }) was ({ }) in ({ }) a ({ }) large ({ 24 25 }) cement-faced ({ 16 17 19 20 21 }) house ({ 22 23 }) on ({ }) a ({ }) hill ({ }) not ({ }) far ({ }) from ({ }) the ({ }) city ({ }) centre. ({ }) 
+# Sentence pair (30) source length 11 target length 8 alignment score : 9.68498e-11
+Juraj bol priateľský, uvoľnený a otvorený čerstvý štyridsiatnik. 
+NULL ({ 5 }) He ({ }) was ({ }) in ({ }) his ({ }) early ({ }) forties, ({ }) a ({ }) friendly, ({ }) relaxed, ({ 1 2 3 }) open-faced ({ 4 6 }) character. ({ 7 8 }) 
+# Sentence pair (31) source length 39 target length 31 alignment score : 1.27899e-44
+Hlavná izba v byte bola jednou z tých miestností, ktorú máte možnosť vidieť iba v cudzích mestách: tajomný, lampou osvetlený priestor s bielymi stenami plnými obrazov, kde sa zvyčajne cítite dobre. 
+NULL ({ 3 15 28 }) The ({ }) main ({ }) room ({ 1 2 4 5 6 }) of ({ 7 }) his ({ }) apartment ({ }) was ({ }) one ({ }) of ({ }) those ({ }) rooms ({ 8 }) that ({ }) you ({ }) catch ({ 9 10 11 }) a ({ }) glimpse ({ }) of ({ }) in ({ }) foreign ({ }) cities: ({ 12 13 14 }) full ({ }) of ({ }) shadowy, ({ 16 17 18 19 }) lamp-lit ({ 20 }) spaces, ({ }) walls ({ }) painted ({ 21 22 }) white, ({ 23 24 25 26 }) paintings ({ }) and ({ }) a ({ }) sense ({ }) of ({ }) people ({ }) at ({ }) ease ({ 27 29 30 31 }) in ({ }) the ({ }) evening. ({ }) 
+# Sentence pair (32) source length 17 target length 13 alignment score : 6.40184e-16
+V izbe pobehovala bosá Jurajova žena Táňa, oblečená v rifliach a voľnom tričku. 
+NULL ({ 11 }) Juraj ({ }) 's ({ }) wife, ({ 1 2 3 }) Tana, ({ 4 5 6 7 }) was ({ }) in ({ }) the ({ }) room, ({ 8 }) wearing ({ }) jeans ({ 9 }) and ({ }) a ({ }) loose ({ 10 }) top ({ }) and ({ }) no ({ }) shoes. ({ 12 13 }) 
+# Sentence pair (33) source length 27 target length 18 alignment score : 5.64392e-26
+Obaja vyzerali zdravo, nebolo na nich badať ani kilo navyše. Pokojne by mohli byť Američanmi žijúcimi na Manhattane. 
+NULL ({ 5 17 }) They ({ }) both ({ }) exuded ({ }) physical ({ }) wellbeing; ({ 1 2 3 4 }) there ({ }) was ({ }) not ({ }) an ({ }) ounce ({ 6 7 8 }) of ({ }) spare ({ 9 }) flesh ({ 10 11 12 13 14 }) on ({ }) either ({ }) of ({ }) them; ({ }) they ({ }) could ({ }) have ({ }) been ({ }) Americans ({ }) in ({ }) an ({ }) apartment ({ }) in ({ }) Manhattan. ({ 15 16 18 }) 
+# Sentence pair (34) source length 7 target length 7 alignment score : 1.09731e-09
+Napili sme sa a sadli sme si. 
+NULL ({ 3 4 }) We ({ }) had ({ }) a ({ }) drink ({ 1 }) and ({ }) sat ({ }) down. ({ 2 5 6 7 }) 
+# Sentence pair (35) source length 15 target length 13 alignment score : 1.53496e-16
+Prechádzajúc sa hore-dole, Juraj začal rozprávať o slovenskej histórii a nedávnych politických prevratoch. 
+NULL ({ 2 10 }) Juraj ({ }) began ({ 1 }) to ({ }) talk, ({ 3 4 5 }) moving ({ }) back ({ }) and ({ }) forth ({ 6 7 8 }) over ({ }) Slovakian ({ }) history ({ 9 }) and ({ }) recent ({ }) political ({ }) upheavals. ({ 11 12 13 }) 
+# Sentence pair (36) source length 14 target length 12 alignment score : 1.85999e-14
+Táňa ho občas prerušila, aby ho doplnila, alebo sa k niečomu vyjadrila. 
+NULL ({ 9 }) Tana ({ 1 }) interrupted ({ 2 3 4 5 }) him ({ }) often, ({ }) making ({ }) him ({ }) explain ({ 6 }) things ({ }) in ({ }) more ({ }) detail, ({ 7 }) or ({ 8 }) adding ({ }) comments. ({ 10 11 12 }) 
+# Sentence pair (37) source length 16 target length 18 alignment score : 3.9071e-27
+V prvom rade som chcel vedieť ich názory na to, čo sa stalo na Slovensku v priebehu vojny. 
+NULL ({ 12 14 16 }) I ({ 4 }) wanted ({ 5 6 }) to ({ }) know ({ 1 2 3 }) their ({ 7 }) views ({ 8 }) first ({ 9 }) on ({ }) what ({ 10 11 }) had ({ }) happened ({ }) in ({ }) Slovakia ({ }) during ({ 13 15 }) the ({ }) war. ({ 17 18 }) 
+# Sentence pair (38) source length 14 target length 13 alignment score : 1.0107e-17
+Neviem, prečo som sa domnieval, že toto bolo tá správna téma na začiatok. 
+NULL ({ 4 12 }) I ({ }) don't ({ 1 2 }) know ({ }) why ({ }) I ({ 3 }) believed ({ 5 }) that ({ 6 }) this ({ }) was ({ }) a ({ }) good ({ }) place ({ }) to ({ }) start. ({ 7 8 9 10 11 13 }) 
+# Sentence pair (39) source length 10 target length 8 alignment score : 1.62349e-10
+Slovensko bolo viac-menej na Hitlerovej strane, povedal Juraj. 
+NULL ({ 4 }) Slovakia ({ 1 }) was ({ }) more ({ }) or ({ }) less ({ 2 3 }) on ({ }) Hitler's ({ }) side, ({ 5 6 7 }) Juraj ({ }) said. ({ 8 }) 
+# Sentence pair (40) source length 38 target length 28 alignment score : 5.56668e-35
+Československo vzniklo po prvej svetovej vojne, no odvtedy, čo Česká republika zbohatla, Slovensko bolo vždy považované za jej mladšieho východného brata. Po celý čas medzi nimi vládlo napätie. 
+NULL ({ }) The ({ }) state ({ }) of ({ }) Czechoslovakia ({ }) was ({ }) created ({ 1 2 }) after ({ 3 }) the ({ }) First ({ 4 }) World ({ 5 }) War, ({ 6 }) but ({ }) since ({ }) the ({ }) Czech ({ }) Republic ({ 7 8 9 10 }) was ({ }) richer, ({ 11 12 }) Slovakia ({ 13 }) was ({ }) always ({ 14 15 }) treated ({ }) as ({ }) its ({ }) little ({ }) brother ({ 16 17 18 19 }) to ({ }) the ({ }) east; ({ 20 21 22 }) there ({ }) was ({ }) tension ({ 23 24 }) between ({ 25 }) the ({ }) two ({ }) all ({ }) the ({ }) time. ({ 26 27 28 }) 
+# Sentence pair (41) source length 24 target length 18 alignment score : 1.65088e-23
+Slovensko sa chopilo historickej šance počas druhej svetovej vojny, čím na seba vzalo rolu bábkového štátu pre Hitlera. 
+NULL ({ 2 11 }) Slovakia ({ 1 }) took ({ }) its ({ }) historical ({ 3 4 5 }) chance ({ }) in ({ }) the ({ }) Second ({ 6 7 }) World ({ 8 }) War, ({ 9 }) he ({ }) said, ({ }) and ({ }) agreed ({ }) to ({ }) play ({ 10 12 13 14 }) the ({ }) role ({ }) of ({ }) a ({ }) puppet ({ 15 16 17 }) state ({ }) for ({ }) Hitler. ({ 18 }) 
+# Sentence pair (42) source length 14 target length 12 alignment score : 1.42708e-15
+Bolo voľným a zároveň fašistickým štátom s katolíckym kňazom na poste prezidenta. 
+NULL ({ 3 10 }) It ({ 1 }) was ({ }) a ({ }) free ({ }) state, ({ 2 }) a ({ }) fascistic ({ 4 }) state, ({ 5 6 }) with ({ 7 }) a ({ }) Catholic ({ }) priest ({ 8 9 }) for ({ }) president. ({ 11 12 }) 
+# Sentence pair (43) source length 33 target length 28 alignment score : 9.69204e-43
+Už v prvých rokoch vojny násilne vysťahovali do Poľska šesťdesiattisíc Židov, s čím skončili až v neskorších rokoch. Po čase vyšlo najavo, že ich deportovali do vyhladzovacích táborov. 
+NULL ({ 2 16 23 }) Sixty ({ 1 }) thousand ({ }) Jews ({ }) were ({ }) deported ({ }) to ({ }) Poland ({ 3 }) in ({ }) the ({ }) first ({ }) years ({ 4 }) of ({ }) the ({ }) war, ({ 5 }) but ({ }) deportations ({ 6 7 8 9 10 11 }) were ({ }) stopped ({ }) in ({ }) the ({ }) later ({ }) years, ({ }) once ({ }) it ({ }) became ({ }) clear ({ }) that ({ }) they ({ }) were ({ }) being ({ 12 }) deported ({ 13 14 15 17 18 19 }) to ({ }) death-camps. ({ 20 21 22 24 25 26 27 28 }) 
+# Sentence pair (44) source length 11 target length 9 alignment score : 1.47724e-11
+Slovensko však zavádzalo rovnaké zákony proti Židom ako Nemecko. 
+NULL ({ }) But ({ }) Slovakia ({ 1 }) had ({ }) the ({ }) same ({ }) laws ({ 2 3 4 5 }) against ({ 6 }) Jews ({ 7 }) as ({ }) did ({ }) Germany. ({ 8 9 }) 
+# Sentence pair (45) source length 22 target length 16 alignment score : 3.18331e-21
+Na Slovensku sa nebojovalo až do skončenia hlavnej časti vojny, kedy krajinu oslobodili Američania s Rusmi. 
+NULL ({ 3 }) There ({ 1 }) was ({ }) no ({ }) war ({ }) in ({ }) Slovakia ({ }) until ({ 2 4 5 }) the ({ }) main ({ 6 7 8 }) war ({ }) was ({ }) over; ({ 9 10 11 }) the ({ }) country ({ }) was ({ }) liberated ({ 12 }) by ({ }) the ({ }) Americans ({ }) and ({ }) the ({ }) Russians. ({ 13 14 15 16 }) 
+# Sentence pair (46) source length 32 target length 29 alignment score : 1.03631e-37
+Fašistické obdobie v 50. rokoch 19. storočia zostalo na školách celkom bez povšimnutia. Učitelia namiesto toho sústredili svoju pozornosť na povstanie, ktoré prebiehalo po vojne, a na hrdinstvo komunistov. 
+NULL ({ 3 9 26 27 }) In ({ }) school, ({ }) in ({ }) the ({ }) 1950s, ({ }) the ({ }) fascist ({ 1 }) period ({ 2 }) in ({ }) Slovakia's ({ 4 5 6 7 8 10 }) history ({ }) was ({ }) completely ({ 11 12 }) ignored; ({ 13 14 15 }) instead, ({ 16 }) teachers ({ }) concentrated ({ 17 18 19 }) on ({ }) the ({ }) uprising ({ 20 }) at ({ }) the ({ }) end ({ }) of ({ }) the ({ }) war ({ }) and ({ }) the ({ }) heroism ({ 21 22 23 24 }) of ({ }) the ({ }) communists. ({ 25 28 29 }) 
+# Sentence pair (47) source length 35 target length 34 alignment score : 1.67927e-52
+Navštevovanie kostola nebolo v tom čase nelegálne, povedal Juraj, ale ak ste išli na omšu, dostali ste sa do vážnych problémov. Mohli ste prísť o prácu a vašim deťom znemožniť štúdium na strednej škole. 
+NULL ({ 4 14 18 27 32 }) It ({ }) was ({ }) not ({ }) illegal ({ 1 2 3 }) to ({ }) go ({ 19 }) to ({ }) church ({ }) then, ({ 20 21 22 }) Juraj ({ }) said, ({ }) but ({ }) if ({ }) you ({ }) went ({ }) you ({ }) were ({ }) in ({ }) serious ({ }) trouble, ({ 13 15 16 }) you ({ 10 11 12 17 }) could ({ }) lose ({ 5 }) your ({ }) job, ({ 6 7 8 9 }) your ({ 23 24 25 }) children ({ 26 }) would ({ }) not ({ }) be ({ }) asked ({ }) to ({ }) attend ({ 28 29 30 31 }) secondary ({ }) school. ({ 33 34 }) 
+# Sentence pair (48) source length 22 target length 19 alignment score : 1.77932e-25
+V tom čase navštevovali kostol starší ľudia, dôchodcovia a robotníci, ktorí mali zlú prácu, pretože už nemali čo stratiť. 
+NULL ({ 9 }) In ({ 1 }) the ({ }) 1950s ({ 2 3 4 }) older ({ 5 }) people, ({ }) retired ({ 6 7 8 }) people ({ }) and ({ }) workers ({ 10 }) who ({ 11 }) had ({ }) bad ({ 12 13 14 }) jobs ({ }) went ({ }) to ({ }) church, ({ }) people ({ }) who ({ }) had ({ }) nothing ({ }) to ({ }) lose. ({ 15 16 17 18 19 }) 
+# Sentence pair (49) source length 20 target length 19 alignment score : 2.27703e-27
+Juraj mi povedal, že režim sa snažil ovplyvniť cirkev: zatiaľ čo niektorí kňazi spolupracovali s režimom, ostatní ho odmietali. 
+NULL ({ 6 }) The ({ }) regime, ({ 1 2 3 4 5 7 8 9 }) he ({ }) told ({ }) me, ({ 10 11 }) tried ({ }) to ({ }) influence ({ }) the ({ }) church, ({ }) and ({ }) priests ({ 12 13 }) collaborated ({ 14 }) with ({ 15 }) the ({ }) regime ({ 16 17 18 }) while ({ 19 }) others ({ }) did ({ }) not. ({ }) 
+# Sentence pair (50) source length 20 target length 17 alignment score : 8.17664e-21
+Hoci sa Juraj prvého prijímania nezúčastnil, iní tak urobili. Mnohí odchádzali do dedín a prijali ho tajne. 
+NULL ({ 2 14 }) He ({ }) himself ({ 1 }) did ({ }) not ({ }) make ({ 3 }) his ({ }) first ({ }) communion ({ 4 5 6 7 }) but ({ }) others ({ }) did; ({ 8 9 10 11 }) many ({ }) went ({ }) out ({ }) to ({ }) villages ({ 12 13 }) and ({ }) did ({ }) it ({ }) secretly. ({ 15 16 17 }) 
+# Sentence pair (51) source length 18 target length 12 alignment score : 4.61075e-16
+V roku 1971 sa vydávala jeho sestra v malom kostolíku na dedinke. 
+NULL ({ 4 }) In ({ 1 }) 1971 ({ 2 3 5 }) his ({ }) own ({ }) sister ({ }) got ({ }) married ({ }) and ({ }) had ({ }) a ({ }) wedding ({ 6 7 }) in ({ }) a ({ }) church ({ }) in ({ }) a ({ }) small ({ 8 }) village. ({ 9 10 11 12 }) 
+# Sentence pair (52) source length 22 target length 22 alignment score : 1.64853e-29
+Pražskú jar viedol Dubček, Slovák hovoriaci po slovensky, na rozdiel od iných ľudí, ktorí prišli do Prahy a hovorili iba po česky. 
+NULL ({ 9 18 }) The ({ }) Prague ({ }) Spring ({ 1 2 3 }) was ({ }) led ({ }) by ({ }) Dubcek, ({ 4 5 6 }) a ({ }) Slovak ({ }) who ({ }) spoke ({ 7 }) Slovakian, ({ 8 10 11 12 13 }) unlike ({ 14 15 }) others ({ }) who ({ }) went ({ 16 }) to ({ }) Prague ({ }) and ({ }) spoke ({ }) only ({ }) Czech. ({ 17 19 20 21 22 }) 
+# Sentence pair (53) source length 20 target length 11 alignment score : 1.05438e-15
+Neskôr spoznal Dubčeka a obdivoval jeho zmysel pre spravodlivosť a humor. 
+NULL ({ 4 10 }) Later, ({ 1 }) he ({ }) would ({ }) get ({ }) to ({ }) know ({ }) Dubcek ({ }) and ({ }) admire ({ 2 3 5 }) him ({ }) for ({ }) his ({ }) sense ({ 6 }) of ({ }) justice ({ }) and ({ }) his ({ }) sense ({ 7 }) of ({ }) humour. ({ 8 9 11 }) 
+# Sentence pair (54) source length 23 target length 22 alignment score : 3.59176e-26
+Ale myšlienka, že by mal jedného dňa cestovať do Washingtonu s Dubčekom, sa zdala byť v temných rokoch po Pražskej jari nepredstaviteľná. 
+NULL ({ 13 16 }) But ({ 1 2 }) the ({ }) idea ({ }) that ({ 3 }) he ({ }) would ({ 4 }) travel ({ 5 6 7 8 }) one ({ }) day ({ }) to ({ }) Washington ({ 9 10 }) with ({ 11 }) Dubcek ({ 12 }) was ({ }) unimaginable ({ 14 15 }) in ({ }) the ({ }) dark ({ 17 }) years ({ 18 }) after ({ 19 }) the ({ }) Prague ({ }) Spring. ({ 20 21 22 }) 
+# Sentence pair (55) source length 12 target length 8 alignment score : 1.12612e-09
+Vždy bolo ťažké byť Slovákom vo federácii, poznamenal. 
+NULL ({ }) It ({ }) was ({ }) always ({ 1 2 }) difficult ({ 3 4 }) being ({ }) a ({ }) Slovak ({ }) in ({ }) the ({ }) federation, ({ 5 6 7 8 }) he ({ }) said. ({ }) 
+# Sentence pair (56) source length 13 target length 14 alignment score : 1.40976e-16
+Ktokoľvek, kto sa v Bratislave usiloval zlepšiť svoje kariérne vyhliadky, sa odsťahoval do Prahy. 
+NULL ({ 3 11 }) Anyone ({ 1 2 }) in ({ 4 }) Bratislava ({ 5 }) who ({ }) wanted ({ }) to ({ }) improve ({ 6 7 }) their ({ }) career ({ 8 }) prospects ({ 9 10 }) moved ({ }) to ({ }) Prague. ({ 12 13 14 }) 
+# Sentence pair (57) source length 14 target length 9 alignment score : 4.11203e-14
+Iba asi štyri percentá Slovákov pracovalo v diplomatických službách. 
+NULL ({ 7 }) Only ({ 1 2 3 }) about ({ }) 4 ({ 4 5 6 }) per ({ }) cent ({ }) of ({ }) those ({ }) working ({ }) in ({ }) the ({ }) diplomatic ({ 8 }) service ({ }) were ({ }) Slovaks. ({ 9 }) 
+# Sentence pair (58) source length 14 target length 13 alignment score : 1.28654e-16
+Sám Juraj mal v Prahe dobrých priateľov, ktorých spájal spoločný problém – komunizmus. 
+NULL ({ 4 }) Juraj ({ }) himself ({ 1 2 }) had ({ }) good ({ 3 }) friends ({ }) in ({ }) Prague: ({ 5 6 7 }) they ({ }) had ({ }) a ({ }) common ({ }) problem ({ 8 9 10 11 }) - ({ }) communism. ({ 12 13 }) 
+# Sentence pair (59) source length 22 target length 15 alignment score : 2.67899e-28
+Ruská invázia si vyžiadala "iba" asi sedemdesiat obetí, pričom bezprostredne po tomto čine nikoho neodsúdili. 
+NULL ({ }) There ({ }) were ({ }) only ({ }) about ({ }) seventy ({ }) people ({ }) killed ({ 6 7 }) during ({ }) the ({ }) Russian ({ 4 5 8 }) invasion, ({ 9 10 }) and ({ }) in ({ }) the ({ }) immediate ({ }) aftermath ({ 1 2 3 }) people ({ }) were ({ }) not ({ }) sent ({ 11 12 13 14 }) to ({ }) prison. ({ 15 }) 
+# Sentence pair (60) source length 7 target length 8 alignment score : 1.46445e-09
+Tieto udalosti sa diali postupne, krok za krokom. 
+NULL ({ 3 }) Things ({ 1 2 }) were ({ }) done ({ }) slowly ({ 4 }) step ({ 5 }) by ({ }) step. ({ 6 7 8 }) 
+# Sentence pair (61) source length 22 target length 21 alignment score : 4.21672e-28
+Vzhľadom k tomu, že Jurajovi rodičia neboli komunistami, nemohol študovať na umeleckej škole v Československu. Namiesto toho získal miesto v Krakove. 
+NULL ({ 11 20 }) Since ({ 1 2 3 }) Juraj's ({ }) parents ({ 4 5 6 }) were ({ }) not ({ }) communists ({ 7 }) he ({ }) could ({ }) not ({ }) get ({ }) into ({ }) art ({ 8 9 10 12 13 }) school ({ }) in ({ }) Czechoslovakia; ({ 14 15 }) instead, ({ 16 17 }) he ({ }) got ({ 18 19 }) a ({ }) place ({ }) in ({ }) Krakow. ({ 21 }) 
+# Sentence pair (62) source length 13 target length 11 alignment score : 3.67187e-13
+V roku 1975 ho pozvala rodina na návštevu do Spojených štátov. 
+NULL ({ 7 }) In ({ 1 }) 1975 ({ 2 3 4 }) he ({ }) was ({ }) invited ({ 5 6 }) by ({ }) a ({ }) family ({ }) to ({ }) visit ({ 8 }) the ({ }) United ({ }) States. ({ 9 10 11 }) 
+# Sentence pair (63) source length 16 target length 14 alignment score : 3.72257e-18
+Vždy sa naskytla príležitosť získať výjazdné vízum, hoci, ako podotkol, urobil tak len málokto. 
+NULL ({ 2 }) It ({ }) was ({ }) always ({ 1 }) possible, ({ 3 4 5 6 }) he ({ }) said, ({ }) to ({ }) get ({ }) an ({ }) exit ({ 7 8 9 }) visa, ({ 10 11 12 }) even ({ }) though ({ }) very ({ }) few ({ }) did. ({ 13 14 }) 
+# Sentence pair (64) source length 4 target length 3 alignment score : 0.000467453
+Miloval New York. 
+NULL ({ }) He ({ }) loved ({ }) New ({ }) York. ({ 1 2 3 }) 
+# Sentence pair (65) source length 33 target length 26 alignment score : 4.89115e-38
+V tej dobe už študoval na Akadémii výtvarných umení v Bratislave, no po návrate ho vylúčili. Vraj, povedali mu, by mal imperialistický vplyv na svojich spolužiakov. 
+NULL ({ 6 10 24 }) By ({ 1 2 3 }) this ({ }) time ({ 4 }) he ({ }) was ({ }) studying ({ }) at ({ }) the ({ }) Academy ({ 5 7 8 }) of ({ }) Fine ({ }) Arts ({ 9 }) in ({ }) Bratislava, ({ 11 }) and, ({ 12 13 14 15 }) on ({ }) his ({ }) return ({ }) he ({ }) was ({ }) expelled, ({ }) told ({ }) that ({ }) he ({ }) would ({ 20 }) have ({ }) an ({ }) imperialist ({ 21 22 }) influence ({ }) on ({ }) his ({ }) fellow- ({ 16 17 18 19 }) students. ({ 23 25 26 }) 
+# Sentence pair (66) source length 11 target length 7 alignment score : 4.12634e-11
+Za oficiálny dôvod stanovili "náhlu stratu talentu". 
+NULL ({ }) The ({ }) official ({ }) reason ({ }) was ({ }) given ({ }) as ({ }) 'a ({ }) sudden ({ }) loss ({ 1 }) of ({ }) talent'. ({ 2 3 4 5 6 7 }) 
+# Sentence pair (67) source length 27 target length 26 alignment score : 1.06823e-35
+Aj napriek tomu, že v súčasnosti považuje zvolenie pápeža Jána Pavla II. za životne dôležité, v roku 1978 ho vnímal iba ako veľkú udalosť pre Poľsko. 
+NULL ({ 5 16 }) Even ({ }) though ({ }) he ({ 4 }) now ({ }) views ({ }) the ({ }) election ({ 6 }) of ({ }) Pope ({ 7 8 9 }) John ({ 1 2 3 }) Paul ({ 10 }) II ({ }) as ({ }) vitally ({ 11 12 13 }) important, ({ 14 15 }) in ({ }) 1978 ({ 17 18 19 }) he ({ }) viewed ({ }) it ({ }) merely ({ 20 21 }) as ({ 22 }) a ({ }) big ({ }) event ({ 23 24 }) for ({ }) Poland. ({ 25 26 }) 
+# Sentence pair (68) source length 12 target length 11 alignment score : 9.18739e-15
+Vzťah medzi Prahou a Bratislavou sa počas celej tejto doby nezmenil. 
+NULL ({ 4 6 }) The ({ }) relationship ({ 1 }) between ({ 2 }) Prague ({ 3 }) and ({ }) Bratislava ({ }) remained ({ 5 7 8 9 }) the ({ }) same ({ }) throughout ({ }) this ({ }) period. ({ 10 11 }) 
+# Sentence pair (69) source length 17 target length 8 alignment score : 6.21039e-16
+Za všetkým dôležitým ste museli cestovať do Prahy. 
+NULL ({ }) For ({ }) everything ({ }) important ({ }) you ({ }) had ({ }) to ({ }) go ({ }) to ({ }) Prague; ({ 1 }) Slovakia ({ }) was ({ }) for ({ }) lakes ({ }) and ({ }) rivers ({ }) and ({ }) mountains. ({ 2 3 4 5 6 7 8 }) 
+# Sentence pair (70) source length 18 target length 19 alignment score : 1.07242e-24
+Slovensko ako krajina jazier, riek a hôr, bola chudobnou nevyspelou krajinou, pretože priemysel a bohatstvo mali v rukách Česi. 
+NULL ({ 6 14 17 }) Slovakia ({ 1 }) was ({ }) a ({ }) poor ({ 2 3 4 5 }) primitive ({ }) country; ({ 7 }) the ({ }) industry ({ 8 9 }) and ({ }) the ({ }) wealth ({ }) were ({ }) in ({ }) the ({ }) hands ({ 10 11 12 13 15 }) of ({ }) the ({ }) Czechs. ({ 16 18 19 }) 
+# Sentence pair (71) source length 24 target length 17 alignment score : 4.76362e-28
+V porovnaní s Prahou v Bratislave nesídlilo žiadne veľvyslanectvo, ktoré by ponúkalo disidentom spojenie s vonkajším svetom. 
+NULL ({ 5 }) There ({ }) were ({ }) no ({ }) embassies ({ }) in ({ }) Bratislava, ({ 6 }) and ({ }) none ({ }) of ({ }) the ({ }) connections ({ 7 8 9 10 }) to ({ }) the ({ }) outside ({ 3 4 }) world ({ }) which ({ }) the ({ }) western ({ }) embassies ({ 11 12 }) in ({ }) Prague ({ }) offered ({ 13 14 15 }) to ({ }) dissidents. ({ 1 2 16 17 }) 
+# Sentence pair (72) source length 14 target length 11 alignment score : 1.30903e-14
+Kým tisíc podpisov na Charte 77 patrila Čechom, Slovákom len päťdesiat. 
+NULL ({ 4 }) While ({ 1 2 3 }) there ({ }) were ({ }) a ({ }) thousand ({ }) Czech ({ }) signatories ({ 5 }) to ({ }) Charter ({ }) 77, ({ }) only ({ }) fifty ({ 6 7 8 }) Slovaks ({ }) signed. ({ 9 10 11 }) 
+# Sentence pair (73) source length 25 target length 25 alignment score : 6.20281e-34
+Povedal, že v rámci Slovenska sa vytvorilo disidentské hnutie, ktoré pôsobilo prostredníctvom cirkvi a hnutia životného prostredia skôr než Charta 77 alebo iné zahraničné programy. 
+NULL ({ 2 3 6 14 }) But ({ }) there ({ 1 }) was ({ }) a ({ }) dissident ({ 4 5 }) movement ({ }) within ({ }) Slovakia, ({ }) he ({ }) said, ({ }) operating ({ 7 8 9 10 }) through ({ 12 13 }) the ({ }) Church ({ }) and ({ }) the ({ }) environmental ({ 11 }) movement, ({ 15 16 17 }) rather ({ 18 }) than ({ 19 }) Charter ({ 20 21 }) 77 ({ }) or ({ 22 }) foreign ({ }) channels. ({ 23 24 25 }) 
+# Sentence pair (74) source length 32 target length 35 alignment score : 7.55612e-44
+V roku 1983 dostal Juraj povolenie na výrobu a predaj keramických kvetináčov. V priebehu uvoľnenia politickej situácie počas Gorbačovovej vlády začal vyvážať keramiku do Rakúska a toto podnikanie sa mu v priebehu 80. rokov rozrástlo. 
+NULL ({ 7 9 26 29 31 }) In ({ 1 2 }) 1983 ({ 3 4 }) Juraj ({ 5 }) was ({ }) permitted ({ 6 8 10 11 }) to ({ }) make ({ }) and ({ }) sell ({ 12 13 }) flower-pots; ({ 14 15 16 }) in ({ }) the ({ }) looser ({ }) atmosphere ({ 17 }) of ({ }) the ({ }) Gorbachev ({ 18 19 20 }) years ({ }) he ({ }) began ({ 21 }) to ({ }) export ({ 22 23 }) ceramics ({ }) to ({ }) Austria, ({ 24 25 }) and ({ }) this ({ }) business ({ }) grew ({ 27 28 30 }) throughout ({ 32 }) the ({ }) 198os. ({ 33 34 35 }) 
+# Sentence pair (75) source length 15 target length 15 alignment score : 7.30208e-20
+V roku 1989 odišiel znova do Spojených štátov, no tentoraz ho tu čakalo iba sklamanie. 
+NULL ({ }) In ({ 1 }) 1989 ({ 2 3 4 5 }) he ({ }) went ({ 6 }) to ({ }) the ({ }) United ({ }) States ({ 7 }) once ({ }) more, ({ 8 9 10 }) but ({ }) this ({ }) time ({ }) was ({ }) disappointed. ({ 11 12 13 14 15 }) 
+# Sentence pair (76) source length 28 target length 26 alignment score : 9.39109e-33
+Vo svojej ďalšej knihe o Zamatovej revolúcii - Spomienky na zlyhania - napísal: "Počas pobytu v USA som úplne stratil ilúzie o tomto raji na zemi. 
+NULL ({ 10 16 25 }) In ({ }) his ({ }) subsequent ({ }) book ({ 1 2 3 4 }) about ({ 5 }) the ({ }) Velvet ({ }) Revolution, ({ 6 7 }) Velvet ({ }) Failures, ({ 8 9 12 }) he ({ }) wrote: ({ }) 'During ({ 11 }) this ({ }) stay ({ 13 14 15 }) in ({ }) the ({ }) US ({ }) I ({ }) totally ({ 17 18 }) lost ({ }) my ({ }) illusions ({ 19 20 21 }) about ({ 22 }) this ({ }) paradise ({ 23 24 26 }) on ({ }) earth. ({ }) 
+# Sentence pair (77) source length 10 target length 12 alignment score : 1.41185e-21
+Býval som u rôznych ľudí, najmä však s ľuďmi z "nižšej triedy". 
+NULL ({ }) I ({ 2 }) stayed ({ 7 }) with ({ 8 }) various ({ }) people, ({ 9 10 }) particularly ({ }) among ({ }) the ({ }) "lower ({ 3 4 5 6 }) class". ({ 1 11 12 }) 
+# Sentence pair (78) source length 12 target length 9 alignment score : 1.11524e-15
+Nemohol som uveriť, aký ťažký bol život niektorých Američanov. 
+NULL ({ }) I ({ 2 }) could ({ }) not ({ }) believe ({ }) how ({ }) hard ({ }) the ({ }) life ({ 3 }) was ({ }) for ({ }) some ({ }) Americans. ({ 1 4 5 6 7 8 9 }) 
+# Sentence pair (79) source length 29 target length 25 alignment score : 5.31267e-35
+Vodič autobusovej linky v New Yorku pracoval desať hodín denne, a aj tak si nemohol dovoliť zdravotné poistenie, nie to ešte vlastný byt na Manhattane. 
+NULL ({ 4 11 24 }) The ({ }) driver ({ 1 2 3 }) on ({ }) the ({ }) New ({ 5 }) York ({ 6 7 8 }) bus ({ 9 10 12 13 }) line ({ }) who ({ }) worked ({ }) ten ({ }) hours ({ }) a ({ }) day ({ }) could ({ 14 }) not ({ }) afford ({ }) to ({ }) pay ({ 15 }) health ({ 16 17 }) insurance, ({ }) let ({ }) alone ({ 18 }) for ({ }) a ({ }) private ({ 19 }) flat ({ 20 21 22 23 }) in ({ }) Manhattan. ({ 25 }) 
+# Sentence pair (80) source length 15 target length 14 alignment score : 3.46015e-21
+Dozvedel som sa, že viac ako dvadsať percent Američanov si nemôže dovoliť zdravotné poistenie. 
+NULL ({ }) I ({ 2 }) was ({ }) told ({ }) that ({ 4 }) more ({ 5 }) than ({ }) twenty ({ 6 7 }) per ({ }) cent ({ 8 }) of ({ }) Americans ({ 9 }) couldn't ({ }) afford ({ 10 11 }) health ({ 12 13 }) insurance. ({ 1 3 14 }) 
+# Sentence pair (81) source length 12 target length 10 alignment score : 2.18327e-15
+Stretol som slovenského emigranta, ktorý pracoval ako pomocník v obchode. 
+NULL ({ 9 }) I ({ 2 }) met ({ 3 4 }) an ({ }) emigrant ({ 5 6 }) from ({ }) Slovakia ({ }) who ({ }) worked ({ }) as ({ 7 }) a ({ }) shop ({ 8 }) assistant. ({ 1 10 }) 
+# Sentence pair (82) source length 24 target length 19 alignment score : 5.38129e-28
+Počas bitky v krčme prišiel o predné zuby a kvôli nepeknej medzere v ústach na druhý deň stratil zamestnanie. 
+NULL ({ 3 9 15 }) In ({ }) a ({ }) pub ({ 1 2 4 }) fight ({ 5 6 7 }) he ({ }) lost ({ }) his ({ }) front ({ }) teeth, ({ }) and ({ }) because ({ }) of ({ }) this ({ }) ugly ({ }) hole ({ 8 10 11 12 }) in ({ }) his ({ }) mouth ({ 13 14 }) he ({ }) lost ({ }) his ({ }) job ({ 16 }) next ({ 17 18 }) day. ({ 19 }) 
+# Sentence pair (83) source length 21 target length 16 alignment score : 4.75052e-23
+Nemal peniaze na zubára, preto nemohol zaplatiť ani nájomné a napokon sa z neho stal bezdomovec." 
+NULL ({ 3 10 12 }) He ({ }) didn't ({ }) have ({ }) the ({ }) money ({ }) to ({ }) pay ({ }) his ({ }) dentist ({ 1 2 4 }) so ({ }) he ({ }) also ({ }) couldn't ({ }) pay ({ 5 6 7 }) his ({ }) rent ({ 8 }) either ({ }) and ({ }) eventually ({ 9 11 13 }) became ({ }) homeless.' ({ 14 15 16 }) 
+# Sentence pair (84) source length 15 target length 10 alignment score : 4.09287e-18
+Prvú verejnú demonštráciu proti režimu na Slovensku zorganizovala katolícka cirkev. 
+NULL ({ 6 }) The ({ }) first ({ }) open ({ }) demonstration ({ }) in ({ }) Slovakia ({ }) against ({ }) the ({ }) regime ({ }) was ({ }) organised ({ }) through ({ }) the ({ }) Catholic ({ }) Church. ({ 1 2 3 4 5 7 8 9 10 }) 
+# Sentence pair (85) source length 7 target length 5 alignment score : 6.07526e-08
+Uskutočnila sa 25. marca 1988. 
+NULL ({ 2 }) It ({ }) took ({ }) place ({ }) on ({ }) 25 ({ }) March ({ }) 1988. ({ 1 3 4 5 }) 
+# Sentence pair (86) source length 24 target length 19 alignment score : 2.68438e-31
+Ľudí vyzvali, aby opustili kostoly a zhromaždili sa na jednom z námestí a žiadali o občianske a náboženské slobody. 
+NULL ({ 6 8 9 17 }) People ({ }) were ({ }) asked ({ }) to ({ }) walk ({ }) out ({ }) of ({ }) the ({ }) churches ({ }) and ({ }) gather ({ }) in ({ }) one ({ }) of ({ }) the ({ }) city's ({ 4 5 }) squares ({ 7 10 }) to ({ }) ask ({ }) for ({ }) civil ({ }) and ({ }) religious ({ 11 12 13 14 }) freedom. ({ 1 2 3 15 16 18 19 }) 
+# Sentence pair (87) source length 10 target length 7 alignment score : 8.25961e-10
+Požiadali ich, aby mlčky niesli zapálené sviečky. 
+NULL ({ }) They ({ }) were ({ }) asked ({ }) to ({ }) carry ({ 1 2 }) lighted ({ 3 4 }) candles ({ }) and ({ }) remain ({ }) silent. ({ 5 6 7 }) 
+# Sentence pair (88) source length 6 target length 5 alignment score : 1.85642e-07
+Atmosféra bola desivá, spomínal Juraj. 
+NULL ({ }) The ({ }) atmosphere ({ }) was ({ }) scary, ({ 1 2 3 4 }) Juraj ({ }) said. ({ 5 }) 
+# Sentence pair (89) source length 15 target length 12 alignment score : 7.66877e-17
+Polícia obkľúčila námestie vodnými delami a policajnými psami, ale k ničomu neprišlo. 
+NULL ({ 6 }) The ({ }) police ({ 1 2 3 }) surrounded ({ 4 5 7 }) the ({ }) square, ({ }) they ({ }) had ({ }) water ({ 8 9 }) cannon ({ }) and ({ }) police ({ }) dogs, ({ 10 11 12 }) but ({ }) nothing ({ }) happened. ({ }) 
+# Sentence pair (90) source length 22 target length 15 alignment score : 1.46732e-19
+V novembri nasledujúceho roku cestoval späť do Bratislavy, keď začul správu o začiatku Nežnej revolúcie. 
+NULL ({ }) In ({ 1 }) November ({ }) the ({ }) following ({ 2 3 4 }) year ({ }) he ({ }) was ({ }) driving ({ 5 }) back ({ 6 7 }) to ({ }) Bratislava ({ }) when ({ }) he ({ }) heard ({ }) the ({ }) news ({ 8 9 10 }) that ({ }) the ({ }) Velvet ({ }) Revolution ({ 11 12 }) had ({ }) begun. ({ 13 14 15 }) 
+# Sentence pair (91) source length 23 target length 19 alignment score : 6.41093e-26
+V Bratislave sa jeho starí priatelia, umelci a herci, stali jej vodcami a vytvárali politické strany v novej demokracii. 
+NULL ({ 3 13 17 }) In ({ 1 }) Bratislava ({ 2 }) old ({ }) friends ({ }) of ({ }) his, ({ 4 5 6 7 }) artists ({ 8 }) and ({ }) actors, ({ 9 }) became ({ }) the ({ }) leaders ({ }) of ({ }) the ({ }) revolution, ({ }) and ({ }) formed ({ 10 11 }) political ({ }) parties ({ }) m ({ 12 14 15 }) the ({ }) new ({ }) democracy. ({ 16 18 19 }) 
+# Sentence pair (92) source length 23 target length 19 alignment score : 2.64776e-24
+Juraj povedal, že zo začiatku miloval Václava Havla azda každý, kým problémy medzi oboma oblasťami Československa nevyplávali na povrch. 
+NULL ({ 18 }) At ({ }) the ({ }) beginning, ({ 2 }) Juraj ({ 1 }) said, ({ 3 }) Vaclav ({ }) Havel ({ }) was ({ }) loved ({ 4 5 6 }) by ({ }) everybody, ({ 7 8 9 10 }) and ({ }) the ({ }) problems ({ 11 12 }) between ({ 13 }) the ({ }) two ({ }) parts ({ }) of ({ }) Czechoslovakia ({ 14 15 }) did ({ }) not ({ }) surface. ({ 16 17 19 }) 
+# Sentence pair (93) source length 13 target length 14 alignment score : 4.20243e-16
+Ako napísal: "Pred rokom 1989 sa u mňa neprejavoval žiadny silný pocit národnej príslušnosti. 
+NULL ({ 6 }) As ({ 1 }) he ({ }) wrote: ({ 2 }) 'Before ({ 3 4 5 }) 1989I ({ 7 }) did ({ }) not ({ }) have ({ }) any ({ }) strong ({ 8 9 }) feelings ({ 10 11 }) of ({ }) nationality. ({ 12 13 14 }) 
+# Sentence pair (94) source length 23 target length 18 alignment score : 2.16071e-26
+Doslova som nenávidel slovenský folklór, keďže bol vždy podporovaný komunistami na úkor modernej svetovej kultúry, ktorá bola zakázaná. 
+NULL ({ 2 11 }) I ({ }) literally ({ 1 3 4 }) hated ({ 5 6 7 8 }) Slovak ({ }) folklore, ({ 9 10 }) since ({ }) it ({ }) had ({ }) always ({ }) been ({ }) supported ({ }) by ({ }) communists ({ }) to ({ }) the ({ }) detriment ({ }) of ({ }) modern ({ }) world ({ }) culture, ({ 12 13 14 }) which ({ }) was ({ }) forbidden. ({ 15 16 17 18 }) 
+# Sentence pair (95) source length 20 target length 17 alignment score : 7.30253e-23
+Necítil som sa byť ani Slovákom ani Čechoslovákom. Bratislava bola jediným miestom, kde som sa cítil doma." 
+NULL ({ 3 15 }) I ({ 2 }) did ({ }) not ({ }) feel ({ }) myself ({ }) to ({ }) be ({ }) either ({ 4 5 6 7 }) Slovak ({ }) or ({ }) Czechoslovak. ({ 8 9 10 }) The ({ }) only ({ }) place ({ 11 12 13 }) I ({ }) felt ({ }) I ({ 14 }) belonged ({ }) was ({ }) Bratislava." ({ 1 16 17 }) 
+# Sentence pair (96) source length 26 target length 22 alignment score : 3.18699e-27
+V dňoch po revolúcii sa hovorilo, že hlavným mestom federácie by malo byť Brno, ktoré leží na polceste medzi Prahou a Bratislavou. 
+NULL ({ 5 17 21 }) In ({ 1 }) the ({ }) days ({ 2 }) after ({ 3 }) the ({ }) revolution ({ 4 }) there ({ }) was ({ }) talk ({ 6 }) that ({ 7 }) the ({ }) capital ({ 8 9 }) of ({ }) the ({ }) federation ({ 10 }) should ({ 11 }) be ({ }) in ({ }) Brno, ({ 12 13 14 }) which ({ }) is ({ }) halfway ({ 15 16 18 }) between ({ 19 }) Prague ({ 20 }) and ({ }) Bratislava. ({ 22 }) 
+# Sentence pair (97) source length 14 target length 8 alignment score : 9.80635e-13
+Prevládal skutočný pocit českej ľahostajnosti voči potrebám Slovákov. 
+NULL ({ }) But ({ }) there ({ }) was ({ }) a ({ }) real ({ }) sense ({ }) that ({ }) the ({ }) Czechs ({ }) did ({ }) not ({ }) understand ({ }) Slovak ({ }) sensitivities. ({ 1 2 3 4 5 6 7 8 }) 
+# Sentence pair (98) source length 28 target length 20 alignment score : 9.5112e-28
+Predstava, že teraz nebol čas na riešenie takýchto problémov: na prvom mieste malo stáť zavedenie trhového hospodárstva, Juraja úplne prekvapovala. 
+NULL ({ 6 10 }) The ({ }) idea, ({ 1 }) Juraj ({ }) said, ({ }) that ({ 2 }) there ({ }) was ({ }) no ({ }) time ({ }) for ({ }) such ({ }) matters ({ 3 4 }) now, ({ 5 }) that ({ }) the ({ }) establishment ({ 7 8 9 }) of ({ }) a ({ }) market ({ 16 }) economy ({ 11 12 13 14 }) must ({ }) come ({ 15 }) first, ({ }) was ({ }) quite ({ }) shocking ({ 17 18 19 20 }) for ({ }) him. ({ }) 
+# Sentence pair (99) source length 22 target length 16 alignment score : 3.74217e-21
+Bol si istý, že Havel si uvedomí, že v demokracii nemožno pokračovať smerom, ktorý vytýčil komunizmus. 
+NULL ({ 9 }) He ({ 1 }) had ({ }) been ({ }) sure ({ 2 3 }) that ({ 4 }) Havel ({ 5 }) would ({ }) understand ({ }) the ({ }) problem, ({ 6 7 }) that ({ 8 }) it ({ }) could ({ }) not ({ }) continue ({ 10 }) under ({ 11 }) democracy ({ }) as ({ }) it ({ }) had ({ }) under ({ 12 13 14 }) communism. ({ 15 16 }) 
+# Sentence pair (100) source length 18 target length 13 alignment score : 4.1179e-18
+Po revolúcii sa Juraj stal členom dvanásťčlennej inštitúcie koordinačného výboru Verejnosti proti násiliu. 
+NULL ({ 3 }) After ({ 1 }) the ({ }) revolution ({ 2 }) Juraj ({ 4 }) became ({ }) a ({ }) member ({ 5 6 }) of ({ }) the ({ }) Co-ordinating ({ 9 10 }) Committee ({ }) of ({ }) the ({ }) Revolution, ({ }) a ({ }) twelve ({ 7 8 }) member ({ }) body. ({ 11 12 13 }) 
+# Sentence pair (101) source length 12 target length 13 alignment score : 1.66328e-15
+Hovoril po anglicky lepšie než zvyšok členov a pracoval v oblasti medzinárodných vzťahov. 
+NULL ({ 8 10 }) He ({ }) spoke ({ 1 }) better ({ }) English ({ 2 3 4 }) than ({ 5 }) the ({ }) rest ({ 6 7 }) and ({ }) worked ({ 9 }) on ({ }) international ({ 11 12 }) relations. ({ 13 }) 
+# Sentence pair (102) source length 20 target length 12 alignment score : 5.70605e-16
+Už vo februári 1990 si uvedomoval závažnosť problémov medzi Havlom a Slovákmi. 
+NULL ({ 11 }) In ({ }) February ({ 1 2 3 }) 1990 ({ 4 }) he ({ }) became ({ }) acutely ({ 5 6 7 }) conscious ({ }) that ({ }) there ({ }) were ({ }) going ({ }) to ({ }) be ({ }) serious ({ }) difficulties ({ 8 }) between ({ 9 }) Havel ({ 10 }) and ({ }) the ({ }) Slovaks. ({ 12 }) 
+# Sentence pair (103) source length 12 target length 10 alignment score : 1.68956e-11
+Havel usporiadal cestu do Washingtonu a ďalších severoamerických hlavných miest. 
+NULL ({ 6 }) Havel ({ 1 }) had ({ }) organised ({ 2 }) a ({ }) trip ({ 3 }) to ({ }) Washington ({ 4 5 }) and ({ }) other ({ }) North ({ }) American ({ 7 8 }) capitals. ({ 9 10 }) 
+# Sentence pair (104) source length 25 target length 21 alignment score : 3.67913e-30
+Delegácia pozostávala z 210 ľudí a stala sa v histórii druhou najväčšou zahraničnou delegáciou smerujúcou do Washingtonu (najväčšiu viedol de Gaulle). 
+NULL ({ 6 8 9 }) The ({ }) delegation ({ }) consisted ({ 1 2 }) of ({ }) two ({ }) hundred ({ }) and ({ }) ten ({ }) people, ({ }) the ({ }) second ({ }) biggest ({ }) foreign ({ 3 }) delegation ({ 4 5 7 }) to ({ }) Washington ({ 16 17 }) in ({ }) history ({ 10 }) (the ({ 11 12 13 14 }) biggest ({ 15 }) was ({ }) headed ({ }) by ({ }) de ({ }) Gaulle). ({ 18 19 20 21 }) 
+# Sentence pair (105) source length 31 target length 26 alignment score : 6.51584e-33
+Pôvodne sa jej malo zúčastniť osem Slovákov, ale nová pražská vláda obmedzila jej počet na štyroch. V dôsledku protestov sa napokon prinavrátila k ôsmim slovenským členom. 
+NULL ({ 2 15 20 }) Originally, ({ 1 3 }) there ({ }) were ({ }) to ({ }) be ({ }) eight ({ }) Slovaks, ({ }) but ({ }) the ({ }) new ({ }) government ({ 4 5 }) rang ({ 6 7 8 9 }) from ({ }) Prague ({ }) and ({ }) reduced ({ 10 11 12 13 }) the ({ }) number ({ 14 }) to ({ }) four, ({ 16 17 18 }) and ({ }) then ({ }) put ({ }) it ({ }) back ({ }) to ({ }) eight ({ 19 }) when ({ }) there ({ }) were ({ }) protests. ({ 21 22 23 24 25 26 }) 
+# Sentence pair (106) source length 25 target length 21 alignment score : 3.9189e-26
+Následne uskutočnil cestu do Izraela, ktorej sa však nezúčastnil žiaden slovenský politik, pretože dvaja Slováci v delegácii boli zástupcami židovskej komunity. 
+NULL ({ 7 16 }) This ({ }) was ({ }) followed ({ 1 2 }) by ({ }) a ({ }) trip ({ 3 }) to ({ 4 }) Israel. ({ 5 6 8 }) No ({ 9 }) Slovak ({ }) politician ({ 10 11 }) was ({ }) included; ({ 12 13 14 15 }) the ({ }) two ({ }) Slovaks ({ }) in ({ }) the ({ }) delegation ({ }) were ({ }) representatives ({ 17 18 }) of ({ }) the ({ }) Jewish ({ 19 20 }) community. ({ 21 }) 
+# Sentence pair (107) source length 36 target length 36 alignment score : 4.66183e-63
+Juraj pokladal prítomnosť slovenského politika za dôležitú. Podľa neho by sa aj Slováci mali ospravedlniť za to, čo sa prihodilo Židom počas vojny na Slovensku a vysvetliť, že nový slovenský štát už neprechováva žiadne protižidovské cítenie. 
+NULL ({ 11 19 24 26 28 }) For ({ }) Juraj, ({ 25 27 }) it ({ }) was ({ }) vital ({ 29 30 31 }) that ({ }) a ({ }) Slovak ({ }) politician ({ }) be ({ }) present ({ 12 }) to ({ }) apologise ({ 13 14 15 }) for ({ 16 }) what ({ 17 18 }) happened ({ }) to ({ }) the ({ }) Jews ({ 20 21 }) in ({ }) Slovakia ({ }) during ({ }) the ({ }) war, ({ 22 23 }) and ({ }) to ({ }) make ({ 1 2 }) clear ({ 6 9 10 }) that ({ }) the ({ }) new ({ }) Slovakia ({ }) harboured ({ 32 33 }) no ({ 34 }) anti-Semitic ({ 3 }) feelings. ({ 4 5 7 8 35 36 }) 
+# Sentence pair (108) source length 25 target length 16 alignment score : 3.56485e-30
+Napokon Jurajov blízky priateľ a vodca revolúcie v Bratislave herec Milan Kňažko vystúpil a predniesol prejav. 
+NULL ({ 5 8 14 }) In ({ }) the ({ }) end ({ }) the ({ }) actor ({ }) Milan ({ }) Knazko, ({ }) a ({ }) close ({ }) friend ({ }) of ({ }) Juraj's ({ }) and ({ }) a ({ }) leader ({ }) of ({ }) the ({ }) revolution ({ }) in ({ }) Bratislava, ({ }) went ({ }) and ({ }) made ({ 6 7 9 10 }) a ({ }) speech. ({ 1 2 3 4 11 12 13 15 16 }) 
+# Sentence pair (109) source length 19 target length 19 alignment score : 4.15215e-28
+Príbeh Milana Kňažka ako poradcu Václava Havla na Pražskom hrade hovorí sám za seba, napísal Juraj vo svojej knihe. 
+NULL ({ 8 }) Milan ({ 1 2 }) Knazko's ({ 3 4 5 }) story,' ({ 13 14 15 }) Juraj ({ 16 }) wrote ({ 17 18 19 }) in ({ }) his ({ }) book, ({ 6 7 }) 'as ({ }) Havel's ({ }) Slovak ({ }) adviser ({ }) at ({ }) the ({ }) Prague ({ }) Castle ({ }) speaks ({ 9 10 11 12 }) for ({ }) itself. ({ }) 
+# Sentence pair (110) source length 28 target length 22 alignment score : 7.69906e-31
+Miesto prijal s pôvodným zámerom stať sa zástupcom prezidenta. Bol by to krok, ktorý by Slovensko uvítalo, no nikdy k tomu neprišlo. 
+NULL ({ 7 }) He ({ }) accepted ({ 1 2 }) the ({ }) post ({ }) with ({ 3 }) the ({ }) original ({ 4 5 6 }) intention ({ 8 9 10 }) that ({ }) he ({ }) would ({ }) later ({ }) become ({ }) a ({ }) vice-president ({ 11 12 }) - ({ }) a ({ }) step ({ }) that ({ }) Slovakia ({ }) would ({ 15 }) have ({ }) welcomed, ({ 16 17 18 19 20 21 22 }) but ({ }) it ({ }) never ({ }) came ({ 13 14 }) about. ({ }) 
+# Sentence pair (111) source length 45 target length 43 alignment score : 1.7314e-53
+Stal sa však presný opak, pretože Kňažko často nesúhlasil s Havlom a jeho stranou a pevne bojoval za záujmy Slovákov. Po niekoľkých týždňoch mu na hrade zamedzili priamy prístup k prezidentovi a občas sa pristihol, ako celé dni čaká, kedy ho Havel prijme. 
+NULL ({ 2 12 15 25 32 34 }) The ({ }) opposite ({ 1 3 }) happened, ({ 4 5 6 }) since ({ }) Knazko ({ }) often ({ 7 }) disagreed ({ 8 9 }) with ({ 10 }) Havel ({ 11 }) and ({ }) his ({ 13 }) team ({ 14 }) and ({ }) strongly ({ 16 }) fought ({ 17 18 }) for ({ }) Slovak ({ }) interests. ({ 19 20 }) After ({ 21 }) several ({ 22 }) weeks ({ 23 24 }) in ({ }) the ({ }) Castle ({ 26 }) he ({ }) lost ({ }) direct ({ 27 28 }) access ({ 29 }) to ({ }) the ({ }) President ({ 30 31 }) and ({ }) sometimes ({ 33 35 36 }) found ({ }) himself ({ }) waiting ({ }) for ({ }) days ({ }) before ({ 41 }) Havel ({ 42 }) would ({ }) agree ({ 43 }) to ({ }) meet ({ 37 38 39 40 }) him. ({ }) 
+# Sentence pair (112) source length 59 target length 60 alignment score : 3.4569e-91
+V spoločnom štáte žilo desať miliónov Čechov a päť miliónov Slovákov. V priebehu roku 1990 si začala vládnuca vrstva v Bratislave uvedomovať, že s nimi zaobchádzajú iba ako s poslušnými roľníkmi, ktorí žijú v horách a nemajú šancu stať sa súčasťou veľkej zamatovej budúcnosti, pretože nič okrem katolicizmu a fašizmu nepoznajú a priučiť ich tomu by trvalo až príliš dlho. 
+NULL ({ 8 20 34 36 40 49 52 }) There ({ }) were ({ }) ten ({ }) million ({ }) Czechs ({ }) and ({ }) five ({ }) million ({ 3 4 5 6 7 9 10 }) Slovaks; ({ 11 }) the ({ }) ruling ({ 1 2 12 }) class ({ }) in ({ }) Bratislava ({ 21 }) came ({ }) to ({ }) feel ({ 17 18 19 22 }) throughout ({ 13 }) 1990 ({ 14 15 16 }) that ({ 23 }) they ({ }) were ({ }) being ({ 24 }) treated ({ 25 26 27 }) as ({ 28 }) nice ({ 29 }) peasants ({ 30 31 }) who ({ 32 }) lived ({ 33 }) in ({ }) the ({ }) mountains, ({ 35 37 }) who ({ }) did ({ }) not ({ }) know ({ }) enough ({ }) to ({ }) be ({ }) part ({ }) of ({ }) the ({ }) great ({ 38 39 41 }) velvet ({ 42 43 }) future, ({ 44 45 46 }) whose ({ 47 48 }) education ({ }) out ({ }) of ({ }) their ({ }) fascism ({ 50 51 53 }) and ({ }) their ({ 54 }) Catholicism ({ 55 58 59 60 }) would ({ 56 }) take ({ }) a ({ }) long ({ 57 }) time. ({ }) 
+# Sentence pair (113) source length 28 target length 22 alignment score : 1.27149e-31
+Praha si ani neuvedomovala chúlostivý slovenský problém. Nebolo tu dostať žiadne slovenské noviny, ani žiaden slovenský politik sa neobjavoval v Havlovej blízkosti. 
+NULL ({ 18 20 }) Prague ({ }) was ({ }) not ({ }) even ({ 1 }) aware ({ 2 3 4 5 }) that ({ }) there ({ }) was ({ }) a ({ }) festering ({ }) Slovak ({ }) problem, ({ }) as ({ }) there ({ }) was ({ }) no ({ }) Slovak ({ 6 7 }) newspaper ({ }) available ({ 8 9 10 11 12 13 14 }) in ({ }) Prague ({ }) and ({ }) no ({ }) Slovak ({ }) politician ({ 15 16 17 }) close ({ }) to ({ }) Havel. ({ 19 21 22 }) 
+# Sentence pair (114) source length 21 target length 20 alignment score : 7.51427e-24
+Slovenskí emigranti v Spojených štátoch poukazovali na to, že pokiaľ ide o západné médiá, Slovensko pre ne vlastne vôbec neexistuje. 
+NULL ({ 3 7 }) Slovak ({ }) emigrants ({ 1 2 }) in ({ }) the ({ }) United ({ }) States ({ 4 }) pointed ({ 5 6 8 }) out ({ }) that ({ 9 }) as ({ }) far ({ }) as ({ }) the ({ }) western ({ 10 }) media ({ 11 }) were ({ }) concerned, ({ 12 13 14 }) Slovakia ({ 15 }) did ({ }) not ({ }) exist. ({ 16 17 18 19 20 }) 
+# Sentence pair (115) source length 31 target length 26 alignment score : 1.74614e-31
+V Prahe sa príslušníci starej komunistickej vládnucej triedy postupne navracali do mocenských pozícií, ale v Bratislave nik z VPN (Verejnosť proti násiliu) nemal žiadne politické skúsenosti. 
+NULL ({ 3 15 }) In ({ 1 }) Prague, ({ 2 }) members ({ 4 5 6 }) of ({ }) the ({ }) old ({ }) communist ({ }) ruling ({ }) class ({ 7 }) were ({ }) slowly ({ }) returning ({ 8 9 10 }) to ({ }) positions ({ 11 12 }) of ({ }) power, ({ 13 14 }) but ({ }) in ({ }) Bratislava, ({ 16 }) no ({ }) one ({ 17 18 }) in ({ }) the ({ }) VPN ({ 19 }) (People ({ 20 21 22 }) Against ({ }) Violence) ({ }) had ({ }) any ({ }) political ({ }) experience. ({ 23 24 25 26 }) 
+# Sentence pair (116) source length 22 target length 21 alignment score : 3.68346e-26
+Juraj napísal: "Naše predstavy o svete politiky, diplomacie a bezpečnosti boli založené skôr na dobrodružných románoch ako na skúsenosti alebo logike. 
+NULL ({ 9 14 18 }) Juraj ({ 1 }) wrote: ({ 2 }) 'Our ({ 3 }) ideas ({ 4 }) about ({ 5 }) the ({ }) world ({ 6 }) of ({ }) politics, ({ }) diplomacy ({ 7 8 }) and ({ }) security ({ }) were ({ }) based ({ }) on ({ }) adventure ({ 10 }) novels ({ 11 12 }) rather ({ 13 }) than ({ }) experience ({ 15 16 17 19 }) or ({ }) logic. ({ 20 21 }) 
+# Sentence pair (117) source length 35 target length 31 alignment score : 1.76309e-46
+Spomínam si na svoju naivitu, keď som súhlasil s cestou na americké veľvyslanectvo do Viedne, kde som kontaktoval CIA a požiadal ich, aby prišli do sídla VPN skontrolovať, či budovu neodpočúvajú. 
+NULL ({ 3 11 20 }) I ({ }) remember ({ 8 9 10 }) my ({ }) naivety ({ 1 2 4 5 }) when ({ 6 }) I ({ 7 }) agreed ({ }) to ({ }) go ({ }) to ({ }) the ({ }) US ({ 15 16 17 }) embassy ({ 12 13 14 }) in ({ }) Vienna, ({ 18 19 21 }) contact ({ }) the ({ }) CIA ({ }) there ({ }) and ({ }) ask ({ 22 23 24 }) them ({ }) to ({ }) come ({ }) to ({ }) the ({ }) VPN ({ }) headquarters ({ 25 }) to ({ }) check ({ 26 27 28 }) whether ({ 29 }) the ({ }) building ({ }) was ({ }) bugged. ({ 30 31 }) 
+# Sentence pair (118) source length 26 target length 22 alignment score : 7.93678e-29
+Nemohli uveriť vlastným ušiam, keď som ich požiadal, aby ma prepojili na tajnú službu a vyhlásili, že nik taký tam nie je. 
+NULL ({ 12 15 }) They ({ }) couldn't ({ 1 2 }) believe ({ 3 4 }) their ({ }) ears ({ }) when ({ 5 }) I ({ 6 }) asked ({ }) them ({ 7 }) to ({ }) put ({ 8 9 10 11 }) me ({ }) in ({ }) touch ({ }) with ({ }) the ({ }) secret ({ }) service ({ 13 14 16 }) and ({ }) said ({ 17 }) there ({ }) were ({ }) no ({ }) such ({ }) people ({ }) there. ({ 18 19 20 21 22 }) 
+# Sentence pair (119) source length 10 target length 10 alignment score : 1.73943e-13
+Napokon som sa stretol s človekom zodpovedným za otázky bezpečnosti. 
+NULL ({ 3 }) Eventually, ({ 1 2 4 }) a ({ }) man ({ }) responsible ({ 5 6 7 8 }) for ({ }) security ({ 9 10 }) matters ({ }) did ({ }) see ({ }) me. ({ }) 
+# Sentence pair (120) source length 13 target length 10 alignment score : 1.91155e-15
+Mohol byť pokojne zo CIA, ale samozrejme to nemohol priznať. 
+NULL ({ }) He ({ }) might ({ }) have ({ }) been ({ }) from ({ }) the ({ }) CIA ({ }) but ({ }) could ({ }) naturally ({ }) never ({ }) say ({ 1 2 3 4 }) so. ({ 5 6 7 8 9 10 }) 
+# Sentence pair (121) source length 24 target length 23 alignment score : 1.95196e-30
+Dal mi adresu na rakúsku firmu, ktorá poskytovala tieto služby, no upozornil ma, že je to drahé a odprevadil ma až k dverám." 
+NULL ({ 4 14 18 }) He ({ }) gave ({ 1 2 3 }) me ({ }) an ({ }) address ({ }) of ({ }) an ({ }) Austrian ({ 5 6 7 }) firm ({ 8 }) that ({ }) provided ({ }) this ({ }) service, ({ 9 10 }) warned ({ 11 12 13 }) me ({ }) it ({ 15 16 }) was ({ }) expensive ({ 17 19 20 }) and ({ }) saw ({ }) me ({ }) out ({ }) the ({ }) door.' ({ 21 22 23 }) 
+# Sentence pair (122) source length 24 target length 20 alignment score : 8.74052e-32
+Na jar v roku 1990 sa spustila debata týkajúca sa názvu federácie a spojovníka v názve medzi Českom a Slovenskom. 
+NULL ({ 6 10 13 19 }) In ({ }) the ({ }) spring ({ 3 }) of ({ }) 1990 ({ 4 5 }) discussion ({ 7 8 9 }) began ({ }) over ({ }) the ({ }) name ({ 11 12 14 16 }) of ({ }) the ({ }) federation ({ }) and ({ }) whether ({ }) there ({ }) should ({ }) be ({ }) a ({ }) dash ({ 15 }) between ({ 17 }) Czech ({ }) and ({ }) Slovak. ({ 1 2 18 20 }) 
+# Sentence pair (123) source length 22 target length 19 alignment score : 3.21243e-26
+Viacerí českí politici otvorene zosmiešňovali Slovákov a tvrdili, že spojovník si môžu používať v Bratislave, nie však v zahraničí. 
+NULL ({ 7 14 18 }) Various ({ 1 2 }) Czech ({ 3 }) politicians ({ 4 }) openly ({ 5 6 8 }) made ({ }) fun ({ }) of ({ }) the ({ }) Slovaks ({ }) and ({ }) said ({ }) that ({ 9 }) the ({ }) dash ({ }) could ({ }) be ({ }) used ({ 10 11 }) in ({ }) Bratislava ({ }) but ({ }) not ({ }) abroad. ({ 12 13 15 16 17 19 }) 
+# Sentence pair (124) source length 14 target length 15 alignment score : 9.19233e-17
+Slováci na oplátku navrhli, že ich štát by mal byť spomenutý ako prvý, ako Slovenskočesko. 
+NULL ({ 2 }) Slovaks, ({ 1 }) in ({ }) turn, ({ }) suggested ({ 3 4 }) that ({ 5 }) their ({ 6 }) state ({ }) should ({ 7 8 }) be ({ }) mentioned ({ 9 10 11 }) first, ({ 12 }) as ({ }) in ({ }) Slovakoczech. ({ 13 14 15 }) 
+# Sentence pair (125) source length 8 target length 6 alignment score : 1.08806e-07
+V Prahe to vnímali ako vtip. 
+NULL ({ }) In ({ 1 }) Prague, ({ 2 }) this ({ }) was ({ }) viewed ({ 3 }) as ({ }) a ({ }) joke. ({ 4 5 6 }) 
+# Sentence pair (126) source length 27 target length 23 alignment score : 3.89338e-28
+Napriek tomu v priebehu roku 1990 Juraj veril, že federácia by mohla pretrvať. Chcel zostať občanom Československa, či už so spojovníkom alebo bez. 
+NULL ({ 3 }) Still, ({ 1 2 }) throughout ({ 4 }) 1990 ({ 5 6 }) Juraj ({ 7 }) believed ({ 8 }) that ({ 9 }) the ({ }) federation ({ }) could ({ }) be ({ }) preserved ({ 10 11 12 13 }) and ({ }) he ({ }) wanted ({ }) to ({ }) remain ({ 14 15 }) a ({ }) citizen ({ 16 17 }) of ({ }) Czechoslovakia, ({ 18 19 20 21 }) whether ({ }) it ({ }) had ({ }) a ({ }) dash ({ }) or ({ 22 }) not. ({ 23 }) 
+# Sentence pair (127) source length 10 target length 7 alignment score : 5.40074e-11
+Začiatkom roku 1991 začal meniť svoj názor. 
+NULL ({ }) But ({ }) early ({ }) in ({ }) 1991 ({ }) he ({ }) began ({ }) to ({ }) change ({ }) his ({ }) mind. ({ 1 2 3 4 5 6 7 }) 
+# Sentence pair (128) source length 20 target length 17 alignment score : 1.36318e-23
+V Bratislave sa 14. marca uskutočnila demonštrácia pri príležitosti výročia vzniku prvého Slovenského štátu v roku 1939. 
+NULL ({ 3 15 }) On ({ 1 2 4 5 6 }) 14 ({ }) March ({ 7 }) a ({ }) demonstration ({ 8 }) was ({ }) organised ({ }) in ({ }) Bratislava ({ }) to ({ }) commemorate ({ 9 }) the ({ }) setting ({ 10 11 12 }) up ({ }) of ({ }) the ({ }) Slovak ({ }) state ({ }) in ({ }) 1939. ({ 13 14 16 17 }) 
+# Sentence pair (129) source length 35 target length 33 alignment score : 3.82431e-43
+Zúčastnilo sa jej približne dve až tri tisíc ľudí, čo predstavovalo iba nepatrné množstvo v porovnaní s obrovskými demonštráciami, ktoré sa odohrávali v čase revolúcie a zúčastnilo sa ich viac ako stotisíc ľudí. 
+NULL ({ 2 15 21 26 28 }) Between ({ 1 3 4 }) two ({ }) and ({ }) three ({ 5 6 7 }) thousand ({ 8 }) people ({ }) attended, ({ 9 10 11 }) which ({ }) was ({ }) tiny ({ }) compared ({ 12 13 14 }) to ({ }) the ({ }) huge ({ 16 17 18 }) demonstrations ({ 19 20 22 }) which ({ 23 }) had ({ }) taken ({ 24 25 }) place ({ }) at ({ }) the ({ }) time ({ }) of ({ }) the ({ }) revolution ({ }) when ({ }) more ({ }) than ({ }) a ({ }) hundred ({ 27 }) thousand ({ }) people ({ }) would ({ }) turn ({ 29 30 31 32 }) up. ({ 33 }) 
+# Sentence pair (130) source length 16 target length 17 alignment score : 8.80363e-26
+Juraj spomínal, že sa tu objavilo dve tisíc rozčúlených Slovákov, rôzne skupiny fašistov, komunistov, antisemitistov a vlastencov. 
+NULL ({ 4 16 }) There ({ }) were ({ }) two ({ }) thousand ({ 7 8 }) wild ({ }) Slovaks, ({ }) Juraj ({ 1 }) remembered, ({ 2 3 5 6 }) a ({ }) mixture ({ 9 10 }) of ({ }) fascists, ({ }) communists, ({ 11 }) anti-Semites ({ 12 13 14 15 }) and ({ }) nationalists. ({ 17 }) 
+# Sentence pair (131) source length 8 target length 7 alignment score : 1.29396e-10
+Václav Havel pre nich znamenal skutočného nepriateľa. 
+NULL ({ }) For ({ 1 }) them, ({ }) Vaclav ({ }) Havel ({ 2 }) was ({ }) the ({ }) real ({ }) enemy. ({ 3 4 5 6 7 }) 
+# Sentence pair (132) source length 21 target length 21 alignment score : 1.01584e-26
+Juraj po tom, čo si všimol prekvapivé množstvo zahraničných novinárov a televízne štáby, ktoré sa snažili zachytiť túto demonštráciu, všetko pochopil. 
+NULL ({ 11 15 }) Juraj ({ 1 }) noticed ({ }) that ({ }) there ({ }) was ({ }) a ({ }) surprising ({ 2 3 4 }) number ({ }) of ({ }) foreign ({ 5 }) journalists ({ 6 7 8 }) and ({ }) camera ({ 9 10 }) crews ({ 12 }) covering ({ 13 14 16 }) this ({ }) demonstration ({ }) and ({ }) then ({ }) he ({ }) understood. ({ 17 18 19 20 21 }) 
+# Sentence pair (133) source length 25 target length 18 alignment score : 1.24049e-31
+Bez toho, aby informoval slovenského ministra vnútra, ktorého prezýval "Občan" Havel, prišiel na Slovensko a pochodoval počas demonštrácie. 
+NULL ({ 13 15 }) Without ({ 4 5 }) informing ({ }) the ({ }) Slovak ({ }) minister ({ 9 10 11 }) for ({ }) the ({ }) interior, ({ 6 7 }) 'Citizen' ({ 8 }) Havel, ({ }) as ({ }) Juraj ({ }) called ({ }) him, ({ }) had ({ }) arrived ({ }) in ({ }) Slovakia ({ }) and ({ }) begun ({ 12 }) a ({ }) walkabout ({ 14 16 }) during ({ }) the ({ }) demonstration. ({ 1 2 3 17 18 }) 
+# Sentence pair (134) source length 22 target length 16 alignment score : 1.3764e-18
+Demonštranti Havla napadli, pľuli naňho, kopali a osočovali ho, zatiaľ čo televízne štáby celú situáciu natáčali. 
+NULL ({ 7 }) The ({ }) demonstrators ({ 1 2 }) attacked ({ 3 4 }) Havel, ({ }) spat ({ }) on ({ }) him, ({ }) kicked ({ 5 6 }) him ({ }) and ({ }) shouted ({ 8 9 10 }) abuse ({ 11 }) at ({ }) him ({ }) and ({ }) the ({ }) TV ({ }) crews ({ 12 }) filmed ({ 13 14 15 16 }) all ({ }) of ({ }) this. ({ }) 
+# Sentence pair (135) source length 17 target length 16 alignment score : 2.79372e-23
+Juraj konštatoval, že mali v rukách výborný materiál zachytávajúci útok primitívnych Slovákov na najobľúbenejšieho svetového politika. 
+NULL ({ 13 }) They ({ }) had, ({ }) Juraj ({ 1 }) said, ({ }) beautiful ({ 2 3 4 }) material ({ }) of ({ }) primitive ({ 5 6 }) Slovaks ({ }) attacking ({ 7 8 9 10 11 12 }) the ({ }) most ({ }) loved ({ }) politician ({ }) in ({ }) the ({ }) world. ({ 14 15 16 }) 
+# Sentence pair (136) source length 12 target length 10 alignment score : 4.17893e-13
+Bol presvedčený, že Havel musel vedieť, že natočia takéto zábery. 
+NULL ({ }) Havel, ({ 1 2 }) he ({ }) believed, ({ }) must ({ }) have ({ }) known ({ }) that ({ 3 }) they ({ }) would ({ }) get ({ }) such ({ 4 5 6 7 }) footage. ({ 8 9 10 }) 
+# Sentence pair (137) source length 9 target length 9 alignment score : 2.21179e-13
+Zazlieval mu, že prišiel v ten deň do Bratislavy. 
+NULL ({ 5 }) He ({ }) blamed ({ 1 }) Havel ({ }) for ({ }) coming ({ 2 }) to ({ }) Bratislava ({ }) that ({ 3 }) day. ({ 4 6 7 8 9 }) 
+# Sentence pair (138) source length 40 target length 30 alignment score : 2.27948e-44
+Pobúrilo ho tiež, akým spôsobom zaobchádzali s jeho priateľmi, ktorí sa stali slovenskými politikmi. Jedného z nich obžalovali z policajného udavačstva za predošlého režimu, pretože oponoval Havlovej politike na Slovensku. 
+NULL ({ 11 }) He ({ }) was ({ }) also ({ 3 }) outraged ({ 4 5 6 }) by ({ 7 }) the ({ }) way ({ }) friends ({ 8 9 }) of ({ }) his ({ }) who ({ 10 }) had ({ }) become ({ }) Slovak ({ }) politicians ({ }) had ({ }) been ({ }) treated; ({ }) one, ({ 12 13 14 15 }) he ({ }) believed, ({ }) had ({ }) been ({ }) accused ({ 16 17 18 19 }) of ({ }) being ({ }) a ({ }) police ({ }) informer ({ 1 2 }) under ({ }) the ({ }) old ({ }) regime ({ }) because ({ }) he ({ }) opposed ({ 20 }) Havel's ({ 21 22 23 }) policies ({ 24 25 26 27 28 }) on ({ }) Slovakia. ({ 29 30 }) 
+# Sentence pair (139) source length 12 target length 15 alignment score : 3.84236e-18
+Všimol si, že jeho bývalí priatelia, teraz už disponujúci mocou, sa stávali čoraz viac okázalými. 
+NULL ({ 11 }) He ({ }) noticed ({ 1 }) that ({ }) former ({ 2 3 }) friends ({ 4 5 6 }) now ({ 7 8 }) in ({ }) power ({ }) were ({ }) becoming ({ 9 }) increasingly ({ 10 12 13 }) pompous. ({ 14 15 }) 
+# Sentence pair (140) source length 9 target length 7 alignment score : 1.7743e-10
+Vo svojej knihe spomína aj bývalého kolegu: 
+NULL ({ }) In ({ }) his ({ }) book ({ }) he ({ }) wrote ({ }) of ({ }) a ({ }) former ({ }) colleague: ({ 1 2 3 4 5 6 7 }) 
+# Sentence pair (141) source length 34 target length 34 alignment score : 2.31816e-54
+"Keď som ho navštívil v Prahe a snažil som sa mu niečo vysvetliť, čo však nebol ochotný akceptovať ako rozumné vysvetlenie, spýtal sa ma, či si uvedomujem, že sa zhováram s federálnym ministrom vnútra." 
+NULL ({ 2 5 7 10 23 29 }) When ({ 1 3 4 6 8 }) I ({ 9 }) visited ({ 11 12 13 }) him ({ }) in ({ }) Prague ({ }) and ({ }) tried ({ }) to ({ }) explain ({ }) something ({ }) which ({ }) he ({ }) wasn't ({ }) prepared ({ 16 }) to ({ }) accept ({ 17 18 }) as ({ 19 }) valid, ({ 20 21 22 24 }) he ({ }) asked ({ }) whether ({ 25 }) I ({ }) realised ({ 26 27 28 30 31 }) I ({ }) was ({ }) talking ({ 14 15 }) to ({ }) the ({ }) Federal ({ }) Minister ({ 32 33 }) of ({ }) the ({ }) Interior. ({ 34 }) 
+# Sentence pair (142) source length 30 target length 26 alignment score : 2.10982e-31
+Ďalším príkladom je riaditeľka, ktorú na ulici familiárne pozdravil syn jej priateľky, ktorému dohovárala slovami: "Časy sa zmenili a vy ma už nemôžete viac oslovovať Zuzka". 
+NULL ({ 17 19 }) Another ({ }) example: ({ }) a ({ }) director ({ 1 2 3 }) who ({ }) was ({ }) spontaneously ({ 4 5 }) greeted ({ }) on ({ }) the ({ }) street ({ 6 7 }) by ({ }) her ({ }) friend's ({ 8 9 10 11 }) son ({ }) lectured ({ 12 13 }) the ({ }) boy ({ }) "the ({ 14 15 16 }) times ({ 18 }) have ({ }) changed ({ }) and ({ }) you ({ }) cannot ({ }) address ({ }) me ({ }) as ({ }) Susanne ({ 20 21 22 }) anymore." ({ 23 24 25 26 }) 
+# Sentence pair (143) source length 15 target length 15 alignment score : 7.34903e-17
+Počas dovolenky v horách nás tiež ministrova žena požiadala, aby sme "rešpektovali postavenie jej manžela". 
+NULL ({ 3 }) On ({ }) holidays ({ 1 2 }) in ({ }) the ({ }) mountains, ({ 4 }) a ({ }) minister's ({ 5 6 7 }) wife ({ }) wanted ({ }) us ({ }) to ({ }) "respect ({ 8 9 }) her ({ }) husband's ({ 10 11 12 }) office". ({ 13 14 15 }) 
+# Sentence pair (144) source length 63 target length 56 alignment score : 1.20443e-87
+Juraj trval na tom, že nikto z politického prúdu na Slovensku nikdy nemal v úmysle vystúpiť z Československej federácie. Keď však Havel napríklad oznámil, že jeho krajina už viac nebude produkovať zbrane, urobil tak bez uváženia, pretože Slovensko bolo krajinou, kde sa vyrábali zbrane a náhle odstavenie tovární by mohlo mať ničivé následky na národné hospodárstvo. 
+NULL ({ 3 5 10 14 42 45 54 }) No ({ }) one ({ }) in ({ }) the ({ }) political ({ 1 }) mainstream ({ 6 7 8 9 11 12 13 }) in ({ }) Slovakia ({ }) had ({ }) ever ({ }) intended ({ 15 16 }) to ({ }) secede ({ 17 }) from ({ }) Czechoslovakia, ({ }) he ({ }) insisted, ({ 18 19 20 21 }) but ({ }) when ({ }) Havel ({ 22 }) announced, ({ 23 }) for ({ }) example, ({ 24 }) that ({ 25 }) his ({ 26 }) country ({ }) was ({ }) not ({ }) going ({ }) to ({ }) produce ({ 27 28 29 30 }) arms ({ 31 32 33 }) any ({ }) more ({ }) he ({ }) did ({ }) so ({ 34 }) without ({ 35 }) considering ({ 2 4 36 37 }) that ({ }) Slovakia ({ 38 }) was ({ }) where ({ 41 }) the ({ }) arms ({ }) were ({ }) produced, ({ 39 40 43 44 }) and ({ }) a ({ }) sudden ({ }) shut-down ({ }) of ({ }) arms ({ }) factories ({ 46 47 48 }) would ({ 49 }) have ({ }) a ({ }) devastating ({ 55 56 }) effect ({ 50 51 52 53 }) on ({ }) the ({ }) economy ({ }) there. ({ }) 
+# Sentence pair (145) source length 35 target length 31 alignment score : 1.05874e-38
+Dokonca aj po rozdelení štátu Juraj veril, že ťaženie proti Slovensku stále pokračuje. Čechov vykresľovali ako dobrých, pokrokových, bystrých a inteligentných, zatiaľ čo Slovákov ako nestabilných, antisemitských, staromódnych a naklonených komunizmu. 
+NULL ({ 20 29 }) Even ({ 1 2 }) after ({ 3 }) separation, ({ 4 5 }) Juraj ({ 6 }) believed, ({ 7 8 }) the ({ }) campaign ({ 9 }) against ({ 10 11 }) Slovakia ({ }) was ({ }) still ({ 12 }) going ({ }) on; ({ 13 14 15 }) the ({ }) idea ({ }) was ({ }) being ({ }) put ({ }) out ({ }) that ({ }) the ({ }) Czechs ({ }) were ({ }) good, ({ 16 }) progressive, ({ 19 }) smart, ({ 17 18 }) intelligent ({ 21 22 }) and ({ }) the ({ }) Slovaks ({ 23 24 }) were ({ }) unstable, ({ }) anti-Semitic ({ 25 }) old-fashioned, ({ 26 27 }) pro-communist. ({ 28 30 31 }) 
+# Sentence pair (146) source length 11 target length 8 alignment score : 9.38732e-13
+Medzi Slovákmi a Čechmi sú isté rozdiely, priznal. 
+NULL ({ 3 }) There ({ }) are ({ }) differences ({ 1 2 4 5 6 7 8 }) between ({ }) the ({ }) Czechs ({ }) and ({ }) the ({ }) Slovaks, ({ }) he ({ }) said. ({ }) 
+# Sentence pair (147) source length 24 target length 16 alignment score : 9.71047e-21
+Česi sú výrečnejší, sú literárne a umelecky vyspelejší, ako Protestanti sú svetskejší, a ideológie berú vážne. 
+NULL ({ 6 }) The ({ }) Czechs ({ 1 }) are ({ }) more ({ }) eloquent, ({ }) they ({ }) have ({ }) a ({ }) stronger ({ 2 3 }) literary ({ }) and ({ }) artistic ({ 4 }) tradition, ({ }) they ({ }) are ({ }) more ({ }) secular, ({ 5 7 8 }) like ({ 9 }) Protestants, ({ 10 11 12 }) and ({ }) they ({ }) take ({ }) ideology ({ 13 }) seriously. ({ 14 15 16 }) 
+# Sentence pair (148) source length 27 target length 24 alignment score : 1.04899e-31
+Slováci sú na druhej strane konzervatívnejší, sedemdesiat percent z nich sú katolíci, stoja pevnejšie nohami na zemi a nenechajú sa len tak ovplyvniť ideológiou. 
+NULL ({ 3 16 18 20 }) The ({ }) Slovaks ({ }) are ({ }) more ({ }) conservative, ({ 1 2 4 }) seventy ({ 5 6 7 }) per ({ }) cent ({ 8 }) of ({ }) them ({ }) are ({ 9 10 11 }) Catholic, ({ 12 13 }) they ({ }) are ({ }) more ({ }) down ({ }) to ({ }) earth ({ 14 }) and ({ }) not ({ }) so ({ }) ready ({ }) to ({ }) be ({ }) influenced ({ 15 17 19 }) by ({ }) ideology. ({ 21 22 23 24 }) 
+# Sentence pair (149) source length 31 target length 31 alignment score : 5.84655e-42
+Spôsob, akým Česi s nami zaobchádzajú, sa zdá byť v poriadku iba preto, že sme katolíci. Ak by sme však boli moslimovia, ich správanie by bolo výrazne odlišnejšie, nastala by vojna. 
+NULL ({ 7 10 }) The ({ }) way ({ 1 2 3 4 }) the ({ }) Czechs ({ }) have ({ }) been ({ }) treating ({ 5 6 8 }) us, ({ 9 11 12 13 }) he ({ }) said, ({ 14 }) seems ({ }) OK ({ }) only ({ }) because ({ }) we ({ 15 }) are ({ }) Catholics, ({ 16 17 18 }) but ({ }) if ({ }) we ({ 19 }) were ({ 20 21 }) Muslims ({ 22 23 24 }) it ({ }) would ({ 25 }) be ({ }) quite ({ }) different, ({ 26 27 28 29 }) there ({ }) would ({ 30 }) be ({ }) war. ({ 31 }) 
+# Sentence pair (150) source length 40 target length 27 alignment score : 4.10542e-39
+Slováci nikdy natoľko netúžili po pomste za to, čo sa dialo za vlády komunistov. Boli pripravení zabudnúť. Česi na druhej strane chceli preskúmať dokumenty a obviniť ľudí. 
+NULL ({ 10 19 25 }) In ({ }) Slovakia, ({ }) he ({ }) told ({ }) me, ({ }) there ({ }) has ({ 1 2 3 }) never ({ }) been ({ }) the ({ }) same ({ }) urge ({ 4 5 6 }) for ({ }) revenge ({ 7 }) for ({ }) what ({ 8 9 }) happened ({ }) under ({ }) the ({ }) communists, ({ }) they ({ }) were ({ }) ready ({ }) to ({ }) forgive; ({ 11 }) the ({ }) Czechs, ({ }) on ({ }) the ({ }) other ({ 12 }) hand, ({ 13 14 15 16 17 18 }) wanted ({ }) to ({ }) go ({ }) through ({ }) the ({ }) files ({ 20 }) and ({ }) blame ({ 21 22 23 24 26 }) people. ({ 27 }) 
+# Sentence pair (151) source length 14 target length 11 alignment score : 4.0185e-14
+Sú racionálnejší, viac sa zaujímajú o peniaze. My sme naopak emocionálnejší. 
+NULL ({ 4 }) They ({ 1 2 }) are ({ }) more ({ 3 }) cerebral, ({ 5 6 }) he ({ }) said, ({ }) more ({ }) interested ({ }) in ({ }) money; ({ 7 8 }) we ({ 9 }) are ({ }) more ({ }) emotional. ({ 10 11 }) 
+# Sentence pair (152) source length 17 target length 11 alignment score : 5.0087e-15
+Národy sa nemuseli rozdeliť, avšak v tom čase nejestvovalo lepšie riešenie. 
+NULL ({ 2 6 }) The ({ }) two ({ }) nations ({ 1 3 }) did ({ }) not ({ }) have ({ }) to ({ }) separate; ({ }) but, ({ 4 5 }) at ({ }) the ({ }) time, ({ 7 8 }) there ({ }) was ({ }) no ({ }) better ({ }) solution. ({ 9 10 11 }) 
+# Sentence pair (153) source length 23 target length 20 alignment score : 1.25908e-24
+Sám sa rozhodol odísť z politiky a odmietol niekoľko ponúk, vrátane práce na Ministerstve kultúry a miesta veľvyslanca vo Washingtone. 
+NULL ({ 2 7 13 16 }) He ({ }) himself ({ 1 }) decided ({ 3 4 5 }) to ({ }) get ({ }) out ({ }) of ({ }) politics ({ 6 8 }) and ({ }) turned ({ 9 }) down ({ }) several ({ }) offers, ({ }) including ({ 10 11 12 }) the ({ }) Ministry ({ }) for ({ }) Culture ({ 14 15 }) and ({ }) the ({ }) ambassadorship ({ 17 18 }) to ({ }) Washington. ({ 19 20 }) 
+# Sentence pair (154) source length 25 target length 20 alignment score : 4.22503e-26
+Mal v úmysle vybudovať svoj vlastný podnik a bol rád, že nemusel vstávať skoro ráno na schôdzky, spomínal so smiechom. 
+NULL ({ 2 8 16 }) He ({ }) wanted ({ 1 }) to ({ }) build ({ 3 }) up ({ }) his ({ }) business ({ 4 5 6 7 }) and ({ }) was ({ }) glad, ({ 9 10 11 }) he ({ }) laughed, ({ 12 13 14 15 }) that ({ }) he ({ }) did ({ }) not ({ }) have ({ }) to ({ }) get ({ }) up ({ }) in ({ }) the ({ }) morning ({ }) for ({ }) meetings. ({ 17 18 19 20 }) 
+# Sentence pair (155) source length 23 target length 18 alignment score : 8.31028e-25
+Rozprával celé hodiny a ja som si robil poznámky a kládol otázky. Táňa počúvala a občas niečo vysvetlila. 
+NULL ({ 4 10 }) He ({ }) had ({ }) been ({ }) talking ({ }) for ({ }) hours, ({ 5 }) and ({ }) I ({ 6 }) had ({ }) been ({ }) taking ({ 1 2 3 }) notes ({ 7 8 9 }) and ({ }) asking ({ 11 }) questions, ({ 12 }) and ({ }) Tana ({ 13 }) had ({ }) been ({ }) listening ({ 14 15 }) and ({ }) adding ({ 16 }) details. ({ 17 18 }) 
+# Sentence pair (156) source length 6 target length 7 alignment score : 1.01053e-09
+Bolo neskoro a už sme boli unavení. 
+NULL ({ 3 }) We ({ }) were ({ }) exhausted. ({ 1 2 5 }) It ({ }) was ({ }) late. ({ 4 6 7 }) 
+# Sentence pair (157) source length 33 target length 29 alignment score : 1.86307e-38
+Mal som pocit, že sami seba stále vnímali ako aktívnu súčasť nového slovenského štátu, čo naznačoval aj spôsob ich rozprávania o udalostiach – prezentovali mi ich z pohľadu Slováka. 
+NULL ({ 1 }) I ({ 2 }) felt ({ 3 }) that ({ 4 }) they ({ }) still ({ }) saw ({ }) themselves ({ 5 6 7 8 }) as ({ 9 }) having ({ }) a ({ }) role ({ 10 }) in ({ }) the ({ }) new ({ }) Slovakia, ({ 11 12 13 14 }) and ({ }) talking ({ 15 }) to ({ }) me, ({ }) telling ({ 16 17 18 19 20 }) me ({ }) about ({ 21 }) events ({ 22 23 24 }) from ({ }) the ({ }) Slovak ({ }) point ({ 25 }) of ({ }) view, ({ }) was ({ }) part ({ 26 }) of ({ }) this. ({ 27 28 29 }) 
+# Sentence pair (158) source length 4 target length 3 alignment score : 0.000224971
+Pili sme pivo. 
+NULL ({ }) We ({ }) had ({ }) a ({ }) beer. ({ 1 2 3 }) 
+# Sentence pair (159) source length 35 target length 25 alignment score : 4.19168e-32
+Juraj sa z telefonátu dozvedel, že KDH, Kresťanskodemokratické hnutie, začlenené po voľbách v roku 1990 do koalície, teraz už v opozícii, malo svoju výročnú konferenciu. 
+NULL ({ 2 13 20 }) Juraj ({ 1 }) went ({ }) to ({ }) the ({ }) phone ({ }) and ({ }) discovered ({ 3 4 5 }) that ({ 6 }) the ({ }) KDH, ({ 7 }) the ({ }) Christian ({ }) Democratic ({ }) Party, ({ }) which ({ }) had ({ }) been ({ }) in ({ }) a ({ }) coalition ({ 8 9 10 12 }) government ({ }) after ({ 11 }) the ({ }) 1990 ({ 14 15 }) elections ({ 16 17 }) but ({ }) was ({ }) now ({ 18 19 }) in ({ }) opposition, ({ 21 }) was ({ }) having ({ }) its ({ }) annual ({ 22 23 24 25 }) conference. ({ }) 
+# Sentence pair (160) source length 36 target length 34 alignment score : 4.32731e-51
+Poznamenal, aké náročné by pre neho mohlo byť zúčastniť sa na zasadaní strany, na ktorej by mal objasniť, že rozdelenie a rozkoly v rokoch po páde komunizmu spôsobili v Bratislave značné množstvo osobnej trpkosti. 
+NULL ({ 10 11 14 21 23 29 }) It ({ }) might ({ 4 }) be ({ }) difficult ({ }) for ({ }) him ({ }) to ({ }) go ({ }) there, ({ 5 6 }) he ({ }) said, ({ }) making ({ 7 8 9 }) clear ({ }) that ({ }) the ({ }) divisions ({ 12 13 15 16 17 18 }) and ({ }) splits ({ 19 20 22 }) in ({ }) the ({ }) years ({ 24 }) since ({ }) the ({ }) fall ({ 25 26 27 }) of ({ }) communism ({ }) had ({ }) caused ({ 28 }) a ({ }) good ({ }) deal ({ }) of ({ }) personal ({ 30 31 32 }) bitterness ({ 1 2 3 33 34 }) in ({ }) Bratislava. ({ }) 
+# Sentence pair (161) source length 12 target length 13 alignment score : 1.06484e-19
+Rozhodol sa ma tam na poludnie vziať, aby som videl, čo sa stane. 
+NULL ({ 2 5 12 }) But ({ }) he ({ }) would ({ }) take ({ 3 4 }) me ({ }) there ({ }) at ({ }) lunchtime ({ 6 7 8 }) and ({ }) see ({ 9 10 }) what ({ 11 }) happened. ({ 1 13 }) 
+# Sentence pair (162) source length 38 target length 33 alignment score : 3.63255e-44
+Juraj a Táňa preberali viaceré osoby, s ktorými pred niekoľkými rokmi pracoval a ktorých by tam mohol stretnúť. Zabávali sa na predstave, aké to pre neho asi bude, keď sa tam zrazu objaví. 
+NULL ({ 2 13 20 21 30 }) He ({ 1 }) and ({ }) Tana ({ 3 }) discussed ({ 4 5 }) various ({ 6 7 8 }) characters ({ }) who ({ }) would ({ }) be ({ }) there, ({ }) people ({ }) they ({ }) had ({ }) worked ({ }) with ({ }) just ({ }) a ({ }) few ({ }) years ({ }) ago, ({ 9 10 11 12 }) and ({ }) they ({ }) laughed ({ 14 }) at ({ }) what ({ }) it ({ }) would ({ 15 }) be ({ }) like ({ }) for ({ }) Juraj ({ }) to ({ }) appear ({ 16 17 18 19 }) suddenly ({ }) at ({ }) the ({ }) party ({ 22 23 24 25 }) conference. ({ 26 27 28 29 31 32 33 }) 
+# Sentence pair (163) source length 9 target length 8 alignment score : 1.88766e-12
+Po všetkých týchto informáciách sa mi ťažko zaspávalo. 
+NULL ({ 5 }) It ({ }) was ({ }) hard ({ }) to ({ }) sleep ({ 2 3 4 }) after ({ }) all ({ }) this ({ }) information. ({ 1 6 7 8 }) 
+# Sentence pair (164) source length 29 target length 25 alignment score : 7.96573e-30
+Juraj a Táňa rozprávali, akoby sa to všetko stalo len včera. Hovorili vzrušene, podobne ako ľudia po nehode, ktorým ešte stále koluje adrenalín v krvi. 
+NULL ({ 2 6 24 }) Juraj ({ 1 }) and ({ }) Tana ({ 3 }) had ({ }) talked ({ 4 5 }) as ({ }) though ({ }) all ({ }) this ({ }) had ({ }) just ({ 7 8 }) happened ({ }) to ({ }) them, ({ }) they ({ }) had ({ }) spoken ({ 9 10 11 }) with ({ }) that ({ }) peculiar ({ 12 }) intensity ({ 13 14 15 16 }) of ({ }) people ({ }) after ({ 17 }) an ({ }) accident ({ 18 19 20 }) or ({ }) a ({ }) bereavement. ({ 21 22 23 25 }) 
+# Sentence pair (165) source length 33 target length 30 alignment score : 9.08916e-40
+Snažil som sa o tom premýšľať, upratať si to v hlave, no keď som ich nasledujúci deň na poludnie opäť stretol, mal som pocit, akoby som ich spoločnosť ani neopustil. 
+NULL ({ 3 10 18 }) I ({ 2 }) tried ({ }) to ({ }) think ({ }) about ({ 4 }) it, ({ 5 6 7 }) work ({ 1 }) it ({ 8 9 }) all ({ }) out, ({ 11 }) but ({ 12 }) when ({ 13 }) I ({ 14 }) saw ({ }) them ({ 15 }) again ({ }) at ({ }) noon ({ 16 }) the ({ }) next ({ 17 }) day, ({ 19 20 21 22 }) I ({ 23 }) felt ({ 24 }) as ({ }) though ({ 25 }) I ({ 26 }) had ({ }) not ({ }) left ({ }) their ({ 27 }) company ({ 28 }) at ({ }) all. ({ 29 30 }) 
+# Sentence pair (166) source length 31 target length 25 alignment score : 7.61391e-41
+Sadol som si do Jurajovho luxusného auta, ktoré parkovalo pred jeho bytom a už cestou do štúdia som si všimol, ako sa z neho teší. 
+NULL ({ 13 22 }) Juraj ({ }) had ({ }) a ({ }) fancy ({ }) car ({ }) outside ({ }) the ({ }) apartment ({ 1 }) building, ({ }) and ({ }) I ({ 2 }) could ({ 3 }) see, ({ }) as ({ }) we ({ }) sat ({ }) in ({ }) it ({ }) to ({ 4 }) drive ({ 5 6 7 8 9 }) to ({ }) his ({ }) studio, ({ }) that ({ }) he ({ }) enjoyed ({ 10 11 12 14 }) having ({ 18 }) a ({ 19 }) car ({ 15 16 17 20 }) like ({ 21 }) this. ({ 23 24 25 }) 
+# Sentence pair (167) source length 22 target length 10 alignment score : 2.77337e-13
+Počas jazdy mestom po neustále stúpajúcich krivoľakých cestách pustil hudbu. 
+NULL ({ }) He ({ }) put ({ }) a ({ }) tape ({ }) on ({ }) as ({ }) he ({ }) drove ({ }) up ({ }) through ({ }) the ({ }) city ({ }) and ({ }) then ({ }) along ({ }) narrow ({ 1 2 }) twisting ({ 3 4 5 }) roads, ({ 6 7 }) climbing ({ 8 9 }) all ({ }) the ({ }) time. ({ 10 }) 
+# Sentence pair (168) source length 15 target length 9 alignment score : 8.73013e-15
+Jeho ateliér stál na samostatnom pozemku na konci uličky. 
+NULL ({ 4 7 }) The ({ }) studio ({ }) was ({ }) a ({ }) house ({ }) in ({ }) its ({ }) own ({ }) grounds ({ }) at ({ }) the ({ }) end ({ }) of ({ }) a ({ }) lane. ({ 1 2 3 5 6 8 9 }) 
+# Sentence pair (169) source length 21 target length 17 alignment score : 1.01371e-22
+Nikdy som sa nespýtal, aký druh keramiky vyrába, a ani v jeho byte som žiadne modely nevidel. 
+NULL ({ 3 9 11 }) I ({ }) had ({ }) never ({ }) really ({ }) asked ({ }) what ({ }) sort ({ 1 2 }) of ({ }) ceramics ({ 4 5 }) he ({ }) made, ({ 6 7 8 }) and ({ }) there ({ 10 }) seemed ({ }) to ({ }) be ({ }) no ({ }) examples ({ 12 13 14 15 }) in ({ }) his ({ }) apartment. ({ 16 17 }) 
+# Sentence pair (170) source length 14 target length 13 alignment score : 3.23617e-17
+Tu som ale mohol vidieť, čo vyrába, a prečo je to také úspešné. 
+NULL ({ 8 }) But, ({ 1 2 3 4 }) here ({ 5 6 7 }) I ({ }) could ({ }) see ({ }) what ({ }) he ({ }) did ({ }) and ({ }) why ({ 9 }) it ({ }) was ({ }) so ({ }) successful. ({ 10 11 12 13 }) 
+# Sentence pair (171) source length 32 target length 24 alignment score : 2.80806e-30
+Jeho kúsky boli vynaliezavé, napríklad čajník nebol veľmi praktický, no hodil by sa aj ako suvenír alebo pekný darček. Vyzerali kvalitne a zábavne zároveň. 
+NULL ({ 13 22 }) His ({ }) pieces ({ 1 2 }) were ({ }) elaborate ({ 3 4 }) jokes: ({ 5 }) his ({ }) tea-pot, ({ 6 7 8 }) for ({ }) example, ({ }) was ({ }) not ({ }) completely ({ }) useful, ({ 9 10 11 }) but ({ }) it ({ }) would ({ 12 }) be ({ }) a ({ }) good ({ }) souvenir, ({ 14 15 16 }) or ({ 17 }) present; ({ 18 19 20 21 23 24 }) it ({ }) looked ({ }) well ({ }) made ({ }) and ({ }) funny ({ }) at ({ }) the ({ }) same ({ }) time. ({ }) 
+# Sentence pair (172) source length 21 target length 22 alignment score : 9.88867e-32
+Vedel som si predstaviť, akoby mohla byť ich samotná výroba a uvádzanie na trh oveľa zaujímavejšie než byť slovenským veľvyslancom vo Washingtone. 
+NULL ({ 2 11 13 }) I ({ }) could ({ }) see ({ }) how ({ }) it ({ }) might ({ }) be ({ }) more ({ }) fun ({ 1 3 4 5 }) making ({ }) these ({ 6 7 8 }) and ({ }) marketing ({ 9 10 12 14 15 16 }) them ({ }) than ({ 17 }) being ({ }) the ({ }) Slovak ({ }) Ambassador ({ 18 }) to ({ }) Washington. ({ 19 20 21 22 }) 
+# Sentence pair (173) source length 23 target length 24 alignment score : 8.09034e-30
+Juraj premýšľal o kresťanských demokratoch, prechádzal si mená ľudí, ktorí by sa mohli zúčastniť na zasadaní a uvažoval, koho z nich by mi predstavil. 
+NULL ({ 12 15 17 }) Juraj ({ 1 }) was ({ }) thinking ({ 2 }) about ({ 3 }) the ({ }) Christian ({ 4 }) Democrats, ({ 5 6 }) going ({ 7 }) through ({ }) the ({ }) names ({ 8 9 10 }) of ({ }) people ({ }) who ({ }) might ({ 11 }) be ({ }) there, ({ }) wondering ({ }) whom ({ 13 14 }) I ({ }) should ({ 16 }) meet. ({ 18 19 20 }) ' ({ 21 22 23 24 }) 
+# Sentence pair (174) source length 15 target length 9 alignment score : 4.05699e-15
+"Kresťanskí demokrati sa cítia bez moci mizerne," zachichotal sa. 
+NULL ({ 3 }) The ({ }) Christian ({ }) Democrats ({ }) feel ({ }) so ({ }) bad ({ }) about ({ }) being ({ }) out ({ }) of ({ }) power,' ({ }) he ({ }) said ({ }) and ({ }) chuckled. ({ 1 2 4 5 6 7 8 9 }) 
+# Sentence pair (175) source length 20 target length 17 alignment score : 1.63523e-19
+Vrátili sme sa späť do centra mesta. Auto zaparkoval pred modernou budovou, v ktorej sa konala konferencia. 
+NULL ({ 3 15 }) We ({ 1 }) drove ({ 2 }) back ({ 4 5 }) down ({ }) to ({ }) the ({ }) city ({ }) centre; ({ 6 7 8 }) he ({ }) parked ({ 9 10 }) outside ({ }) a ({ }) modern ({ 11 12 }) building ({ 13 14 }) where ({ }) the ({ }) conference ({ 16 17 }) was ({ }) going ({ }) on. ({ }) 
+# Sentence pair (176) source length 12 target length 10 alignment score : 3.48848e-14
+Bol práve čas obeda, takže ľudia by mali mať voľno. 
+NULL ({ }) It ({ }) was ({ }) now ({ }) lunchtime, ({ 1 2 3 4 5 6 }) so ({ }) there ({ }) should ({ 7 }) be ({ }) people ({ }) free, ({ 8 9 10 }) he ({ }) said. ({ }) 
+# Sentence pair (177) source length 22 target length 15 alignment score : 1.21274e-21
+Akonáhle sme vošli do hlavnej sály, zistil som, prečo Juraj nepatril medzi členov kresťanských demokratov. 
+NULL ({ }) As ({ 1 2 }) soon ({ 3 }) as ({ }) we ({ }) went ({ }) into ({ 4 }) the ({ }) main ({ 5 }) hall ({ 6 7 8 }) I ({ }) could ({ }) see ({ }) why ({ 9 }) Juraj ({ 10 }) was ({ }) not ({ }) a ({ }) member ({ }) of ({ }) the ({ }) Christian ({ }) Democrats. ({ 11 12 13 14 15 }) 
+# Sentence pair (178) source length 19 target length 15 alignment score : 6.34144e-21
+Vôkol postávali skupinky mužov. Tí, ktorí neboli stredného veku, vyzerali, že nemajú k tomu ďaleko. 
+NULL ({ }) There ({ 1 }) were ({ }) groups ({ 2 3 }) of ({ }) men ({ 4 5 }) standing ({ }) around; ({ 6 }) those ({ }) who ({ }) were ({ }) not ({ }) middle-aged ({ 7 8 9 10 }) looked ({ }) as ({ }) though ({ }) they ({ 11 }) soon ({ }) would ({ }) be. ({ 12 13 14 15 }) 
+# Sentence pair (179) source length 15 target length 11 alignment score : 8.56632e-18
+Vyzerali obozretne a zničene, tak typicky pre členov centristickej politickej strany. 
+NULL ({ 3 }) They ({ }) all ({ }) had ({ }) that ({ }) slightly ({ 4 5 }) worn, ({ 6 }) cautious ({ }) appearance ({ }) of ({ }) men ({ }) who ({ }) join ({ }) centrist ({ 7 8 9 }) political ({ }) parties. ({ 1 2 10 11 }) 
+# Sentence pair (180) source length 24 target length 19 alignment score : 2.9479e-34
+Juraj, hoci bol v rovnakom veku ako niektorí z týchto mužov, by mohol byť rozmarným synom hociktorého z nich. 
+NULL ({ 4 }) Juraj ({ }) might ({ }) have ({ }) been ({ }) the ({ }) wayward ({ 10 11 12 13 14 15 16 17 }) son ({ }) of ({ }) any ({ }) of ({ }) these ({ }) men ({ }) in ({ }) suits, ({ 18 19 }) although ({ }) he ({ }) was ({ }) the ({ }) same ({ 5 6 7 }) age ({ 8 9 }) as ({ }) some ({ 2 3 }) of ({ }) them. ({ 1 }) 
+# Sentence pair (181) source length 17 target length 12 alignment score : 9.56236e-15
+Sebaisto odetý v ležérnom oblečení s upravenými vlasmi stál v strede haly. 
+NULL ({ 3 }) He ({ }) was ({ }) dressed ({ 1 }) confidently ({ 2 }) in ({ }) casual ({ 4 5 6 }) clothes, ({ 7 8 9 }) his ({ }) hair ({ }) was ({ }) styled. ({ }) He ({ }) stood ({ }) out ({ }) in ({ }) the ({ }) hall. ({ 10 11 12 }) 
+# Sentence pair (182) source length 15 target length 13 alignment score : 1.93076e-22
+Pozdravil pár ľudí a prihovoril sa mužovi, ktorý sa od neho rýchlo vzdialil. 
+NULL ({ 4 6 }) He ({ }) greeted ({ }) a ({ }) few ({ }) people ({ }) and ({ }) then ({ }) spoke ({ }) to ({ }) a ({ }) man ({ }) who ({ }) moved ({ 9 10 11 }) quickly ({ 5 7 8 }) away. ({ 1 2 3 12 13 }) 
+# Sentence pair (183) source length 6 target length 5 alignment score : 5.28959e-07
+Niektorí si ho premeriavali pohľadom. 
+NULL ({ }) A ({ }) few ({ }) people ({ }) looked ({ 1 2 }) at ({ }) him. ({ 3 4 5 }) 
+# Sentence pair (184) source length 7 target length 6 alignment score : 2.2746e-10
+Keď prišiel, postával som pri dverách. 
+NULL ({ 4 }) I ({ }) was ({ }) standing ({ }) close ({ }) to ({ }) the ({ }) door. ({ 1 2 3 5 6 }) 
+# Sentence pair (185) source length 25 target length 23 alignment score : 1.80762e-30
+Povedal mi, že to nebolo ľahké, ale myslí si, že mi bude môcť poskytnúť jedného z vyššie postavených ľudí, ktorý rozpráva po anglicky. 
+NULL ({ 10 }) He ({ }) came ({ }) over ({ 1 2 }) and ({ }) said ({ }) that ({ 3 }) this ({ 4 }) wasn't ({ }) easy, ({ 5 6 7 }) but ({ }) he ({ }) thought ({ 8 9 }) he ({ }) might ({ }) be ({ }) able ({ }) to ({ }) get ({ }) me ({ 11 }) a ({ }) senior ({ 12 13 14 15 16 17 }) figure ({ 18 19 }) who ({ }) spoke ({ }) English. ({ 20 21 22 23 }) 
+# Sentence pair (186) source length 14 target length 11 alignment score : 8.26791e-15
+Spomenul mi, že istý muž, s ktorým pracoval, od neho ušiel. 
+NULL ({ }) One ({ 1 2 }) man, ({ 3 4 5 }) with ({ 6 }) whom ({ }) he ({ }) had ({ }) worked, ({ 7 8 9 }) had ({ }) moved ({ }) away ({ 10 11 }) from ({ }) him, ({ }) he ({ }) said. ({ }) 
+# Sentence pair (187) source length 9 target length 8 alignment score : 6.25545e-14
+Prikývol som - videl som, čo sa stalo. 
+NULL ({ 2 7 }) I ({ }) told ({ }) him ({ }) that ({ }) I ({ }) had ({ }) seen ({ }) this ({ }) happen. ({ 1 3 4 5 6 8 }) 
+# Sentence pair (188) source length 14 target length 9 alignment score : 3.70396e-11
+Po chvíli nás uviedli do dlhej, pohodlne zariadenej kancelárie. 
+NULL ({ }) After ({ 1 }) a ({ }) while ({ }) we ({ }) were ({ }) ushered ({ 2 3 4 }) into ({ }) a ({ }) long ({ }) office ({ }) which ({ }) was ({ }) comfortably ({ 5 6 }) furnished. ({ 7 8 9 }) 
+# Sentence pair (189) source length 29 target length 20 alignment score : 2.00343e-32
+Všimol som si Jurajovo nadšenie z účasti a záujem o to, čo mne, ako zahraničnému novinárovi, politik Ján Čarnogurský povie. 
+NULL ({ 2 8 }) I ({ }) felt ({ }) that ({ }) Juraj ({ }) was ({ }) excited ({ 1 3 4 5 6 7 }) being ({ }) here ({ }) and ({ }) was ({ }) looking ({ 13 14 15 }) forward ({ 10 11 }) to ({ }) what ({ 12 }) the ({ }) politician, ({ 9 }) who ({ }) was ({ }) called ({ }) Jan ({ }) Carnogursky, ({ 16 }) was ({ }) going ({ }) to ({ }) say ({ }) to ({ }) a ({ }) foreign ({ }) journalist. ({ 17 18 19 20 }) 
+# Sentence pair (190) source length 16 target length 12 alignment score : 3.58501e-18
+Bol to asi päťdesiatročný chudý muž s opatrným a vážnym výrazom tváre. 
+NULL ({ 9 }) Carnogursky ({ }) was ({ }) in ({ }) his ({ }) fifties. ({ 3 4 }) He ({ }) was ({ }) a ({ }) thin ({ 5 6 }) man ({ }) with ({ 7 }) a ({ }) cautious ({ 8 }) and ({ }) serious ({ 10 }) appearance. ({ 1 2 11 12 }) 
+# Sentence pair (191) source length 27 target length 23 alignment score : 7.26512e-37
+Spomenul nám, že obaja jeho rodičia boli učitelia, no otec sa pred vojnou stal politickým aktivistom a v jej priebehu podporoval Slovenský štát. 
+NULL ({ 11 17 18 }) His ({ 7 8 9 10 }) parents ({ 4 5 6 }) were ({ }) both ({ 12 13 }) teachers, ({ 1 2 }) he ({ }) said, ({ 3 }) but ({ }) his ({ }) father ({ }) had ({ }) been ({ }) a ({ }) political ({ }) activist ({ 14 15 16 }) before ({ }) the ({ }) war ({ }) and ({ }) had ({ }) supported ({ 19 20 21 }) the ({ }) Slovak ({ }) state ({ 22 23 }) during ({ }) the ({ }) war. ({ }) 
+# Sentence pair (192) source length 14 target length 11 alignment score : 1.45891e-13
+Po vojne sa pokúšal založiť katolícku stranu, no neskôr ho uväznili. 
+NULL ({ 3 }) After ({ 1 }) the ({ }) war ({ }) he ({ }) had ({ }) tried ({ }) to ({ }) establish ({ 2 4 5 6 }) a ({ }) Catholic ({ }) party, ({ 7 }) and ({ }) was ({ }) imprisoned. ({ 8 9 10 11 }) 
+# Sentence pair (193) source length 7 target length 4 alignment score : 3.47633e-06
+Čarnogurského vychovali ako katolíka. 
+NULL ({ }) Carnogursky ({ }) was ({ }) brought ({ }) up ({ }) as ({ }) a ({ }) Catholic. ({ 1 2 3 4 }) 
+# Sentence pair (194) source length 6 target length 6 alignment score : 3.88391e-09
+V nedeľu pravidelne chodil na omšu. 
+NULL ({ 5 }) He ({ }) went ({ }) to ({ }) Mass ({ }) on ({ }) Sunday. ({ 1 2 3 4 6 }) 
+# Sentence pair (195) source length 7 target length 6 alignment score : 1.53762e-10
+Podotkol, že býval obklopený výhradne antikomunistami. 
+NULL ({ }) Everyone ({ }) around ({ }) him, ({ 2 3 }) he ({ }) said, ({ }) was ({ }) anti-communist. ({ 1 4 5 6 }) 
+# Sentence pair (196) source length 15 target length 14 alignment score : 2.69588e-17
+Nenazdával sa, že všetci na Slovensku boli presvedčenými komunistami, hoci niekoľkí vstúpili do strany. 
+NULL ({ 5 }) He ({ }) didn't ({ 1 2 }) think ({ }) that ({ 3 }) anyone ({ 4 6 }) in ({ }) Slovakia ({ }) was ({ }) pro-communist, ({ 7 8 9 }) although ({ 10 11 }) some ({ }) people ({ }) joined ({ }) the ({ }) party. ({ 12 13 14 }) 
+# Sentence pair (197) source length 21 target length 19 alignment score : 6.78637e-29
+Existovala však len jedna mládežnícka organizácia, tiež vedená komunistami, ktorej bol členom nielen on, ale takmer všetci mladí ľudia. 
+NULL ({ }) But ({ 1 2 }) there ({ }) was ({ }) only ({ }) one ({ }) youth ({ 7 }) organisation, ({ 8 }) which ({ }) was ({ }) communist-run ({ 9 }) and ({ }) he ({ }) was ({ }) a ({ }) member; ({ 10 11 12 }) almost ({ 3 4 5 6 }) all ({ }) young ({ 13 }) people ({ }) were ({ }) members. ({ 14 15 16 17 18 19 }) 
+# Sentence pair (198) source length 20 target length 13 alignment score : 3.6107e-21
+Kvôli otcovým politickým aktivitám stratil tri roky vzdelania, preto nemohol navštevovať strednú školu. 
+NULL ({ }) He ({ }) lost ({ }) three ({ }) years ({ }) of ({ }) schooling ({ 4 5 6 }) because ({ }) of ({ }) the ({ }) political ({ }) activities ({ 1 2 3 }) of ({ }) his ({ }) father; ({ 7 8 9 }) he ({ }) wasn't ({ 10 }) allowed ({ 11 12 13 }) into ({ }) secondary ({ }) school. ({ }) 
+# Sentence pair (199) source length 40 target length 32 alignment score : 1.74209e-48
+Stredoškolské vzdelanie získal veľmi jednoducho: vďaka otcovým známostiam na severe krajiny začal navštevovať školu práve tu. Komunisti neboli po celej krajine natoľko dobre usporiadaní, aby ho poznali a bránili mu v štúdiu. 
+NULL ({ 9 28 31 }) He ({ }) got ({ 3 4 5 }) a ({ }) secondary ({ 6 7 8 }) education ({ 10 }) simply ({ 11 12 }) because ({ 13 }) his ({ }) father ({ 14 }) had ({ }) friends ({ }) in ({ }) the ({ }) north ({ 15 16 17 }) of ({ }) the ({ }) country ({ }) and ({ }) he ({ }) went ({ }) to ({ }) school ({ }) there; ({ 1 2 }) the ({ }) communists ({ 18 }) were ({ }) not ({ }) well-organised ({ }) enough ({ }) throughout ({ }) the ({ }) country ({ 19 20 21 22 }) to ({ }) know ({ }) who ({ }) he ({ }) was ({ }) and ({ }) prevent ({ 23 24 25 26 27 29 30 }) him. ({ 32 }) 
+# Sentence pair (200) source length 7 target length 3 alignment score : 4.10601e-05
+Nepodporoval Pražskú jar. 
+NULL ({ }) He ({ }) did ({ }) not ({ }) support ({ 1 }) the ({ }) Prague ({ }) Spring. ({ 2 3 }) 
+# Sentence pair (201) source length 21 target length 16 alignment score : 1.07041e-21
+Rodina zostala antikomunistickou a skutočnosť, že toto zmiernenie v režime riadili komunisti, bola pre neho postačujúca. 
+NULL ({ 4 9 }) His ({ }) family ({ 1 }) remained ({ }) anti-communist, ({ 2 3 }) and ({ }) the ({ }) fact ({ 5 }) that ({ 6 }) this ({ }) softening ({ 7 8 10 11 }) in ({ }) the ({ }) regime ({ }) was ({ }) run ({ 12 13 14 15 16 }) by ({ }) communists ({ }) was ({ }) enough ({ }) for ({ }) him. ({ }) 
+# Sentence pair (202) source length 49 target length 41 alignment score : 3.85368e-59
+Podarilo sa mu vyštudovať právnickú školu, po ktorej pracoval v oblasti pracovného práva. Zastupoval napríklad učiteľov, ktorí navštevovali omše, učiteľov, ktorí poslali svoje deti na vyučovanie náboženstva či starších doktorov, ktorí sa tiež zúčastňovali omše a z týchto dôvodov ich prepustili. 
+NULL ({ 2 10 25 32 36 }) He ({ }) managed ({ 3 4 5 }) to ({ }) study ({ 1 }) to ({ }) become ({ }) a ({ }) lawyer ({ 6 7 8 }) and ({ }) specialised ({ 9 }) in ({ }) labour ({ 11 12 }) law, ({ 13 14 }) representing, ({ 15 }) for ({ }) example, ({ }) teachers ({ 16 17 18 19 20 21 }) who ({ }) had ({ }) been ({ }) seen ({ }) at ({ }) Mass ({ }) and ({ }) fired, ({ 37 }) or ({ }) teachers ({ }) who ({ }) had ({ }) sent ({ }) their ({ }) children ({ }) for ({ }) religious ({ }) instruction ({ 38 39 40 41 }) and ({ }) been ({ }) fired, ({ }) or ({ }) a ({ }) senior ({ }) doctor ({ }) who ({ }) had ({ }) attended ({ 33 34 35 }) Mass ({ }) and ({ }) was ({ }) fired. ({ 22 23 24 26 27 28 29 30 31 }) 
+# Sentence pair (203) source length 15 target length 14 alignment score : 3.5727e-16
+Tieto situácie predstavovali nepísané pravidlá, a tým pádom mohli byť napadnuté na súde, poznamenal. 
+NULL ({ 6 12 }) These ({ 1 2 3 }) were ({ }) all ({ }) unwritten ({ 4 5 }) rules, ({ 7 }) he ({ }) said, ({ }) and ({ }) thus ({ 8 9 }) could ({ }) be ({ }) challenged ({ 10 11 }) in ({ }) the ({ }) courts. ({ 13 14 }) 
+# Sentence pair (204) source length 20 target length 18 alignment score : 1.02285e-21
+Neskôr obhajoval ľudí, ktorí sa podpísali pod Chartu 77, no v roku 1981 mu zakázali vykonávať funkciu právnika. 
+NULL ({ 5 11 }) Later, ({ 1 2 }) he ({ }) defended ({ 3 4 }) people ({ }) who ({ }) had ({ }) signed ({ 6 7 8 9 }) Charter ({ }) 77, ({ }) but ({ 10 }) in ({ }) 1981 ({ }) he ({ }) was ({ }) banned ({ 12 }) from ({ }) practising ({ 13 14 }) as ({ }) a ({ }) lawyer. ({ 15 16 17 18 }) 
+# Sentence pair (205) source length 21 target length 12 alignment score : 3.49113e-14
+Na krátky čas jazdil na nákladiakoch, zastupoval továreň a neskôr poľnohospodárske družstvo. 
+NULL ({ 9 }) He ({ }) drove ({ }) a ({ }) factory ({ 1 2 3 }) jeep ({ }) for ({ }) a ({ }) while, ({ 4 5 }) then ({ }) worked ({ }) as ({ }) a ({ }) lawyer ({ }) for ({ }) the ({ }) factory, ({ 6 }) then ({ }) for ({ }) a ({ }) farmers' ({ 7 8 }) co-operative. ({ 10 11 12 }) 
+# Sentence pair (206) source length 20 target length 17 alignment score : 6.76394e-23
+Od roku 1987 zostal znovu nezamestnaný a nasledujúce roky začal tajne vydávať a distribuovať kresťansko-demokratické propagačné materiály. 
+NULL ({ 7 13 }) From ({ 1 2 3 4 }) 1987 ({ }) he ({ }) was ({ }) unemployed ({ 5 6 8 9 }) again ({ }) and ({ }) the ({ }) following ({ }) years ({ }) he ({ }) started ({ 10 }) secretly ({ 11 12 }) to ({ }) edit ({ }) and ({ }) distribute ({ }) Christian ({ }) Democratic ({ }) propaganda. ({ 14 15 16 17 }) 
+# Sentence pair (207) source length 18 target length 14 alignment score : 1.68362e-21
+Spomenul, že v druhej polovici 80. rokov spozoroval vzostup usporiadaného katolíckeho hnutia na Slovensku. 
+NULL ({ 3 }) The ({ }) second ({ 4 5 6 7 }) half ({ }) of ({ }) the ({ }) 198os, ({ 1 }) he ({ }) said, ({ 2 }) saw ({ }) the ({ }) rise ({ 8 9 10 }) of ({ }) the ({ }) organised ({ }) Catholic ({ }) movement ({ 11 12 }) in ({ }) Slovakia. ({ 13 14 }) 
+# Sentence pair (208) source length 6 target length 6 alignment score : 9.98801e-08
+Konali sa púte do pútnických kostolov. 
+NULL ({ 2 }) There ({ 1 }) were ({ }) pilgrimages ({ 3 }) to ({ }) holy ({ }) shrines. ({ 4 5 6 }) 
+# Sentence pair (209) source length 27 target length 19 alignment score : 7.76068e-29
+Napríklad v roku 1987 sa púte zúčastnilo približne šesťsto tisíc ľudí a prostredníctvom nej sa vykryštalizovalo neisté katolícke hnutie. 
+NULL ({ 2 5 12 15 }) In ({ }) 1987, ({ 1 3 4 }) for ({ }) example, ({ }) he ({ }) told ({ }) me, ({ }) about ({ }) six ({ 6 }) hundred ({ 7 8 9 }) thousand ({ 10 }) people ({ }) took ({ }) part ({ }) in ({ }) pilgrimages ({ }) in ({ }) Slovakia, ({ }) and ({ }) through ({ }) this ({ }) a ({ }) self-conscious ({ 11 }) Catholic ({ }) movement ({ }) took ({ 13 14 16 }) shape. ({ 17 18 19 }) 
+# Sentence pair (210) source length 43 target length 35 alignment score : 3.92519e-52
+Štát povolil a v určitom zmysle podporil úradnú cirkev. Táto však bola organizovaná tajnou cirkvou a práve tá naplánovala prvú demonštráciu, ktorá sa konala v marci v roku 1988. Tvorili ju kňazi a laickí aktivisti. 
+NULL ({ 3 4 16 23 25 27 33 }) The ({ }) state ({ }) allowed ({ }) and, ({ }) in ({ }) certain ({ 1 2 }) respects, ({ 5 6 7 }) encouraged ({ 8 9 }) an ({ }) official ({ 10 11 12 13 }) church, ({ 14 }) but ({ }) this ({ }) was ({ }) organised ({ }) by ({ }) a ({ }) secret ({ }) church, ({ }) and ({ }) it ({ }) was ({ }) the ({ }) secret ({ }) church ({ }) which ({ }) planned ({ 24 }) that ({ }) first ({ }) demonstration ({ }) in ({ }) March ({ }) 1988, ({ }) a ({ }) secret ({ }) church ({ 26 28 29 30 31 }) made ({ }) up ({ }) of ({ }) priests ({ 32 }) and ({ }) lay ({ 34 35 }) activists. ({ 15 17 18 19 20 21 22 }) 
+# Sentence pair (211) source length 17 target length 13 alignment score : 6.12429e-17
+V roku 1989 ho uväznili. Začiatkom Novembrovej revolúcie sa delil o drobnú celu. 
+NULL ({ 9 }) In ({ 1 }) 1989 ({ 2 3 }) he ({ }) was ({ }) imprisoned; ({ 4 5 }) in ({ }) November ({ }) when ({ }) the ({ }) revolution ({ }) began ({ }) he ({ }) was ({ }) sharing ({ 6 7 8 }) a ({ }) tiny ({ 10 }) cell. ({ 11 12 13 }) 
+# Sentence pair (212) source length 33 target length 26 alignment score : 1.28332e-36
+Vedel o páde Berlínskeho múru a o demonštráciách, ktoré vypukli v Prahe a v Bratislave, jednej noci však začul potlesk a výkriky davu ľudí z vonku. 
+NULL ({ 6 11 13 14 21 }) He ({ }) knew ({ }) that ({ }) the ({ }) Berlin ({ 1 2 3 4 5 7 }) Wall ({ 8 9 10 12 }) had ({ }) fallen, ({ }) and ({ }) he ({ }) knew ({ 15 16 17 }) there ({ }) were ({ }) demonstrations ({ }) in ({ }) Prague ({ }) and ({ }) Bratislava, ({ }) but ({ }) one ({ }) night ({ }) he ({ }) could ({ }) hear ({ 18 19 }) clapping ({ 20 }) and ({ }) shouting, ({ 22 23 }) he ({ }) could ({ }) hear ({ }) the ({ }) crowds ({ 24 }) outside. ({ 25 26 }) 
+# Sentence pair (213) source length 17 target length 14 alignment score : 1.68724e-19
+Písal sa práve 23. november 1989, kedy päť tisíc ľudí demonštrovalo pred bránami väznice. 
+NULL ({ 2 }) That ({ }) was ({ }) 23 ({ 1 3 4 5 6 }) November ({ }) 1989 ({ }) and ({ }) there ({ }) were ({ }) five ({ 7 8 }) thousand ({ 9 }) people ({ }) demonstrating ({ 10 11 }) in ({ }) front ({ 12 }) of ({ }) the ({ }) prison. ({ 13 14 }) 
+# Sentence pair (214) source length 10 target length 11 alignment score : 2.42178e-13
+("Bol som tam," ozval sa Juraj, keď Čarnogurský opisoval túto udalosť.) 
+NULL ({ 5 }) ('I ({ 1 }) was ({ }) there,' ({ 2 3 4 }) Juraj ({ }) interjected ({ 6 7 }) as ({ }) Carnogursky ({ 8 }) described ({ }) the ({ }) scene.) ({ 9 10 11 }) 
+# Sentence pair (215) source length 12 target length 11 alignment score : 7.08038e-18
+O dva dni nato ho prepustili a nechali na ulici samého. 
+NULL ({ 7 }) Two ({ }) days ({ }) later ({ 1 }) he ({ }) was ({ }) released, ({ 4 }) let ({ 5 6 }) out ({ }) into ({ }) the ({ }) street ({ 8 9 10 }) alone. ({ 2 3 11 }) 
+# Sentence pair (216) source length 5 target length 3 alignment score : 0.000375096
+Domov prišiel električkou. 
+NULL ({ }) He ({ }) took ({ }) a ({ }) tram ({ }) home. ({ 1 2 3 }) 
+# Sentence pair (217) source length 30 target length 21 alignment score : 5.38644e-29
+O niekoľko dní sa stal členom delegácie, ktorá vyjednávala s vládou. Požadovali účasť opozície v novej vláde a následné slobodné voľby. 
+NULL ({ 4 15 18 }) A ({ }) few ({ }) days ({ }) later ({ 1 2 3 }) he ({ }) was ({ }) a ({ }) member ({ 5 6 }) of ({ }) the ({ }) delegation ({ }) which ({ }) negotiated ({ 7 8 9 }) with ({ }) the ({ }) government, ({ 10 }) demanding ({ }) the ({ }) participation ({ 11 }) of ({ }) the ({ }) opposition ({ }) in ({ }) a ({ }) new ({ }) government, ({ }) followed ({ }) by ({ }) free ({ 12 13 14 16 }) elections. ({ 17 19 20 21 }) 
+# Sentence pair (218) source length 26 target length 22 alignment score : 2.69884e-38
+Z desaťčlennej delegácie bol jediným Slovákom, to však podľa neho nepredstavovalo až taký problém. Prekonanie komunizmu bolo tým najdôležitejším cieľom pre všetkých. 
+NULL ({ }) He ({ }) was ({ }) the ({ }) only ({ }) Slovak ({ }) in ({ }) the ({ }) ten-person ({ 8 9 }) delegation, ({ 4 5 }) but ({ }) that ({ }) was ({ }) not ({ }) an ({ }) issue ({ 10 }) then; ({ 11 }) overcoming ({ 6 7 }) communism, ({ }) he ({ }) said, ({ }) was ({ }) the ({ }) aim, ({ 12 }) everyone's ({ 13 14 }) overwhelming ({ 15 16 17 18 19 }) aim. ({ 1 2 3 20 21 22 }) 
+# Sentence pair (219) source length 13 target length 8 alignment score : 2.77031e-11
+10. decembra, dva týždne po prepustení, padla vláda. 
+NULL ({ }) On ({ }) 10 ({ }) December, ({ 1 2 }) two ({ }) weeks ({ }) after ({ }) he ({ }) was ({ }) freed, ({ 3 }) the ({ }) government ({ }) caved ({ 4 5 6 }) in. ({ 7 8 }) 
+# Sentence pair (220) source length 14 target length 10 alignment score : 1.78101e-13
+Razom nahradil zástupcu prezidenta Československa a dostal autá, telefóny, ministerstvo. 
+NULL ({ 6 }) Suddenly, ({ 1 2 }) he ({ }) was ({ }) deputy ({ }) prime ({ 3 }) minister ({ }) of ({ }) Czechoslovakia. ({ }) He ({ }) had ({ }) cars, ({ 4 5 7 }) telephones, ({ }) a ({ }) secretariat. ({ 8 9 10 }) 
+# Sentence pair (221) source length 19 target length 14 alignment score : 2.03408e-16
+Po dvadsiatich piatich rokoch v opozícii sa náhle musel zaoberať všetkými stránkami vedenia štátu. 
+NULL ({ 5 7 }) After ({ 1 }) twenty-five ({ 2 3 }) years ({ 4 }) in ({ }) opposition ({ 6 8 }) all ({ }) at ({ }) once ({ }) he ({ }) had ({ }) to ({ }) become ({ }) engaged ({ 9 10 }) in ({ }) all ({ }) aspects ({ 11 12 13 }) of ({ }) the ({ }) state. ({ 14 }) 
+# Sentence pair (222) source length 18 target length 13 alignment score : 4.66279e-22
+Zmenil iba svoj pohľad na vec, poznamenal, akoby to bolo všetko také jednoduché. 
+NULL ({ 5 }) He ({ }) just ({ }) changed ({ 6 }) his ({ }) point ({ }) of ({ }) view, ({ }) he ({ }) said, ({ }) as ({ }) if ({ }) it ({ }) all ({ }) had ({ }) really ({ 7 }) been ({ }) very ({ 8 9 10 11 }) easy. ({ 1 2 3 4 12 13 }) 
+# Sentence pair (223) source length 18 target length 12 alignment score : 2.07822e-14
+Mal na starosti novú legislatívu, prijímanie zákonov, napríklad zákon regulujúci slobodu tlače. 
+NULL ({ 2 }) He ({ }) was ({ }) in ({ }) charge ({ }) of ({ }) new ({ }) legislation, ({ 1 }) passing, ({ 3 4 5 }) for ({ }) example, ({ }) a ({ }) law ({ }) governing ({ 6 7 8 9 }) the ({ }) freedom ({ 10 }) of ({ }) the ({ }) press. ({ 11 12 }) 
+# Sentence pair (224) source length 14 target length 11 alignment score : 3.41727e-14
+Hoci pôsobil v Prahe, svoju stranu začal riadiť aj v Bratislave. 
+NULL ({ 3 }) Although ({ 1 2 }) he ({ }) was ({ }) based ({ 4 5 6 }) in ({ }) Prague ({ }) he ({ }) started ({ 7 }) to ({ }) organise ({ 8 9 10 11 }) his ({ }) party ({ }) in ({ }) Bratislava. ({ }) 
+# Sentence pair (225) source length 30 target length 16 alignment score : 4.97909e-21
+Vždy si uvedomoval problémy medzi Čechmi a Slovákmi a rozdiel medzi nimi opísal presne ako Juraj. 
+NULL ({ 7 9 }) He ({ }) had ({ }) always ({ 1 }) been ({ }) aware, ({ 2 3 }) he ({ }) said, ({ }) of ({ }) the ({ }) problems ({ 4 }) between ({ 5 }) the ({ }) Czechs ({ 6 }) and ({ }) the ({ }) Slovaks ({ }) and ({ }) he ({ }) gave ({ }) me ({ }) precisely ({ 8 10 }) the ({ }) same ({ }) definition ({ 11 }) of ({ }) the ({ }) difference ({ 12 13 14 }) as ({ 15 }) had ({ }) Juraj. ({ 16 }) 
+# Sentence pair (226) source length 11 target length 11 alignment score : 1.07253e-13
+Zatiaľ čo Česi boli racionálnejší a západnejší, u Slovákov prevláda emocionalita. 
+NULL ({ 6 }) The ({ }) Czechs ({ 1 2 3 }) were ({ }) more ({ }) rational ({ 4 5 }) and ({ }) western; ({ 7 8 }) the ({ }) Slovaks ({ 9 }) more ({ }) emotional. ({ 10 11 }) 
+# Sentence pair (227) source length 20 target length 12 alignment score : 8.13445e-15
+Za príčiny problémov medzi oboma národmi pokladal ľahostajnosť Čechov voči sťažnostiam Slovákov. 
+NULL ({ }) In ({ }) ways, ({ 1 2 }) he ({ }) said, ({ }) the ({ }) difficulties ({ 3 }) between ({ 4 }) the ({ }) two ({ }) nations ({ }) were ({ }) caused ({ }) by ({ }) Czech ({ }) lethargy ({ 5 6 }) in ({ }) relation ({ 7 8 }) to ({ }) Slovak ({ }) grievances. ({ 9 10 11 12 }) 
+# Sentence pair (228) source length 12 target length 11 alignment score : 2.03597e-20
+Čarnogurský nebol slovenským národovcom - antikomunizmus znamenal pre neho oveľa viac. 
+NULL ({ }) He ({ }) was ({ }) not ({ }) a ({ }) Slovak ({ }) nationalist; ({ 6 }) for ({ }) him ({ }) anti-communism ({ 4 5 7 8 9 }) was ({ }) more ({ }) important. ({ 1 2 3 10 11 }) 
+# Sentence pair (229) source length 15 target length 12 alignment score : 6.15732e-15
+Vlastenectvo, povedal, je vždy pomerne jednoduché zneužiť ako prostriedok k podnecovaniu ľudí. 
+NULL ({ }) Nationalism, ({ 1 2 3 }) he ({ }) said, ({ }) is ({ }) always ({ }) quite ({ }) easy ({ }) to ({ }) misuse, ({ 4 5 6 7 }) as ({ }) a ({ }) means ({ 8 }) of ({ }) mobilising ({ 9 10 11 }) people. ({ 12 }) 
+# Sentence pair (230) source length 12 target length 7 alignment score : 1.64459e-12
+Mnoho bývalých komunistov prešiel na stranu nacionalistov. 
+NULL ({ 5 }) A ({ }) good ({ }) number ({ }) of ({ }) former ({ }) communists, ({ }) he ({ }) told ({ }) me, ({ }) quickly ({ }) became ({ }) nationalists. ({ 1 2 3 4 6 7 }) 
+# Sentence pair (231) source length 18 target length 12 alignment score : 1.62081e-20
+On sám chcel vzťah medzi dvoma štátmi vytvoriť za pomoci Európskej únie. 
+NULL ({ }) He ({ }) himself ({ }) wanted ({ 3 }) the ({ }) relationship ({ 4 }) between ({ 5 }) the ({ }) two ({ }) states ({ 6 7 }) to ({ }) be ({ }) modelled ({ 8 9 10 }) on ({ }) states ({ }) of ({ }) the ({ }) European ({ }) Union. ({ 1 2 11 12 }) 
+# Sentence pair (232) source length 7 target length 7 alignment score : 1.33838e-10
+Spýtal som sa ho na vojnové roky. 
+NULL ({ 3 }) I ({ 2 }) asked ({ 1 }) him ({ }) about ({ }) the ({ }) war ({ }) years. ({ 4 5 6 7 }) 
+# Sentence pair (233) source length 13 target length 12 alignment score : 3.72634e-14
+Vyjadril sa, že počas vojny sa Slovensko stalo po prvýkrát nezávislou krajinou. 
+NULL ({ 6 }) During ({ 1 2 3 }) the ({ }) war, ({ 4 5 }) he ({ }) said, ({ }) Slovakia ({ 7 }) was ({ }) formally ({ 8 9 10 }) independent ({ 11 12 }) for ({ }) the ({ }) first ({ }) time. ({ }) 
+# Sentence pair (234) source length 11 target length 9 alignment score : 1.80325e-12
+Dosahovalo celkový úspech po ekonomickej, kultúrnej i politickej stránke. 
+NULL ({ }) The ({ }) Slovak ({ }) state ({ }) was ({ }) quite ({ }) successful, ({ }) he ({ }) said, ({ }) economically, ({ 1 2 3 }) culturally, ({ 4 5 6 7 }) politically. ({ 8 9 }) 
+# Sentence pair (235) source length 22 target length 20 alignment score : 2.73873e-26
+Jej prezidentom sa stal katolícky kňaz Dr. Jozef Tiso a práve tu možno vnímať pozitívny postoj katolíkov k tomuto štátu. 
+NULL ({ 3 10 }) Its ({ 1 2 }) president ({ 4 5 6 }) was ({ }) a ({ }) Catholic ({ }) priest, ({ 7 }) Dr ({ }) Josef ({ }) Tiso, ({ 8 9 }) and ({ }) there ({ }) is, ({ 11 12 13 14 }) he ({ }) said, ({ }) a ({ }) positive ({ }) feeling ({ }) among ({ 15 }) Catholics ({ 16 17 18 19 }) about ({ }) this ({ }) state. ({ 20 }) 
+# Sentence pair (236) source length 25 target length 24 alignment score : 1.0903e-26
+V tom čase Čarnogurský veril, že Slovensko má dve možnosti, a to rozdeliť sa medzi Poľsko, Maďarsko a Nemecko alebo sa stať Hitlerovou bábkou. 
+NULL ({ 11 14 21 }) At ({ }) the ({ }) time, ({ 1 2 3 }) Carnogursky ({ 4 }) believed, ({ 5 6 }) Slovakia ({ 7 }) had ({ }) two ({ }) options: ({ 8 9 10 }) to ({ }) be ({ }) divided ({ 12 13 }) between ({ 15 }) Poland, ({ 16 17 }) Hungary ({ 18 }) and ({ }) Germany, ({ 19 }) or ({ 20 }) to ({ }) become ({ }) a ({ }) puppet ({ }) state ({ }) under ({ }) Hitler. ({ 22 23 24 }) 
+# Sentence pair (237) source length 6 target length 5 alignment score : 1.44213e-07
+Toto obdobie bolo sporné, dodal. 
+NULL ({ }) The ({ }) period ({ }) is ({ }) controversial, ({ 1 }) he ({ }) added. ({ 2 3 4 5 }) 
+# Sentence pair (238) source length 4 target length 4 alignment score : 4.30232e-07
+Iba som kládol otázky. 
+NULL ({ }) I ({ 2 }) merely ({ }) asked ({ }) questions. ({ 1 3 4 }) 
+# Sentence pair (239) source length 22 target length 20 alignment score : 6.46805e-27
+Nenamietal som, len som si v poznámkovom bloku podčiarkoval, čo povedal. Slovenský štát bol ekonomicky, kultúrne a politicky celkom úspešný. 
+NULL ({ 6 17 }) I ({ }) did ({ }) not ({ }) argue, ({ 1 2 3 }) I ({ 4 }) underlined ({ 5 7 8 9 }) what ({ 10 }) he ({ }) had ({ }) said ({ }) in ({ }) my ({ }) notebook: ({ 11 12 13 }) The ({ }) Slovak ({ }) state ({ }) was ({ }) quite ({ 14 }) successful, ({ 15 16 18 19 }) economically, ({ }) culturally, ({ }) politically. ({ 20 }) 
+# Sentence pair (240) source length 22 target length 19 alignment score : 2.81207e-23
+Očakával som, že sa bude vykrúcať, zavádzať, no zdalo sa, že nemal ani len potuchy o dôležitosti tohto obdobia. 
+NULL ({ 4 }) I ({ }) had ({ }) expected ({ 1 2 }) him ({ }) to ({ }) hedge ({ 3 }) his ({ }) bets, ({ }) fudge ({ 5 6 7 }) the ({ }) issue, ({ 8 }) but ({ }) he ({ }) seemed ({ 9 10 11 }) to ({ }) have ({ }) no ({ }) idea ({ 12 13 14 }) how ({ }) important ({ 15 16 17 18 }) this ({ }) was. ({ 19 }) 
+# Sentence pair (241) source length 63 target length 44 alignment score : 1.44965e-78
+Možno tu hovoriť o rovnakom probléme ako u Chorvátov: ako sa vyrovnať s týmto obdobím, v ktorom od Hitlera prijali pozíciu zradcu a zároveň sa vyrovnať s krvavou a ponurou históriou Židov a Srbov. Slovenský národ, tak ako Chorváti, získal po prvýkrát aj štát. 
+NULL ({ 11 16 23 25 29 33 }) It ({ }) was ({ }) the ({ }) same ({ }) problem ({ }) as ({ 10 }) the ({ }) Croatians ({ 8 9 }) had: ({ 1 2 3 }) how ({ 4 5 6 7 }) to ({ }) deal ({ 12 }) with ({ 13 }) that ({ }) period ({ }) when ({ }) Hitler ({ }) offered ({ }) them ({ }) a ({ }) quisling ({ }) state ({ }) and ({ }) they ({ }) accepted, ({ }) how ({ }) to ({ }) deal ({ 14 15 }) with ({ }) history ({ }) that ({ }) was ({ }) still ({ }) remembered ({ 17 18 19 20 21 22 24 }) by ({ }) others ({ }) such ({ }) as ({ }) Serbs ({ 26 }) and ({ }) Jews ({ }) as ({ }) dark ({ }) and ({ }) murderous, ({ }) but ({ }) by ({ 27 }) Croats ({ 28 30 31 32 }) and ({ }) Slovaks ({ }) as ({ }) the ({ }) first ({ }) time ({ }) they ({ }) had ({ }) a ({ }) state ({ 44 }) as ({ 38 }) well ({ 42 43 }) as ({ }) a ({ }) nation. ({ 34 35 36 37 39 40 41 }) 
+# Sentence pair (242) source length 23 target length 19 alignment score : 8.05699e-23
+Žiaden západniar, ktorý teraz patril ku kresťanským demokratom, by nepriznal, že považuje obdobie Hitlerovho vládnutia inak, než za ohavné. 
+NULL ({ }) No ({ }) one ({ }) in ({ }) the ({ }) West ({ 1 2 3 }) now ({ }) in ({ }) a ({ }) Christian ({ }) Democratic ({ 4 5 }) party ({ }) would ({ }) admit ({ 6 7 8 }) to ({ }) seeing ({ 9 10 }) the ({ }) Hitler ({ 11 12 }) period ({ 13 }) as ({ }) anything ({ 14 15 16 }) other ({ }) than ({ 17 }) disgusting. ({ 18 19 }) 
+# Sentence pair (243) source length 7 target length 8 alignment score : 9.21516e-11
+Čarnogurský ako naivný človek bol však iba začiatočníkom. 
+NULL ({ }) Carnogursky ({ 1 }) was ({ }) naive; ({ 2 }) he ({ }) was ({ }) just ({ }) beginning. ({ 3 4 5 6 7 8 }) 
+# Sentence pair (244) source length 45 target length 41 alignment score : 2.50382e-59
+Po celý čas som mal však pocit, že sa potreboval iba naučiť, rovnako ako ostatné krajiny po vojne, čo slovo Hitler evokuje v mysli Židov, Rómov a homosexuálov v Európe, a ako kolaborujúce štáty nesú vinu za to, čo sa stalo. 
+NULL ({ 4 9 23 27 29 31 40 }) But ({ }) I ({ }) felt, ({ 1 2 }) all ({ }) the ({ }) same, ({ 3 5 6 7 }) that ({ 8 }) he ({ }) needed ({ 10 11 12 13 }) to ({ }) know, ({ }) as ({ 14 }) other ({ }) countries ({ 15 16 }) had ({ }) learned ({ }) in ({ }) the ({ }) years ({ }) after ({ 17 }) the ({ }) war, ({ }) what ({ }) the ({ }) word ({ 18 19 }) Hitler ({ }) meant ({ 20 }) to ({ }) Jews, ({ 21 22 24 }) gypsies ({ 25 }) and ({ }) homosexuals ({ 26 28 }) in ({ }) Europe; ({ 30 }) and ({ }) how ({ 32 }) the ({ }) quisling ({ }) states ({ }) bear ({ 33 34 35 36 }) a ({ }) guilt ({ 41 }) for ({ 37 }) what ({ 38 39 }) happened. ({ }) 
+# Sentence pair (245) source length 24 target length 18 alignment score : 1.0397e-23
+Keď sme opustili budovu, predpokladal som, že Juraj to vníma podobne ako ja a zdieľame rovnaký politický názor. 
+NULL ({ 14 }) As ({ 1 2 }) we ({ }) left ({ }) the ({ }) building ({ }) I ({ }) presumed ({ 3 4 5 6 }) that ({ 7 }) Juraj ({ 8 }) had ({ }) similar ({ 9 10 11 }) feelings ({ }) and ({ }) I ({ }) spoke ({ }) to ({ }) him ({ }) as ({ 12 }) though ({ }) we ({ }) shared ({ 13 15 }) a ({ }) political ({ }) outlook. ({ 16 17 18 }) 
+# Sentence pair (246) source length 10 target length 6 alignment score : 4.50362e-08
+Nechápal však tomu, čo som hovoril. 
+NULL ({ }) But ({ }) he ({ }) did ({ }) not ({ }) understand ({ 1 2 3 }) what ({ 4 }) I ({ 5 }) was ({ }) talking ({ }) about. ({ 6 }) 
+# Sentence pair (247) source length 20 target length 14 alignment score : 6.978e-20
+My s vojnovým obdobím nemáme nič spoločné a stále o ňom nevieme dosť, poznamenal. 
+NULL ({ 8 }) The ({ }) war ({ }) years, ({ 1 2 }) he ({ }) said, ({ }) we ({ }) have ({ }) nothing ({ }) to ({ }) do ({ }) with ({ }) them; ({ 3 4 5 6 7 }) and ({ }) we ({ }) still ({ 9 }) don't ({ }) know ({ }) enough ({ }) about ({ 10 }) them. ({ 11 12 13 14 }) 
+# Sentence pair (248) source length 14 target length 11 alignment score : 2.22965e-19
+Spoločne sme vykročili k autu a odišli sme späť do ateliéru. 
+NULL ({ 6 }) I ({ }) walked ({ }) to ({ }) the ({ }) car ({ }) with ({ }) him ({ }) and ({ }) we ({ }) drove ({ 8 }) back ({ 9 10 }) towards ({ 3 4 5 7 }) his ({ }) studio. ({ 1 2 11 }) 
+# Sentence pair (249) source length 16 target length 14 alignment score : 3.58471e-23
+Popoludnie som strávil v dome s veľkou záhradou, ktorá sa nachádzala v blízkosti ateliéru. 
+NULL ({ 10 12 }) I ({ 2 }) spent ({ }) that ({ }) afternoon ({ }) in ({ 4 }) a ({ }) house ({ 5 6 }) close ({ }) to ({ }) the ({ }) studio ({ 7 8 9 11 }) which ({ }) had ({ }) a ({ }) big ({ }) garden. ({ 1 3 13 14 }) 
+# Sentence pair (250) source length 9 target length 8 alignment score : 6.79667e-12
+Jurajovi a Tánini priatelia nás pozvali na grilovačku. 
+NULL ({ 2 }) Friends ({ }) of ({ }) Juraj ({ }) and ({ }) Tana's ({ }) were ({ }) hosting ({ 1 }) a ({ }) barbecue. ({ 3 4 5 6 7 8 }) 
+# Sentence pair (251) source length 15 target length 9 alignment score : 4.28663e-13
+Ľudia prišli na pohárik, odišli, po nich prichádzali ďalší. 
+NULL ({ 3 }) People ({ }) dropped ({ 1 }) in ({ }) for ({ }) a ({ }) while, ({ }) had ({ }) a ({ }) drink ({ }) and ({ }) left, ({ }) and ({ }) then ({ }) others ({ 2 }) came. ({ 4 5 6 7 8 9 }) 
+# Sentence pair (252) source length 12 target length 11 alignment score : 3.39671e-14
+Juraj a Táňa sa pobrali domov pracovať, ja som však zostal. 
+NULL ({ 2 4 }) Juraj ({ 1 }) and ({ }) Tana ({ 3 }) went ({ }) to ({ }) do ({ }) some ({ }) work, ({ 5 6 7 8 }) but ({ }) I ({ 9 }) stayed ({ 10 }) on. ({ 11 }) 
+# Sentence pair (253) source length 7 target length 10 alignment score : 1.35814e-14
+Všetci boli veselí, dobre oblečení a mali niečo cez tridsať. 
+NULL ({ 6 }) Everyone ({ 3 }) was ({ }) bright ({ 4 }) and ({ }) well-dressed ({ 5 7 8 }) and ({ }) thirtysomething. ({ 1 2 9 10 }) 
+# Sentence pair (254) source length 28 target length 20 alignment score : 4.25788e-30
+Jedlo bolo chutné, a vonku bolo príjemne teplo, akurát na posedenie na verande, hoci obloha bola plná sivastých, malých mračien. 
+NULL ({ 4 10 12 }) The ({ }) food ({ 1 2 3 5 6 }) was ({ }) good, ({ }) and ({ }) the ({ }) air ({ }) was ({ }) warm ({ }) enough ({ }) for ({ }) us ({ }) to ({ }) sit ({ }) out ({ }) on ({ }) the ({ }) veranda, ({ }) even ({ }) though ({ }) the ({ }) sky ({ 13 14 15 }) was ({ }) full ({ 16 17 }) of ({ }) pale, ({ 18 19 20 }) low ({ 7 8 9 }) cloud. ({ 11 }) 
+# Sentence pair (255) source length 35 target length 28 alignment score : 1.75292e-41
+Američania-párik, ktorý pracoval ako dobrovoľníci v miestnej banke, nám porozprával o Prahe preplnenej Američanmi a odporučil nám Bratislavu ako lepšie miesto, ak ste sa chceli zamiešať do spoločnosti. 
+NULL ({ 6 15 24 }) An ({ 1 2 3 }) American ({ }) couple ({ 4 }) working ({ }) as ({ }) volunteers ({ 5 7 8 }) in ({ }) a ({ }) local ({ }) bank ({ 9 10 11 12 13 14 16 17 18 }) told ({ }) us ({ }) how ({ }) Prague ({ }) was ({ }) full ({ }) of ({ }) Americans ({ 19 }) now, ({ }) Bratislava ({ }) was ({ }) a ({ }) much ({ }) better ({ 20 21 }) place ({ }) to ({ }) be ({ }) if ({ 22 }) you ({ }) want ({ }) to ({ }) mix ({ 23 }) in ({ }) the ({ }) society. ({ 25 26 27 28 }) 
+# Sentence pair (256) source length 20 target length 17 alignment score : 2.14675e-26
+Hneď, ako sa začalo stmievať, sa iný párik vybral po svojho syna, ktorý sa hral na záhrade. 
+NULL ({ 6 14 16 }) At ({ 1 2 }) the ({ }) first ({ 3 }) hints ({ 4 5 7 }) of ({ }) twilight ({ 10 11 12 }) a ({ }) couple ({ }) came ({ }) to ({ }) collect ({ 8 9 }) their ({ }) son ({ }) who ({ }) had ({ }) been ({ }) playing ({ 13 15 17 }) in ({ }) the ({ }) garden. ({ }) 
+# Sentence pair (257) source length 42 target length 35 alignment score : 1.01434e-50
+Líšili sa od ostatných: boli vyšší, pôvabnejší a o niečo starší. Dokonca aj keď nič nehovorili - hoci muž dokopy nič nepovedal, iba všetko sledoval a usmieval sa – zdalo sa, že sú stredobodom pozornosti. 
+NULL ({ 2 8 26 28 }) They ({ }) were ({ }) different ({ }) from ({ }) the ({ }) rest, ({ 1 3 4 }) taller, ({ 5 6 7 }) much ({ 9 }) more ({ }) glamorous, ({ 10 11 12 }) a ({ }) bit ({ }) older; ({ 13 }) even ({ }) when ({ 14 }) they ({ }) didn't ({ }) talk ({ }) - ({ }) and ({ }) the ({ }) man ({ }) said ({ }) nothing ({ }) most ({ }) of ({ }) the ({ }) time, ({ }) merely ({ }) watched ({ }) everything ({ 24 }) and ({ }) smiled ({ 25 27 }) - ({ 29 30 31 }) they ({ 32 33 }) appeared ({ 34 35 }) to ({ }) be ({ }) the ({ }) centre ({ }) of ({ }) things. ({ 15 16 17 18 19 20 21 22 23 }) 
+# Sentence pair (258) source length 9 target length 9 alignment score : 3.31141e-14
+Kládol som si otázku, kto sú a čo robia. 
+NULL ({ 2 7 }) I ({ }) wondered ({ 1 3 4 5 }) who ({ }) they ({ 6 }) were ({ }) and ({ }) what ({ 8 }) they ({ }) did. ({ 9 }) 
+# Sentence pair (259) source length 9 target length 11 alignment score : 1.93916e-16
+Chlapík vyzeral ako niekto, koho som už predtým videl v televízii. 
+NULL ({ 10 }) He ({ }) looked ({ }) like ({ }) someone ({ 4 5 }) I ({ 6 }) had ({ }) seen ({ 7 8 9 }) on ({ }) television. ({ 1 2 3 11 }) 
+# Sentence pair (260) source length 18 target length 14 alignment score : 1.17502e-22
+Mal niečo cez štyridsať a bol oblečený v čiernom; manželka bola elegantná dlhovlasá blondína. 
+NULL ({ 5 }) He ({ }) was ({ }) in ({ }) his ({ }) early ({ 4 6 7 }) forties ({ 8 }) and ({ }) dressed ({ }) in ({ }) black; ({ 9 }) his ({ }) wife ({ }) was ({ }) elegant ({ 10 }) with ({ }) long ({ }) blonde ({ 11 12 }) hair. ({ 1 2 3 13 14 }) 
+# Sentence pair (261) source length 22 target length 21 alignment score : 3.00935e-26
+Vyzeral napoly znudený a sedel s pivom v rukách, i keď bol mysľou niekde inde. Vyžarovala z neho akási nepokojná spokojnosť. 
+NULL ({ 4 8 }) He ({ }) seemed ({ }) half ({ }) bored, ({ 1 2 3 }) sitting ({ 5 6 7 }) there ({ }) nursing ({ 9 }) a ({ }) beer, ({ }) as ({ }) though ({ }) his ({ }) mind ({ 10 11 12 }) was ({ }) elsewhere; ({ 13 14 }) he ({ }) exuded ({ }) a ({ }) restless ({ 15 16 }) sort ({ }) of ({ 17 }) contentment. ({ 18 19 20 21 }) 
+# Sentence pair (262) source length 41 target length 40 alignment score : 5.56499e-57
+Až keď sa vrátila Táňa som sa dozvedel, že ide o Milana Kňažka; o herca, ktorý viedol revolúciu v Bratislave, o herca, ktorý prednášal príhovor na všetkých novembrových schôdzkach v roku 1989, o herca, ktorý svojou prítomnosťou podržal celé davy. 
+NULL ({ 3 7 19 26 30 }) It ({ }) was ({ }) only ({ }) when ({ 2 }) Tana ({ 5 }) returned ({ 1 4 }) that ({ }) I ({ 6 }) learned ({ 8 }) he ({ 9 }) was ({ }) Milan ({ 12 }) Knazko, ({ 10 11 13 14 }) the ({ }) actor ({ 15 16 }) who ({ }) had ({ }) led ({ 17 18 }) the ({ }) revolution ({ }) in ({ }) Bratislava, ({ 20 }) who ({ }) had ({ }) addressed ({ 21 22 23 24 }) all ({ }) the ({ }) meetings ({ 25 27 28 29 }) in ({ }) November ({ 31 32 33 }) 1989, ({ 34 }) who ({ }) held ({ }) the ({ }) crowd ({ 35 }) in ({ }) the ({ }) power ({ }) of ({ }) his ({ }) presence. ({ 36 37 38 39 40 }) 
+# Sentence pair (263) source length 35 target length 16 alignment score : 6.4568e-24
+Bol človekom, ktorý pokrikoval "Vytvorte koridor", ak bol niekto vpredu zranený a museli ho vziať dozadu. 
+NULL ({ 12 }) He ({ 1 }) was ({ }) the ({ }) one ({ }) who ({ }) used ({ }) to ({ }) shout ({ 2 3 4 5 6 }) 'Make ({ 7 }) a ({ }) corridor' ({ }) if ({ }) someone ({ }) was ({ }) ill ({ 8 9 10 }) at ({ }) the ({ }) front ({ }) of ({ }) the ({ }) crowd ({ }) and ({ }) needed ({ }) to ({ }) be ({ }) carried ({ 11 }) to ({ }) the ({ }) back, ({ }) until ({ }) the ({ }) phrase ({ }) became ({ }) a ({ }) catch-cry. ({ 13 14 15 16 }) 
+# Sentence pair (264) source length 39 target length 36 alignment score : 8.00644e-50
+Vplyvné postavenie získal v čase po revolúcii, ktoré však stratil v spletitých politických machináciách v Bratislave v rokoch 1990 a 1991. Hovorí sa, že sa môže vrátiť späť do politiky, nik si však nie je istý. 
+NULL ({ 4 11 15 17 20 25 }) And ({ }) he ({ }) was ({ }) in ({ }) power ({ }) in ({ }) the ({ }) days ({ }) after ({ 6 }) the ({ }) revolution, ({ 5 }) and ({ }) lost ({ }) power ({ 7 8 9 10 }) in ({ }) the ({ }) intricate ({ 12 13 14 }) political ({ }) machinations ({ 1 2 3 }) in ({ }) Bratislava ({ 16 }) in ({ }) 1990 ({ 18 19 }) and ({ }) 1991, ({ 21 22 23 }) but ({ }) there ({ }) was ({ }) talk ({ }) now ({ }) that ({ 24 }) he ({ }) might ({ }) return ({ 26 27 28 }) to ({ 29 }) politics, ({ 30 31 }) no ({ }) one ({ }) knew. ({ 32 33 34 35 36 }) 
+# Sentence pair (265) source length 38 target length 31 alignment score : 3.29667e-47
+Predstavoval som si, aké to musí byť ťažké pamätať si na dni, keď ste viedli krajinu a uvedomovať si, že sú nenávratne preč, že všetko bude už len nudné a vzdialené. 
+NULL ({ 11 17 30 }) I ({ 2 }) thought ({ }) of ({ }) how ({ }) hard ({ }) it ({ }) must ({ 6 }) be ({ }) to ({ }) have ({ }) known ({ }) those ({ }) days ({ 7 8 9 10 12 }) when ({ 13 }) you ({ }) could ({ }) lead ({ }) your ({ 14 }) country, ({ 15 16 }) hold ({ }) the ({ }) crowd, ({ }) realising ({ 18 19 }) that ({ 20 }) the ({ }) days ({ }) would ({ }) never ({ }) come ({ }) back, ({ 21 22 23 }) that ({ 24 }) afterwards ({ 1 3 4 5 }) everything ({ 25 }) would ({ }) be ({ }) dull ({ 26 27 }) and ({ }) distant. ({ 28 29 31 }) 
+# Sentence pair (266) source length 15 target length 11 alignment score : 4.51554e-14
+Ľudia, ktorí pocítili chuť moci sa už bez nej nevedia zaobísť. 
+NULL ({ 6 }) People ({ 1 2 }) who ({ }) get ({ }) a ({ }) taste ({ 3 }) of ({ }) power ({ }) always ({ }) find ({ 4 5 }) it ({ }) hard ({ 7 }) to ({ }) do ({ }) without ({ 8 }) it. ({ 9 10 11 }) 
+# Sentence pair (267) source length 8 target length 6 alignment score : 5.60172e-08
+Spýtal sa ma, o čom píšem. 
+NULL ({ 2 }) He ({ }) asked ({ 1 }) me ({ }) what ({ }) I ({ }) was ({ }) writing ({ 3 4 5 6 }) about. ({ }) 
+# Sentence pair (268) source length 4 target length 5 alignment score : 4.10758e-06
+"O katolíckej Európe," odpovedal som. 
+NULL ({ }) Catholic ({ 1 2 }) Europe,' ({ 3 4 5 }) I ({ }) said. ({ }) 
+# Sentence pair (269) source length 22 target length 15 alignment score : 2.93362e-21
+"Som Luterán," odpovedal s úsmevom, akoby chcel vyjadril ľútosť, že mi nemá byť čím nápomocný. 
+NULL ({ }) I'm ({ 1 2 3 }) Lutheran,' ({ 4 5 }) he ({ }) replied ({ }) and ({ }) smiled, ({ 6 7 8 }) as ({ }) if ({ }) to ({ }) say ({ }) that ({ }) he ({ }) was ({ }) sorry ({ 9 }) he ({ 10 }) could ({ }) not ({ }) be ({ }) any ({ }) use ({ 11 12 13 14 }) to ({ }) me. ({ 15 }) 
+# Sentence pair (270) source length 5 target length 4 alignment score : 1.42771e-06
+Zberal sa na odchod. 
+NULL ({ 2 }) He ({ }) stood ({ }) up ({ }) to ({ }) go. ({ 1 3 4 }) 
+# Sentence pair (271) source length 32 target length 23 alignment score : 3.58721e-32
+Po tom, čo vyzdvihli syna mi napadlo, že odchádzajú domov a dnes už zostanú sedieť doma, čo by si politik nikdy nemohol dovoliť. 
+NULL ({ 11 }) As ({ }) they ({ }) collected ({ }) their ({ }) son, ({ 1 2 3 }) it ({ }) struck ({ 4 5 6 7 }) me ({ }) that ({ 8 }) they ({ }) were ({ }) going ({ }) home ({ 9 10 }) and ({ }) would ({ }) not ({ }) go ({ }) out ({ }) again, ({ 12 13 14 15 16 17 }) but ({ }) would ({ 18 }) sit ({ }) in ({ }) tonight: ({ 19 }) something ({ }) a ({ }) politician ({ }) would ({ }) never ({ }) have ({ }) to ({ }) do. ({ 20 21 22 23 }) 
+# Sentence pair (272) source length 13 target length 11 alignment score : 1.20708e-15
+Ešte pred pár rokmi mu vyzváňal telefón vo dne v noci. 
+NULL ({ 10 }) Just ({ 1 }) a ({ }) few ({ 2 3 4 }) years ({ }) ago ({ 5 6 7 8 }) the ({ }) phone ({ 9 }) rang ({ }) for ({ }) Knazko ({ }) day ({ }) and ({ }) night. ({ 11 }) 
+# Sentence pair (273) source length 10 target length 7 alignment score : 7.57302e-13
+Ozimilo sa a spoločnosť sa pomaly rozchádzala. 
+NULL ({ 2 3 5 }) It ({ }) was ({ }) cold ({ }) now ({ }) and ({ }) the ({ }) party ({ }) was ({ }) breaking ({ }) up. ({ 1 4 6 7 }) 
+# Sentence pair (274) source length 24 target length 19 alignment score : 1.96103e-29
+S Táňou sme sa rozhodli ísť pešo do mesta, no keď sme odchádzali, všimol som si pred domom kaplnku. 
+NULL ({ 4 }) Tana ({ }) and ({ }) I ({ }) agreed ({ 5 }) to ({ }) walk ({ 6 7 }) into ({ 8 }) the ({ }) city, ({ 9 10 }) but ({ }) as ({ }) we ({ }) left ({ 11 12 13 14 }) I ({ 15 }) noticed ({ 16 }) a ({ }) sort ({ }) of ({ }) quarry ({ }) in ({ }) front ({ 17 }) of ({ }) the ({ }) house. ({ 1 2 3 18 19 }) 
+# Sentence pair (275) source length 24 target length 17 alignment score : 1.8683e-30
+Bola to jaskynka, v ktorej sa pri horiacich sviečkach pred sochou Panny Márie na kolenách modlila žena. 
+NULL ({ 4 6 14 }) It ({ }) was ({ }) a ({ }) grotto, ({ }) and ({ }) there ({ }) were ({ }) a ({ }) few ({ }) candles ({ }) lit ({ }) in ({ }) front ({ }) of ({ }) the ({ }) statue ({ }) of ({ }) the ({ }) Virgin, ({ 17 }) and ({ }) a ({ }) woman ({ 5 7 8 }) kneeling ({ 9 10 11 12 13 15 16 }) praying. ({ 1 2 3 }) 
+# Sentence pair (276) source length 16 target length 9 alignment score : 2.82003e-13
+Kaplnku obklopovali stromy, ktoré zrazu zašušťali v závane vetra. 
+NULL ({ 7 }) There ({ }) were ({ }) trees ({ 1 2 3 }) all ({ }) around ({ }) offering ({ }) shelter, ({ }) and ({ }) they ({ }) rustled ({ }) suddenly ({ 4 }) in ({ }) a ({ }) gust ({ 5 6 }) of ({ }) wind. ({ 8 9 }) 
+# Sentence pair (277) source length 12 target length 10 alignment score : 4.36057e-18
+Za nimi som spozoroval ženu sťa tieň, ktorá sa modlila. 
+NULL ({ 9 }) I ({ 3 }) saw ({ }) a ({ }) woman ({ }) standing ({ }) behind ({ }) a ({ }) tree, ({ }) like ({ }) a ({ }) shadow, ({ 4 5 6 7 8 }) praying. ({ 1 2 10 }) 
+# Sentence pair (278) source length 39 target length 36 alignment score : 1.35543e-53
+Nachádzali sa tu o skalu pripevnené pamätné dosky obsahujúce mená a dátumy z raných rokov tohto storočia napísané v nemčine, maďarčine a slovenčine. Niektoré z nich, ako mi Táňa preložila, vzdávali vďaku Panne Márii za uzdravenie. 
+NULL ({ 2 11 19 22 }) There ({ }) were ({ }) plaques ({ 1 3 4 5 }) stuck ({ 6 7 8 }) to ({ }) the ({ }) stone ({ 15 16 17 18 }) in ({ }) German, ({ 20 21 }) Hungarian ({ 9 }) and ({ }) Slovak, ({ 10 12 14 }) with ({ }) names ({ }) and ({ }) dates ({ }) from ({ 13 25 }) the ({ }) early ({ }) years ({ }) of ({ }) the ({ }) century, ({ 23 24 26 }) some ({ }) of ({ }) them ({ }) - ({ }) Tana ({ }) translated ({ 27 }) for ({ }) me ({ 28 }) thanking ({ 29 30 31 32 }) the ({ }) Virgin ({ }) for ({ }) recovery ({ }) from ({ }) an ({ }) illness. ({ 33 34 35 36 }) 
+# Sentence pair (279) source length 19 target length 27 alignment score : 1.16717e-32
+Bolo zvláštne tu teraz stáť, hoci som bol tak blízko po celé popoludnie bez toho, aby som čo i len tušil, že sa v okolí nachádza kaplnka. 
+NULL ({ 17 23 24 }) It ({ 1 }) was ({ }) strange ({ 2 3 4 5 }) standing ({ 6 7 8 }) here, ({ 9 }) having ({ }) been ({ }) so ({ }) close ({ }) all ({ }) afternoon ({ 10 11 12 13 }) without ({ 14 15 16 }) knowing ({ 18 19 20 21 }) that ({ 22 }) there ({ }) was ({ }) a ({ }) grotto ({ }) nearby. ({ 25 26 27 }) 
+# Sentence pair (280) source length 26 target length 21 alignment score : 2.49268e-28
+Ako sme sa vracali po schodoch späť na cestu, začul som v diaľke krik, akoby sa niekde práve hral futbalový zápas. 
+NULL ({ 3 8 12 16 }) As ({ 1 2 }) we ({ }) walked ({ }) back ({ }) up ({ }) the ({ }) steps ({ 4 5 6 }) to ({ }) the ({ }) road ({ 7 9 10 }) I ({ 11 }) could ({ }) hear ({ }) shouting ({ }) in ({ }) the ({ }) distance, ({ 13 14 }) as ({ }) though ({ 15 }) there ({ }) was ({ }) a ({ }) football ({ 17 18 19 20 }) match ({ }) going ({ }) on. ({ 21 }) 
+# Sentence pair (281) source length 6 target length 7 alignment score : 9.75331e-10
+Táňa mi povedala, že to je bar. 
+NULL ({ }) Tana ({ 1 }) said ({ 2 3 4 }) it ({ 5 6 }) was ({ }) a ({ }) bar. ({ 7 }) 
+# Sentence pair (282) source length 4 target length 3 alignment score : 0.000498371
+Bol stále otvorený. 
+NULL ({ }) It ({ }) was ({ }) still ({ }) open. ({ 1 2 3 }) 
+# Sentence pair (283) source length 36 target length 28 alignment score : 2.07577e-45
+Všetci zákazníci sedeli vonku pri stoloch, z čoho väčšina boli ťažko opití mladíci, vykrikujúci piesne a slogany. Stáli pri okienku v rade na ďalší veľký sklenený krígeľ ležiaka. 
+NULL ({ 16 21 23 }) All ({ 6 7 8 9 10 11 12 }) the ({ }) clientele ({ }) were ({ }) sitting ({ }) outside ({ }) at ({ }) tables, ({ }) most ({ }) of ({ }) them ({ }) were ({ }) young ({ }) and ({ }) many ({ }) of ({ }) them ({ }) were ({ }) seriously ({ }) drunk, ({ }) roaring ({ 13 }) out ({ }) songs ({ 14 15 }) and ({ }) slogans ({ 17 18 19 }) and ({ }) queuing ({ 1 2 3 4 }) at ({ }) the ({ }) hatch ({ }) for ({ }) more ({ }) big ({ }) glass ({ 5 }) tankards ({ 20 22 24 }) oflager. ({ 25 26 27 28 }) 
+# Sentence pair (284) source length 11 target length 10 alignment score : 4.21598e-12
+Pivo je silné, rýchlo sa z neho opiješ, povedala Táňa. 
+NULL ({ 5 }) The ({ }) beer ({ 1 2 }) was ({ }) strong, ({ 3 4 }) Tana ({ }) said, ({ }) it ({ }) made ({ }) you ({ }) drunk ({ 6 7 }) easily. ({ 8 9 10 }) 
+# Sentence pair (285) source length 16 target length 10 alignment score : 8.87601e-12
+Po zotmení sa ochladilo, to však neodlákalo žiadneho z pijanov. 
+NULL ({ 3 }) It ({ }) was ({ }) freezing ({ 1 2 }) now ({ }) that ({ }) darkness ({ 4 5 }) had ({ }) fallen, ({ 6 }) but ({ }) this ({ }) put ({ }) none ({ }) of ({ }) the ({ }) drinkers ({ 7 8 }) off. ({ 9 10 }) 
+# Sentence pair (286) source length 17 target length 17 alignment score : 6.00281e-23
+Dali sme si pivo a snažili sme sa rozprávať napriek príšernému hlasnému spevu prichádzajúcemu od vedľajších stolov. 
+NULL ({ 5 8 }) We ({ }) had ({ }) beers ({ 1 2 3 4 }) and ({ }) tried ({ }) to ({ }) talk ({ }) despite ({ 6 7 }) the ({ }) terrible, ({ 9 10 11 12 }) loud ({ }) singing ({ }) coming ({ }) from ({ }) the ({ }) other ({ }) tables. ({ 13 14 15 16 17 }) 
+# Sentence pair (287) source length 35 target length 26 alignment score : 1.86564e-35
+Nebol som si úplne istý, či táto scéna a scéna pri jaskynke s modliacou sa ženou v tieni stromu neboli iba snom, filmom či nejakou predstavou. 
+NULL ({ 9 15 17 }) I ({ }) was ({ }) not ({ }) entirely ({ 1 2 }) sure ({ 3 4 5 }) that ({ }) this ({ }) scene ({ 6 7 8 10 11 }) and ({ }) the ({ }) scene ({ }) at ({ }) the ({ }) grotto ({ }) with ({ }) the ({ }) woman ({ }) praying ({ 12 13 14 16 }) in ({ }) the ({ }) shadow ({ 18 }) of ({ }) the ({ }) tree ({ }) were ({ }) not ({ }) from ({ }) a ({ }) dream, ({ 19 20 }) or ({ }) a ({ }) movie, ({ 21 }) or ({ }) something ({ }) imagined. ({ 22 23 24 25 26 }) 
+# Sentence pair (288) source length 5 target length 4 alignment score : 2.24281e-06
+Zima ale bola skutočná. 
+NULL ({ }) But ({ }) the ({ }) cold ({ }) was ({ }) real. ({ 1 2 3 4 }) 
+# Sentence pair (289) source length 8 target length 8 alignment score : 4.4466e-11
+Vrátili sme sa späť k rozhovoru o politike. 
+NULL ({ 3 }) And ({ 1 2 }) we ({ }) went ({ }) back ({ 4 }) to ({ }) talking ({ }) about ({ }) politics. ({ 5 6 7 8 }) 
+# Sentence pair (290) source length 26 target length 22 alignment score : 2.46175e-31
+Kňažko bol slávny filmový, televízny a divadelný herec a po revolúcii sa presťahoval do Prahy, kde sa stal Havlovým poradcom, povedala Táňa. 
+NULL ({ 6 9 17 }) Knazko ({ 1 2 }) was ({ }) a ({ }) popular ({ 3 4 }) film, ({ 5 }) TV ({ }) and ({ }) theatre ({ 7 8 15 16 18 19 }) actor, ({ 20 21 22 }) Tana ({ }) told ({ }) me, ({ }) and ({ }) after ({ 10 }) the ({ }) revolution ({ 11 }) he ({ }) moved ({ }) to ({ }) Prague ({ }) to ({ }) become ({ 12 }) an ({ }) adviser ({ 13 14 }) to ({ }) Havel. ({ }) 
+# Sentence pair (291) source length 36 target length 31 alignment score : 3.11205e-37
+Akonáhle sa zbavil ilúzií o Havlovi, stal sa poslancom slovenského parlamentu a ministrom zahraničných vecí. Moc však stratil v mnohých rozkoloch a v osobných konfliktoch, ktoré vznikli v dôsledku samostatnosti štátu. 
+NULL ({ 2 8 12 19 22 28 }) Once ({ 1 3 4 5 }) he ({ }) grew ({ }) disillusioned ({ 6 7 }) with ({ }) Havel, ({ }) he ({ }) became ({ }) a ({ }) member ({ }) of ({ }) the ({ }) Slovak ({ }) parliament ({ 9 10 11 }) and ({ }) Minister ({ 13 }) for ({ }) Foreign ({ 14 }) Relations, ({ 15 16 }) but ({ }) he ({ }) had ({ }) lost ({ 17 18 }) power ({ }) in ({ }) the ({ }) many ({ 20 21 }) splits ({ }) and ({ }) personality ({ 23 }) clashes ({ 24 25 26 }) which ({ }) had ({ }) arisen ({ 27 }) since ({ }) independence. ({ 29 30 31 }) 
+# Sentence pair (292) source length 33 target length 30 alignment score : 8.59018e-40
+Počas revolúcie sa javil ako slušný človek, ktorý vedel osloviť davy ľudí, ale neprejavoval dostatočný záujem o systém a štruktúru štátu, ktorou sa musíte zaoberať ak vediete krajinu, rozprávala Táňa. 
+NULL ({ 3 19 23 }) He ({ }) was ({ }) good ({ }) during ({ }) the ({ }) revolution, ({ }) she ({ 1 2 4 5 }) said, ({ }) brilant ({ 6 7 8 9 10 }) with ({ }) the ({ }) crowd, ({ 11 12 13 14 }) but ({ }) he ({ }) was ({ }) not ({ }) so ({ }) interested ({ 15 16 17 18 }) in ({ }) the ({ }) systems ({ 20 }) and ({ }) structures ({ 21 22 24 }) you ({ }) have ({ }) to ({ }) apply ({ 25 }) when ({ }) you ({ }) are ({ }) running ({ 26 27 }) a ({ }) country. ({ 28 29 30 }) 
+# Sentence pair (293) source length 23 target length 18 alignment score : 3.32913e-22
+Povedal som jej, aký som bol rozčarovaný Čarnogurského odpoveďou na otázku o vojnových rokoch a zrade Slovenského štátu. 
+NULL ({ 2 10 15 }) I ({ }) told ({ }) her ({ }) how ({ }) amazed ({ 1 3 4 }) I ({ 5 }) had ({ }) been ({ }) by ({ }) Carnogursky's ({ 6 7 8 }) response ({ 9 }) to ({ }) the ({ }) question ({ 11 12 13 }) about ({ }) the ({ }) war ({ }) years ({ 14 }) and ({ }) the ({ }) quisling ({ 16 17 }) Slovak ({ }) state. ({ 18 }) 
+# Sentence pair (294) source length 29 target length 26 alignment score : 6.1351e-37
+Pokrútila hlavou a povedala, že doteraz nik v Bratislave nevie veľa o tomto období. Boli si istí tým, čo je komunistická propaganda a čo je pravda. 
+NULL ({ 3 5 8 23 }) She ({ 1 2 }) shook ({ 4 6 7 }) her ({ }) head ({ }) and ({ }) said ({ }) that ({ }) no ({ }) one ({ }) in ({ }) Bratislava ({ 9 }) now ({ }) knew ({ }) much ({ 10 11 }) about ({ 12 }) the ({ }) period; ({ 13 14 15 }) they ({ }) were ({ }) not ({ }) sure ({ 16 }) what ({ }) was ({ }) communist ({ 18 19 }) propaganda ({ 17 }) and ({ }) what ({ }) was ({ }) truth. ({ 20 21 22 24 25 26 }) 
+# Sentence pair (295) source length 9 target length 8 alignment score : 1.82708e-11
+Historici by ju mali oveľa viac skúmať, povedala. 
+NULL ({ }) Historians ({ 1 2 3 4 5 }) would ({ }) have ({ }) to ({ }) do ({ }) more ({ }) research, ({ 6 7 8 }) she ({ }) said. ({ }) 
+# Sentence pair (296) source length 7 target length 6 alignment score : 2.02485e-09
+Nevedel som, čo na to povedať. 
+NULL ({ 4 }) I ({ }) did ({ }) not ({ }) know ({ }) what ({ }) to ({ }) say. ({ 1 2 3 5 6 }) 
+# Sentence pair (297) source length 8 target length 8 alignment score : 8.58641e-11
+Vrátili sme sa do Táninho a Jurajovho bytu. 
+NULL ({ 3 }) We ({ 1 2 }) went ({ 4 }) back ({ }) to ({ }) Tana ({ }) and ({ }) Juraj's ({ 5 6 7 }) apartment. ({ 8 }) 
+# Sentence pair (298) source length 24 target length 21 alignment score : 2.87152e-28
+Navôkol sa ozývali priatelia, ľudia, ktorých poznali už roky a nemali nič dočinenia s politikou. Posadali sa dookola na večernú debatu. 
+NULL ({ 2 10 17 19 }) Friends ({ 1 3 4 }) called ({ 5 6 }) around, ({ }) people ({ }) they ({ }) had ({ }) known ({ 7 8 9 }) for ({ }) years ({ }) who ({ }) had ({ }) nothing ({ 11 12 13 }) to ({ }) do ({ }) with ({ 14 }) politics, ({ }) and ({ }) they ({ }) sat ({ }) around ({ }) talking ({ }) for ({ }) the ({ }) evening. ({ 15 16 18 20 21 }) 
+# Sentence pair (299) source length 26 target length 28 alignment score : 3.96516e-48
+Spýtal som sa ich, či poznajú nejaký dobrý bar v Bratislave, ktorý je otvorený do neskorších hodín. Dali mi adresu jedného, ktorý sa nachádzal v blízkosti môjho hotela. 
+NULL ({ 3 10 23 25 }) I ({ }) asked ({ 1 }) them ({ }) if ({ }) they ({ }) knew ({ }) a ({ }) good ({ }) bar ({ }) in ({ }) Bratislava ({ }) that ({ }) was ({ }) open ({ 14 15 }) late, ({ 16 17 18 }) and ({ }) they ({ }) gave ({ 19 20 21 }) me ({ }) an ({ }) address ({ 12 13 }) which ({ }) was ({ }) near ({ 22 24 26 }) my ({ 2 4 5 }) hotel. ({ 6 7 8 9 11 27 28 }) 
+# Sentence pair (300) source length 15 target length 17 alignment score : 1.76845e-26
+Vrátil som sa teda späť do hotela, chvíľu som si čítal a potom som si dal sprchu. 
+NULL ({ 3 12 }) I ({ 2 }) went ({ }) back ({ 5 6 }) to ({ }) the ({ }) hotel ({ 7 8 9 10 11 }) and ({ }) read ({ 4 }) for ({ }) a ({ }) while ({ }) and ({ }) had ({ }) a ({ }) shower. ({ 1 13 14 15 16 17 }) 
+# Sentence pair (301) source length 10 target length 7 alignment score : 8.2932e-13
+Bola takmer polnoc a ulice zívali prázdnotou. 
+NULL ({ 4 }) It ({ }) was ({ }) nearly ({ }) midnight ({ 5 }) and ({ }) the ({ }) streets ({ 6 }) were ({ }) completely ({ }) deserted. ({ 1 2 3 7 }) 
+# Sentence pair (302) source length 14 target length 20 alignment score : 3.98836e-27
+Cítil som sa ako v neškodnej východnej Európe, kde sa všetko deje za dverami a vonku nie je ani nohy. 
+NULL ({ 3 10 15 }) It ({ }) was ({ }) platonic ({ 4 5 }) Eastern ({ 1 2 }) Europe, ({ 6 7 8 }) where ({ 9 }) everything ({ 11 12 }) happened ({ 13 }) indoors, ({ 14 16 17 18 }) where ({ }) nothing ({ }) moved ({ }) at ({ }) night. ({ 19 20 }) 
+# Sentence pair (303) source length 5 target length 5 alignment score : 1.86604e-07
+Svet sa akoby zrazu zatvoril. 
+NULL ({ 2 }) The ({ }) world ({ }) had ({ }) closed ({ 1 3 4 5 }) down. ({ }) 
+# Sentence pair (304) source length 25 target length 21 alignment score : 9.20299e-27
+Riadil som sa pokynmi, až kým som sa neocitol v jednej z mnohých uličiek, ale ani tu nebolo náznaku po živote. 
+NULL ({ 3 8 10 }) I ({ }) followed ({ 1 }) my ({ 2 }) directions ({ 4 5 6 }) until ({ }) I ({ 7 }) arrived ({ 9 11 }) at ({ }) one ({ }) of ({ }) the ({ }) many ({ 12 13 }) small ({ }) alleys ({ 14 15 }) in ({ }) the ({ }) city, ({ }) but ({ }) still ({ }) there ({ }) was ({ }) no ({ }) sign ({ 16 17 18 }) of ({ }) life. ({ 19 20 21 }) 
+# Sentence pair (305) source length 12 target length 10 alignment score : 4.59403e-16
+Predsa som však bol na mieste, na ktoré ma navigovali. 
+NULL ({ 7 }) This ({ 1 2 }) was, ({ 3 4 5 6 }) none ({ }) the ({ }) less, ({ 8 }) where ({ }) they ({ }) had ({ }) told ({ }) me ({ }) to ({ }) come. ({ 9 10 }) 
+# Sentence pair (306) source length 20 target length 17 alignment score : 6.77251e-19
+Všimol som si osvetlený otvorený vchod, do ktorého som nazrel. Nachádzalo sa tu schodisko vedúce do pivnice. 
+NULL ({ 12 }) I ({ }) noticed ({ 1 2 3 }) an ({ }) open ({ }) doorway ({ 4 5 6 }) with ({ }) a ({ }) light ({ 7 8 }) on ({ }) and ({ }) I ({ 9 }) peered ({ 10 11 }) in: ({ }) there ({ }) was ({ }) a ({ }) stairway ({ 13 14 }) to ({ }) a ({ }) cellar. ({ 15 16 17 }) 
+# Sentence pair (307) source length 16 target length 13 alignment score : 9.04339e-23
+Zišiel som dolu a niekde v diaľke som začul dunenie bubnov rockovej hudby. 
+NULL ({ 4 6 }) I ({ 2 }) walked ({ }) down. ({ }) I ({ }) could ({ }) hear ({ }) the ({ }) drum ({ 7 8 }) thuds ({ 9 }) of ({ }) rock ({ 1 3 5 }) music ({ }) in ({ }) the ({ }) distance ({ 10 11 }) somewhere. ({ 12 13 }) 
+# Sentence pair (308) source length 19 target length 16 alignment score : 1.59938e-21
+Zrazu niekto otvoril dvere, čím hudba zosilnela a hneď som vedel, že som na správnom mieste. 
+NULL ({ 8 14 }) Suddenly ({ 1 2 }) someone ({ }) opened ({ 3 4 }) a ({ }) door ({ }) and ({ }) the ({ }) music ({ 5 }) became ({ }) loud ({ 6 }) and ({ }) I ({ }) knew ({ }) I ({ }) was ({ }) in ({ }) the ({ }) right ({ 7 9 10 11 12 13 }) place. ({ 15 16 }) 
+# Sentence pair (309) source length 15 target length 8 alignment score : 1.98274e-11
+Vošiel som do pivnice prerobenej na disko bar. 
+NULL ({ 6 }) I ({ }) walked ({ }) into ({ }) a ({ }) cellar ({ 1 2 }) which ({ }) had ({ }) been ({ }) done ({ }) up ({ }) into ({ 3 }) a ({ }) disco ({ 4 5 7 }) and ({ }) bar. ({ 8 }) 
+# Sentence pair (310) source length 7 target length 7 alignment score : 8.8692e-09
+Bola plná pekne oblečených a moderných ľudí. 
+NULL ({ 5 }) It ({ }) was ({ }) full ({ }) of ({ }) well-dressed, ({ 1 2 3 }) trendy-looking ({ 4 6 }) people. ({ 7 }) 
+# Sentence pair (311) source length 10 target length 8 alignment score : 4.78301e-13
+Podišiel som k baru a dal si pivo. 
+NULL ({ 2 5 }) I ({ }) went ({ }) up ({ }) to ({ }) the ({ }) bar ({ 1 3 4 }) and ({ }) had ({ }) a ({ }) beer. ({ 6 7 8 }) 
+# Sentence pair (312) source length 6 target length 5 alignment score : 2.62883e-08
+V Bratislave svitlo nedeľné ráno. 
+NULL ({ }) It ({ }) was ({ }) Sunday ({ }) morning ({ }) in ({ }) Bratislava. ({ 1 2 3 4 5 }) 
+# Sentence pair (313) source length 17 target length 14 alignment score : 1.34958e-23
+Ako som kráčal ulicami, teraz už pokojnými, menej majestátnymi, cítil som mierne alkoholické opojenie. 
+NULL ({ }) I ({ 2 }) had ({ }) a ({ }) vague ({ 3 }) hangover ({ 4 7 }) as ({ }) I ({ }) toured ({ }) the ({ }) streets, ({ 8 9 10 }) comforting ({ 11 }) now ({ 5 6 }) in ({ }) their ({ }) lack ({ }) of ({ }) grandeur. ({ 1 12 13 14 }) 
+# Sentence pair (314) source length 19 target length 13 alignment score : 5.60304e-17
+Juraj mi rozprával, ako veľmi bolo mesto zničené diaľničným prechodom cez starú štvrť. 
+NULL ({ }) Juraj ({ 1 }) had ({ }) told ({ 2 }) me ({ }) how ({ }) much ({ }) the ({ }) city ({ }) had ({ }) been ({ }) destroyed ({ 3 4 5 }) by ({ }) a ({ }) motorway ({ 6 }) cut ({ 7 8 9 }) through ({ }) the ({ }) old ({ }) quarter. ({ 10 11 12 13 }) 
+# Sentence pair (315) source length 15 target length 9 alignment score : 4.23266e-15
+Dokonca i katedrálu minula nová cesta len o chlp. 
+NULL ({ }) The ({ }) new ({ }) road ({ }) had ({ }) barely ({ 2 3 }) spared ({ }) the ({ }) cathedral, ({ }) almost ({ }) grazing ({ 4 }) it ({ }) as ({ }) it ({ }) sped ({ 5 6 7 }) past. ({ 1 8 9 }) 
+# Sentence pair (316) source length 28 target length 21 alignment score : 2.49872e-28
+Z tohto dôvodu sa pred katedrálou nerozprestieralo žiadne veľké námestie a prístup do starej alebo židovskej štvrti nebol cez diaľnicu ľahký. 
+NULL ({ 4 11 }) There ({ }) was ({ }) thus ({ }) no ({ }) great ({ }) square ({ }) in ({ }) front ({ 5 }) of ({ }) the ({ }) cathedral, ({ 6 7 8 }) and ({ }) there ({ }) was ({ }) no ({ }) easy ({ 9 10 }) access ({ 12 }) to ({ }) the ({ }) old ({ 13 14 }) quarter ({ }) or ({ 15 }) the ({ }) Jewish ({ 16 }) quarter ({ 17 18 }) across ({ 19 20 21 }) the ({ }) motorway. ({ 1 2 3 }) 
+# Sentence pair (317) source length 8 target length 8 alignment score : 1.69825e-09
+Dunaj sa zovšadiaľ zdal byť vzdialený od centra. 
+NULL ({ 2 }) The ({ }) Danube ({ 1 }) always ({ }) seemed ({ }) distant ({ 3 4 5 }) from ({ }) the ({ }) centre. ({ 6 7 8 }) 
+# Sentence pair (318) source length 12 target length 8 alignment score : 3.29102e-16
+Toto by Prahe nikdy neurobili, pomyslel som si. 
+NULL ({ 7 }) They ({ }) would ({ 2 }) never ({ }) have ({ }) done ({ }) this ({ }) to ({ }) Prague, ({ }) I ({ }) found ({ }) myself ({ }) thinking. ({ 1 3 4 5 6 8 }) 
+# Sentence pair (319) source length 18 target length 19 alignment score : 3.99304e-36
+Už som bol pripravený na odchod domov. Potuloval som sa okolím, len aby som zabil čas do odchodu vlaku. 
+NULL ({ 5 10 }) I ({ 2 }) was ({ }) ready ({ }) to ({ }) go ({ 17 }) home ({ }) now, ({ }) wandering ({ }) around, ({ }) killing ({ 9 11 12 13 14 15 16 }) time ({ }) before ({ }) my ({ }) train ({ }) was ({ }) due ({ 4 6 7 8 }) to ({ }) leave. ({ 1 3 18 19 }) 
+# Sentence pair (320) source length 50 target length 45 alignment score : 4.48915e-60
+V centre mesta, v blízkosti jedného zo starých kostolov, ako ľudia odchádzali z omše a ešte raz sa chystali zmiznúť do skrytého domáceho života mesta, stál stánok s knihami o Dr. Jozefovi Tisovi, mužovi, ktorý viedol Slovensko za vlády Hitlera v rokoch 1939 až 1945. 
+NULL ({ 4 15 18 41 }) In ({ 1 }) the ({ }) city ({ }) centre, ({ 2 3 6 }) near ({ 5 }) one ({ }) of ({ }) the ({ }) old ({ }) churches, ({ 7 8 9 }) as ({ 10 }) people ({ 11 }) came ({ }) out ({ 12 13 }) of ({ }) Mass, ({ 14 }) preparing ({ 16 17 19 20 }) to ({ }) disappear ({ 44 45 }) once ({ }) more ({ }) into ({ 21 }) the ({ }) hidden ({ }) domestic ({ 22 }) life ({ }) of ({ }) the ({ }) city, ({ }) there ({ }) was ({ }) a ({ }) stall ({ 23 24 25 }) selling ({ 26 }) books ({ 27 28 29 }) by ({ }) and ({ }) about ({ 30 }) Dr ({ 31 }) Josef ({ 32 }) Tiso, ({ }) who ({ }) ran ({ 33 34 35 36 }) Slovakia ({ 37 }) for ({ }) Hider ({ 38 }) between ({ }) 1939 ({ 39 }) and ({ }) 1945. ({ 40 42 43 }) 
+# Sentence pair (321) source length 10 target length 9 alignment score : 5.46882e-12
+Knihy mali pozahýbané strany, boli nekvalitne vyrobené a lacné. 
+NULL ({ 8 }) The ({ }) books ({ }) looked ({ }) dogeared ({ 1 }) and ({ }) badly ({ 2 }) produced; ({ 3 4 5 6 }) they ({ }) were ({ }) cheap. ({ 7 9 }) 
+# Sentence pair (322) source length 15 target length 14 alignment score : 2.23856e-18
+Na stoličkách vedľa stánku sedeli dve staršie ženy a za nimi stálo niekoľko mužov. 
+NULL ({ 9 }) Two ({ 1 2 }) elderly ({ 3 4 }) women ({ 5 6 7 }) sat ({ }) on ({ }) chairs ({ 8 }) beside ({ }) the ({ }) stall, ({ }) a ({ }) few ({ }) men ({ }) stood ({ 10 }) behind ({ 11 12 13 }) them. ({ 14 }) 
+# Sentence pair (323) source length 10 target length 6 alignment score : 1.83996e-10
+Sledovali davy ľudí vychádzajúce z kostola. 
+NULL ({ }) They ({ }) watched ({ }) as ({ }) the ({ }) crowds ({ 2 3 }) streamed ({ 4 }) out ({ }) of ({ }) the ({ }) church. ({ 1 5 6 }) 
+# Sentence pair (324) source length 17 target length 14 alignment score : 1.14513e-17
+Nikto im nevenoval pozornosť, nezastavil sa pri ich stánku, alebo si nekúpil ich knihy. 
+NULL ({ 6 }) No ({ }) one ({ }) paid ({ 1 2 3 4 }) any ({ }) attention ({ }) to ({ }) them, ({ 5 }) no ({ }) one ({ }) stopped ({ 7 8 9 }) at ({ }) the ({ }) stall, ({ }) or ({ 10 }) bought ({ 11 12 }) their ({ 13 }) books. ({ 14 }) 
+# Sentence pair (325) source length 16 target length 13 alignment score : 1.42245e-18
+Boli to ľudia, ktorí patrili do starého sveta, času, ktorý už dávno uplynul. 
+NULL ({ }) They ({ }) had ({ }) the ({ }) air ({ 1 2 3 4 5 }) of ({ }) people ({ }) who ({ }) belonged ({ 6 7 }) to ({ }) an ({ }) old ({ }) world, ({ 8 }) a ({ }) time ({ }) gone ({ 9 10 }) by. ({ 11 12 13 }) 
+# Sentence pair (326) source length 32 target length 21 alignment score : 1.52953e-27
+V to prvé nedeľné ráno po Veľkej noci roku 1993 ľudí z Bratislavy na ceste domov knihy o Jozefovi Tisovi nezaujali. 
+NULL ({ 14 }) And ({ }) on ({ }) that ({ }) Sunday ({ }) morning, ({ 1 2 3 }) the ({ }) First ({ }) Sunday ({ 4 5 }) after ({ 6 }) Easter ({ 7 8 }) 1993, ({ }) the ({ }) works ({ 9 10 11 }) of ({ }) Dr ({ }) Josef ({ }) Tiso ({ 12 }) did ({ }) not ({ }) seem ({ 13 }) to ({ }) interest ({ 15 }) the ({ }) people ({ }) of ({ }) Bratislava ({ }) on ({ }) their ({ }) way ({ }) home ({ 16 }) from ({ }) Mass. ({ 17 18 19 20 21 }) 

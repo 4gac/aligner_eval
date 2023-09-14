@@ -1,0 +1,136 @@
+For the first time, Gagliano and her colleagues showed that you can train plants the same basic way you can train dogs.
+While Pavlov’s mutts learned that the ring of a bell meant food was coming, Gagliano’s team taught the garden peas to associate a fan with light.
+The researchers placed seedlings under a maze made out of plumbing pipes; the growing pea had to make a choice each time it hit a fork in the road whether to go left or right.
+The first three days were devoted to training.
+Gagliano taught one group of peas that if a fan blew at them from a certain part of the maze, a blue light (something all peas crave) would follow.
+Another group of seedlings was trained that when the fan blew, the light would appear in the opposite corridor.
+For the third group, acting as a control, there was no association between the fan and the light.
+And the little pea plants learned.
+
+Depending on the treatment, the plants knew exactly what the fan meant, Gagliano says.
+Based on maze studies involving animals, the typical subjects for this type of experiment, Gagliano and colleagues expected the peas to grow randomly, which is the standard research assumption — for animals.
+Their initial model didn’t take into account that peas have their own system and will always grow toward light.
+Until I saw my peas doing their thing, the standard, hypothetical assumption of 50/50 random choice was all I could see, and what most scientists would see because of our own learned conditioning, funny enough, says Gagliano.
+The peas taught me how to see beyond my own training and conditioned assumptions.
+
+For Gagliano, that particular experiment, published in Scientific Reports in late 2016, showed not only that plants can learn by association — which is astounding in itself — but also how easily humans underestimate plants.
+We are plant blind, she says.
+In 1880, Charles Darwin theorized that plants have special cells devoted to processing information and making decisions about root growth, similar to a brain.
+Yet it was only in the 1990s that Frantisek Baluska, a plant cell biologist at the University of Bonn in Germany, began proving Darwin’s theory.
+Baluska admits that he was once plant blind, too.
+Early in his career, he suspected that a group of cells in the plant roots could be important.
+Only years later would he and colleagues discover the cells were actually a kind of command center.
+These cells are highly specialized for sampling and processing information and then directing the root growth, he says.
+And they are very similar to our neurons.
+In a way, it makes perfect sense that plants would have their brains in the soil.
+Soil is a tough place to be.
+It’s a very difficult task for the root to find nutrition there, Baluska says.
+At least 20 physical parameters — such as temperature, humidity or levels of heavy metals — are continuously sampled and analyzed.
+And all this information has to be then somehow processed and compared to make the right decision about which way to grow.
+He believes we should think of plants as having a body plan not so unlike our own, just upside down, with their heads buried in the ground and their backsides and sexual organs, such as flowers, sticking into the air.
+It may be a disturbing thing to picture, but Darwin had a similar mental image of plants.
+No matter where the brains of plants might be located — if they exist at all, that is, since the idea remains controversial — plenty of behavioral studies show they are far more brainy than we tend to assume.
+For one, they remember stuff.
+If you don’t water your houseplants, they may not get angry, but they might commit your misdeed to memory.
+To study this memory, scientists can evoke what’s called a drought stress in their leafy subjects.
+In one 2015 study, researchers took 3-week-old specimens of Arabidopsis thaliana (a relative of cabbage and mustard) out of the soil.
+They patted all the water off their roots with filter paper and left the seedlings to dry for up to two hours.
+That kind of treatment is something no plant likes — hence the stress.
+Later, when the young seedlings were put back into water, they didn’t trust the newfound abundance and behaved as if they were ready for another period of drought: The pores on their leaves remained partially closed, limiting drinking, but also limiting moisture loss in case of another dry spell.
+In 2014, Gagliano chose a different species to study plant memory: Mimosa pudica, famed for its sensitivity to touch.
+If you brush a leaf of a mimosa with your fingers, it will fold almost instantly.
+She and her colleagues from the University of Western Australia and University of Firenze in Italy did something more radical to the mimosa plants than stroking their leaves: They dropped them from heights.
+The researchers let them fall 6 inches, far enough to cause the plants to fold their leaves.
+It happened after the first drop, and the second, and the third.
+But by the fourth go, the mimosa leaves weren’t as eager to close.
+After 60 falls, the plants completely ignored the experience.
+Even a month later, they still remembered that being dropped was harmless and would not bother to fold their leaves.
+But if the scientists vigorously shook the mimosa pots instead of dropping them, the plants rapidly closed their leaves to protect themselves from danger, showing it was not just simple fatigue that made them indifferent to the fall.
+It was memory.
+The typical reaction to this experiment is, ‘But plants have no brains, so how can they do it?’Gagliano says, But let’s look the other way round — they do it.
+So the question should rather be, ‘How do they do it?’
+Researchers can’t answer that question yet, but a few possibilities are emerging.
+It could be, for example, that fluctuations in calcium levels in plant cells leave imprints of stress in a way that’s similar to how long-term memories are formed in animals.
+Other studies hint that memory in plants may be epigenetic in nature.
+Mice, for example, can inherit fearful memories from their parents through changes in how their genes are expressed, without any changes to the DNA itself.
+The same may hold true for plants.
+In 2015, a group of Canadian scientists published the results of an experiment on Indian colza plants, relatives of turnips that are cultivated in India for their oil-rich seeds.
+The researchers repeatedly exposed 2-week-old seedlings to extreme heat — about a scorching 107 degrees Fahrenheit.
+Afterward, they allowed the stressed plants to grow peacefully and reproduce in a comfortable 71.6 degrees Fahrenheit.
+But when the tissues of the next generation were tested, they had differentially expressed genes — clear signs of epigenetic memory — even though they themselves had never experienced a hot spell.
+Plant Chat.
+Just like humans, plants have many ways of figuring outwhat’s happening in their environment.
+And if they can’t rely on their memories to compare experiences, they can always chat with others to find out what’s going on through the mycorrhizal network, an underground system that connects roots of plants and conducts signals through interwoven bodies of fungi.
+These are direct pipelines from plant to plant, like a telephone wire, says Suzanne Simard, a forest ecologist at the University of British Columbia who studies mycorrhizal networks.
+The first study to clearly show plants do indeed talk through that underground network was done in 2013 by scientists based in the United Kingdom.
+They took fava bean plants and divided them into three groups.
+Some were chosen as broadcasters — they were covered in hungry aphids that would munch on the unlucky plants, destroying them.
+A second group of beans was aphid-free, but connected to the plants under attack via the root network.
+And the third, the control group, was aphid-free but also separate from the other groups, unplugged from the soil telephone system.
+By sending out chemical compounds via the mycorrhizal network, the broadcasters warned the second group of plants of impending insect attack.
+Those plants began producing aphid-repellent chemicals.
+But the unplugged plants remained unaware of the danger and did not produce the specific aphid defense.
+Researchers have long known plants can communicate with each other through the release of volatile compounds in the air; studies have now shown an underground system of roots and fungi, called the mycorrhizal network, can also carry signals from one plant to the next.
+To test whether the fava plants were truly communicating through the roots, the researchers covered all three groups of plants in polyester bags, preventing them from talking via airborne chemicals — another way plants can exchange information.
+The next time you go to a forest, Simard says, take a deep breath and sniff the air.
+What you are smelling is the language of trees.
+We can tune in to some of their conversations, because many of the volatile compounds that plants use in communication have odors, she says.
+In a classic 1983 study, when leaves of some trees were damaged, their healthy neighbors emitted more phenolics and tannins — their natural insect repellents — in response, as if they themselves were under an attack.
+The obvious question is whether the plants are really talking, or if they’re just eavesdropping on what is happening with the others.
+After all, if a plant being devoured by an insect is emitting defensive chemicals that are later detected by another plant, it doesn’t necessarily mean the first plant had any intention of warning others.
+But scientists from Israel recently put such doubts to rest by studying how garden peas raise a drought alarm.
+A plant stressed by lack of water will emit chemicals that its neighbors detect.
+These plants react to the warning by closing their stomata — tiny openings on their leaves — to slow down moisture loss.
+But the chain of threat communication doesn’t end there.
+The plants that have been warned, even though not stressed themselves, will start sending signals about the impending drought to those farther away, encouraging them to prepare for the hard times.
+And the reason they do it is not necessarily altruistic.
+In the case of peas, for example, being less vulnerable to drought also means being less vulnerable to pests, which attack when plants are weakened.
+If all the neighbors are healthy, they are less likely to attract leaf-munching visitors to the area.
+Everyone is better off.
+Information is being sent from one plant to another, directly, and it changes their behavior, Simard says.
+We humans push air through our vocal cords and out comes sound.
+With plants it’s not air over vocal cords, but carbon compounds released into the air.
+It’s a language, too.
+And just like humans, it appears not all plants speak the same language.
+Different individuals release different volatile compounds — words — into the air, which combine into what scientists call a signature — the equivalent of a sentence.
+The more related the plants are, the more similar their language, and the easier it is for them to communicate.
+Experiments in 2014 on sagebrush showed some plants spoke a language dominated by camphor compounds, while others emitted more thujone, coincidentally the same chemical suspected to be responsible for the hallucinogenic effects of absinthe.
+Those sagebrush plants that communicated using similar airborne words were better at warning each other about the arrival of hungry pests.
+What’s more, plants inherit their language from parents — so speaking the same dialect helps them also recognize relatives.
+Figuring Out The Family Tree
+If you are a plant, there is a good chance you’ll spend your life surrounded by your family, for better or for worse.
+For a plant, there are two reasons to recognize a relative, says Susan Dudley, plant biologist at McMaster University in Ontario.
+One is to avoid mating with them, and the other is to benefit from the relationship.
+Competition can be costly.
+So whom do you trust?
+Your relatives share your genes, so in a way their success is your success.
+It’s basically nepotism.
+In one of Dudley’s experiments, Arabidopsis thaliana plants sampled chemicals coming from the roots of their siblings.
+Once exposed to these signatures, they restrained the growth of their own roots to leave more resources for others, something they didn’t do if the secretions came from strangers.
+Plants are also capable of recognizing their relatives by their body shape — which tends to be similar to their own.
+In a series of experiments published in 2014, Argentinian biologists grew young Arabidopsis thaliana(yes, scientists really like that plant) in rows of pots.
+The team used many different setups: In some, the seedlings were simply placed between either relatives or strangers.
+In other setups, the researchers positioned plastic light filters between the plants.
+And in yet others, they used genetically modified plants that lacked some sensory light receptors.
+After analyzing all the data, the researchers were able to establish that the seedlings recognized each other by body shape: The plants’ light receptors could sense different patterns of red to far-red light and blue light visible around and reflected off of the other seedlings, creating a profile of each plant.
+Think of it in broad terms, the way you can pick out a friend walking toward you in a crowd, even if the light is in your eyes and you can’t see her facial features.
+For the seedlings, if a similarly shaped relative was detected, nepotism kicked in: The plant would grow its leaves away from the family member to avoid shading it.
+In addition to talking to each other, recognizing relatives and remembering stressful events, some plants can even count.
+Take the Venus’ flytrap, a carnivorous plant native to the wetlands of the Carolinas.
+
+When a fly lands inside the trap, the leaves shut, and the plant begins to digest its prey.
+Experiments published in 2016 showed the plant counts how many times the victim touches sensory hairs on the outer surface of the trap, initially to confirm the catch is something that moves, and therefore edible.
+One, two, and the trap shuts.
+Three, four, five, and digestive juices start flowing.
+The mechanism is simple, but strikingly reminiscent of what’s going on in the brains of animals: Touching the sensory hairs fires electrical messages, or action potentials — known as nerve impulses in animals.
+The plant can judge, by simply counting the number of action potentials spreading over the trap, whether useless dead material has landed inside it or if useful animal prey has been caught, says Sönke Scherzer, an electrophysiologist at the University of Würzburg in Germany, and one of the study’s co-authors.
+Counting also includes some kind of memory, since the plant must remember — at least for a certain time interval — how many action potentials have been evoked before.
+If plants can learn, count and recognize family, can we say they actually think?
+That they are intelligent?
+Conscious?
+How you answer these questions depends largely on your definition of concepts such as intelligence or cognition.
+Yet the way we view plants is changing.
+A few years ago you couldn’t use the term plant behavior in accepted journals, but now the concept of plant behavior is not controversial anymore, says Baluska.
+Gagliano believes we tend not to credit plants with intelligence simply out of habit, because most of us remain plant blind: If you want to see plants as something that can never do anything purposefully, she says, that’s what you are going to see.
+[This article originally appeared in print as Smarty Plants.]
+

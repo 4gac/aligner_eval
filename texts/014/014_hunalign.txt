@@ -1,0 +1,195 @@
+Posledná noc	The Last Night	0.275
+Nezachoval sa žiadny dôkaz o tom, že by sa Romanovovci správali inak než poslušne.	No evidence survives to suggest the Romanovs reacted with anything but docility.	0.3
+Mikuláš nesúci cároviča na rukách viedol dole do pivnice svoju rodinu a štyroch služobníkov – rodinného doktora Eugena Botkina, chyžnú Annu Demidovovú, kuchára Ivana Charitonova a sluhu Alexeja Truppa.	Carrying the tsarevitch in his arms, Nicholas led the family and the four servants—family doctor Eugene Botkin, maid Anna Demidova, chef Ivan Kharitonov, and footman Alexei Trupp—down to the cellar.	0.292941
+Pre Alexandru a Alexeja priniesli stoličky, zatiaľ čo ostatní stáli.	Chairs were fetched for Alexandra and Alexei while the others stood.	0.294915
+Vo dverách sa zjavil Jurovskij spolu s popravcami, ktorí stáli za jeho chrbtom. Veliteľ prečítal udiveným väzňom pripravené vyhlásenie:	Yurovsky approached them, with the executioners behind him in the doorway, and read from a prepared statement to the astonished prisoners:	0.297458
+Prezídium regionálneho sovietu plniac vôľu revolúcie vydalo výnos, že bývalý cár Mikuláš Romanov, vinný za nespočetné množstvo krvavých zločinov proti ľudu, by mal byť zastrelený.	The presidium of the Regional Soviet, fulfilling the will of the Revolution, has decreed that the former Tsar Nicholas Romanov, guilty of countless bloody crimes against the people, should be shot.	0.392308
+Keď Jurovskij dopovedal, začali strieľať na rodinu.	When he finished, they began firing on the family.	0.27907
+Opisy udalosti sú protichodné, ale väčšina vraví, že cár bol hlavným terčom a zomrel po niekoľkých výstreloch.	Accounts are conflicting, but most say that the tsar was the main target, and that he died from several gunshots.	0.3
+Cárovná zomrela s guľkou v hlave.	The tsarina died from a bullet to the head.	0.227586
+Ako sa miestnosť zaplnila dymom zo zbraní, disciplína medzi zabijakmi sa vytratila.	As the room filled with gun smoke, discipline among the killers vanished.	0.252381
+Zdalo sa, že veľkokňažné neboli zranené guľkami, ktoré sa odrážali od ich tela (neskôr sa zistilo, že diamantové klenoty všité do ich oblečenia sa počas prvých výstrelov správali ako brnenie).	The grand duchesses seemed unharmed by the bullets, which had ricocheted off their bodies (it was later discovered that diamond jewelry sewn into their clothing had acted like armor during the initial assault).	0.272561
+Jeden z vrahov, pijan menom Ermakov, stratil všetku kontrolu a začal Romanovovcov bodať bajonetom.	One of the murderers—a drunkard named Ermakov—lost all control and began to slash at the Romanovs with a bayonet.	0.465116
+Nakoniec po dvadsaťminútovom horore bola celá rodina spolu s jej služobníctvom mŕtva. Všetci boli zastrelení, dobodaní a zbití.	Finally, after a horror-filled 20 minutes, the entire family and their servants were all dead: shot, stabbed, and beaten.	0.437702
+Z domu vytiahli jedenásť tiel a naložili ich do nákladného auta.	The 11 bodies were hauled out of the house and loaded onto a truck.	0.55
+Likvidácia pozostatkov bola chaotická.	The disposal of the remains was chaotic.	0.291429
+Vedci sa domnievajú, že telá boli najprv uložené v plytkej bani Ganina Yama, ktorú sa boľševici pokúsili zničiť granátmi.	Scholars believe the bodies were first dumped in a shallow mine called Ganina Yama, which the Bolsheviks tried to collapse with grenades.	0.5625
+Šachta však zostala nedotknutá, takže telá museli byť odtiaľ veľmi rýchlo vytiahnuté.	The shaft stayed intact, so the bodies were hastily removed.	0.167308
+Po ceste na nové pohrebisko nákladné auto s mŕtvolami zapadlo a vypadli z neho dve telá. Dnes vieme, že išlo o Alexeja a Máriu.	On the way to the new burial site, the truck got mired in mud, and two bodies—now believed to be Alexei and Maria—were removed and disposed of in the forest.	0.231429
+Ostatných deväť tiel poliali kyselinou, spálili a zakopali do oddelených hrobov neďaleko od seba.	The nine other bodies were burned, doused with acid, and buried in a separate grave not too far away.	0.496429
+Klebety o tom, že niektorí z Romanovovcov prežili, začali kolovať takmer okamžite po ich smrti.	Rumors that some of the Romanovs had survived their execution arose almost immediately after their deaths.	0.263415
+Ich telá totiž zostali neobjavené po celé desaťročia a komunistické orgány boli diskrétne ohľadom toho, čo sa udialo v Ipatievovom dome. ~~~ Z týchto fám sa stali legendy.	Because their bodies remained undiscovered for decades and Communist authorities were coy about the events at the Ipatiev House, these whispers grew into legends.	-0.00428571
+Ľudia sa začali vydávať za Oľgu, Máriu, Tatianu, Anastáziu či Alexeja.		-0.3
+No neslávne povestné príbehy sa týkali najmä Anastázie.		-0.3
+Azda najznámejšia podvodníčka tvrdila, že Anastázia Romanovova bola žena, ktorá v roku 1920 skočila z berlínskeho mostu v snahe spáchať samovraždu.	All of the Romanov children were impersonated at one time or another, but Anastasia was at the center of the most notorious claims to the Romanov estate.	0.3
+V nemocnici ju prijali bez akejkoľvek identifikácie.	Perhaps the most famous claimant was a woman rescued from a Berlin canal in 1920.	0.165957
+Úradným činiteľom potom zdráhavo povedala, že je Anastázia Romanovová a vyrozprávala detailný príbeh o tom, ako utiekla masakre.	Admitted to the hospital, and carrying no identification, she reluctantly told the authorities she was Anastasia Romanov and recounted a detailed story of how she had escaped the slaughter.	0.323966
+Neskôr sa presťahovala do USA pod menom Anna Andersonová a pokračovala s tvrdeniami, že je Anastázia až do jej smrti v roku 1984.	She later moved to the United States, where she went by the name Anna Anderson and continued claiming she was Anastasia until her death in 1984.	0.516667
+Hoci je verejne známe, že Andersonová bola mentálne chorá Poľka, ktorá pracovala v závode, jej nezvyčajný príbeh sa stal predmetom verejnej fascinácie a inšpiráciou pre film Anastazia z roku 1956, kde si hlavnú úlohu veľkokňažnej zahrala Ingrid Bergmanová.	Although it is generally believed Anderson was a mentally ill Polish factory worker, her extraordinary story became the subject of public fascination, and the inspiration for the 1956 movie Anastasia starring Ingrid Bergman as the lost grand duchess.	0.445435
+Keď v roku 2008 identifikovali pozostatky posledného člena Romanovovcov, akékoľvek pretrvávajúce nádeje, že niekto z nich mohol prežiť, vyhasli.	When the last of the Romanov remains were identified in 2008, any lingering hopes that some might have survived were put to rest.	0.247222
+Pravda vychádza najavo	Truth Comes Out	0.15
+Po vražde Romanovovcov sa ruskí funkcionári na túto tému veľmi nevyjadrovali.	After the Romanov family’s murder, Soviet officials were cagey when addressing the topic.	0.255882
+Dokonca krátko po tom, ako boľševici oznámili Mikulášovu smrť tvrdili, že Alexandra a Alexej sú nažive a na bezpečnom mieste.	Even shortly after the Bolsheviks announced Nicholas’s death, they were claiming that Alexandra and Alexei were alive in a safe place.	0.563284
+Ich smrť nebola oficiálne potvrdená do roku 1926 a dokonca aj vtedy Sovieti odmietli prijať zodpovednosť za ich popravu.	The deaths would not be officially confirmed until 1926, and even then the Soviets refused to accept responsibility for the execution.	0.265049
+V roku 1938 Josif Stalin oficiálne zastavil rozpravy o pohrome, ktorá postihla Romanovovcov. ~~~ Sovieti vyhlásili, že Ipatievov dom nemá žiadnu historickú hodnotu a v roku 1977 ho zbúrali.	Josef Stalin officially suppressed discussion of the family’s fate in 1938, and the Ipatiev House was demolished in 1977 as Soviets decreed it had no historical value.	0.91163
+Nútená mlčanlivosť o tragédii mala síce potlačiť otvorenú debatu, no rozpútala nekonečnú zvedavosť.	The forced silence surrounding the Romanovs’ fate may have quelled open discussion, but it fueled unending curiosity.	0.252273
+V nasledujúcich desaťročiach sa začali objavovať podvodníci. ~~~ Väčšina z nich tvrdila, že sú jedným z cárových detí.	Royal imposters would spring up in the coming decades, most claiming to be one of the tsar’s children.	-0.0261628
+S takýmito tvrdeniami prišiel zakaždým niekto iný, čím sa príbeh znovu oživil. ~~~ Znamenalo to, že zabudnúť na túto záhadu, ako dúfali Sovieti, bolo nemožné.	Each time a new claimant appeared, the story would be resurrected, making it impossible for the mystery to die as the Soviets hoped it would.	-0.020339
+Pár amatérskych sliedičov našlo v roku 1979 rozsiahlejšie pohrebisko blízko Jekaterinburgu, no tento nález sa udržoval v tajnosti až do rozpadu Sovietskeho zväzu.	In 1979 a pair of amateur sleuths found the larger burial site near Yekaterinburg, but the find was kept secret until after the collapse of the Soviet Union.	1.6521
+Keď v Rusku vypukla nová revolúcia, vedci sa v roku 1991 vrátili do Jekaterinburgu, aby napravili históriu.	As a new revolution spread through Russia, scientists returned to Yekaterinburg in 1991 to reclaim history.	2.23792
+Exhumovali pozostatky deviatich ľudí. ~~~ Neskôr sa vedecky potvrdilo, že išlo o Mikuláša, Alexandru, Oľgu, Tatianu, Anastáziu a ich štyroch sluhov.	They exhumed the remains of nine people, who were later scientifically identified as Nicholas, Alexandra, Olga, Tatiana, Anastasia, and their four servants.	-0.009375
+Nález ich kostí odštartoval hojivý proces, v ktorom sa berie na vedomie ich tragická smrť a rovnako aj ich miesto v histórii.	Finding their bones began a healing process in which both the horrors of their deaths and their places in history could be acknowledged.	0.401863
+V roku 1998 boli ich pozostatky uložené na tradičné pohrebisko cárov do Katedrály svätého Pavla a Petra v Petrohrade.	In 1998 these remains were laid to rest in St. Petersburg’s Sts. Peter and Paul Cathedral, traditional burial place of the tsars.	1.923
+V roku 2000 Ruská pravoslávna cirkev vyhlásila Mikuláša, Alexandru a ich deti za svätých a vybudovala kláštor na mieste Ganina Yama, kde sa boľševici prvýkrát pokúsili zlikvidovať ich telá.	In 2000 the Russian Orthodox Church canonized Nicholas, Alexandra, and their children as passion-bearers. At Ganina Yama—the first place where Bolsheviks tried to dispose of the bodies— the Russian Orthodox Church erected a monastery.	1.52593
+Na mieste, kde kedysi stál Ipatievov dom, dnes stojí Chrám na krvi, ktorý bol v roku 2003 vysvätený a odvtedy je pútnickým miestom.	Where the Ipatiev House once stood, the magnificent Church on the Blood was consecrated in 2003 and has since become a pilgrimage site.	1.78909
+Alexejove a Máriine pozostatky boli nájdené v roku 2007 a neskôr boli identifikované pomocou DNA analýzy.	In 2007 Alexei’s and Maria’s remains were found, and later identified using DNA analysis.	2.64545
+Hovorí sa, že rodiny, ktoré sú na seba veľmi naviazané, sa môžu odtrhnúť od vonkajšieho sveta.	It has been said that families who are closely attached may cut themselves off from the outside world.	0.2775
+Takto to bolo aj s Romanovovcami.	So it was with the Romanovs.	0.2375
+Ich egocentrizmus spôsobil, že si neuvedomili blížiace sa nebezpečenstvo. ~~~ Na druhej strane sa však posilnila ich láska, vďaka ktorej bolo pre nich väznenie znesiteľnejšie.	Their self-absorption made them slow to appreciate their danger, but their love strengthened each other and made their confinement bearable.	-0.0356557
+Najväčším požehnaním počas ich posledných mesiacov bolo, že boli spolu až do úplného konca.	It was the greatest mercy of their last months that, right up to the terrible end, they were, at the very least, all together.	0.205063
+Bolo to počas prvej snehovej víchrice v novom roku.	It was during the first snowstorm of the new year.	0.285714
+Odtieň tej zelenej farby bol ako čosi, čo vidieť na obrazoch visiacich na stenách alebo v spomienke na minulosť.	The color green was something you saw in pictures tacked to the wall or in a memory from what felt like years ago.	0.293548
+Žila som sama v garsónke v mizernej časti západného Clevelandu.	I was living alone in a studio apartment in a shitty section of west Cleveland.	0.24
+Do môjho bytu neviedli žiadne schody.	There were no stairs to get to my apartment.	0.263636
+Bývala som na prízemí, tak nízko, že podo mnou bola už len pivnica.	I was as far down as you can get without going under.	0.209302
+Môj byt bol útulný aj napriek tomu, že v izbe, kde som spávala, bola aj rúra na pečenie.	I slept in the same room as the oven, but I liked the smallness of it.	0.214286
+Keď som bola malá, so sestrou sme zvykli jedna druhú zazipsovať do kufra.	When I was young my sister and I used to zip each other into suitcases.	0.27931
+S hysterickým smiechom sme potom tie kufre ťahali hore-dolu po schodoch a po celej obývačke.	We would drag the suitcases up and down the stairs, and all around the living room, laughing hysterically.	0.258228
+V to prvé ráno som si omotala šál okolo krku a zapla sporák.	That first morning I wrapped a scarf around my neck and lit the stove.	0.459184
+Cestou k drezu, v ktorom som chcela naplniť hrniec, som sa potkla o svoje topánky.	I tripped over my shoes on my way to the sink to fill the pot.	0.177551
+Po tom, ako som ich rozkopla cez celú miestnosť, som sa na ne vyčítavo pozrela, ako keby ich tam položil niekto cudzí a nie ja.	I looked down at them accusingly, as if anyone but me could have put them there.	0.127273
+Keď som zdvihla zrak, prvýkrát som ho zbadala. ~~~ Dovtedy som si neuvedomila, že už niekoľko týždňov bol len kúsok odo mňa.	I looked up after kicking them across the room and that was when I saw him for the first time.	-0.033871
+Pár centimetrov odo mňa, kým som spala, na dosah ruky, keď som sa každé ráno sprchovala a obliekala.	I wouldn't find out until later that he had been there for weeks.	0.133333
+Sedel pri mne, aj keď som pripálila praženicu, aj keď som na internete hľadala mačku, ktorú by som si vzala domov.	Inches away from me as I slept. An arm's reach as I showered and dressed each morning.	0.198592
+Zakaždým som sa však rozhodla proti, pretože z jednej mačky by boli časom dve, potom tri, až by som sa aj ja nakoniec stala jednou z tých mačacích žien.	He sat with me while I overcooked my eggs and searched the internet for a cat to adopt, each time deciding against it because I could imagine it snowballing into two or three until I became one of those women.	0.1896
+Odkedy som tam bývala, vonku to každý deň vyzeralo ako biela zvírená zmes neba a zeme.	The outside world that day, and every day since I had been living there, was a white swirling mixture of ground and sky.	0.363971
+Na svetlom a hladkom pozadí bola silueta muža.	Set against the bright seamless backdrop was the outline of a man.	0.513333
+Každým závanom vetra bledla, ako farby fotografie z polaroidu vystavené dennému svetlu.	He was fading in and out with each gust of wind, like a Polaroid gone backwards.	0.25
+Ale ja som ho videla.	But I saw him.	0.15
+Videla som konček jedného z jeho ružových prstov vykúkajúceho z dierky na rukavici.	I saw the tip of one of his pink fingers poking out of a hole in his glove.	0.233898
+Ruky mal zdvihnuté k tvári pokrytej hustou tmavou bradou. ~~~ Jeho dych pripomínal plaziaci sa oblak rannej hmly.	His hands were up against his mouth which was covered in a thick dark beard and his breath came in a long slow billow of white smoke, like the mouth of a gutter under a frozen street.	-0.08125
+Bol ako opar nad ústím jarku pod zamrznutou ulicou.	His hood was pulled up over his head which made his eyes ever brighter in the shadow.	0.122727
+Cez hlavu mal prehodenú kapucňu a v jej tieni vyzerali jeho oči ešte jasnejšie. ~~~ Nevedela som rozpoznať, akej boli farby, ale mali v sebe iskru ako oči manekýna.	I couldn't tell what color they were, but they seemed to have a reflection inside them like the round outline of a flashbulb in the eye of a magazine model.	-0.009375
+Nevykríkla som.	I didn't scream.	0.3
+Necítila som zvýšený adrenalín ani strach, dokonca ani rýchle búšenie srdca, z ktorého sa vám chce až zvracať.	I felt nothing like adrenaline, or dread. ~~~ Or that feeling when your heart beats so fast it makes you want to throw up.	-0.00797872
+Nič také sa nestalo.	Nothing like that happened.	0.183333
+Keby mi niekto povedal, že videl neznámeho muža zízať cez okno, očakávala by som, že povie: Potom som skríkol a pustil pohár, ktorý sa rozletel na kusy, utekal som k telefónu, aby som vytočil núdzovú linku. ~~~ A potom som sa rozbehol k predným dverám, zamkol ich a schoval sa v kúpeľni za zavretými dverami a neprestával sa triasť.	If someone told me that they saw a strange man staring at them through their window I would have expected to hear them say, And then I screamed and dropped my glass and it shattered and I ran to the phone and dialed 911andthen I ran to my front door and pulled the deadbolt acrossand then I hid in the bathroom with the doorclosedand I couldn't stop shaking.	0.0306865
+Nič z toho som však neurobila.	But I didn't do any of that.	0.26087
+Stála som bez pohnutia, akoby ma niekto držal a sledovala som, ako muž jasne mizol v nekonečnej belobe.	I stood completely still as if someone was holding me there, and I watched as the man I saw so clearly disappeared into the endless white.	0.206897
+V mojom byte nebolo nič, čo by niekto mohol chcieť.	There was nothing in my apartment that anyone would want.	0.25814
+Všetky veci som mala nahromadené v škatuliach. ~~~ Nemala som ani normálnu posteľ.	My possessions were piled in and out of boxes and I didn't even own a real bed.	-0.0140625
+Na podlahe ležal matrac, ktorý plnil úlohu gauča aj jedálenského stola.	I had a mattress on the floor that tripled as a couch and dining room table.	0.3
+Mala som notebook, ale nosila som ho so sebou do práce.	I did own a laptop but I took it with me to work.	0.236842
+Nemala som televízor, hriankovač, dokonca ani poriadne topánky.	I didn't own a TV, or a toaster oven, or even a decent pair of shoes.	0.289091
+Nebolo tam nič, čo by chcel niekto ukradnúť a bola som si istá, že ak by sa bol dobre poobzeral, tiež na to prišiel. ~~~ Usúdila som teda, že by mal môj deň pokračovať ďalej i napriek jeho zvláštnemu zjaveniu sa za mojím oknom.	I just decided that since there was nothing for him to steal, and I was sure he figured that out if he took a good look, that I would go on about my day despite his strange appearance outside my window.	0.00989362
+A presne tak to bolo.	And that is exactly how it ended up.	0.1
+Vídala som ho každé ráno, keď som varila vodu a naberala ju z hrnca hrnčekom.	Each morning while I boiled water and ladled my mug into the steaming pot, I saw him.	0.271875
+Nemala som totiž ani kanvicu.	I didn't own a tea kettle either.	0.276923
+Nevidela som dôvod, prečo ľudia míňali peniaze na veci, bez ktorých mohli dokonale fungovať.	I didn't see why people spent money on things like that when they could function perfectly well without them.	0.255
+Tak či onak, keď som večer prichádzala z práce do môjho tmavého a tichého bytu, nemala som strach, ako by si mnohí mysleli.	But anyway, each night when I came home from work and my apartment was dark and quiet and anyone would think that I should be scared, I wasn't.	0.255882
+Nikto na mňa nečakal v sprche za závesom.	There was no one waiting for me behind the shower curtain.	0.18
+Všetko bolo vždy na svojom mieste.	Nothing was ever out of place.	0.253846
+Nikdy tam neboli žiadne stopy ani škrabance okolo kľučky na dverách.	There were never any footprints circling my apartment, or scratch marks around my doorknob.	0.198305
+V pokoji som prichádzala aj odchádzala a každé ráno som sa delila o okamih s cudzincom, ktorý si prstami vždy prekrýval ústa a jeho skrútené obočie pripomínalo obočie malého psíka.	I came and went peacefully and each morning I shared a moment with a stranger whose eye brows curled up like a puppy and whose fingers were always bent across his mouth.	0.465491
+Pokračovalo to asi týždeň.	It went on for about a week that way.	0.225
+Naďalej som štartovala auto o desať minút skôr a kľúče nechávala v zapaľovaní, aby sa mohlo rozmraziť.	I continued to start my car ten minutes early with the keys dangling in the ignition, so it could thaw.	0.292941
+Keď sa teraz pozerám späť, myslím si, že bol pekne hlúpy nápad robievať niečo také v západnom Clevelande, či už tam bol podivný muž alebo nie.	I guess in hindsight that was a pretty stupid thing to do in west Cleveland anyway, random man or not.	0.178571
+Aj napriek tomu som presvedčená, že som žila úplne normálny život, až na môjho pochmúrneho priateľa za oknom, ktorý sa pristavoval stále častejšie a častejšie.	But I mean I just lived my life normally, with the exception of my gloomy window friend stopping by more and more often.	0.187879
+Raz neskoro v noci, keď som pozerala televízor, som niečo zazrela v okne.	Once while I was watching TV late at night, something caught my eye at the window.	0.270968
+Samozrejme, že to bol on.	Of course it was him.	0.233333
+Ďalej som jedla pukance, až kým som nemala dosť, no stále tam zostalo ešte pol misky.	I just kept on eating my popcorn until I was full and there was still half a bowl left.	0.295714
+Veľmi nerada som plytvala jedlom. ~~~ Vždy mi bolo ľúto vtáčikov poskakujúcich v snehu a premýšľala som, čo do pekla jedli na obed v tejto štvrti.	I hated to waste food, and I always felt bad for the little birds that hopped over the snow, and wondered what the hell they ate in this neighborhood at twelve below.	-0.018595
+Niekedy som im alebo veveričkám hádzala jedlo von.	So sometimes I would throw food outside for them. Or for the squirrels.	0.190909
+Podišla som teda k oknu.	So I went to the window.	0.285
+Nikdy som mu vlastne nestála tvárou v tvár.	I had never really…confronted the man.	0.273529
+Vstala som a videla jeho siluetu tak jasno, akoby rovno za ním svietil veľký žiarivý mesiac a odrážal bielu líniu jeho tváre.	I got up and saw his outline like the moon must have been fat and shining right behind him, casting a line of white around his face.	0.42472
+Schladila som si tvár tak, až ma pálila ako od ohňa a potom som ho hľadala.	I put my face into the cold, that kind of cold that feels more like fire than ice, and I looked for him.	0.191803
+Sneh bol pokrytý trblietavou škrupinou.	The snow was covered in a layer of glass.	0.282353
+Odhodila som zvyšky pukancov, ktoré sa rozkotúľali ako kocky po dlážke.	I threw the leftover popcorn and it rolled like dice across the ground.	0.29
+Nebolo po ňom ani stopy.	There were no signs of his tracks.	0.185714
+Keď som zatvárala okno, všimla som si, že mesiac v tú noc na oblohe nesvietil.	I noticed, as I pulled the window back down, that there was no moon that night.	0.3
+Nasledujúce ráno som uvidela bielošedý dym, ktorý sa valil z výfuku starého kombi pred mojím bytom.	The next morning I saw the white grey billows of exhaust fumes pouring out of a piece of shit station wagon in front of my apartment.	0.215294
+Zbadala som tmavé lesklé ženské oči.	I saw the woman's eyes, and they were glossy and dull.	0.178125
+Jej psie naštvané obočie som videla už predtým na mužovi v mojom okne.	I had seen her baby basset hound eyebrows before, on the man at my window.	0.289831
+Len sa uprene dívala na dvere, ako keby čakala, že z nich niekto vyjde.	She just stared at the door as if she was waiting for someone to come out.	0.294915
+Zopakovalo sa to trikrát.	It happened that way three times.	0.221739
+Nie všetko naraz, no v priebehu dvoch týždňov som si musela neustále pripomínať, že som nemala déjà vu, ale že sa niečo také už naozaj stalo.	Not all at once, but spread so far out across two weeks that I had to keep reminding myself that it wasn't a déjà vu, and that yes, this had really happened before.	0.481197
+Rozhodla som sa, že štvrtý raz to musí byť iné.	The fourth time I decided had to be different.	0.6
+Čosi na nej sa podobalo mužovi spoza môjho okna, ale možno práve ona prichádzala a odchádzala a ja som videla jej pohľad so zdvihnutým obočím.	Something about her felt so much like the man at my window, but maybe it was just her coming and going. ~~~ And her staring.	0.00568182
+Rukami si ale neprekrývala ústa.	And those eyebrows arching up.	0.277778
+Zovierala nimi volant, boli biele a aj v tomto počasí odhalené.	But her hands were not covering her mouth; they were white and exposed even in this weather, and they were gripping the steering wheel.	-0.0277778
+Videla som, ako sa jej pery pohybovali tesne proti sebe. Vťahovala ich dnu a von z úst.	So I could see that her lips were moving tightly against each other, and on top of each other, pulling in and out of her mouth.	0.170833
+Keď som štvrtýkrát vyšla von do zimy, neodišla.	This fourth time she didn't drive away when I walked out onto the ice.	0.17561
+Stála som a čakala, že to urobí, že odíde preč, tak, ako zakaždým.	I stood waiting for her to do it; to drive away as she always had.	0.502965
+Ona sa ale pozerala pred seba na cestu a potom zase na mňa.	But she just looked ahead at the road, and then back into my face.	0.2625
+Neskôr som uvidela, ako sa jej ruka pohla smerom k dverám auta a stiahla okienko.	Then I saw her hand move to the door, and the window rolled down.	0.215094
+Niečo podobné som sa jej spýtala, pretože som si nebola istá, čo iné by som mala povedať.	So I did ask her that, because I wasn't sure what else to say.	0.156
+Vietor moje slová ukradol, rozniesol ich medzi stromami a chodníkom a prehodil ponad strieborné kontajnery.	The wind stole the words and spread them out across the trees and the pavement and the kicked over silver trash cans.	0.290426
+Nereagovala.	She said nothing.	0.230769
+Vyzerala, že by mohla znova odísť.	She looked like she might drive away again.	0.23
+Ruky položila opäť na volant a dívala sa rovno pred seba.	She put her hands back on the wheel and looked straight ahead.	0.275
+Potom sa otočila a povedľa mňa pozrela na môj byt.	But then she turned and looked past me at my apartment.	0.271429
+Tiež som sa tam pozrela. ~~~ Možno mi niečo ušlo.	I looked back then too, like maybe I was missing something.	-0.0375
+Pozerala sa na pravú stranu domu, do priestoru medzi ním a susedovým plotom dlhým vyše jedného metra.	She was looking at the right side of the house, at the space between it and the neighbor's fence, which was all of four feet.	0.244186
+Presne tam som každé ráno vídala stáť môjho priateľa, ktorý čakal, aby ma videl nadávať na moje neposlušné vlasy, kvôli ktorým budem opäť meškať.	It was the space where I saw my window friend each morning standing, waiting to watch me curse at my hair for making me late.	0.238235
+Hľadáte ho? spýtala som sa.	Are you looking for him? I asked.	0.25
+Hneď ako som otázku vyslovila, pocítila som túžbu vziať ju späť.	Feeling as soon as I said it, the longing to take it back.	0.248936
+Nevedela som, čo by som povedala, keby sa opýtala: Koho?	I wasn't sure what I would say if she asked Who?	0.230769
+Och, len muža, ktorý každý deň zíza dnu cez moje okno.	Oh, just that man who stares in my window every day.	0.286047
+Toho, ktorý by podľa všetkého mohol byť sériovým vrahom hľadajúcim svoju ďalšiu obeť.	The one who for all I know could be a serial killer casing out his next victim.	0.253125
+Viem, že všetci by mali taký istý názor, keby som im o ňom povedala.	I know that's what people would think if I told them.	0.218182
+Tak to ale vôbec nebolo. ~~~ No ona sa nespýtala koho.	But it didn't feel like that at all.	-0.0545455
+Nepovedala nič, len sa neprítomne pozerala raz na mňa, raz na môj byt a ja som vedela, že do práce prídem zase neskoro.	But she didn't ask me who, she didn't say anything for about a minute, she just stared blankly back and forth between me and the apartment, and I knew that I would be late for work again.	0.259694
+Vyzerala, akoby sa chystala niečo povedať. ~~~ Pery sa jej triasli a po tvári sa jej kotúľali slzy.	She looked like she was about to say something, her mouth kept moving and tears starting falling into it from her eyes.	-0.0310976
+Spomenula som si na majiteľa bytu, ktorý mi lámanou angličtinou povedal, aký bol vďačný, že mi nemusel pomáhať nosiť nábytok.	I remembered the landlord speaking to me in broken English, telling me how grateful he was that he didn't need to help me carry furniture.	0.27757
+Potrebujete pomoc? opýtala som sa a posunula som sa o kúsok bližšie k oknu jej auta.	Do you need help? I asked, coming a little closer to the window.	0.418059
+Stále plakala, teraz ešte hlasnejšie.	She just kept crying, harder now.	0.248276
+Pozrela som sa na mobil a zistila, že ešte stále mám dosť času.	I squeezed my cell phone for the time and saw that I was still early.	0.276923
+Auto som vždy naštartovala priskoro a kým som doň nasadla, zo strechy sa sypal sneh pripomínajúci dážď.	I always turned my car on too soon, and by the time I got inside it the snow was pouring from the roof like rain.	0.293182
+Alebo sa len chcete porozprávať?	Or maybe you just want to talk?	0.265385
+To je dôvod, prečo sem stále chodíte? pokračovala som.	Is that why you keep coming here? I just kept talking.	0.286667
+Nevedela som, čo iné by som s ňou mala robiť.	I didn't know what else to do with her.	0.253125
+Ako sa voláte?	What's your name?	0.230769
+Ja som sa sem prisťahovala pred pár týždňami. ~~~ Vlastne si myslím, že už viac ako pred mesiacom.	I just moved here a few weeks ago, actually I guess it's been more than a month.	-0.0369231
+Nikoho tu nepoznám.	I don't know anyone.	0.3
+Pracujem ako grafická dizajnérka v jednom časopise v centre mesta.	I work downtown at a magazine. ~~~ I do graphic design.	-0.0433333
+Trochu sa upokojila a pozrela na mňa.	She started to calm down a little and looked at me.	0.58125
+Amy, šepla.	Amy, she said quietly.	1.05455
+Zdravím, Amy, vyhŕklo zo mňa trochu priveselo.	Hey Amy, I said, a little too cheerfully.	0.623571
+Ja som Ellen.	I'm Ellen.	1.24
+Vy ste tu bývali? vyriekla som smerom k môjmu modrému vyblednutému bytu, k stromom a kontajnerom, ktoré kvôli ľadu primrzli ku chodníku.	Is this where you used to live? I said, pointing back at my little faded blue apartment and the trees, and the trash cans that were glued to the sidewalk now from all the ice.	0.232759
+Zadívala sa na byt a prikývla, akoby odpovedala práve jemu.	She stared at the apartment and nodded at it, as if it had asked her the question.	0.205882
+No, chceli by ste ísť na chvíľu dnu?	Well, did you want to come in for a little while?	0.2
+Nemôžem zostať dlho, zakrátko budem musieť odísť, ale môžete ísť na pár minút ďalej.	I can't stay long, I do have to go soon, but you can come in for a few minutes if you want.	0.295775
+Viem, že keď som sa presťahovala z môjho prvého bytu, stále som chcela ísť späť a pozrieť sa, čo sa stalo s mojou starou izbou.	I know when I moved from my first house I always wanted to go back and see what they did to my old room.	0.219512
+Vidieť, či ju premaľovali alebo tak.	See if they painted it a different color or anything.	0.178125
+Ja som ešte nepremaľovala nič.	I didn't paint anything yet.	0.276
+Možno v lete.	Maybe I will in the summer.	0.025
+Usmiala som sa na ňu a ona sa pomaličky tiež pousmiala, ako keby jej tvár zabudla, ktoré svaly majú zdvihnúť popraskané kútiky jej úst.	I smiled at her, and she smiled back slowly, as if her face had forgotten which muscles it took to pull up the chapped corners of her mouth.	0.297345
+Hľadela na dom, potom na mňa a neskôr opäť na dom. ~~~ Bez slova si odopla bezpečnostný pás a vystúpila z auta.	She stared at the house, and then at me and then back at the house again, and without saying anything she unlocked her seat belt and got out of the car.	-0.055
+Stáli sme tam uprostred zamrznutej ulice. Auto mala stále naštartované a kvapkala z neho tekutina vytvárajúca točiacu sa mláčku, ktorá pretekala cez praskliny v ľade a cez tvrdý špinavý sneh na kraji cesty.	We were standing there in the middle of the frozen street, her car was still running and dripping fluid, making a little puddle that was curling and flowing over the cracks in the ice and the dirty solid snow that was pushed up onto the curb.	0.348807
+Chceli ste? kývla som smerom ku kľúčom v zapaľovaní.	Did you want to…? I motioned to the keys hanging in the ignition.	0.24
+Pre mňa bolo normálne nechať naštartované auto, ale keby niekto ukradol jej auto, cítila by som sa príšerne.	It was alright for me to leave my car running, but if hers got stolen I would feel pretty terrible.	0.259259
+Och, hej, vďaka, povedala zľahka.	Oh, yeah, thanks, she said softly.	0.3
+Sledovala som, ako sa naklonila dnu a vypla motor. Vytiahla kľúče a strčila ich do vrecka na kabáte.	I watched her lean into her car and shut it off, pull the keys out and put them in the pocket of her coat.	0.3
+Keď sa mi znova otočila tvárou v tvár, rozpačito som sa usmiala. ~~~ Takým hm, tadiaľto úsmevom.	When she turned to face me again I smiled a sort of awkward, ok right this way, kind of smile, and turned to walk to the apartment.	-0.04875
+Potom som sa otočila a šla naspäť k bytu.	She followed me hesitantly and I heard her take in a deep breath.	0.423529
+Neisto ale predsa ma nasledovala a ja som začula jej hlboký nádych.	The cold air must have stung her lungs because she started coughing.	0.294737
+Ľadový vzduch ju musel páliť až v pľúcach, pretože sa rozkašľala.	You ok? I said, turning to look at her over my shoulder as I opened the door and walked in.	0.208929
+Ste v poriadku? spýtala som sa a obzrela sa za ňou cez plece, keď som otvorila dvere a vošla dnu.	She just nodded, and I saw her eyebrows start to go higher, and her lips start to pull into her mouth.	0.28481
+Prikývla a ja som si všimla, ako dvíha obočie a sťahuje pery.	I wasn't sure if this was such a great idea after all.	0.483042
+Nebola som si istá, či bol môj návrh po tom všetkom až taký skvelý.	What was I supposed to do with some strange sobbing woman?	0.263265
+Čo som mala robiť s cudzou vzlykajúcou ženou?		-0.3
+Spomenula som si, že pre ňu nemám ani miesto na sedenie a v tej chvíli vyzeral môj nápad ešte horšie.	I remembered that I didn't have anywhere for her to sit, and it felt like an even worse idea.	0.272368
+Keď sme vchádzali do bytu, zhlboka som sa nadýchla ľadového vzduchu.	I took in a deep breath of the frozen air as we walked into the apartment.	0.294915
+Bola mojím prvým hosťom a ja som sa odrazu cítila trochu nesvoja kvôli mojej domácnosti.	She was my first guest and I was suddenly a little self conscious about my housekeeping.	0.483446
+Do dlaní som vzala studené premočené čajové vrecúška, vyhodila ich do smetí a odpratala niekoľko vecí, aby som nevyzerala ako lajdáčka.	I scooped up the cold soggy tea bags from the counter and threw them in the trash, and moved a few things aroundso I didn't look like a slob.	0.4311
+Dáte si čaj?	Do you want some tea?	0.109091
+Alebo horúcu čokoládu?	Or hot chocolate maybe?	0.3
+Kávovar nemám.	I don't have a coffee maker.	0.0857143
+Schmatla som dva hrnčeky skôr, ako stihla otvoriť ústa. ~~~ Znovu som naplnila hrniec, ktorý bol na sporáku a dala som variť vodu.	I grabbed two mugs before she could answer, refilled the pot that was on the stove, and started it to boil.	-0.0340909
+Nepovedala nič a keď som sa obzrela, videla som ju stáť tam, kde bola jej obývačka. ~~~ Dívala sa po byte ako Alica, keď sa ocitla v krajine zázrakov.	She didn't say anything, and I looked behind me to see her standing in what I guess had been her living room, looking around the apartment like Dorothy when she came out of her little spinning cabin.	-0.0516393
+Ja by som si dala horúcu čokoládu, skonštatovala som v snahe vytrhnúť ju z myšlienok.	I think I feel like some hot chocolate, I said, trying to break her from her daze.	0.277612
+Vyvalila na mňa oči akoby zabudla, kde je.	She stared at me as if she had forgotten where she was.	0.225
+Iste, vysúkala zo seba napokon.	Sure, she said finally.	0.2
+Kým sa voda uvarila, pokúsila som sa o menší rozhovor, prevažne sama so sebou.	I attempted small talk, mostly to myself, while the water boiled.	0.246429

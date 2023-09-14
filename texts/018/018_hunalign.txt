@@ -1,0 +1,145 @@
+Potom som vykročila po chodníku smerom nahor.	Then I went and walked back up the path toward the high-rise.	0.2175
+Doma som zozbierala všetky Šibalkine hračky, jej misku na jedlo a vodu, fialovú loptičku so zvončekom vnútri aj vypchatú kvákajúcu kačku, ktorá sa jej veľkosťou skoro vyrovnala.	When I got home, I collected all of Cookie's toys, her food bowl and water bowl, the little purple ball with a bell in it, the stuffed squeaking duck that was almost her size.	0.388262
+V obývačke som ich rozostavila na vrch kozubu, aby som mohla sledovať, ako jedna po druhej zmiznú.	I lined them all up on the mantel in the living room so that I could watch them disappear, one after the other.	0.274699
+Naberalo miznutie na rýchlosti?	Was the disappearing growing faster every day?	0.175862
+Nenaberalo.	No.	-0.3
+Pohybovalo sa geograficky zo západu na východ alebo z východu na západ?	Was it moving geographically from west to east, or east to west?	0.261111
+Mizol svet taxonomicky, v abecednom alebo chronologickom poradí?	Was it vanishing the world alphabetically, taxonomically, or in chronological order?	0.212069
+Veru nie.	It wasn't.	0.266667
+Nech sme sa snažili pochopiť, koľko sme chceli, nezdalo sa, že by sa miznutia riadili nejakým systémom.	As hard as we tried to understand it, there didn't seem to be much order to the disappearing at all.	0.278049
+Jeden týždeň by bolo všetko viac-menej na svojom mieste, druhý by sa z ničoho nič vyparili časopisy, nenašiel by sa ani jeden doma či u susedov a nikto sa už neobťažoval vytlačiť nové.	A week would go by with everything pretty much in its proper place, and then all of a sudden there was no such thing as magazines, not in your home or anyone else's, and nobody to bother making new ones.	0.452941
+Mizli postupne veľké veci a potom tie menšie?	Did it work its way down from the biggest things to the smallest?	0.184615
+Existoval nejaký plán?	Was there a plan?	0.18
+Niekedy to bolo až krásne, ale museli ste byť v správnej nálade alebo príliš unavený, aby vás to v tú chvíľu trápilo – akoby ste sa dívali na dom oproti, do ktorého ktosi vošiel a na noc zhasínal jedno svetlo za druhým.	When you were in the right mood, when you were too tired to care much, it was beautiful—like watching the house across the street as someone walked through it turning each of the lights off in order, one by one, for the night.	0.359712
+V bratovej prázdnej obývačke som si sadla na podlahu a schrúmala štyri čokoládové müsli tyčinky.	I sat on the floor of my brother's empty living room and ate four chocolate chip granola bars in a row.	0.483886
+Dnes som ti už raz zavolala, ale snažila som sa vymyslieť si dôvod, aby som tak mohla spraviť znovu.	I had already called you once today, but I was working on a reason to call you again.	0.23913
+Odborníci naznačili, že veci, ktoré teraz budú najrýchlejšie miznúť, môžu byť nehmatateľnej, metafyzickej povahy: predstavy alebo spomienky. ~~~ Dodali, že aj spôsob myslenia je náchylný na likvidáciu, hoci nemohli poskytnúť žiadne konkrétne príklady.	Experts suggested that the things disappearing most quickly now might be intangible, metaphys- ical: concepts, memories, and modes of thought were just as vulnerable to erasure, they said, though they couldn't give any concrete examples.	-0.0110294
+Napadlo mi, že by som ti mala zavolať a zistiť, či si stále pamätáš, že Šibalka je fuč.	I thought I'd better call you to see if you still remembered that Cookie had gone.	0.286765
+··· Číslicu po číslici som vyťukala tvoje číslo.	··· I pushed the buttons in order.	0.540517
+Po dvoch zazvoneniach si sa ozval.	It rang twice, and then I heard you.	0.3
+Áno?	Hello? you said.	-0.3
+To som ja, odvetila som.	It's me, I said.	0.15
+To si ty, zopakoval si.	It's you, you said back to me.	0.225
+Chcela som len zavolať, či si stále pamätáš Šibalku.	I just wanted to call to see if you still remembered Cookie, I said.	0.226667
+Samozrejme, že si ju stále pamätám, zaznelo z tvojich úst.	Of course I still remember Cookie, you said.	0.205263
+Na obidvoch koncoch linky sa rozhostilo ticho, spájal nás len statický šum.	There was silence on both our ends, a blur of static on the line between us.	0.285484
+Čo si pamätáš? opýtala som sa.	What do you remember? I asked.	0.3
+Spomínam si, že si si ju vybrala, pretože ťa uhryzla, začal si, a rozhodla si sa, že si musíš na svoju stranu získať práve ju.	I remember that you picked her because she bit you, you said, and you decided it was important that you win this one animal over.	0.291262
+Pamätám si, že si na začiatku ani nevedela, ako sa má mačka držať, takže si ju chytala halabala.	I remember you didn't know how to hold a cat at the beginning, so you grabbed her just anywhere.	0.296203
+Schmatla si ju uprostred tela, a tak si ju chcela zdvihnúť.	You grabbed her in the middle and tried to pick her up that way.	0.288
+Dohryzená si bola až- až, dodal si napokon.	You got bit a lot, you added.	0.1375
+Viem tvoje číslo naspamäť, ozvala som sa.	I have your number memorized, I said.	0.2625
+To je fajn, povedal si na to.	That's good, you said.	0.24
+··· Nechali sme to tak. ~~~ Zaželal si mi dobrú noc a naraz sme zložili.	··· And I said I should let you go, and you said good night and we hung up on each other.	-0.0310345
+Momentálne si mi chýbal viac ako vtedy, keď som o teba prišla.	I missed you more now than I had when I lost you.	0.2
+Rýchlejšie som zabúdala na zlé veci ako na tie dobré, a tento meniaci sa pomer mi pripadal trochu ako zamilovávanie sa, hoci som s tebou vlastne hovorila čoraz menej.	I was forgetting the bad things faster than I forgot the good, and the changing ratio felt a little bit like falling in love even though I was actually speaking to you less and less.	0.378417
+Zvykla som hrať hru, ktorú som nazvala Dokážeme to?.	I used to play a game I called Are We Going to Make It?	0.286047
+Či si si toho bol vedomý, alebo nie, hral si ju tiež.	You were playing too, whether you knew it or not.	0.285366
+Vyzerala asi takto: čakala som doma, pretože si zabudol, že sme spolu mali ísť do kina a vybral si sa sám alebo s nejakým kamošom.	It worked like this: you'd forget that we were going to see the movie together and you'd go by yourself instead or with a friend, while I waited at home.	0.364917
+Alebo si v práci zostal do štvrtej ráno, zabudol si si nabiť telefón a zobudil ma potom na gauči, kde som zaspala, zatiaľ čo som sa snažila na teba počkať.	Or you'd stay at work until four in the morning and forget to charge your phone, and you'd wake me up on the couch where I had fallen asleep trying to stay up for you.	0.283465
+Zvykla som sa vtedy sama seba pýtať: Dokážeme to?	Then I would ask myself: Are We Going to Make It?	0.285
+Odpoveďou mi bol tvoj ďalší čin, nech to už bolo čokoľvek – chmúrna záležitosť, ktorú som úmorne prevracala z každej strany, až kým som už nemohla viac premýšľať.	And the next thing, whatever thing you did next, would become the answer, a murky thing that I'd study until I was too tired to think about it anymore.	0.374416
+Nezávislý fyzik žijúci v Arizone sa preslávil svojimi teóriami, že miznutie je možno druhom exis- tenciálnej ilúzie, podobnej optickej ilúzii.	An independent physicist living in Arizona had become famous for his theories on how the Disap- pearing might be a sort of existential illusion, analogous to an optical illusion.	0.234677
+Vyhlásil, že vytratená vec naďalej existuje, dôkazom tejto skutočnosti má byť fakt, že si ju stále pamätáme a vieme si ju v hlave vybaviť.	He said the fact that we still remember what's been taken and can picture it in our minds is proof that it still exists.	0.244898
+Podobne ako keď vidíte iba kačicu alebo zajaca, nikdy nie oba tvary naraz.	It's like how you only see the duck or the bunny at a given moment, never both, he said.	0.261905
+Akurát si predstavte, že namiesto toho, aby ste vedeli, že zajac existuje popri vašej skúsenosti s kačkou, veríte, že je neodvratne stratený.	Only imagine that instead of knowing the bunny exists alongside your experience of the duck, you believe that it's been irrevocably lost.	0.289744
+Ide jednoducho len o uhol pohľadu v čase: podobne ako môžete stratiť z pohľadu vlastný dom, keď sa od neho vzďaľujete, no znova ho nájdete pri výhľade z vrcholu kopca.	It's all about vantage point, he said, temporal vantage point: the way you might lose sight of your house when you drive away from it, but find it again when you look for it from the top of a hill.	0.256835
+Pomyslenie, že váš dom sa stratil, by bolo úplne pochabé.	To think your house was lost, he said, would be loony.	0.273333
+Povedal, že zmiznuté veci sú už raz také, súčasne existujú, ale maskuje ich čas.	Disappeared things were like this, he said, coexistent but obscured in time.	0.290909
+Bola to jeho teória priestorovo-časovej obštrukcie.	This was his theory of spatiotemporal obstruction.	0.286667
+Tí, ktorí v ňu verili, boli presvedčení, že existuje jedno zvláštne miesto, ktoré ponúka dočasnú vyššiu úroveň.	Those who believed in it believed that there was one special place that offered temporal higher ground.	0.272727
+Pútnici sa vydali na istú pláž v Normandii, kde boli útesy kriedovobiele ako holuby a o ktorej sa hovorilo, že nedávno zmiznuté veci sa tu niekedy znova objavili a vyzerali poddajne a opotrebovane, okolo tridsať alebo štyridsať rokov staršie.	They made pilgrimages to a particular beach in Normandy where the cliffs were chalky white, the color of doves, and where it was rumored that recently disappeared things sometimes reappeared, soft-edged and worn and looking thirty or forty years older.	0.361829
+V roku 1759 sa tu utopilo dvanásťročné dievčatko, aby sa vyhlo manželskému zväzku s oveľa starším mužom.	In 1759 a twelve-year-old girl was said to have drowned herself there to avoid marriage to a much older man.	2.12996
+Aj plastové vrecká sa už vytrácali, ale môj brat ich mával vždy strašne veľa.	Plastic bags were disappearing too, but my brother had had so many of them to begin with.	0.258462
+Potom som zdvihla telefón, aby som ti znovu zavolala.	Then I picked up the phone to call you back.	0.216667
+Číslo som vyťukala spamäti.	I put your number in from memory.	0.264
+Namiesto tvojho hlasu som však začula zvučku a nahratý hlas mi oznámil, že môj hovor nie je možné uskutočniť.	Instead of you, I heard an error song and a recorded voice telling me my call could not be completed.	0.41747
+Vytočila som Úrad pre zmiznutia.	I dialed the Bureau of Disappearances.	0.248276
+Po výzve som stlačila dvakrát jednotku, najprv pre osobu, potom pre muža.	At the prompt, I pressed 1 for person, then 1 again for male.	0.222
+Trojka pre vek dvadsaťjeden až tridsať.	I pressed 3 to indicate age twenty-one to thirty.	0.24
+Následne som mala opäť zvoliť trojku, pre priateľa, ale namiesto toho som zadala dvojku pre milenca alebo partnera.	Then I was supposed to press 3 for friend, but instead I pressed 2 for lover or significant other.	0.233333
+Hádam by ti to nevadilo.	I hoped you wouldn't mind.	0.271429
+Krásny ženský hlások ťa vyhlásil za mužského milenca vo veku medzi dvadsaťjeden a tridsať a vyžiadal si potvrdenie správnosti informácií.	The beautiful female voice declared you a male lover between the ages of twenty-one and thirty and asked if that was correct.	0.402857
+Stlačila som mriežku a potom som ťa do telefónu opísala.	I pressed the pound key and then I described you.	0.24878
+Spomínam si, ako som sa v jedno jasné jesenné ráno prebudila a tvoja tvár na mňa zblízka pevne hľadela.	I remember it was a bright morning in the fall and I woke onto your face looking in on mine.	0.401351
+Keď sme sa niektoré rána naraz zobudili, predstierali sme, že jeden na druhého zabudol.	Some mornings when we woke together we pretended that one of us had forgotten who the other was.	0.28
+Mala som rada dlhé príbehy a najlepšie z nich vo mne vzbudzovali pocit, akoby som viedla ďalší život, druhý navyše.	A good story was long, and the best stories could make me feel like I had gotten a whole second life, a bonus one.	0.426553
+Kým žlté listy vrhali spoza okien žltkasté tiene na naše prikrývky, presviedčal si ma, aby som sa netrápila.	Yellow leaves outside the window threw yellowish light on the sheets as you told me not to worry.	0.259259
+Bola som v bezpečí, s tebou.	I was safe, I was with you.	0.272727
+Bývame spolu od výšky, stretli sme sa v najhorúcejšom dni roka pri gondolách uprostred parku.	We had been living together since grad school; we met on the hottest day of the year, near the gondolas in the middle of the park.	0.2025
+Sedeli sme vtedy na lavičkách otočených k jazierku a obaja sme jedli rovnaký wrap – morčacie mäso a syr v špenátovej tortille.	We were sitting on benches facing the pond and eating the same kind of sandwich, turkey and swiss in a spinach wrap.	0.399185
+Ale tak sa to naozaj stalo, namietla som.	But that's what actually happened, I said.	0.282857
+Viem, predstieral si, že sa cítiš previnilo.	I know, you said, making a fake guilty face.	0.283784
+V jesenné popoludnie listy ledabolo popadali na zem a nezáležalo na ich farbe, váhe alebo sile, ktorou vietor za oknami fúkal.	In the fall afternoon, leaves fell off whenever they fell off: it didn't depend on their color or weight or the force of the wind outdoors.	0.27757
+Proste mi nič iné nenapadlo, dodal si.	You added: I just couldn't think of anything.	0.245455
+··· Keď zmiznutia začali, boli všade, nenápadne sa pripútali k našim dňom ako určitý moment k hodine a ťahali nás dolu, pripomínali, koľko času sme si už nechali prejsť pomedzi prsty.	··· The disappearing when it started happening was everywhere, subtly, it hung on our days the way a specific hour does on a moment, dragging it down and reminding you of how much time you've let pass.	0.464123
+Ako príchuť v ústach, s ktorou ste sa ráno zobudili, ako chuť krvi v suché zimné ráno.	It was a flavor you woke up with in your mouth, like the taste of blood on a dry winter morning.	0.274648
+Umožnilo mi to ľahšie odísť ešte skôr, než som si uvedomila, čo mám vlastne v úmysle.	This made leaving easier in the moments before I had realized what I was planning to do.	0.46802
+Stála som vonku pred naším domom, bez kľúčov, a znova a znova som ti volala, hoci som vedela, že si ešte v práci.	I stood outside our building with no keys, and I was calling you over and over on the cell phone even though I knew you were at work.	0.251087
+Zakaždým keď sa ozvala odkazovka, predstavovala som si, že si zmizol, až kým som raz pri tej predstave zrazu už nič necítila.	Each time I got your voice mail I imagined that you had vanished, until one time I imagined that you had vanished and I didn't feel any way about it.	0.254286
+Akoby som sa sama vytratila.	It was like I had disappeared.	0.288
+Videla som, ako veci pokračujú aj bezo mňa, a bolo mi to jedno.	I saw the things continuing on without me, and I didn't mind.	0.294118
+Zašla som do bankomatu na rohu a vybrala si všetky peniaze z účtu.	I went to the ATM on the corner and pulled everything out of my checking account.	0.234545
+Bežné účty vtedy ešte stále kdesi neviditeľne existovali.	Checking accounts were still around then, existing invisibly somewhere.	0.223529
+Možno naďalej existujú, hoci banky už nie.	Possibly they exist still, even though the banks went.	0.218919
+Vzala som hotovosť, naše auto a vydala som sa po medzištátnej diaľnici I-80 na západ smerom k Chicagu.	I took the cash and our car and got on the highway, driving on I-80 west toward Chicago.	0.399561
+Boli by sme stále spolu, keby neprišiel koniec sveta?		-0.3
+Zistila som, že viem pokračovať aj bez teba. ~~~ To bolo najťažšie.	If it hadn't been the End of Days, would we still be together?	-0.0147059
+Šestnásť hodín denne som sa prizerala, ako žijem svoj vlastný život, nemohla som sa od seba pohnúť ani na krok a celý čas ma sužovali otázky. ~~~ Musela som sedieť vo vlastnom tele a dívať sa na telefón, ktorý vedľa mňa celú noc zvonil, keď si sa vtedy z práce vrátil domov.	The most difficult thing about leaving you was discovering that I went on: that I had to be there sixteen hours a day watching myself live my own life, that I had to stay near myself all the time as I asked myself question after question, that I had to sit there in my body and watch the phone ring over and over next to me that night, after you had gotten home.	0.00981565
+Hneď po vyhlásení konca sveta ľudia urobili jednu z dvoch vecí.	After the announcement, people did one of two things.	0.247826
+Buď im začalo na všetkom záležať viac, alebo menej.	Either they tried to care more, or they tried caring less.	0.265909
+Rozhodli sa prežiť, zhromaždili a prerozdelili si zásoby, ukryli sa alebo si povedali, že čas, ktorý im v živote ešte zostáva, ich môže pokojne aj skántriť.	They decided to survive, to collect and hide and ration, or they decided to let the amount of time left in their lives work away at them.	0.246429
+Niektorí sa pokúšali vypestovať zeleninu na svojom dvorčeku, alebo si ho nechali zarásť, kým popoludní opití zaspávali v záhradnej stoličke uprostred buriny.	They tried to grow vegetables in their small backyards or they let the yard get overgrown, falling asleep drunk in the afternoon on a lawn chair encircled by weeds.	0.3
+Nech sme si zvolili hociktorú možnosť, chvíľu sme sa jej odhodlane venovali.	For a while we did whatever we had chosen with dedication.	0.195918
+Bolo však ťažké zostať odhodlaný viac ako zopár týždňov a nakoniec sme sa v tejto pomyselnej škále priblížili k stredu a o veci sme sa začali starať nedbalo a nárazovo.	But it was difficult to stay dedicated for more than a few weeks, and eventually we middled, caring about things sloppily and in spurts.	0.351579
+Trochu sme sa v zemi pobabrali a potom zaspali s pocitom, že sme toho mali urobiť viac, či možno menej.	We poked at the dirt and then fell asleep, feeling that we should have done more or maybe less.	0.273077
+Napokon už zostal len jeden typ ľudí.	In the end, there was only one kind of person.	0.24375
+V hlavnej spálni som si odostlala posteľ.	In the master bedroom I turned down the sheets.	0.266667
+Môj brat sa už nevráti, ale ja som si každý deň ako dobrý hosť posteľ ustlala.	My brother wouldn't be back again, but I made the bed every day to be a good guest.	0.285937
+Tak ako to robia v hoteloch, poriadne zastrčiť, prikrývku pevne natiahnuť cez matrac a vyhladiť záhyby.	I made it the hotel way, everything tucked in, the sheets stretched tight across the mattress and leaving no room to shift or wrinkle.	0.398942
+Keď som potom išla spať, všetko som rozkmásala.	Sleeping in it meant that you had to tear it all apart.	0.270732
+Vytiahla som vankúše spod periny, deku som odhrnula až ku koncu postele a nechala prešívanú prikrývku spadnúť na podlahu.	I yanked the pillows out from underneath the blankets, pulled the sheets down to the foot of the bed, let the comforter fall to the floor.	0.271154
+Potom som vliezla do postele.	Then I climbed in.	0.1125
+Mám jeden z posledných fungujúcich telefónov, vyslovila som nahlas.	I have one of the last working phones, I said out loud.	0.2
+Začala som spávať pri zapnutom svetle. ~~~ Ak by som otvorila oči, chcela som vidieť viac vecí, o čosi dlhšie.	I had started sleeping with the lights on: I wanted more minutes of seeing, more things I could see if I happened to open my eyes.	-0.0247253
+Za oknom padal sneh, padal ako vo filme, snové chuchvalce sa vznášali vo svetle jedinej pouličnej lampy.	Outside the window there was snow falling, falling like movie snow, all the dreamy fluffy bits drifting around in the light of a single streetlamp.	0.182022
+Priala som si milovať ženu na úradnej linke, aby som jej mohla zavolať, kedykoľvek som len chcela, počuť jej hlas a cítiť, čo sa zdalo, že už nikdy nepocítim.	I wished that I loved the woman on the Disappearance hotline so that I could call and hear her voice anytime I wanted, and feel that feeling that it didn't seem I'd be feeling again.	0.258779
+Ktokoľvek ju miloval, mal šťastie, ak bol teda stále ešte na svete.	Whoever loved her was lucky, if they were still around.	0.23617
+Sledovala som, ako sneh padá pomalšie, poredšie.	I watched the snow slow down, thin out.	0.209091
+Potom padali len dva alebo tri chumáče naraz, akosi prevrátene, šklbali sebou raz hore a raz dolu, akoby sa nevedeli rozhodnúť, kam ísť.	Then it was two or three pieces at a time, falling reversibly, wavering up and down and up again like they didn't know where to go.	0.40257
+Svetlo svietilo zopár minút.	The light stayed on for a few minutes.	0.230769
+Videla som svoj odraz v okne.	I saw my reflection in the window.	0.252
+Potom sa mi žiarovka nad hlavou vytratila.	Then the bulb blanked out overhead.	0.241935
+V tme som počula, ako sa elektrický kábel naprázdno hojdá, ale nič som nevidela.	In the dark I could hear the cord swinging empty above, but I saw nothing.	0.265574
+Podľa hromadiaceho sa ticha som vedela, že mizli aj ďalšie veci.	I knew from the mounting silence that other things were vanishing too.	0.272727
+Hovorí sa, že všetko na svete vibruje na vlastnej frekvencii, každá vec vydáva istý nepatrný zvuk.	They say everything in the world vibrates at its own specific frequency, each thing releases a tiny bit of sound.	0.260714
+Čo však nevibruje vôbec, je nič.	But nothing, nothing, doesn't vibrate at all.	0.171429
+Cítila som, ako mi teplo sála z tela, no nemá sa kam podieť.	I felt the heat radiating from my body with no place to go.	0.508036
+Pred očami sa mi mihali bodky tmy, ktoré tam vlastne neboli.	Dots of darkness that weren't really there drifted past my eyes.	0.276471
+Ako by som vedela, že miznem, ak by ma nemal kto vidieť?	How would I know I was vanishing if there were nobody around to see me?	0.221739
+Čo by mi napovedalo, že tentokrát iba nezaspávam?	What would tell me that I wasn't just falling asleep?	0.286047
+V tme som už nedokázala vidieť veci miznúť, ale vedela som, že to všetko odchádza a odchádza ďaleko, ďaleko preč.	In the darkness I couldn't see the disap- pearing any longer but I knew it was all going, going far far away.	0.279775
+Až kým som už nevedela ani to.	Until gradually I didn't even know that anymore.	0.096
+V Lincolne v Nebraske žila žena, ktorá tvrdila, že je schopná komunikovať so zmiznutými.	There was a woman in Lincoln, Nebraska, who claimed to be able to communicate with the disappeared.	0.268421
+Mohli ste jej zavolať a povedať, koho hľadáte, ako sa tá osoba celým menom volala, koľko rokov mala, aká bola vysoká, koľko vážila.	You could call her on the telephone and tell her who you were looking for, their full name, how old, how tall, how heavy.	0.266667
+Ona by potom zašla k starej studni za svojím domom, ktorú pred desaťročiami postavil ešte jej starý otec, a hlboko do nej by tieto informácie zakričala.	She would go out to the old well behind her house, a well that her grandfather had built decades earlier, and shout that information deep down into it.	0.403911
+Hovorilo sa, že v ozvene bol počuť šepot z druhej strany, vašich blízkych, ako popadávajú, tvarujú a komolia zakričané slová, aby skrze ne vyslovili, čo chceli.	In the echo that came back they said you could hear whispers from the other side, your loved ones grabbing and molding the shouted words, distorting them to say what they needed said.	0.264706
+Museli ste jej zaplatiť skutočným zlatom, šperkami alebo drahými kovmi: tým, čo sa ligoce.	You had to pay her in real gold, jewelry or bullion: it had to gleam.	0.182143
+Priala si, aby sme tiež mohli počuť ich hlasy tak ako ona, aké sú šťastné, ako im chýbame.	She wished we could hear their voices as she did, how happy they are, how they miss us.	0.287324
+Vraj všetko, čo z našej strany zmizlo, prešlo k nim. ~~~ Tam, kde si naďalej žili normálnym životom a čakali, až sa k nim pridružia ostatné veci, ktoré stále zotrvávali s nami, tak aby sa svet opäť spojil do jedného.	She said that everything that disappeared from our side went over to theirs, where they kept living normal lives, waiting for the things still lingering with us to join them, and make the world whole once more.	-0.00171429
+Vedci tvrdia, že prebiehajúce chemické procesy v mozgu v stave zamilovanosti sú podobné duševnej chorobe a dávajú nový význam spojeniu šialene zamilovaný.	Scientists say that the brain chemistry of infatuation is akin to mental illness—which gives new meaning to - madly in love‘	0.217143
+Vzali sme sa o ôsmej ráno.	My husband and I got married at eight in the morning.	0
+Bola zima, mrzlo, stromy pokrývala inovať a na telefónnom vedení balansovalo niekoľko osamelých drozdov.	It was winter, freezing, the trees encased in ice and a few lone blackbirds balancing on telephone wires.	0.489888
+Mali sme čerstvých tridsať a považovali sme sa za sentimentálnych a cynických. ~~~ Typy ľudí, ktorí manželstvo odsúdili, hoci v ňom hľadali zmysel.	We were in our early 30s, considered ourselves hip and cynical, the types who decried the institution of marriage even as we sought its status.	-0.00625
+Počas svadobnej hostiny sme vytiahli veľkú škatuľu a požiadali sme hostí, aby nám do nej vhodili návrhy, ako sa vyhnúť rozvodu. ~~~ Pokladali sme to za vtipnú a rozumnú spoločnú aktivitu, aj keď väčšina nápadov, ako napríklad: vrchnáčik na zubnej paste uťahujte poriadne― bola veľmi hlúpa.	During our wedding brunch we put out a big suggestion box and asked people to slip us advice on how to avoid divorce; we thought it was a funny, clear-eyed, grounded sort of thing to do, although the suggestions were mostly foolish: Screw the toothpaste cap on tight.	0.052571
+Po tom ako hostia odišli, nastalo v dome ticho.	After the guests left, the house got quiet.	0.275676
+Všade boli zošúverené červené ruže a jemné papradie.	There were flowers everywhere: puckered red roses and fragile ferns.	0.208696
+Bude aj nejaká romantika? spýtala som sa už svojho manžela.	What can we do that‘s really romantic? I asked my newly wed one.	0.288235
+Benjamin navrhol, aby sme sa vykúpali.	Benjamin suggested we take a bath.	0.688571
+Nechcela som kúpeľ.	I didn‘t want a bath.	0.3
+Ďalší jeho návrh bol losos s vychladeným bielym vínom na obed.	He suggested a lunch of chilled white wine and salmon.	0.254348
+Neznášam lososa.	I was sick of salmon.	0.2625
+Bude aj nejaká romantika?	What can we do that’s really romantic?	0.169565
+Svadba skončila, ticho bolo dusivé a ja som pocítila známe sklamanie, ktoré prišlo po vytúženej udalosti.	The wedding was over, the silence seemed suffocating, and I felt the familiar disappointment after a longed-for event has come and gone.	0.394053
+Sme svoji.	We were married.	0.15
+Hip, hip, hurá.	Hip, hip, hooray.	1.75714

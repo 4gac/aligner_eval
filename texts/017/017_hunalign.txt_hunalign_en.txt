@@ -1,0 +1,315 @@
+At a research site 11 miles from Cherskiy, Mathias Goeckede of Germany’s Max Planck Institute for Biogeochemistry found that snow depth had doubled in five years.
+By April 2018 temperatures in the active layer had risen 10 degrees Fahrenheit.
+The phenomenon wasn’t limited to Siberia.
+Vladimir Romanovsky, a permafrost expert at the University of Alaska Fairbanks, had for years watched the active layer freeze completely by mid-January at some 180 research sites in Alaska.
+But as those places also faced a recent period with heavy snow, the freezing slipped first to February, then to March.
+In 2018, eight of Romanovsky’s sites near Fairbanks and a dozen on the Seward Peninsula, in western Alaska, never fully froze at all.
+Globally, permafrost holds up to 1,600 gigatons of carbon, nearly twice what’s in the atmosphere.
+No one expects all or even most of that to thaw.
+
+Until recently, researchers presumed permafrost would lose at most 10 percent of its carbon.
+Even that, it was thought, could take as much as 80 years.
+But when the active layer stops freezing in winter, things speed up.
+The added warmth lets microbes chomp organic material in the soil—and emit carbon dioxide or methane—year-round, instead of for just a few short months each summer.
+And the winter warmth spreads down into the permafrost itself, thawing it faster.
+A lot of our assumptions are breaking down,” said Róisín Commane, an atmospheric chemist at Columbia University who tracks carbon emissions by airplane.
+She and her colleagues have discovered that the amount of CO2 coming off Alaska’s North Slope in early winter has increased by 73 percent since 1975.
+We’ve been trying to understand what’s going on in the Arctic by relying on summer,” Commane said. But after the sun goes down—that’s when the real story begins.
+A few snowy winters don’t make a trend; this past winter there was less snow in Cherskiy, and the soil cooled again considerably.
+Fairbanks also got little snow.
+Yet at some of Romanovsky’s sites in Alaska, the active layer again retained enough heat to keep from completely freezing.
+This is truly amazing,” said Max Holmes, deputy director of Massachusetts’s Woods Hole Research Center, who has studied the carbon cycle in both Alaska and Cherskiy.
+I’ve largely imagined permafrost thaw as a slow and steady process, and maybe this is an odd five-year period.
+But what if it’s not?
+What if things change much more quickly?”
+And what if the change becomes self-reinforcing—as it already is, for example, in the case of Arctic sea ice?
+Sea ice reflects the sun’s rays, keeping the ocean below it cold.
+But as sea ice melts, the dark ocean absorbs that heat, which then melts more ice.
+As a rule, the tipping points at which such feedback loops kick in are tricky to predict.
+We know there are thresholds we don’t want to cross,” said Chris Field, director of Stanford University’s Woods Institute for the Environment.
+But we don’t know precisely where they are.
+With permafrost, there’s just too much we can’t see.
+It covers an area more than twice the size of the United States, inhabited by half as many people as New York City, in some of the world’s least accessible terrain.
+Little of it is monitored directly.
+Scientists instead study small plots, track others remotely, and draw inferences about the rest—unlike Arctic sea ice, which can be measured in its entirety by satellite.
+You can go online and track exactly what happened to sea ice,” said permafrost expert Ted Schuur of Northern Arizona University. With permafrost, we’re barely looking.
+We barely have the tools to measure what’s happening.
+One type of permafrost has researchers particularly concerned: the 20 percent or so that contains immense deposits of solid ice.
+Some of that ice formed when water percolated down through soils and froze as it hit permafrost; some was created over thousands of years during Arctic winters, when the ground contracted and cracked into polygonal patterns.
+In spring, meltwater filled those crevices, which later refroze.
+Over time the buried ice grew into massive wedges enveloped by permafrost soil.
+Duvanny Yar is shot through with them.
+Such a structure can unravel swiftly.
+When permafrost disintegrates, buried ice melts too.
+As water drains, it transports heat that spreads the thawing, and it leaves behind tunnels and air pockets.
+The ground sinks to fill those cavities, creating surface depressions that fill with rain and meltwater.
+The water deepens the pools and chews through their icy banks, until puddles grow to ponds and ponds become lakes.
+That causes more ground to warm and more ice to melt.
+Abrupt thaw,” as scientists call this process, changes the whole landscape.
+It triggers landslides.
+On Banks Island in Canada, scientists documented a 60-fold increase in massive ground slumps from 1984 to 2013.
+It topples forests.
+Merritt Turetsky, an ecologist with Canada’s University of Guelph, has tracked abrupt thaw in a black spruce forest near Fairbanks for the past 15 years.
+Flooding there, she has found, is destabilizing tree roots and trunks.
+Turetsky suspects all the trees in her drunken forest” will tip over soon and get swallowed by new wetlands.
+There are still little pockets of land, but you have to wade through some pretty wet spots to reach them,” she said.
+All permafrost thaw leads to greenhouse gas emissions.
+But standing water accelerates the threat.
+The gas that bubbles from the oxygen-deprived mud under ponds and lakes is not only carbon dioxide but also methane, which is 25 times as potent a greenhouse gas as CO2.
+Ecologist Katey Walter Anthony of the University of Alaska Fairbanks has been measuring the methane coming from Arctic lakes for two decades.
+Her latest calculations, published in 2018, suggest that new lakes created by abrupt thaw could nearly triple the greenhouse gas emissions expected from permafrost.
+It’s not clear how much of this message has reached policymakers.
+Last October the IPCC unveiled a new report on the more ambitious of two temperature goals adopted at the 2015 Paris conference.
+The planet already has warmed by about one degree Celsius (1. 8 degrees Fahrenheit) since the 19th century.
+Capping global warming at 1. 5 degrees Celsius rather than two degrees, the report said, would expose 420 million fewer people to frequent extreme heat waves, and it would halve the number of plants and animals facing habitat loss.
+It also might save some coral reefs—and as much as 770,000 square miles of permafrost.
+But to achieve the 1.5- degree goal, according to the IPCC, the world would have to cut greenhouse gas emissions 45 percent by 2030, eliminate them completely by 2050, and develop technologies to suck huge quantities back out of the atmosphere.
+The challenge may be even starker.
+The 1.5-degree report was the first time the IPCC had taken permafrost emissions into account—but it didn’t include emissions from abrupt thaw.
+Climate models aren’t yet sophisticated enough to capture that kind of rapid landscape change.
+But at National Geographic’s request, Katey Walter Anthony and Charles Koven, a modeler at the Lawrence Berkeley National Laboratory, made rough calculations that do add in emissions from abrupt thaw.
+To halt temperature rise at 1.5 degrees, they estimate, we’d have to zero out our own fossil fuel emissions at least 20 percent sooner—no later than 2044, six years ahead of the IPCC timetable.
+That would give us just a quarter century to completely transform the global energy system.
+We’re facing this unknown future with an incomplete set of tools,” Koven said.
+The uncertainty isn’t all on our side.
+There are a lot of ways things could turn out worse. There’s more than one way to make new lakes, for example.
+A few weeks after leaving Siberia, Orlinsky and I took a raft trip through Alaska’s Gates of the Arctic National Park with ecologist Ken Tape, a colleague of Walter Anthony’s at the University of Alaska.
+A floatplane dropped us and river guide Michael Wald at Gaedeke Lake, in the central Brooks Range.
+From there we made our way south down the Alatna River.
+September sun danced on the water.
+Within a mile or so we found chewed sticks along the bank.
+We’d been on the river a week when we arrived at a 38-acre lake that hadn’t been there before.
+At its center was an enormous beaver lodge.
+Tape has been using aerial and satellite photographs for years to track how plants and wildlife are changing in Alaska—and how that might affect permafrost.
+As permafrost thaws and the growing seasons lengthen, the Arctic is greening: Shrubs in Alaska river plains, for example, have nearly doubled in size.
+(While vegetation growth will take up more carbon, a 2016 survey of experts concluded that Arctic greening won’t be nearly enough to offset permafrost thaw. )
+The vegetation is drawing animals north.
+With willows now tall enough to poke through snow, snowshoe hares can find winter food and hiding spots all the way to the Arctic Ocean.
+Typically forest dwellers, they’ve now colonized Alaska’s North Slope, hundreds of miles from any real forest.
+Lynx, which prey on hares, appear to have followed.
+Both are probably traveling a trail blazed by moose, which also eat willows and now number roughly 1,600 along the Colville River, where they were absent before.
+Those discoveries led Tape to search photographs for other tundra newcomers.
+As soon as I thought about beavers, I seized on it,” he said.
+Very few species leave a mark so visible that you can see it from space.
+In images from 1999 to 2014, covering just three watersheds, he spotted 56 new beaver pond complexes that hadn’t been there in the 1980s.
+The animals are colonizing northern Alaska in earnest, moving at about five miles per year.
+Tape believes there are now up to 800 beaver pond complexes in Arctic Alaska, including the one with the massive lodge on the Alatna.
+Tape dubbed it Lodge Mahal.
+It was quite a sight: a mound of branches and saplings, about eight feet high by 35 feet across, plastered with mud and moss and sitting in a waist-high lake surrounded by marsh.
+The water had been diverted from the river by a series of dams.
+That entire swamp around Lodge Mahal is new,” Tape said.
+If you went back 50 years, there’d be zero beavers here.
+Tape and Wald had wanted to explore the Alatna in part because a guide who works for Wald had earlier found beaver-chewed wood along the Nigu River.
+The Nigu starts near Gaedeke Lake, the Alatna headwaters, but on the other side of the Continental Divide—and so it flows north into the Colville River and the Arctic Ocean.
+Along the Alatna, above Lodge Mahal, we found other ponds and abandoned dams.
+Tape now thinks that beavers are on their way to the North Slope, and that they’re using the Alatna as a route through the Brooks Range.
+We’re seeing this expansion in real time,” he said.
+He can’t prove that climate change is driving it; the beaver population also has been rebounding since the end of the fur trade, a century and a half ago.
+But in any case, the bucktoothed engineers could significantly remake permafrost landscapes.
+Imagine if you were a developer and you said, I’d like permission to put three dams on every other stream in the Arctic tundra,” Tape said.
+That’s what this could be like.
+Tape has seen a preview.
+Southeast of Shishmaref, on Alaska’s Seward Peninsula, photos of a tributary of the Serpentine River show no change at all between 1950 and 1985.
+By 2002 beavers had moved in and flooded the landscape.
+By 2012 some ground had collapsed and become wetlands.
+Permafrost was on its way out.
+A few hundred beavers won’t reengineer the Arctic.
+But the animals may be heading north in Canada and Siberia too, and they reproduce quickly.
+Argentina’s experience is instructive: Twenty beavers were deliberately introduced in the south in 1946 in order to foster a fur trade.
+Today that population hovers around 100, 000.
+In the Zimovs’ vision of the past and future of Arctic permafrost, wild animals also play a central role—but the beasts are bigger than beavers, and their effect on permafrost more benevolent.
+The herds of bison, mammoths, horses, and reindeer that lumbered across the Pleistocene steppes, Sergey Zimov has long argued, did more than just eat the grass. They maintained it.
+They fertilized it with their waste and packed it down, trampling mosses and shrubs and ripping out tree saplings.
+Since the last ice age, those dry, rich grasslands have been replaced in eastern Siberia by damp tundra, dominated by mosses in the north and forests farther south.
+One key driver of that change, according to Zimov, was human hunters who decimated the herds of large grazers, by about 10, 000 years ago.
+Without grazers to fertilize the soil, grasses withered; without grasses to soak up water, the soil got wetter.
+Mosses and trees took over.
+But if humans hadn’t pushed the ecosystem beyond a tipping point thousands of years ago, there would still be mammoths grazing in Siberia.
+Almost 25 years ago, on lowlands near Cherskiy, Zimov created a 56-square-mile demonstration project called Pleistocene Park.
+His idea was to bring large grazers back and see whether they would bring back the grasslands.
+He and, eventually, Nikita fenced in wild horses and later trucked in yaks and sheep from Lake Baikal.
+This past spring Nikita hauled in 12 bison from Denmark, traveling 9, 000 miles across Russia by truck and barge.
+In 2018 the Zimovs joined forces with Harvard University geneticist George Church, who thinks he essentially can clone a mammoth.
+The hope is that one day those now extinct beasts will be stomping around Pleistocene Park, thriving in the Anthropocene.
+The park is the ultimate test of Sergey Zimov’s hypothesis—and, he hopes, a hedge against future climate change.
+Grasslands, especially when snow covered, reflect more sunlight than does dark forest.
+Grazing animals tamp down deep snow, allowing heat to escape the soil.
+Both things cool the land.
+If wildlife could restore grasslands, it would slow permafrost thaw and thus climate change.
+To make a real difference, though, you’d need to unleash thousands of zoos’ worth of animals across millions of acres of the Arctic.
+The Zimovs say the evidence from their 36, 000-acre park is promising.
+Even with only about a hundred animals, the park’s grasslands stay substantially cooler than the ground in the surrounding area.
+The gap between the Zimovs’ ambitions and the reality of the park is unquestionably large.
+During a tour one afternoon, Orlinsky and I hiked soggy grasses to a stretch of marsh to watch the horses.
+A lone bison hid in the distance.
+Nikita loaded us onto an eight-wheel mini-tank and took us crashing through the willows.
+After a steep climb we plowed over some skinny larches.
+This is why he needs giant herbivores, Nikita said: At the moment I don’t have any animals which can kill those trees.”
+He spends a lot of time raising funds, most recently in California, hobnobbing with the likes of former Governor Jerry Brown, just to keep this proof of concept going.
+The concept has its critics.
+Some scientists dispute the Zimovs’ estimates of how many large animals were roaming around Siberia in the Pleistocene, or insist that their theory of ecological change, both past and present, is too simplistic.
+Above all, most criticism seems leveled at the Zimovs’ audacity.
+Max Holmes of Woods Hole, who knows them well, sees a spark of genius in their work.
+The Zimovs are at the fringe,” Holmes said, but that’s often where big ideas and big changes originate.
+Outside Pleistocene Park, the modern world has responded to the warming Arctic with complacency.
+We’ve spent decades ignoring the evidence of climate change and hoping that things won’t get too bad.
+We count on technological advances that seem always just out of reach.
+And we do this in spite of the fact that climate scientists—permafrost experts in particular—say all signs point to the need for urgent and even audacious action.
+The Zimovs are different: They’ve spent their lives battling an unforgiving landscape that rewards bullheadedness.
+Is trying to save permafrost by restoring the Arctic steppe, they ask, really so much crazier than counting on humans to quickly retool the world’s energy system?
+Maybe we need a little craziness.
+Fighting climate change needs multiple actions from multiple different fronts,” Only if we combine them all can we make the future not entirely miserable Nikita said.
+When I went downstairs this morning and found Cookie missing, I knew that official emergency procedure called for me to phone all the information in to the Bureau of Disappearances.
+The woman's voice would then give a short parametric definition of a cat, and if this definition matched my missing item, I could press the pound sign to record a fifteen-second description.
+A three-note melody would let me know that my claim had been filed, and then that lovely prerecorded voice would read out my assigned case number, along with some instructions on how to update or cancel my claim.
+Instead, I picked up the phone and pushed your number into it.
+I was always telling you about problems you couldn't fix, as though multiplying badness could dilute it.
+Cookie's gone, I said, and waited for your response.
+··· There was a pause on the other end of the line.
+Have you phoned it in? you asked.
+Your voice was casual like it was someone else's pet entirely, a pet from a faraway land owned by people we'd never meet.
+I didn't, I said.
+I'm kind of depressed, I added.
+I was often depressed, but now we all had better reasons to be.
+I'm sorry, you said back.
+Cookie loved to chew on wires, I said.
+I know, you said.
+You didn't say you wished you could be here.
+I didn't say it either.
+There was nothing more to say.
+I hung up the phone.
+Sometimes I dialed you back right away just to hear you pick up and know that your hands were, at that very moment, resting on a chunk of plastic that threaded its way delicately to me over hundreds of miles of wire and cord.
+To know that even though your voice had disappeared, you had not yet.
+But recently I hadn't been allowing myself any callbacks.
+I was getting more afraid of the day when you wouldn't pick up.
+The apocalypse was quiet.
+It had a way about it, a certain charm.
+It could be called graceful.
+It was taking a long time.
+··· People prepared for an apocalypse that they could take up arrns against, bunker down with.
+People hoarded filtered water, canned corn, dry milk, batteries.
+They published books on how to get things done in the new postworld, a world that they always imagined as being much like our own, only missing one or two key things.
+They might imagine, for example, that survivors would reemerge onto a planet stripped of all vegetable and plant life.
+First, the animals would grow vicious and then starve.
+It would be important to hoard as many of these animals as possible, pack them in salt and hide them away to keep.
+You'd want to have a supply of emergency seed to grow in a secure location, maybe using sterilized soil that you had already hoarded.
+Then you'd want to gather a crew.
+One muscleman with a heart of gold, a scientist type, an engineer, a child, and somebody that you thought maybe you could love, if you survived long enough to love them.
+Nobody thought the apocalypse would be so polite and quirky.
+Things just popped out of exist- ence, like they had forgotten all about themselves.
+Now when you misplaced your keys, you didn't go looking for them.
+Maybe you went to your landlord and asked for the spare set, took them to the hardware store and made two copies this time, an extra in case the disappearing wasn't a one-off but part of a trend.
+Or maybe you took this as a sign and decided to leave instead, walked out directionless into the world to find your own vanishing point, which meant moving to Chicago to stay with your brother, who still had the keys to his house and a spare set to give to you.
+··· It was cute the way this apocalypse zapped things out of existence, one by one.
+It was so clean and easy, like clicking on a little box to close an Internet browser window.
+It had a sense of humor: a fat man walking down the street lined with small abandoned shops would look down and find that his trousers had vanished, baring his out-of-season Halloween boxers to the public.
+That kind of humor.
+Videos of things like this used to show up all the time on the Internet, until the Internet went.
+I thought I would visit the Ferris wheel at the pier before it vanished.
+I didn't know when it would go.
+I had the idea that I could try to be the last person ever to visit it, but that would require a lot of work, a lot of waiting around and watching, and there were things to do even in the time of last things.
+I put two apples in a plastic bag and headed out the door, which I didn't lock even though it would have been easy to do.
+I took the elevator down to the first floor and walked on East Jackson Drive to the edge of the water, then up along the highway, holding onto the handrail with one gloved hand.
+A sedan full of teenagers drove by, and one of them shouted a blurry word at me that sounded like it had once been a taunt.
+It was winter, but it wasn't so cold.
+There was less weather, the same way there was less of everything.
+This day resembled the day before: sleepy air and wan blue sky, no clouds but a vague foggy white that might just have been a thinning of the atmosphere.
+At the pier I saw the seagulls huddling together on the boardwalk, pressing their dirty white bodies up against each other.
+They seemed able to eat anything—crusts, rinds, paper napkins.
+They were made to survive, even in a fading world that was unthinking itself faster than we could fill it back up with our trash.
+One seagull worked to swallow a little plastic toy lion, snap- ping its beak down on it with blunt patience.
+The Ferris wheel loomed up big behind them at the end of the pier, though it wasn't as big as it had seemed the first time I saw it.
+
+The wheel was missing spokes at random, and some of the red seating cars had gone.
+It looked like the mouth of someone who had been punched over and over again in the face.
+I walked over to it, right out in the open, but nobody saw me.
+When I reached the base the controls were all locked up.
+It had a big goofy lever that you could set to different speeds, like in a cartoon.
+I ducked the chain and climbed into the ground-level car, the one in starting posi- tion, and staggered from one side of the car to the other to try to make it swing, but it wasn't any fun.
+Then I sat facing the water and put down the guardrail.
+The lake licked at the shore the way it used to.
+When water disappears, other water rushes in right away to take its place, you never see any kind of hole or gap.
+Then when I reached into my plastic bag, I only had one apple.
+··· This apocalypse disappears object of all kinds, and it swallows memories whole too.
+I didn't want to be around you when you forgot me.
+I didn't want to watch it fall out of head so easily, I was hoping to forget you first.
+But sometimes I second-guessed that.
+Then I called you and tried to be angry, as though you were the one who had been so afraid of being forgotten that you needed to move out of the apartment, out of the city, and into another city where nothing had any familiarity to start with, or any familiarity to lose.
+I thought you might have forgotten who did what to whom, but you haven't yet.
+When the first things began to disappear, it had looked funny, like a continuity slip-up in a bad movie.
+You and I would make sound effects for them, shouting Poof! or Boink! as some flowers blinked themselves out of existence.
+This was how we'd make each other laugh.
+In those days the world still looked full, even though it was emptying fast.
+Then too many things vanished to keep making the sounds: we saw it was sad that anything in the world had gone and could not return.
+You joked around, saying there'd be fewer chores, our lives would clean up after them- selves for a change, but still you went on doing the dishes vacuuming the little spaces around and under the furniture, putting on a fresh shirt every day, making the bed.
+You folded cups out of paper for us to drink from when the glasses went away, and when the paper went you used the cloth napkins, which worked badly.
+You were the sort of person that keeps it all going, and I was the other kind.
+This became clear two weeks after the first vanishings when the news stations named it The Disappocalypse.
+On the day they called it irreversible, I walked out of the office just before lunch.
+I didn't tell anyone where I was going, I didn't reply to the e-mails asking whether we wanted to cancel our health insurance and cash out retirement plans.
+I knew I wouldn't be coming back.
+The subway was shut down so I walked all the way to our apartment on Myrtle Avenue, across the Brooklyn Bridge to the Flatbush Extension.
+On that day the world still felt crowded.
+The sky above was pure undiluted blue, thick enough to mask how much emptiness lay behind it, out past the atmosphere.
+Cars were lined up on the bridge, bumper to bumper.
+Drivers honked sporadically, without aggression, like migrating geese.
+When I got home, it was late afternoon and you'd be back by six thirty.
+I tried reading the news-paper, but I'd read all I could stand about the vanishing, and the other sections had been thinning out, some with blank patches nobody bothered to fill where the color of the paper showed through grayish and soft.
+Then it was seven thirty, and eight, and still you weren't around.
+I gave Cookie her dry food and refilled her water.
+I started crying and stopped again and then dragged eyeliner back over my lids so that I looked the way I had before.
+When you showed up, it was close to nine, and you smelled normal: no sweat, no cigarettes, no liquor.
+Where had you been?
+You had been working late.
+Hadn't you heard?
+They said irreversible, imminent, end of days. ”
+They used those words.
+I put wet marks into your shirt as you held me.
+Then when I pulled away your chest looked back at me with two blurry eyes.
+Why did you do that? I asked.
+Why were you away so long?
+I was working, you said.
+A lot of people have left, you know that.
+Toby and Marianne and all of the interns.
+We're understaffed.
+I'm on two new building projects.!
+Your back was warm and real under my hands.
+There's nothing to build, I said.
+The world is going.
+I know that, you replied.
+But there isn't anything we can do about it.
+That's what I'm saying, I said.
+I looked at you looking at me.
+I heard that we were saying the same thing, though I didn't under- stand how it was possible for us to mean it so differently.
+Later that night I asked you to quit your job too, stay home with me during the days.
+We could get survival-ready, rent a garden- level apartment with barricadable windows.
+We could walk around all day getting to know the things that wouldn't be there for much longer.
+But you wouldn't.
+You liked being an architect.
+You said it would make you happy to have added even one thing to a world now headed for total subtraction.
+The walking path next to the highway passed under a bridge.
+In the cool dark beneath was a bench facing onto empty lot full of broken glass from bottles that people had thrown just because.
+When sunlight hit the broken pieces, the ground lit up like a reverse chandelier, a glittering patch of green and white.
+Now there was less each time I walked by.
+Also, no bench.
+I stood there facing the glass, eating my last apple.
+There had been times when I thought I might be with you indefinitely, something approaching an entire life.
+But then when there was only a finite amount of time, a thing we could see the limit of, I wasn't so sure.
+I didn't know how to use a unit of time like this, too long for a game of chess or a movie but so much shorter than we had imagined.
+It felt like one of those days when we woke up too late for breakfast and lay in bed until it was too late for lunch.
+Those days made me nervous.
+On those days we fought about how to use our time.
+You didn't want to live your life under pressure, as though we'd run out, as though it were the last days.
+I'm not ill, you said.
+There are two kinds of people, and one of them will give up first.
+··· When we fought, you got over it first.
+I'd watch you from the kitchen, through a rectangular space cut into the wall I could see you studying the newspaper, ducking your head down to read small details in the photographs.
+I saw how gracefully you fell back into whatever article you had been reading before.
+Even then I knew: whatever hollow I made in you if I left would heal up like a hole sunk into water, quick as water rushing to fill some passing wound.
+This far from the pier I could still hear the seagulls fighting over scraps, crying out with their harsh voices.
+Sounds carried farther these days, tearing through the thin air like a stone thrown as hard as you can toward the sea.
+The bitten-down apple core wet my right-hand glove, while with the other hand I pressed on the bridge of my nose.
+There are two kinds of people: one will only weep when the possibility exists, however remote, that someone will hear them.
+I put the core of the apple down on the ground and looked at it.
+Poof, I said.
+I waited for something to happen.

@@ -1,0 +1,228 @@
+Nedopatrením ste porušili zákon a nečaká na vás len fyzický trest, nie sú to len nové končatiny alebo kov, či iná zmena tela. Prebudíte sa a sú z vás pretvory, rovnaké ako tie, ktoré ste celé roky ignorovali alebo urážali.	Suddenly, take a wrong turn by the law and it ain’t just the physical punishment, it ain’t just the new limbs or metal or the change in the body, it’s that they wake up and they’re Remade, the same as they spat on or ignored for years.	0.363388
+Viete, že ste nuly.	They know they’re nothing.	0.176471
+Keď sa to stalo Jackovi, nikdy si nemyslel, že je nula.	Jack, when it was done to him, never thought he was nothing.	0.523913
+Nemyslel si, že ktokoľvek z nich je nula.	He’d never thought any of them were.	0.26129
+Donášal na odborárov, ktorí sa snažili naberať nováčikov.	Informing on guilders trying to recruit.	0.175
+Gangy sledovali domov organizátorov a snažili sa ich vydesiť, aby sa už viac nevrátili, alebo ich natrvalo odstraňovali.	There was gangs following organisers home, and scaring them so they’d not come back, or maybe retiring them permanently.	0.297087
+Detaily mi nie sú jasné, dôležité ale je, čo spravil Jack.	I’m not clear on the details. But the point is what Jack done.	0.287755
+Jedného dňa pracovníci vpochodujú do roboty a zaujmú svoje miesta pri strojoch, ale neozve sa žiaden klaksón.	One day the workers troop in and they take their places by the gears, but there’s no klaxon.	0.228947
+Čakajú, no nič sa nedeje.	And they’re waiting, but nothing happens.	0.0954545
+Začne sa ich zmocňovať úzkosť.	Now they’re getting wary, they’re getting very antsy.	0.0777778
+Vedia, ktorý vedúci ich má dnes na starosti, takí sú nervózni, veľa toho nehovoria, no vyberú sa ho hľadať.	They know it’s that overseer who’s due in that day, so they’re nervous, they ain’t talking much, but they go looking.	0.273333
+Na začiatku schodiska do kancelárie nájdu šípku vyskladanú z nástrojov.	And there at the foot of the steps up to the office, there’s an arrow put together out of tools.	0.228571
+Je položená na zemi a ukazuje smerom nahor.	On the floor, pointing up.	0.117391
+Potichu vyjdú hore a na odpočívadle nájdu ďalšiu.	So they creep up. And on the landing there’s another.	0.286047
+Odrazu je tam celá skupinka mužov, ktorá sleduje šípky privarené k zábradliu, potulujú sa po továrni, až ich nakoniec sledujú takmer všetci a dostanú sa na koniec cestičky, kde nájdu visieť dozorcu.	And there’s a whole gang of men now, and they’re following these arrows, soldered to the banisters, up on the walkway, trooping round the factory, until pretty much the whole workforce is up there, and they come to the end of the gangway, and there dangling is that supervisor.	0.280195
+Je v bezvedomí a ústa má celé zjazvené.	He’s unconscious. His mouth’s all scabbed.	0.254545
+Sú zošité drôtom.	It’s sewn up, with wire.	0.20625
+Hneď vedia, čo sa tam stalo, no keď sa muž prebudí a vypárajú mu z úst drôt, začne vrieskať a opisovať muža, ktorý mu to spravil a vtedy je to každému jasné.	People know right then and there what’s happened, but when the man wakes up and gets unstitched he starts raving, describing the man who done this to him, and then it’s certain.	0.343665
+Osobne si myslím, že ten chlap má šťastie, že vôbec žije.	That man was lucky he didn’t get killed, is my thinking.	0.293617
+Podľa toho, čo som počul, sa tam na chvíľu všetko utíšilo a neboli žiadne problémy.	There was no more trouble there for a while, I hear.	0.361628
+Zmenilo to veci.	That changed things.	0.22
+Myslím, že to volali Jackov šepkajúci steh.	I think they called that one Jack’s Whispering Stitch.	0.228947
+Vďaka takýmto veciam vidíte, prečo ľudia rešpektovali Chrobáka Jacka.	It’s things like that make you see why people respected Jack Half-a-Prayer.	0.285484
+Milovali ho.	Loved him.	0.24
+Nonstop počúvate, že toto je to najlepšie mesto na svete, pretože to tak je.	This is the greatest city in the world. You hear that all the time, because it’s true.	0.267188
+Ale pre mnohých z nás to je tak trochu klamlivá pravda.	But it’s sort of an untrue truth, for a lot of us.	0.255
+Neviem, kde žijete.	I don’t know where you live.	0.2
+Ak žijete v Psej štvrti, aj tak pre vás nič neznamená to, že žiadna iná budova sa nevyrovná parlamentu alebo to, že máme v truhliciach poklady, pre ktoré by sa zvyšok sveta zelenal od závisti, či to, že vzdelanci Nového Crobuzonu by vytreli zrak bohom.	If it’s Dog Fenn, then knowing that Parliament’s a building like nothing else, or that we’ve riches in the coffers that would make the rest of the world jealous, or that the scholars of New Crobuzon could outthink the bloody gods—knowing all of that doesn’t do so much.	0.279904
+Stále žijete v Psej štvrti alebo na Zlej strane, či ktovie kde.	You still live in Dog Fenn, or Badside, or what have you.	0.261702
+No kým bol Jack na úteku, mesto bolo najlepšie aj pre tých zo Zlej strany.	But when Jack ran, the city was the greatest for Badside too.	0.471946
+Mohli ste to priam vidieť – ja som to videl – na spôsobe, akým ľudia kráčali vždy, keď Jack niečo spravil.	You could see it—I could see it—in the way people walked, after Jack’d done something.	0.242466
+Neviem, ako to prebiehalo v luxusných štvrtiach centra mesta, vo Vranove – predpokladám, že tam sa tí vyparádení len pohŕdavo uškŕňali a snažili sa vyzerať nad vecou, ale tam, kde sa o seba tisnú domy a kde opadáva omietka, v tieni skleneného kaktusového geta, ľudia kráčali hrdo.	I don’t know how it was uptown in The Crow—I expect the well-dressed there sneered, or made a show of not caring—but where the houses lean in to each other, where the bricks shed pointing, in the shadow of the glass cactus ghetto, people walked tall.	0.385427
+Jack patril všetkým: mužom, ženám, kaktusovým ľuďom, cheprám a vodniakom.	Jack was everyone’s: men and women, cactus-people, khepri and vod.	0.53652
+Wyrmuži o ňom vymýšľali piesne.	The wyrmen made up songs about him.	0.278571
+Tí istí ľudia, ktorí by napľuli do tváre pretvorenému žobrákovi, túto slobotvoru oslavovali.	The same people that would spit in the face of a Remade beggar cheered this fReemade.	0.257746
+V Salakových poliach si pripíjali na Jackovu počesť.	In Salacus Fields they’d toast Jack by name.	0.236842
+Ja som to samozrejme nerobil – nie, že by som nechcel, ale viete, v tejto brandži musíte byť opatrní.	I wouldn’t do that, of course—not that I didn’t want to, but you can imagine, in the business I’m in, I have to be careful.	0.392857
+Keď už máte v niečom prsty, tak sa musíte tváriť nevinne.	I’m involved, so of course I can’t be seen to be.	0.24
+V duchu som však pripíjal s nimi.	In my head, though, I’d raise a glass with them.	0.171429
+Na Jacka, pomyslel som si.	To Jack, I’d think.	0.194118
+V tom krátkom čase, čo som pracoval s Jackom, som nikdy nepoužil jeho meno, ani on moje.	In the short time I worked with Jack I never used his given name, nor he mine.	0.252381
+V našej brandži je to úplne prirodzené.	It’s in the nature of the work, obviously, that you don’t use real names.	0.0617647
+No žiadne iné meno by mu nepasovalo tak ako Jack.	But then, what could be more his name than Jack?	0.2925
+Pretvorenie znamená pre väčšinu pád, no jeho to stvorilo.	Remaking is the ruin of most, but it was the making of him.	0.2875
+Je ťažké pochopiť logiku pretvorenia.	It’s hard to make sense of Remaking, of its logic.	0.229412
+Niekedy magistri udeľujú tresty, ktorým sa dá porozumieť.	Sometimes the magisters pass down sentences that you can understand.	0.247059
+Keď niekto niekoho zabije nožom, tak mu vražednú ruku vezmete, na jej miesto prišijete motorový nôž a pripojíte k nemu bojler, ktorý bude všetko poháňať.	One man kills another with a blade, take his killing arm and replace it, suture a motorknife in its place, tube him up with the boiler to run it.	0.384876
+Určite sa z toho poučí.	The lesson’s obvious.	0.3
+Alebo tí, ktorých premenili na priemyselné stroje, mužeriavy, žentaxíky či chlapcostroje.	Or those who are made heavy engines for industry, man-cranes and woman-cabs and boy-machines.	0.29625
+Nie je tak ťažké pochopiť, prečo ich mesto chce.	It’s easy to see why the city would want them.	0.276316
+Už vám však nevysvetlím, prečo dali jednej žene okružie z pávieho peria alebo prečo mladému chalanovi rastú pavúčie nohy z chrbta. ~~~ Nedokážem vysvetliť ľudí s priveľa očami alebo motormi, ktoré ich spaľujú zvnútra, či nohy, z ktorých spravili drevené hračky alebo ich nahradili gorilími a teraz sú odsúdení kráčať asi tak ladne ako opice.	But I can’t explain to you the woman given a ruff of peacock feathers, or the young lad with iron spiderlimbs out his back, or those with too many eyes or engines that make them burn from the inside out, or legs made wooden toys or replaced with the arms of apes so they walk with mad monkey grace.	-0.0124538
+Všetky tie pretvorenia, ktoré ich spravili silnejšími či slabšími, viac či menej zraniteľnými. ~~~ Pretvorenia, ktoré si na prvý pohľad ani nevšimnete, či tie, pri ktorých sa vám zastavuje rozum.	The Remakings that make them stronger, or weaker, or more or less vulnerable, Remakings almost unnoticed, and those that make them impossible to understand.	-0.0358209
+Niekedy sa stretnete s xénickou pretvorou, ale tie sú zriedkavé.	Sometimes you’ll see a xenian Remade, but it’s rare.	0.226667
+Povedali mi, že sa ťažko pracuje s rastlinným mäsom kaktusových ľudí či fyziognómiou vodniakov. ~~~ Ostatné rasy majú tiež nejaký háčik, preto im magistri kladú iné tresty.	It’s hard to work with cactacae vegetable flesh, or the physiognomy of vodyanoi, I’m told, and there are other reasons for the other races, so for the most part magisters’ll sentence them to other things.	-0.0256849
+Väčšinou sú to práve ľudia, z ktorých sa stanú pretvory, či už z krutosti alebo pre osobné účely, či len tak, bez jasného dôvodu.	For the most part, it’s humans who are Remade, for cruelty or expediency, or opaque logics.	0.183117
+Mesto najviac nenávidí renegátov, slobotvory.	There ain’t no one the city hates so much as the renegades, the fReemade.	0.164286
+Nemali by ste používať svoje pretvorenie proti pretvorcom, tak by to predsa nemalo byť.	Turning your Remaking on the Remakers, that ain’t how it’s supposed to be.	0.457143
+Priznávam sa, niekedy ma frustruje, ako si musím nechávať svoje názory pre seba.	Sometimes, you know, I’ll admit it’s frustrating, to have to keep all my thoughts to myself.	0.26087
+Najmä cez deň, kým som v práci.	Especially during the day, while I’m in at work.	0.126923
+Nechápte ma zle, mám rád svojich kolegov, niektorí z nich sú v pohode chlapi a z toho, čo o nich viem, som si istý, že niektorí by zdieľali môj názor.	Don’t get me wrong, I like my colleagues, some of them, they’re good lads, and for all I know some would even agree with the way I look at things, but you just can’t risk it.	0.255738
+Je to však príliš veľký risk.	You have to know when to keep secrets.	0.644571
+Musíte vedieť, kedy treba udržať jazyk za zubami.		-0.3
+Tak si od toho držím odstup.	So I stay well out of it.	0.24
+Nerozprávam sa o politike, robím, čo mi povedia a nezapájam sa do žiadnych debát.	I don’t talk politics, I just do what I’m told, stay well out of any discussions.	0.491045
+Keby ste ale videli, ako pyšne ľudia vyzerali, keď Jack rebeloval.	When you see, when you see how people looked up after Jack had struck, though, my gods.	0.471053
+Ako by mohol byť niekto proti tomu?	How could anyone not be for that?	0.278571
+Ľudia ho potrebovali, potrebovali to rozptýlenie.	People needed him, they needed that, that release.	0.293182
+Tú nádej.	That hope.	0.266667
+Nemohol som uveriť vlastným ušiam, keď som sa dopočul, že naši ľudia dostali muža, ktorý dolapil Jacka.	I couldn’t believe it when I heard my crew’d got hold of the man who got Jack caught.	0.217391
+Musel som sa v práci ovládať a nijako neukázať moje nadšenie.	I had to keep myself under control at work, not let anyone see I was excited.	0.236538
+Čakal som, kedy sa mi tá špina dostane pod ruky.	I was waiting to get my hands on the rat.	0.236364
+Pre veľa ľudí bol jeho útek tá najzaujímavejšia a najlepšia vec, akú kedy spravil.	For a lot of people, the most exciting, the best thing he ever done was an escape.	0.486567
+Nemyslím tým jeho prvý útek. ~~~ Nemôžem si pomôcť, ten mi prišiel celkom lacný.	Not his first escape—that I can’t help thinking would have been some tawdry affair.	-0.00895522
+Stále to bolo pôsobivé, no nič viac než len zúfalé, špinavé plazenie. ~~~ Ležal v hromade odpadkov, kde ho psy nemohli vyňuchať, jeho nové pretvorenie sa stále mykalo, bol celý špinavý, zaprášený od kamenného prachu a umastený od okov, dokým v sebe zozbieral dostatok síl na útek.	Impressive for all that but a desperate bloody crawl, his new Remaking still atwitch, all grimy, all stained by the grease of his shackles, and stonedust, lying in some haul of rubbish where the dogs couldn’t smell him, till he was strong enough to run.	0.0257143
+Podľa môjho názoru to bolo rovnako špinavé ako každý pôrod.	That, I think, would have been as messy as any other birth.	0.287755
+Útek o ktorom hovorím ja, ľudia volajú Jackov prekážkový beh.	No, the escape I’m talking about was the one they call Jack’s Steeplechase.	0.237736
+Doteraz nikto nevie, či to bolo naschvál alebo nie. ~~~ Či on sám prezradil milícii, kde bude a že bude kradnúť zbrane z ich zásob v centre mesta, na nádraží Perdido, len aby si preňho prišli a on im mohol ukázal, že im aj tak dokáže utiecť.	Even now people can’t decide whether it was deliberate or not, whether he let it out to the militia that he’d be there, that he’d be stealing weapons from one of their caches, in the city centre, in Perdido Street Station, just so they’d come for him and he could show he could get away from them.	-0.0361538
+Nemyslím si, že by bol taký namyslený.	Me I don’t think he’d be so cocky.	0.246429
+Myslím si, že ho len nachytali, ale keďže Jack bol Jack, pokúsil sa z toho vyťažiť maximum.	I think he just got caught, but being who he was, being what he was, he made the best of it.	0.287671
+Utekal viac než hodinu.	He ran for a more than an hour.	0.242857
+Za takú dobu sa po strechách Nového Crobuzonu môžete dostať ďaleko.	You can go a long way in that time, over the roofs of New Crobuzon.	0.277778
+Behom pätnástich minút sa rozšírili správy o jeho úteku. ~~~ Nechápem, ako sa správy mohli pohybovať rýchlejšie ako on sám, ale tak to už asi býva.	Within fifteen minutes news had spread and I don’t know how, I don’t know how it is that the news of him running moved faster than he did himself, but that’s the way of these things.	-0.0319672
+Onedlho, len čo sa Chrobák Jack objavil na ďalšej ulici, našiel tam čakať ľudí, tí odvážnejší ho aj povzbudzovali.	Soon enough, as Jack Half-a-Prayer tore into view over some street, he’d find people waiting, and as far as they dared, cheering.	0.412887
+Ja som tam nebol, ale počujete o tom stále.	No I never saw itbut you hear about it, all the time.	0.241667
+Aby ho ľudia spoznali, na strechách mával svojím pretvorením.	People could see him on the roofs, waving his Remaking so people would know it was him.	0.2
+A oddiely milície mal v pätách.	Behind him squads of militia.	0.288462
+Padali, naháňali ho, padali, viac sa ich vynáralo z podkroví, zo schodísk, zovšadiaľ, v maskách a s namierenými zbraňami, z ktorých strieľali a Jack preskakoval komíny, spúšťal sa vikiermi, nechával ich v prachu za ním.	Falling, chasing, falling, more emerging from attics, from stairways, from all over, wearing their masks, pointing weapons, and firing them, and Jack leaping over chimneypots and launching himself from dormers, leaving them behind.	0.365655
+Niektorí tvrdia, že sa smial.	Some people said he was laughing.	0.265385
+Milícia v uniformách za bieleho dňa.	Bright daylight—militia visible in uniform.	0.225
+To je udalosť sama o sebe.	That’s a thing in itself.	0.3
+Vravia, že išiel cez Rebrá a šplhal sa po kostiach, ale tomu samozrejme neverím.	He went by the Ribs, they say, even scrambled up the bones, though of course I don’t believe that.	0.242647
+Nech však išiel hocikam, vidím ho ísť sebaisto ako slávneho vyhnanca tých čias, ktorého prenasleduje zaostalá milícia a šmuhy na oblohe z ich výstrelov.	But wherever he went, I see him sure-footed on the slates, a famous outlaw man by then, and behind him a wake of clodhopping militia, and streaks in the sky as they fire.	0.399231
+Guľky, čakry z kuší, návaly čiernej energie, magické vlnenia divotvorcov.	Bullets, chakris from rivebows, spasms of black energy, ripples from the thaumaturges.	0.249231
+Jack sa im všetkým vyhýbal.	Jack avoided them all.	0.84
+Keď na nich strieľal so zbraní, ktoré im vzal, poväčšine experimentálnymi kusmi, muži išli k zemi.	When he shot back, with the weapons he’d just taken, experimental things, he took men down.	0.272727
+Prenasledovali ho vzducholode, kolaborantskí wyrmuži, obloha sa nimi priam hemžila.	Airships came for him, and informer wyrmen: the skies were all fussy with them.	0.264179
+A po hodine tejto naháňačky Chrobák Jack a zmizol.	But after an hour of that chase, Jack Half-a-Prayer was gone.	0.537209
+Sakramentsky skvelý výkon.	Bloody magnificent.	0.205263
+Muž, ktorý Jacka udal, bol niktoš.	The man who sold out Half-a-Prayer was nothing.	0.19
+Určite ste niekedy premýšľali, kto stál za pádom najväčšieho banditu, akého mal Nový Crobuzon česť poznať.	You wonder, don’t you, who could bring down the greatest bandit New Crobuzon’s ever seen.	0.236842
+Bola to obyčajná nula.	A nonentity.	0.1
+Niktoš.	A no one.	0.3
+Len prosté šťastie.	It was just luck, that was all.	0.166667
+To dostalo Chrobáka Jacka.	That was what took Jack Half-a-Prayer.	0.175
+Neprekabátili ho, nezlenivel, a ani nehrotil veci do extrémov, nič také.	He weren’t outsmarted, he didn’t get sloppy, he didn’t try to go too far, nothing like that.	0.233333
+Proste mal smolu.	He got unlucky.	0.257143
+Akýsi bezcenný malý grázel, ktorý poznal niekoho, kto poznal niekoho, kto poznal jedného Jackovho informátora, mladý chuj robiaci svoju prácu, šepkal správy po krčmách, nosil balíčky, nemám ani šajnu. ~~~ Obyčajnému niktošovi dôjde, kde sa Jack skrýva, no nie preto, že by bol múdry, ale preto, že má šťastie.	Some pissant little punk who knows someone who knows someone who knows one of Jack’s informers, some young turd doing a job, whispered messages in pubs, passing on a package, I don’t sodding know, some nothing at all, who puts it together, and not because he’s smart but because he gets lucky, where Jack’s hiding.	0
+Naozaj tomu nerozumiem.	I truly don’t know.	0.211765
+Ale videl som ho a nestál za nič.	But I’ve seen him, and he’s nothing.	0.255556
+Nevedel som, prečo udal Chrobáka.	I didn’t know why he gave up Half-a-Prayer.	0.23
+Uvažoval som, či si náhodou nemyslel, že ho za to odmenia.	I wondered if he thought he’d be rewarded.	0.191667
+Nakoniec sa ukázalo, že by nič nepovedal, ak by ho neboli nezabasli.	Turned out he’d have said nothing if they hadn’t hauled him in.	0.271698
+Prichytilo ho pri jeho vlastných zločinoch, úbohých, drobných priestupkoch a myslel si, že ak im vydá Jacka, vláda sa oňho postará, odpustí mu a udrží ho v bezpečí.	He’d been caught for his own little crimes—his own paltry, petty, pathetic misdemeanours—and he thought if he delivered Jack, the government would look after him, forgive him and keep him safe.	0.243478
+Idiot.	Idiot man.	0.171429
+Veril, že vláda ho pred nami ochráni.	He thought the government would keep him out of our hands.	0.140625
+Je jasné, že väčšina vecí, čo Jack spravil, nebola tak okázalo dramatická.	Most of what Jack did weren’t so obviously dramatic, of course.	0.494444
+Chceli ho hlavne pre menšie, surovejšie veci, ktoré páchal.	It was the smaller, savager stuff that had them out for him.	0.288
+Niežeby mali radosť z jeho veľkolepých lúpeží a predvádzania sa, to nie.	It ain’t that they were happy about the big swaggering thievery, the showings-off.	0.256452
+Ale tie neboli dôvodom, prečo bol pre nich Jack tŕňom v oku.	But that ain’t what made Jack a thorn they had to pluck.	0.504682
+Nikto nevie, odkiaľ bral informácie, ale Jack dokázal vyňuchať milíciu ako pes, nech mali akokoľvek dobré utajenie.	No one knows how he got the information he did, but Jack could smell militia like a hound. No matter how good their cover.	0.466667
+Informátori, udavači, intrigáni, provokatéri, ľudia zvnútra, policajti – Jack videl cez ich zásterku, aj keď ich susedia vždy verili tomu, že sú to len úradníci na dôchodku alebo umelci, tuláci, predavači parfumov či samotári.	Informers, colonel-informers, intriguists, provocateurs, insiders and officers—Jack could find them, no matter that their neighbours had always thought they were just retired clerks, or artists, or tramps, or perfume-sellers, or loners.	0.279897
+Ako akékoľvek iné obete vrážd, ich telá nachádzali pohodené pod hromadou starých harabúrd.	They’d be found like the victims of any other killings, their bodies dumped, under mounds of old things.	0.265823
+Vždy sa však v ich blízkosti dostali do rúk novinárov alebo ľudí dokumenty, ktoré dokazovali, že patrili k milícii.	But there would always be documents, somewhere close by or left for journalists or the community, that proved the victim was militia.	0.254082
+Na oboch stranách krku mali strašné rany, akoby prerezané pílami či ozubenými nožnicami.	Awful wounds on both sides of their necks, as ifragged, serrated scissors had half closed on them.	0.276623
+Zbraňou Jacka bolo to, čo mu dalo samo mesto.	Jack the Remade, using what the city gave him.	0.292105
+To však nebolo v poriadku.	That wasn’t alright.	0.236842
+Nebolo v poriadku, aby si Jack myslel, že sa len tak môže dotknúť vládnych funkcionárov.	It wasn’t alright for Jack to think he could touch the functionaries of the government.	0.483446
+Viem, že toto si mysleli.	I know that’s how they thought.	0.231818
+Vtedy si zaumienili, že ho dostanú.	That’s when it became imperative that they bring him down.	0.116129
+Všetka snaha, ktorú vynaložili, peniaze, ktoré boli ochotní utratiť na úplatky, všetka tá mágia, ktorú použili, média a snímače, empatické stroje pustené na plno. ~~~ A na koniec mali len šťastie a chytili nejakého utáraného, vystrašeného a zbytočného chuja.	But with all their efforts, all the money they were ready to spend on bribes, all the thaumaturgy they dedicated—the channellers and scanners, the empathy- engines turned up full—in the end they got lucky, and picked up some blabbering terrified useless little turd.	-0.00340909
+Keď sa nám jeho práskač dostal pod ruky, postaral som sa, aby som ho pozdravil ako prvý.	I made sure it was me first went in to greet him, Jack’s snitch, after we got hold of him.	0.295833
+Zaistil som si s ním nejaký čas osamote.	I made sure we had some time alone.	0.248276
+Nebolo to pekné, ale stojím si za tým.	It weren’t pretty, but I stand by it.	0.290323
+Už dlho som súčasťou tohto tajného politického života.	It’s been a long time since I been in this secret political life.	0.2625
+A sú pravidlá, ktoré je nutné dodržiavať.	And there are conventions that are important.	0.266667
+Jedným z nich je, aby to pre vás nebolo osobné.	One is, don’t get personal.	0.1125
+Keď vyvíjam nátlak kde treba, keď robím to, čo musím, je to stále len práca, ktorú treba spraviť a je jedno, ako nepríjemná.	When I apply the pressures I need to, when I do what needs to be done, it’s a job that needs doing, no matter how unpleasant.	0.669059
+Ak bojujete proti zvrátenosti spoločnosti – a nepochopte to zle, to my robíme – niekedy musíte použiť drsné metódy, ale nevyžívate sa v nich, inak vás poznačia.	If you’re fighting the sickness of society, and make no mistake that’s what we do, then sometimes you have to use harsh methods, but you don’t relish it, or it’ll taint you.	0.389365
+Robíte to, čo treba.	You do what has to be done.	0.233333
+Väčšinou.	Most of the time.	0.15
+Toto bol iný prípad.	This was different.	0.3
+Tento hajzel bol môj.	This little fucker was mine.	0.205263
+Bolo to v miestnosti bez okien, samozrejme.	It’s a windowless room, of course.	0.22
+Ruky aj nohy mal zviazané ku stoličke.	He was in a chair, locked in place. His arms, his legs.	0.190909
+Triasol sa tak veľmi, až som počul hrkotať stoličku, hoci bola priskrutkovaná k zemi.	He was shaking so hard, I could hear the chair rattling, though it was bolted down.	0.282609
+Ústa mal zapchaté oceľou, takže sa zmohol len na kňučanie.	An iron band filled his mouth, so all he could do was whine.	0.293878
+Vošiel som dovnútra.	I came in.	-0.0333333
+Niesol som nástroje.	I was carrying tools.	0.3
+Postaral som sa, aby si ich všimol: kliešte, spájky, čepele.	I made sure he saw them: the pliers, the solder, the blades.	0.288
+Triasol sa ešte viac a to som sa ho ešte ani nedotkol.	I made him shake even more, without touching him.	0.285714
+Slzy mu rýchlo rinuli po lícach.	Tears came out of him so fast.	0.264
+Čakal som.	I waited.	0.266667
+"Psst," povedal som konečne cez ten rámus, ktorý robil.	"Shhh,” I said at last, through his noise.	0.2
+"Psst.	"Shhh.	0.3
+Musím ti niečo povedať.	I have to tell you something.	0.242857
+"Pokrútil som hlavou. Nie, tíško.	”I was shaking my head: No, hush.	0.278571
+Krutosť mi kolovala v žilách.	I felt cruelty in me.	0.166667
+Tíško, povedal som. Tíško.	Hush, I said, hush.	0.176471
+A keď sa upokojil, znovu som prehovoril.	And when he quieted, I spoke again.	0.25
+"Postaral som sa, aby si sa mi dostal pod ruky," začal som.	"I made sure I got to take care of you,” I said.	0.213158
+"O chvíľu nám príde pomôcť môj šéf a ten vie, čo sa chystáme spraviť.	"In a minute my boss’ll be coming in to help us, and he knows what we’re going to do.	0.442105
+Ale chcel som, aby si vedel, že som si naozaj dal záležať, aby som dostal túto prácu, pretože, nuž, myslím si, že poznáš môjho kamaráta."		-0.3
+Keď som vyslovil Jackovo meno, ten zradca začal mraučať a znovu spustil všetok ten rámus.	But I wanted you to know that I made sure I got this job, because well, I think you know a friend of mine.”	0.451974
+Bol taký vystrašený, až som musel počkať ďalšiu minútu alebo dve, kým som mu pošepkal, "Takže toto je za Jacka."	When I said Jack’s name the traitor started mewling and making all this noise again, he was so scared, so I had to wait another minute or two, before I whispered to him, "So this is for Jack."	0.102128
+Vtedy prišiel môj šéf a spolu s ním zopár chlapov, pozreli sme sa na seba a začali sme.	The leader of my crew came in then, and another couple of lads, and we looked at each other, and we began.	0.23662
+A nebolo to pekné.	And it weren’t pretty.	0.225
+Nemal som si to vychutnávať, no len tento raz, len tento raz.	And I ain’t supposed to glory in that, but just this once, just this once.	0.471946
+Toto bol hajzel, ktorý zradil Jacka.	This was the fucker sold out Jack.	0.268966
+Vedel som, že Jackova vláda (pretože to skutočne bola vláda) nemohla vydržať.	I knew it couldn’t last, Jack’s reign (because that’s what it was).	0.247368
+Nedalo sa to nevedieť a bol som z toho smutný.	I couldn’t not know it, and it made me sad.	0.274286
+Nemôžete bojovať s nevyhnutným.	But you couldn’t fight the inevitability.	0.217241
+Keď som sa dopočul, že ho chytili, musel som sa snažiť, naozaj sa snažiť, nevyzerať nešťastne.	When I heard they’d caught him, I had to fight, to work hard, not to let myself show sad.	0.266667
+Ako som povedal, bol som len malá časť operácie – nie som veľká ryba a takto mi to vyhovuje, nechcem stáť na čele tejto nebezpečnej roboty.	Like I said, I was only a small part of the operation—I’m not a big player, and that’s more than fine by me, I don’t want to run this dangerous business.	0.498744
+Radšej som, keď mi povedia, čo treba spraviť.	I’d rather be told what to do.	0.132
+Ale napĺňalo ma to takou hrdosťou, viete?	But I’d taken such pride in it, you know?	0.282353
+Keď som počúval, čo robí a vždy som vedel, že som s tým spojený.	Hearing of what he was doing, and always knowing that I was connected.	0.259615
+Aj za tým najväčším samotárom stojí sieť ľudí a byť súčasťou jednej, nuž, to niečo znamenalo.	There are always networks, behind every so-called loner, and being part of one well, it meant something.	0.262025
+To mi nikto nevezme.	I’ll always carry that.	0.25
+Ale vedel som, že to raz skončí, tak som sa snažil držať si odstup.	But I knew it would end, so I tried to steel myself.	0.437912
+Keď ho vystavili na BilSantumskom námestí, znovu pretvoreného, zbaveného prvého pretvorenia, nešiel som sa naňho pozrieť, pretože som vedel, že bude mŕtvy skôr, ako sa mu rana zahojí.	And I never went to see him, when they stretched him out in BilSantum Plaza, Remade agaiAn, his first Remaking gone, knowing he’d be dead before the wound healed.	0.251111
+Zaujímalo by ma, koľkých v tom dave poznal.	I wonder how many in that crowd were known to him.	0.267568
+Počul som, že primátorovi to nevyšlo podľa jeho predstáv a dav sa Jackovi nikdy nevysmieval a ani po ňom nehádzal blato.	I heard that it went a bit wrong for the Mayor, that the crowds never jeered or threw muck at the stocks.	0.379893
+Ľudia Jacka milovali.	People loved Jack.	0.247059
+Prečo by som ho chcel vidieť v takom stave?	Why would I want to see him like that?	0.251613
+Viem, ako si ho chcem pamätať.	I know how I want to remember him.	0.276923
+A ten práskač, táraj, bol teraz v mojich rukách, tak som sa uistil, aby to pocítil.	So the snitch, the tattletale, was in my hands, and I made sure he felt it.	0.260656
+Existujú techniky, musíte vedieť, ako zastaviť bolesť.	There are techniques—you have to know ways to stop pain, and I know them, and I withheld them.	0.122449
+Ja ich poznám a nevyužil som ich.	I left that fucker red and dripping.	0.267857
+Nechal som toho hajzla celého zakrvaveného.	He’ll never be the fucking same.	0.182143
+Už nikdy nebude rovnaký.	For Jack, I thought.	0.233333
+Za Jacka, pomyslel som si.	Try telling tales again.	0.286364
+Skús znovu niekomu vešať na nos rozprávky.		-0.3
+Niečo som mu spravil s jazykom.	I did something to his tongue.	0.288462
+Kým som doňho zarýval prsty, myslel som na to, ako som spoznal Chrobáka.	As I did it, as I dug my fingers in him, I kept thinking of when I met Half-a-Prayer.	0.265574
+Viete, ľudia potrebujú niekam uniknúť.	People need something, you know, to escape.	0.274286
+Potrebujú.	They do.	0.1875
+Potrebujú niečo, aby sa cítili slobodní.	They need something to make them feel free.	0.291667
+Je to pre nás dobré, je to nevyhnutné.	It’s good for us, it’s necessary.	0.268966
+Mesto to potrebuje.	The city needs it.	0.2625
+Ale príde čas, keď sa to musí skončiť.	But there comes a time when it has to end.	0.614583
+Jack zachádzal priďaleko.	Jack was going too far.	0.99
+A po ňom prídu ďalší, o tom som tiež presvedčený.	And there’ll be others, I know that too.	0.238235
+Vedel som, že to bolo nutné.	I knew it was necessary.	0.257143
+Naozaj zašiel priďaleko.	He really had gone too far.	0.3
+Ako som ale povedal, o tomto sa nemôžem rozprávať s mojimi kolegami, pretože si nemyslím, že by sa to snažili pochopiť.	But I can’t talk to my workmates about this, like I say, because I don’t think they think this stuff through.	0.40303
+Vždy rozprávajú len o tom, aký bol Chrobák bastard a ako dostal, čo si zaslúžil a podobné kecy.	They just always went on about what a bastard Half-a-Prayer was, and how he’d get his, and blah blah.	0.596802
+Podľa mňa si neuvedomujú, že mesto potrebuje ľudí ako bol on, že bol pre nás všetkých dobrý.	I don’t think they realise that the city needs people like him, that he’s good for all of us.	0.296053
+Ľudia majú svojich hrdinov a bohovia vedia, že ich za to neodcudzujem.	People have their heroes, and gods know I don’t grudge them that.	0.272727
+Nie je to žiadne prekvapenie.	It ain’t a surprise.	0.166667
+Neuvedomujú si, aké ťažké je udržať mesto, štát ako Nový Crobuzon pod kontrolou, prečo sú niektoré veci potrebné.	They—the people I mean—don’t know how hard it is to keep a city, a state like New Crobuzon going, why some of the things that get done get done.	0.396039
+Môže to znieť kruto.	It can be harsh.	0.214286
+Ak Jack dáva ľuďom dôvod vytrvať, majú ho mať.	If Jack gives people a reason to keep going, they should have it.	0.484615
+Dokým sa to celé nevymkne z rúk, čo sa samozrejme, vždy stane.	So long as it don’t get out of hand, which, of course, it always does.	0.271154
+A preto ho bolo treba zastaviť.	That’s why he had to be stopped.	0.3
+Ale po ňom príde ďalší, s ešte väčšími plánmi, predvádzaním sa, gestami a krádežami.	But there’ll be another one, with more big shows, more grand gestures and thefts and the like.	0.270833
+Ľudia ich potrebujú.	People need that.	0.24375
+Som vďačný za Jacka a jemu podobných.	I’m grateful to Jack and his kin.	0.257143
+Ak by sme ich nemali, čo si podľa mňa moji kolegovia neuvedomujú, no ak by sme ich nemali, všetci tí naštvaní ľudia zo Psej štvrte, Kellstromu a Smogrutova by nemali komu držať palce a len bohovia vedia, čo by urobili potom.	If they weren’t there, and this is what I think my mates don’t understand, if they weren’t there, and all them angry people in Dog Fenn and Kelltree and Smog Bend had no one to cheer on, gods know what they’d do.	0.348754
+To by bolo oveľa horšie.	That would be much worse.	0.285714
+Takže sláva Chrobákovi Jackovi.	So here’s a cheer for Jack Half-a-Prayer.	0.227586
+Ako divák, ktorý si užíval jeho predstavenia a oddaný, milujúci služobník tohto mesta, pripíjam naňho po jeho smrti rovnako ako za jeho života.	As a spectator who enjoyed his shows, and a loyal and loving servant of this city, I toast him in his death as I did in his life.	0.36966
+Pomstil som ho, aj keď som sám vedel, že by bolo načase, aby s tým prestal.	And I exacted a little revenge for him, even though I know it was past time for him to stop.	0.236066
+Bolo to úplne základné pretvorenie.	It was a basic Remaking.	0.142857
+Vzali sme tomu zradcovi nohy a na ich miesto dali motory, ja som sa však uistil, aby som spravil niečo extra.	We took that little traitor’s legs and put engines in their place, but I made sure to do a little extra.	0.55508
+Z akejsi zdochnutej ryby som prepracoval tkanivo s prísavkami a dal som mu ho na miesto jazyka.	Reshaped a suckered filament from some fish-thing’s carcasse, put it in place of his tongue.	0.483703
+Bude s ním bojovať.	It’ll fight him.	0.26
+Nezabije ho, ale jeho jazyk ho bude nenávidieť po zvyšok života.	Can’t kill him, but his tongue’ll hate him till the day he’s gone.	0.3
+Bol to môj darček pre Jacka.	That was my present to Jack.	0.728571

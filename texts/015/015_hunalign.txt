@@ -1,0 +1,194 @@
+Kládla som sa jej otázky, na ktoré tu a tam prikývla.	I asked her questions and got a nod here and there.	0.535714
+Konečne som držala dve šálky horúcej čokolády, ktorú som prudko premiešala v snahe odstrániť odtiaľ hrudky.	Finally I had two cups of hot chocolate and I stirred at them violently trying to get the lumps out.	0.259756
+Kiežby som mala zopár drobných penových cukríkov.	I wish I had some of those tiny marshmallows.	0.252632
+Sú skvelé, vyhlásila som s rozpačitým úsmevom, keď som jej podávala hrnček.	They're fun, I said, smiling awkwardly as I handed her the mug.	0.232075
+Pochádzal z nejakého odpočívadla v národnom parku Redwood s rozprávkovým obrázkom amerického ľudového hrdinu drevorubača Paula a jeho veľkého modrého vola.	It was from some rest stop in the Redwood Forrest, Paul Bunyan and his big blue Ox.	0.166667
+Bodaj by som si ho všimla skôr a dala jej namiesto neho nejaký s dalmatíncom.	I wished I would have noticed and given her the one with the Dalmatian instead.	0.290625
+Nevyzeralo by to tak divne.	That would have seemed a little less awkward.	0.1125
+Poslala mi ho mama, pretože som ako malá milovala dalmatíncov.	My mom sent it to me because when I was little I loved Dalmatians.	0.3
+Vysvetľovala som jej, že deti vďaka Disneymu rozprávky o dalmatíncoch milovali, no to obdobie je už za nami. ~~~ Mama mi však stále posielala hrnčeky a narodeninové pohľadnice orámované čiernymi bodkami.	I tried to explain to her that, thanks to Disney, lots of little kids liked Dalmatians and that the phase was over, but she still kept sending me mugs and birthday cards with black spots.	-0.0185065
+Pokojne si sadnite na moju posteľ ak vám to neprekáža.	I guess you could sit…on my bed if you want?	0.216667
+Ospravedlňujem sa, ale ešte tu nemám žiadne stoličky.	I'm sorry, that's pretty creepybut I don't have any chairs yet.	0.255319
+Rozhliadla som sa po prázdnych stenách a plagátoch skrútených na zemi a povedala som si, že by som ich večer mala zavesiť, no vedela som, že ich nezavesím.	I looked around at the empty walls and the posters rolled up on the floor and told myself I would hang them up tonight. But I knew I wouldn't.	0.263478
+Podišla k mojej posteli a sadla si na jej kraj.	She walked over to my bed and sat down on the corner.	0.269231
+Ja som vytiahla škatuľu plnú kníh a sadla som si na ňu.	I pulled up a box full of books and sat down on it.	0.493269
+Usrkla som si horúcej čokolády a ústa som mala plné hrudiek z neroztopeného prášku.	I sipped at the hot chocolate and got a big chunk of powder.	0.379592
+Hádam som tú jej pomiešala o čosi lepšie.	I hoped I had stirred hers a little better.	0.291429
+Takže vy ste tu bývali predo mnou? spýtala som sa potichu s nádejou, že nedostane ďalší hysterický záchvat. Zdalo sa, že sa konečne upokojila.	So, you lived here before me? I asked quietly. Hoping not to start another round of hysterics; she had finally seemed to calm down.	0.269725
+Áno.	Yes.	0.3
+Bývali ste sama? zovrela som horúci hrnček s pocitom, akoby som už poznala odpoveď.	Did you live alone? I squeezed the hot mug, already feeling like I knew the answer.	0.291304
+Musela byť jednou z dvojice, o ktorej sa so mnou majiteľ bytu pokúšal klebetiť.	She must have been part of the couple the landlord attempted to gossip with me about.	0.28209
+Možno bol ich rozchod naozaj nepríjemný a možno ju stále hľadal a prenasledoval.	Maybe it was a really bad breakup. Maybe he was still looking for her, still stalking her.	0.488199
+Pomyslela som si na muža, ktorý tuším sledoval aj mňa.	I thought of the man who I guess was stalking me.	0.255
+Nevyzeral, že by niekomu ublížil.	But he didn't seem like he would hurt anybody.	0.21
+Bol príliš smutný, chladný a osamelý.	He was too sad, too cold and lonely.	0.27
+Nie, odvetila a fúkala si horúci nápoj. ~~~ Čakala som a dúfala, že mi rozpovie svoj životný príbeh, preto som sa jej nepýtala nevhodné otázky, ktoré by ju rozplakali.	No, she said, and then she breathed into the steaming mug, and I waited, hoping that maybe she would tell me her story so that I didn't ask the wrong question and make her cry.	-0.00431655
+Žila som so svojím snúbencom Ericom.	I lived with my fiancé, Eric.	0.216
+Uteráky a koberčeky nám viseli všade po stenách, ukázala na dierky, ktoré som si nikdy nevšimla, a jeho kamaráti mohli prísť a skúšať.	We had rugs and towels hanging all over the walls, - she pointed to the tiny holes, the ones I never noticed - and his friends would come over and practice.	0.262832
+Tu a skúšať s kapelou?	Band practice in this place?	0.205263
+To muselo byť bláznivé.	That must have been crazy.	0.271429
+Teraz sa usmiala ešte viac.	She smiled bigger now.	0.24
+Nepochybovala som, že sa preniesla späť do starých čias a ja som si predstavila štyroch či piatich chlapcov s gitarami natlačených okolo postele, kde sedela a počúvala, možno bubeníka so stoličkou zaseknutou v kúpeľni.	I was sure she was transporting herself back there, and I pictured four or five guys with guitars huddled around the bed where she sat and listened, maybe a drummer with his chair stuck inside the bathroom.	0.359398
+Prestala hovoriť a zahľadela sa do svojho hrnčeka.	She stopped talking and stared down into her mug.	0.285714
+Sedeli sme mlčky a vtedy som mrkla k oknu.	We sat in silence and then my eyes went to the window.	0.222857
+Bol späť.	He was back.	0.233333
+Amy si všimla, ako som sa na to okno zrazu pozrela. ~~~ Pozrela sa tiež, ale nič sa nestalo.	Amy noticed the way I looked at the window suddenly, and she looked too, but nothing happened.	-0.00714286
+Ona ho nevidela.	She didn't see him.	0.26
+Podišiel bližšie a rukami si tienil tvár, aby mohol hľadieť dnu.	He walked closer to the window and cupped his hands around his face to peer inside.	0.223636
+Vtedy vyzeral byť ešte smutnejší ako kedykoľvek predtým.	Then he looked sadder than he ever had.	0.145455
+Líca sa mu zdvihli a čelo mu zvráskavelo ako starému mužovi.	His cheeks pulled up and his forehead wrinkled like an old man.	0.288235
+Vyzeral, že sa trasie.	It looked like he was shaking.	0.21
+Vystreté dlane položil na okno a na miestach, kde sa končeky jeho prstov dotýkali skla, som videla tvoriacu sa srieň.	He put his palms flat on the window and I could see what looked like frost forming where the tips of his fingers touched the glass.	0.275758
+V tom momente som si uvedomila, že čo som videla, som nemohla vysloviť na hlas.	I realized in that moment, what I knew I couldn't say out loud.	0.219231
+Buď som mala v mozgu rastúci nádor, ktorý spôsoboval, že ja som muža za oknom videla a ona nie, alebo to bol duch.	Either I had a tumor growing in my brain that was making me see this man that she couldn't, or he was a ghost.	0.407955
+Čo sa mu stalo Amy?	Amy, what happened to him?	0.16875
+Čo sa stalo Ericovi?	To Eric.	-0.075
+Sčasti som dúfala, že povie: Ako to myslíte?	I halfway hoped she would say, What do you mean?	0.284211
+Nemala som totiž zdravotné poistenie.	I didn't have health insurance.	0.235714
+Ona však neodpovedala.	But she didn't say that.	0.3
+Len sa na mňa pozerala, ako keby ju ani nezaujímalo, ako alebo čo som vedela.	She just looked at me as if she didn't care how I knew, or what I knew.	0.257143
+Akoby som tam ani nebola.	As if I wasn't even there.	0.3
+Hľadela do prázdna a mysľou bola opäť niekde inde.	She stared into the air and her mind went somewhere else again.	0.230233
+Tento raz však nie na radostnom mieste.	This time it wasn't somewhere happy at all.	0.273529
+Zabil sa.	He killed himself.	0.0333333
+Predstavila som si muža v okne hľadiaceho ponad umývadlo do malého zrkadla so zbraňou v ústach.	I pictured the man at the window, staring into the tiny mirror over the sink, with a gun inside his mouth.	0.277778
+Premýšľala som, ktoré otázky, ak vôbec nejaké, by boli vhodné.	I thought about what questions were appropriate, if any.	0.269388
+A čo sa spýtate ako prvé?	And what do you ask first?	0.285714
+´Prečo´, či skôr ako´?	Why or how?	0
+Domnievam sa, že ako bola jednoduchšia otázka, tak som sa teda opýtala.	I guess how was the less complicated one so I went with that.	0.234
+Tabletky.	Pills.	0.171429
+Prehltol jedno celé balenie.	He swallowed the whole cabinet full.	0.230769
+Myslím, že to znovu celé videla.	I guess she was seeing it again.	0.288889
+Videla jeho.	Seeing him.	0.272727
+Pozrela som sa k oknu a zbadala ako aj on pevne stláčal zavreté oči.	I looked at the window and he was squeezing his eyes shut too.	0.270588
+Aký bol? trochu som sa snažila zmeniť tému.	What was he like? I tried changing the subject a little.	0.218919
+Kým hovorila, hľadela som na neho cez okno.	I stared out the window at him as she spoke.	0.291667
+Bol, zastavila sa, tichý.	He was, she paused, quiet.	0.3
+Nikdy som nevedela, čo mu vírilo hlavou.	I never knew what he was going through in his head.	0.24
+Len sotva by sa mi s niečím zveril.	He just wouldn't tell me.	0.204545
+Stratil prácu a dokonca ho vykopli z kapely.	He lost his job and they kicked him out of the band.	0.268421
+Povedali, že nepotrebujú troch gitaristov, pretože s toľkými ľuďmi na pódiu vraj vyzerali hlúpo.	They said they didn't need three guitar players, they said they looked stupid on stage with that many people.	0.271429
+Moji rodičia ho nikdy nemali radi.	My parents never liked him.	0.225
+Nechceli, aby sme sa zosobášili.	They didn't want us to get married.	0.289655
+Vraveli, že vyzeral ako z útulku pre bezdomovcov.	They said he looked like he belonged in a homeless shelter.	0.251163
+No on svoju bradu miloval.	But he loved that beard.	0.271429
+Ja som ju milovala.	I loved it.	0.09
+Odmlčala sa a pozrela na svoje topánky, ktoré na drevenej podlahe vytvorili mláčku.	She trailed off and looked down at her shoes, which were making a puddle on the wood floor.	0.501786
+Ospravedlňujem sa. Neviem, prečo sem stále chodím.	I'm sorry, I don't know why I keep coming here.	0.253846
+Asi preto, že tu sa cítim byť k nemu bližšie.	I just feel close to him here I guess.	0.241935
+Teraz som si bola istá, že muž v mojom okne bol mŕtvy.	I was sure now that the man at the window was dead.	0.278049
+Nepripadalo mi to také bláznivé, ako by malo.	I guess it didn't sound as crazy to me as it should have.	0.579487
+No nestalo sa tak.	She didn't.	0.163636
+Iba na mňa pozerala a prižmúrila oči, ako keby chcela prečítať drobné písmo cez moju tvár.	She just stared at me and squinted her eyes like she was trying to read the fine print across my face.	0.272368
+Niekto chodieva k môjmu oknu.	Someone's been coming to the window.	0.230769
+Rozmýšľala som, či nie je bezdomovec. ~~~ Nie som si istá, čo som si myslela.	I thought maybe he was homelessor, I'm not sure what I thought.	-0.0283019
+Ale možno je to on.	But maybe it's him.	0.28125
+Vlastne je tam aj práve teraz.	He's there right now actually.	0.288462
+Čakala som, že zmizne hneď ako sa otočila, aby sa pozrela von oknom, avšak nezmizol.	I expected him to disappear as soon as she turned her head to look out the window, but he didn't.	0.266197
+Hľadel jej do očí.	He stared into her eyes.	0.20625
+Ona sa otočila späť ku mne.	She turned back to me.	0.236842
+Tam? spýtala sa zmätene a ukazovala na zamrznuté sklo.	There? she said, confused, pointing to the frozen glass.	0.287234
+Hej.	Yeah.	0.24
+Pozerá sa na vás.	He's looking at you.	0.24
+Vyzerá naozaj smutne.	He seems really upset.	0.3
+Možno to nechcel spraviť.	Maybe he didn't mean to do it.	0.873913
+Nevedela som, čo sa so mnou deje.	I wasn't sure what I was doing.	0.276923
+Bola som médium?	Being an interpreter for the dead?	0
+Najprv sa na mňa pozrela, ako keby som bola blázon a ja som ju chápala.	She looked at me at first like I was crazy, and I understood.	0.252
+Avšak nevstala, nevyprskla mi horúcu hnedú tekutinu do tváre, ani sa nerozbehla s krikom ku dverám, aj keď v hĺbke duše tak určite chcela urobiť.	But she didn't get up, she didn't throw the hot brown liquid in my face and run screaming for the door.	0.164286
+Jazdila sem pravdepodobne preto, že potrebovala niečo nájsť.	I think she must have wanted this, deep down.	0.173684
+Potrebovala, aby toto všetko bolo skutočné.	She must have driven here needing to find something.	0.253846
+Výraz tváre mala jemnejší a pritom, ako rozprávala, sa obzrela k oknu.	Needing this to be real. ~~~ Her face softened and she looked back at the window as she spoke.	-0.0166667
+Tiež som sa tam pozrela a, samozrejme, aby som vyzerala ešte bláznivejšie, bol preč.	I looked back too and of course, maybe to make me look even crazier, he was gone.	0.272727
+On rozpráva? opýtala sa a ja som započula ako sa jej duševne zdravá časť snažila vyhrať nad niečím, čo v to všetko verilo.	Does he…talk? she said, and I could hear the sane part of her trying to win out over whatever part believed it all.	0.40266
+No, teraz je preč.	Well he's gone now.	0.28125
+Ale nie, nehovorí.	But no, he doesn't talk.	0.229412
+Nie so mnou.	Not to me.	0.233333
+Obrátila sa späť ku mne najrýchlejším pohybom, aký doposiaľ spravila.	She snapped her head back towards me, the fastest movement she had made so far.	0.27541
+Čo tým myslíte, že je preč?	What do you mean, he's gone?	0.286957
+Vstala a vybrala sa k oknu.	She got up and went to the window.	0.234783
+Pozrela sa cezeň trochu zúfalo, potom zavrela oči a zhlboka sa nadýchla.	She looked out of it a little frantically, and then closed her eyes and took a deep breath.	0.467866
+So zavretými očami tam stála dosť dlhú dobu.	She stood there with her eyes closed for a long time.	0.252632
+Iba dýchala.	Just breathing.	0.225
+Napokon sa otočila a ešte raz rozhliadla po byte, teraz s náznakom jemného úsmevu.	Finally she turned and looked around the apartment again, this time with the softest edge of a grin.	0.44
+Pozrela sa na svoj hrnček a potom na mňa.	She looked down into her mug and then up to me.	0.264706
+S radosťou.	You're welcome.	0.190909
+Teraz vás nechám ísť.	I'll let you go now.	0.264706
+Nechcem, aby ste meškali.	I don't want to make you late.	0.273913
+Odkráčala k drezu a hrnček položila vedľa špinavých tanierov a šálok.	She walked to the sink and put her mug down next to the dirty plates and cups.	0.285
+Nasledovala som ju k dverám, akoby môj byt patril ešte stále jej.	I followed her to the door as if it were still her apartment.	0.27
+Slnko bolo oproti snehu príliš žiarivé, takže oči som si musela cloniť poloprázdnym hrnčekom s dalmatíncami.	The sun was so bright against the snow that I had to shield my eyes with the half empty Dalmatian mug.	0.260241
+Iste.	Sure.	0.3
+Som rada, že som mohla pomôcť? skonštatovala som hľadajúc slová, aby som opísala, čo sa práve udialo.	I'm glad I could…help? ~~~ I said, searching for the words to describe or explain what just took place.	-0.00176471
+Otočila sa a odkráčala k svojmu autu. ~~~ Vyzerala byť v rozpakoch, že tam vôbec bola.	She turned and walked back to her car, seeming almost a little embarrassed for having been there at all.	-0.0338028
+Potom sa z boku domu po mojej ľavici vynoril najskôr tieň a vzápätí muž.	Then to my left, from the side of the house came at first a shadow, and then a man.	0.47
+Eric.	Eric.	1.8
+Teraz už mal meno.	Now he had a name.	0.28
+Sledovala som, ako tentoraz kráčal s rukami zloženými z tváre a spustenými pozdĺž tela.	I watched as he walked with his hands down from his face now and at his sides.	0.242857
+Zastal a pozrel sa mňa. Rovno do mojich očí, na niekoľko sekúnd, ktoré sa zdali byť najdlhšími v mojom živote.	He stopped and looked at me, right into my eyes, for a few seconds that seemed to stretch out longer than any other few seconds of my life.	0.374379
+Potom opäť kráčal vpred doháňajúc Amy.	Then he walked forward again, catching up to Amy.	0.657983
+Amy	Amy!	0.225
+Chcela som jej povedať, že bol priamo tam, hneď za ňou, ale zastavila som sa.	I wanted to tell her that he was right there, he was right behind her. ~~~ But I stopped.	-0.0164062
+Otočila sa ku mne a naozaj mu stála tvárou v tvár.	She turned to face me and she was really facing him.	0.285366
+Bol medzi nami a hľadel na ňu, dosť blízko na to, aby sa jej dotkol.	He was between us looking right into her face, close enough to touch her.	0.267273
+Nastúpila do auta a ja som si všimla, ako si Eric sadol na miesto spolujazdca.	She got into the car and I watched as Eric got into the passenger's seat.	0.4625
+Podľa jej pohľadu pri odchode som vedela, že ju už viac neuvidím. Ako keby sa konečne rozlúčila.	I knew I would never see her again by the way she looked at it as she drove off, like she was saying goodbye.	0.277778
+V jeseni roku 1989 prijala Princetonská univerzita do prvého ročníka mladého muža menom Alexi Santana, ktorého životný príbeh prijímaciu komisiu mimoriadne zaujal.	In the fall of 1989 Princeton University welcomed into its freshman class a young man named Alexi Santana, whose life story the admissions committee had found extraordinarily compelling.	1.95999
+Nezískal takmer žiadne formálne vzdelanie.	He had barely received any formal schooling.	0.3
+Vyrastal takmer úplne sám v lone prírody štátu Utah, kde pásol dobytok, choval ovce a čítal filozofické knihy.	He had spent his adolescence almost entirely on his own, living outdoors in Utah, where he'd herded cattle, raised sheep, and read philosophy.	0.371725
+Behával v Mohavskej púšti, vďaka čomu sa z neho stal bežec na dlhé trate.	Running in the Mojave Desert, he had trained himself to be a distance runner.	0.280328
+Santana sa rýchlo stal hviezdou univerzity.	Santana quickly became something of a star on campus.	0.674725
+Aj v štúdiu sa mu darilo, dostával Áčka takmer z každého predmetu.	Academically too he did well, earning A's in nearly every course.	0.3
+Jeho zdržanlivé spôsoby a nezvyčajný životný príbeh mu dodávali záhadnú príťažlivosť.	His reserved manner and unusual background suffused him with an enigmatic appeal.	0.278873
+Keď sa Santanu spolubývajúci opýtal, prečo má posteľ vždy takú dokonale ustlanú, odpovedal, že spáva na zemi.	When a suite mate asked Santana how his bed always seemed to be perfectly made, he answered that he slept on the floor.	0.287234
+Zdalo sa byť úplne logické, že niekto, kto spal väčšinu svojho života vonku, si nevie zvyknúť na posteľ.	It seemed perfectly logical that someone who had spent much of his life sleeping outdoors would have no fondness for a bed.	0.248864
+Učiť sa klamať je prirodzené štádium vo vývoji dieťaťa.	Learning to lie is a natural stage in child development.	0.3
+Psychológ Torontskej univerzity Kang Lee skúmal, ako sa deti s pribúdajúcim vekom stávajú sofistikovanejšími klamármi.	Kang Lee, a psychologist at the University of Toronto, has explored how children become more sophisticated liars as they age.	0.481786
+Výskumný asistent Darshan Panesar a deväťročná Amelia Tongová demonštrujú funkčnú technológiu blízkej infračervenej spektroskopie, ktorú Lee používa pri výskume.	Darshan Panesar, a research assistant, and nine-year-old Amelia Tong demonstrate functional near-infrared spectroscopy technology, which Lee uses in his studies.	0.897902
+Až na to, že Santanov príbeh bol vymyslený.	Except that Santana's story was a lie.	0.263636
+Asi 18 mesiacov po zápise ho jedna žena identifikovala ako Jaya Huntsmana, ktorého poznala pred šiestimi rokmi na strednej škole v meste Palo Alto v štáte Kalifornia.	About 18 months after he enrolled, a woman recognized him as somebody she'd known as Jay Huntsman at Palo Alto High School in California six years earlier.	1.66747
+Ale ani to nebolo jeho skutočné meno.	But even that wasn't his real name.	0.28
+Úradníci z Princetonu nakoniec zistili, že je to v skutočnosti James Hogue, 31-ročný muž, ktorý si odsedel trest odňatia slobody v štáte Utah za prechovávanie ukradnutého náradia a súčastí bicykla.	Princeton officials eventually learned that he was actually James Hogue, a 31-year-old who had served a prison sentence in Utah for possession of stolen tools and bike parts.	0.671226
+Z Princetonu ho odviedli v putách.	He was taken away from Princeton in handcuffs.	0.2
+Počas nasledujúcich rokov bol Hogue niekoľkokrát zatknutý pre obvinenia z krádeže.	In the years since, Hogue has been arrested several times on theft charges.	0.507812
+Keď ho v novembri zatkli za krádež v meste Aspen v štáte Colorado, znova sa pokúsil vydávať sa za niekoho iného.	In November, when he was arrested for stealing in Aspen, Colorado, he tried to pass himself off as someone else.	0.439631
+História ľudstva je plná prefíkaných a skúsených klamárov ako Hogue.	The history of humankind is strewn with crafty and seasoned liars like Hogue.	0.542727
+Mnohí z nich sú kriminálnici, ktorí spriadajú klamstvá a podvody, aby získali nespravodlivé odmeny, ako to robil finančník Bernie Madoff celé roky, keď podvodom okrádal investorov o milióny dolárov, kým sa jeho pyramídový podvod nezrútil.	Many are criminals who spin lies and weave deceptions to gain unjust rewards—as the financier Bernie Madoff did for years, duping investors out of billions of dollars until his Ponzi scheme collapsed.	0.510963
+Iní sú politikmi, ktorí sa týmto spôsobom snažia získať moc alebo si ju udržať ako Richard Nixon, ktorý poprel akúkoľvek účasť v afére Watergate.	Some are politicians who lie to come to power or cling to it, as Richard Nixon famously did when he denied any role in the Watergate scandal.	0.401897
+Niekedy ľudia klamú, aby zlepšili svoj imidž. ~~~ To bola pravdepodobne motivácia tvrdenia prezidenta Donalda Trumpa, že jeho inauguračný dav bol väčší ako prvý dav prezidenta Baracka Obamu, čo bolo preukázateľne nepravdivé.	Sometimes people lie to inflate their image—a motivation that might best explain President Donald Trump's demonstrably false assertion that his Inauguration crowd was bigger than President Barack Obama's first one.	-0.00564516
+Ľudia klamú, aby zakryli zlé správanie, ako to urobil americký plavec Ryan Lochte počas letných olympijských hier v roku 2016, keď tvrdil, že bol obeťou ozbrojenej lúpeže na benzínovej pumpe. ~~~ V skutočnosti sa s ďalšími členmi tímu opil a dostal sa do konfliktu s ozbrojenými ochrankármi pre poškodzovanie majetku.	People lie to cover up bad behavior, as American swimmer Ryan Lochte did during the 2016 Summer Olympics by claiming to have been robbed at gunpoint at a gas station when, in fact, he and his teammates, drunk after a party, had been confronted by armed security guards after damaging property.	0.0706214
+Dokonca aj v oblasti akademickej vedy, čo je svet zaplnený prevažne ľuďmi oddanými hľadaniu pravdy, sa nájde galéria podvodníkov, ako napríklad fyzik Jan Hendrik Schön, ktorého údajné objavy vo výskume molekulárnych polovodičov sa ukázali byť sfalšované.	Even academic science—a world largely inhabited by people devoted to the pursuit of truth—has been shown to contain a rogues' gallery of deceivers, such as physicist Jan Hendrik Schön, whose purported breakthroughs in molecular semiconductor research proved to be fraudulent.	0.520061
+Títo klamári získali zlú povesť preto, že ich klamstvá boli také neslýchané, nehanebné alebo uškodili mnohým ľuďom.	These liars earned notoriety because of how egregious, brazen, or damaging their falsehoods were.	0.247059
+Ich konanie však nie je až taká anomália, ako by sme si mohli myslieť.	But their deceit doesn't make them as much of an aberration as we might think.	0.263793
+Klamstvá podfukárov, podvodníkov a chvastajúcich sa politikov sú len špičkou ľadovca lží, ktoré charakterizujú ľudské správanie už celú večnosť.	The lies that impostors, swindlers, and boasting politicians tell merely sit at the apex of a pyramid of untruths that have characterized human behavior for eons.	0.424016
+Ukazuje sa, že väčšina z nás je v klamstve veľmi zbehlá.	Lying, it turns out, is something that most of us are very adept at.	0.242553
+S ľahkosťou hovoríme veľké i malé klamstvá cudzím ľuďom, kolegom, priateľom a blízkym.	We lie with ease, in ways big and small, to strangers, co-workers, friends, and loved ones.	0.292
+Je ironické, že sme hrozní v rozpoznávaní lží, pretože naša neúprimnosť je pre nás rovnako zásadná ako naša potreba dôverovať iným.	Our capacity for dishonesty is as fundamental to us as our need to trust others, which ironically makes us terrible at detecting lies.	0.297321
+Faloš je súčasťou našej samotnej podstaty do takej miery, že by bolo pravdivé tvrdiť, že klamať je ľudské.	Being deceitful is woven into our very fabric, so much so that it would be truthful to say that to lie is human.	0.296667
+Mark Landis, ktorý podľa vlastných slov zlyhal ako komerčný umelec, takmer tri roky klamal pre vlastné obohatenie. ~~~ Napodobňoval diela slávnych maliarov, vrátane tohto diela v štýle ľudového umelca Williama Matthewa Priora.	Lying for self-aggrandizement Mark Landis, who says he was a failure as a commercial artist, spent nearly three decades imitating the works of famous painters, including this one in the style of folk artist William Matthew Prior.	0.0227273
+Vydával sa za filantropa alebo jezuitského kňaza a daroval ich do múzeí umenia. Užíval si, keď mu za to prejavovali rešpekt.	Posing as a philanthropist or Jesuit priest, he donated them to art museums and enjoyed being treated with respect.	0.578571
+Nikdy pred tým som to nezažil a chcel som, aby to pokračovalo, povedal.	I had never experienced this before, and I wanted it to go on,” he says.	0.509201
+Nemám z toho výčitky svedomia.	I have no feelings of conscience about this.	0.177778
+Keď ma odhalili musel som prestať, veľmi ma to mrzelo.	When I was exposed and had to stop, I was very sorry.	0.551797
+To, že klamstvo je všadeprítomné, prvýkrát systematicky zdokumentovala Bella DePaulová, sociálna psychologička na Kalifornskej univerzite v meste Santa Barbara.	The ubiquity of lying was first documented systematically by Bella DePaulo, a social psychologist at the University of California, Santa Barbara.	0.709524
+Pred dvadsiatimi rokmi DePaulová a jej kolegovia požiadali 147 dospelých, aby si týždeň zapisovali každý svoj pokus niekoho oklamať.	Two decades ago DePaulo and her colleagues asked 147 adults to jot down for a week every instance they tried to mislead someone.	2.07757
+Výskumníci zistili, že ich subjekty klamali v priemere jeden až dvakrát denne.	The researchers found that the subjects lied on average one or two times a day.	0.290909
+Väčšinou išlo o neškodné klamstvá s cieľom zakryť svoje nedostatky alebo ochrániť pocity iných.	Most of these untruths were innocuous, intended to hide one's inadequacies or to protect the feelings of others.	0.253012
+Niektoré z nich boli výhovorky. ~~~ Jeden subjekt sa vyhováral, že nevyniesol smeti, pretože nevedel, kam patria.	Some lies were excuses—one subject blamed the failure to take out the garbage on not knowing where it needed to go.	-0.0015625
+Iné však mali za cieľ vykresliť falošný dojem, ako napríklad vydávanie sa za syna diplomata.	Yet other lies—such as a claim of being a diplomat's son—were aimed at presenting a false image.	0.292405
+Kým toto boli malé prehrešky, neskoršia štúdia DePaulovej a jej kolegov s podobnou vzorkou subjektov ukázala, že väčšina ľudí počas svojho života raz či viackrát klamala závažne. ~~~ Skrývali napríklad neveru pred svojím partnerom alebo uviedli nepravdivé informácie v prihláške na vysokú školu. ~~~ Jacob Hall klamal pre zábavu.	While these were minor transgressions, a later study by DePaulo and other colleagues involving a similar sample indicated that most people have, at some point, told one or more serious lies”—hiding an affair from a spouse, for example, or making false claims on a college application.	-0.105417
+Jeho túžba stať sa superhrdinom inšpirovala vymyslený príbeh, vďaka ktorému vyhral cenu Najväčšieho klamára v Západnej Virgínii a Zlatú lopatu na minuloročnom ľudovom festivale v Charlestone, Vandalia Gathering.	Lying for fun Jacob Hall's desire to become a superhero inspired a tall tale that won him the West Virginia's Biggest Liar award and a golden shovel at last year'sVandaliaGathering, a folk festival in Charleston.	0.393392
+Moje príbehy by bez klamstiev boli dosť nudné, povedal Hall, ktorý má v pláne spriadať klamstvá po zvyšok môjho života, ak tomu uveríte.	My stories would be pretty boring without deception,” says Hall, who intends to spin yarns for the rest of my life, if you can believe that.	0.422391
+To, že každý z nás má talent podvádzať, by nás nemalo prekvapovať.	That human beings should universally possess a talent for deceiving one another shouldn't surprise us.	0.353984
+Vedci predpokladajú, že klamstvo sa v ľudskom správaní objavilo krátko po vzniku jazyka.	Researchers speculate that lying as a behavior arose not long after the emergence of language.	0.284416
+Schopnosť manipulovať iných bez použitia fyzickej sily bola pravdepodobne výhodou v súperení o zásoby a partnerov, podobne ako evolúcia maskovacích stratégií v ríši zvierat, ako napríklad kamufláž.	The ability to manipulate others without using physical force likely conferred an advantage in the competition for resources and mates, akin to the evolution of deceptive strategies in the animal kingdom, such as camouflage.	0.265116
+Získať moc klamstvom je v porovnaní s inými spôsobmi také jednoduché, poznamenala Sissela Boková, profesorka etiky na Harvardovej univerzite, ktorá je jednou z popredných odborníčok v tejto oblasti.	Lying is so easy compared to other ways of gaining power,” notes Sissela Bok, an ethicist at Harvard University who's one of the most prominent thinkers on the subject.	0.337491
+Je oveľa ľahšie získať od niekoho peniaze alebo bohatstvo klamstvom, ako použiť násilie alebo vykradnúť banku.	It's much easier to lie in order to get somebody's money or wealth than to hit them over the head or rob a bank.	0.28
+Odkedy sa klamstvo začalo považovať za hlboko zakorenenú ľudskú vlastnosť, výskumníci v oblasti spoločenských vied a neurovedci sa snažia objasniť povahu a príčinu tohto správania.	As lying has come to be recognized as a deeply ingrained human trait, social science researchers and neuroscientists have sought to illuminate the nature and roots of the behavior.	0.407541
+Ako a kedy sa učíme klamať?	How and when do we learn to lie?	0.26087
+Aká je psychická a neurobiologická podstata neúprimnosti?	What are the psychological and neurobiological underpinnings of dishonesty?	0.207692
+Akú hranicu väčšina z nás nie je ochotná prekročiť?	Where do most of us draw the line?	0.128571
+Tieto poznatky svedčia o tom, že náš sklon podvádzať iných a naša naivita majú najmä v dobe sociálnych sietí veľký dopad.	These insights suggest that our proclivity for deceiving others, and our vulnerability to being deceived, are especially consequential in the age of social media.	0.188235
+Viac než kedykoľvek predtým nám hrozí, že naša spoločnosť stratí schopnosť oddeľovať pravdu od klamstiev.	Our ability as a society to separate truth from lies is under unprecedented threat.	0.211268
+Keď som bol v tretej triede, jeden z mojich spolužiakov priniesol do školy nálepky pretekárskych áut, aby sa nimi pochválil.	When I was in third grade, one of my classmates brought a sheet of racing car stickers to school to show off.	0.242697
+Nálepky boli očarujúce.	The stickers were dazzling.	0.259091

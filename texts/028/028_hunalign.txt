@@ -1,0 +1,319 @@
+Nemôžem.	But I can’t.	0.233333
+Keď raz muž opustí svojho malého syna, stráca všetky práva otca.	When a man walks away from his infant son, he gives up all claims in that direction.	0.223636
+Netreba, chlapče. ~~~ Povedal som.	That’s all right, lad,” I say, forcing my tone to steadiness.	-0.11
+Snažil som sa, aby môj hlas znel vyrovnane.	I think I know the way well enough.	0.217241
+Myslím, že cestu poznám dosť dobre.	Why don’t you boys get back to your game.	0.270968
+Prečo nehráte? ~~~ Pofukoval príjemný vetrík, prvý nezbedný zvestovateľ leta, a prinášal so sebou vôňu oceánu.	There is a murmur of breeze, a teasing first glimpse of summer carrying the smell of the ocean on its breath.	0.0883929
+Vydal som sa hore cestou s rukami vo vreckách.	Hands in pockets, I move on up the road.	0.245455
+Bolo ťažké byť späť, takmer také ťažké, ako predstava, že čoskoro znovu odídem.	Being back is hard to take, almost as hard as knowing that I will soon be gone again.	0.295588
+Šiel som pomaly, tempom, aké toto miesto vyžaduje. Vedel som, že keby som sa otočil, videl by som, že chlapci stále stoja na mieste a pozorujú ma.	I walk slowly, at the pace this place demands, and I know that if I were to turn, I’d find the boys still grouped together in the field, watching me.	0.3
+Dobre vedia, kto na tento ostrov patrí a tiež rozoznajú turistov.	They know who belongs here on this island and they know how to recognise tourists.	0.230357
+To, že očividne nepatrím ani do jednej z týchto skupín, ich miatlo.	Fitting neither category quite right, I have triggered confusion.	0.294737
+Za šesť rokov sa nezmenilo nič, pribudla iba nová omietka.	The only difference in six years is the fresh coat of whitewash.	0.276
+Šesť rokov.	Six years.	0.27
+Kriste!	Christ.	0.3
+Ako som tam tak stál, zdalo sa mi nemožné, že odvtedy ubehlo toľko času.	Standing here now, it feels impossible that so much time has passed.	0.289655
+Čas by mal veci meniť, naozaj ich zmeniť, nie iba sceľovať švy.	Time should change things, really change them, not merely tug at the seams.	0.237736
+Obraz tohto domu som si uchovával v mysli odo dňa, kedy som odišiel. ~~~ Bol to zázračný obraz, ktorý sa veľmi podobal obrázkom z pohľadníc, ktoré tu v každom pobrežnom meste či dedinke vnucujú turistom.	Since the day I left I have held a picture of this place in my mind, a matted image that hardly deviates from any of the hundred such scenic postcards that they peddle to the tourists in every seaside town and village up and down the country.	-0.0248521
+Malý vidiecky domček, učupený za zákrutou prašnej cesty, s trstinovou strechou, na ktorú sa rok po roku pridávajú čerstvo narezané otiepky, postavený na krásnom mieste nad roklinou strácajúcou sa v oceáne.	A small farmhouse cottage set back from the twist of dirt road, its thatched roof touched up with season after season of newly cut reeds and always keeping to just the right side of a sunken abyss.	0.274074
+Za domčekom sa nachádza približne 2-hektárový pozemok, potom sa zem náhle stráca, rozpadá sa na nepravidelné vrstvy bridlice, ktoré ako dračie zuby vyčnievajú do mora.	And five or so acres back beyond the cottage, the land finally rolls away, collapsing down into the jagged spokes of shale that rake the sea.	0.230769
+Tento obrázok dotvára nekonečná obloha, ktorá je v neustálom pohybe, mení sa z minúty na minútu ponúkajúc stále novú hru svetla. ~~~ Raz žiari akoby sa lúče svetla odrážali od skla, inokedy zas vytvára dojem, akoby bola krajina zahalená dymom. ~~~ Dnes je oceán pokojný.	A huge cloak of sky completes the picture, a sky always working, from minute to minute moiling to churn out yet more new tricks of the light, now the glare of a tilted looking- glass, now the deception of smoke.	-0.117919
+Na tomto mieste, ktoré za tie roky dosiahlo dokonalosť, práve prebieha ďalší aprílový deň.	The ocean today is calm, another April lie in a place that has practiced such skill to perfection.	0.284615
+Tommyho som našiel v kuchyni. ~~~ Zhrbený sedel v ťažkom kresle, lakte mal pokojne položené na kolenách, ruky zopnuté akoby sa modlil.	Tommy is in the kitchen, sitting hunched over in a hard chair with his elbows resting on his knees and his hands laced together in a prayerful grip.	-0.0119469
+Keď som sa objavil v zadných dverách pozrel na mňa, ale jeho vlhké oči mali neprítomný pohľad a chvíľu mu trvalo, kým si uvedomil, že som naozaj tu.	He looks up when I come to the back door but his eyes have the watery resonance of a dream and it takes him a moment to register my presence as something real.	0.388694
+Potom sa pomaly zdvihol, nevstal však úplne – pravdepodobne vinou bedrového kĺbu, kvôli ktorému strácal rovnováhu.	Then he rises slowly but not quite fully, courtesy of the hard-won lumbar kink that keeps him off-balance and constantly at odds, and by way of greeting he offers a hand that is nothing but rags and sticks.	0.09
+Vošiel som dnu a usadil sa k stolu, on nacvičeným pohybom zo skrinky vytiahol fľašu.	I come inside and sit at the table and he finds a bottle in the cupboard by the range.	0.478804
+Tommyho som poznal celý život, od devätnástich mi bol svokrom.	I have known Tommy all my life, and I have known him as a father-in-law since the age of nineteen.	0.155556
+Mali by sme sa o čom rozprávať, ale v tej chvíli bolo jednoduchšie iba sedieť a piť.	We have plenty to talk about, but for a while it is easier just to sit and drink.	0.448205
+Pili sme obyčajnú whisky, akej veľké továrne vyrobia hektolitre a aká sa dá kúpiť v každom obchode v Írsku, ale tu, v tejto kuchyni, chutila výnimočne.	The whiskey is a brand name type, nothing special, the stuff they make in big factories and sell in every licensed premises in Ireland, but here in this kitchen it takes on new properties.	0.342607
+Na jazyku som cítil chuť ostrova, prenikala cez horúčavu, ktorá ma obliala.	I can taste the flavours of the island filtering up through the heat, and stones grate inside my throat.	0.198462
+V krku som mal pocit, akoby tam do seba narážali balvany.	Not molten lava, but certainly blazing dust.	0.230769
+Nebolo to teplo roztavenej lávy, skôr spaľujúceho ohňa. ~~~ V rohu chrčalo staré rádio, ktoré akoby sa pohrávalo s páskou bez začiatku či konca a stanica pod chvíľami vypadávala, čo prinášalo tomuto pokoju nádherné a bezcenné rozrušenie.	The old transistor radio in the corner is skipping out a fiddled reel that seems without beginning or end but the station is slipping in and out of tune in a way that brings a wonderful and priceless sense of distortion to the piece.	0.0955949
+Šťastná náhoda, akými na svete vznikla nejedna úžasná vec.	A happy accident, like so many of the best things in the world.	0.294118
+Takže, konečne prehovoril.	So,” he says, at last.	0.205263
+Kde si nakoniec skončil?	Where’d you end up, then?	0.3
+Neviem, prečo som musel nad odpoveďou rozmýšľať, ale skutočne som sa zamyslel.	I’m not sure why I have to think about the answer, but I do.	0.175
+V Amerike, povedal som hneď, ako som mohol.	America,” I say, when I can.	0.1375
+Najprv v New Yorku, potom v rôznych iných mestách.	New York first, then some other places.	0.595588
+Ale všetky sú v podstate na jedno kopyto, nakoniec človeka prestanú baviť.	But one is much the same as the next until you give up on the cities.”	0.257143
+Nespoznávam vlastný hlas, znie mi cudzo a nepekne.	My voice sounds unfamiliar to me, and feels worse.	0.293023
+Môj prirodzený tón sa o stupeň znížil a stal sa ležérnym.	The tone has dropped a notch, and become airy.	0.530769
+Nejaký čas mi trvalo, kým som si uvedomil, že sa rozprávame po írsky.		-0.3
+Tieto staré slovíčka a ešte staršie zvyky som kedysi veľmi dávno odsunul bokom.	It takes the better part of a minute for me to recognise the fact that we are conversing in Irish.	0.461345
+Na to, čo som mu povedal, iba kývol hlavou.	Old words and older ways, ways that I have long since put aside.	0.158333
+Dopil svoju whisky a načiahol sa, že znovu naleje.	He nods at what I have told him, sucks down the whiskey in his glass and dashes off a refill.	0.376744
+Rukou som si zakryl pohár na znak, že nateraz mi stačilo. ~~~ Chcem ísť na to pomaly. On však držal fľašu a čakal, kým pohár odkryjem. ~~~ Potom mi predsa nalial.	I hold my hand across the mouth of my glass to indicate that I’m fine for the moment, that I want to take things slowly, but he waits with the bottle until I give up and then he pours anyway.	-0.140367
+Snažil som sa na neho nezízať, ale nevedel som si pomôcť.	I try not to stare but can’t help myself.	0.176471
+Teraz vidím, že som sa pred chvíľkou v mojich úvahácho čase a jeho vplyve mýlil.	And I see that I was wrong in my earlier assumptions of time and its effects.	0.280952
+Počas šiestich rokov sa možno nezmenili skaly ani prach tohto ostrova, ľudia však nie sú kameňmi.	Six years might not have touched the rocks and the dirt of this island, but people are not rocks and dirt.	0.285542
+Čas akoby Tommyho roztrhol na dvoje.	Time has all but torn Tommy asunder.	0.290323
+Ťažko strávené roky na jeho tvári zanechali stopy.	His face is a ruin of years hard spent.	0.1875
+Hanbím sa pri predstave, že aj ja mám na tom svoj podiel. ~~~ Mám chuť odvrátiť sa, sklopiť oči, skryť sa do tmavého tieňa v kuchyni, možno dokonca znovu ujsť a už nikdy sa nevrátiť späť.	Ashamed of the part I have played in making those marks, I want nothing more than to turn away, to lower my eyes, hide myself among the kitchen’s thickening shadows, maybe to run again and this time never look back.	-0.0246711
+Ale dlhujem mu oveľa viac.	But I owe him more than that.	0.286957
+Prišiel ti list?	You got my letter?”	0.26
+Už som ťa prestával čakať.	I’d just about given up expecting you.”	0.156522
+Viem, chvíľu mi to trvalo.	It’s been a while, all right.	0.273913
+Nikdy som neplánoval ostať tak dlho preč.	I never meant to stay away so long.”	0.24
+Všimol si moje klamstvo a sklopil zrak.	He recognises the lie and drops his gaze.	0.291176
+Rozhliadol som sa po kuchyni. ~~~ Bola taká istá, ako keď som tu bol prvýkrát.	The kitchen looks the same now as it did when I first sat here.	-0.0382353
+Rovnaký nábytok, rovnaký vyblednutý papier na stenách a rovnaké závesy na okne.	Same furniture, same worn paper on the walls, same curtains on the window.	0.271429
+A táto rovnakosť iba zvýrazňuje všetko, čo sme odvtedy stratili.	But such sameness only serves to emphasise all that has been lost.	0.3
+Bez toho, aby sme sa ďalej rozprávali, rozhodli sme sa nechať whisky tak.	Without discussing the matter, we decide to give the whiskey a bit of a beating.	0.275806
+Mám slabý žalúdok a nepredpokladám, že by som zvládol vypiť viac.	I have a bad stomach and hardly touch the stuff anymore.	0.492553
+Nie som si však istý, či dokážem sedieť v tomto dome bez vplyvu niečoho silného.	But I’m not at all sure that I can bear to sit in this house without the sustenance of something strong.	0.219403
+Myslím, že Tommy to cíti tak isto. ~~~ Aspoň dnes určite áno.	I suppose Tommy feels the same way, at least today.	0.115086
+Počul som o Bess. Je mi to ľúto.	I was sorry to hear about Bess.”	0.663462
+Usmial sa súcitným bolestným úsmevom a doširoka otvoril oči.	He smiles at that, a nice, heartbroken ache of a smile that widens his eyes.	0.543396
+Viem, chlapče.	I know, boy.	0.218182
+Bola to dobrá žena.	She was a good woman.	0.282353
+Najlepšia, povedal a znovu si nalial do pohára whisky.	The best,” he says, then pulls again at the whiskey in his glass.	0.255319
+A mala ťa veľmi rada.	And she was always fond of you.	0.166667
+Čo jej nakoniec len priťažilo.	But it was an ease to her, in the end.	0.266667
+Tá vec ju úplne zničila.	The other thing had her eaten away.	0.171429
+Pred koncom by si sa musel veľmi namáhať, aby si v nej spoznal tú ženu, ktorou bola predtým.	By the end, you’d have been hard pushed to even recognise her from the woman she once was.	0.291892
+Je hrozné sledovať ako sa niečo takéto stane človeku, ktorý bol vždy tak silný.	It’s a terrible waste, having to watch something like that happen to someone who was always so strong.”	0.210448
+Kedy sa to stalo?	How long has it been, now?”	0.14
+V júni to budú dva roky.	It’ll be two years come June.”	0.21
+Opäť vypil obsah svojho pohárika a pozrel na mňa. ~~~ Pohľad na jeho tvár pripomínajúcu popraskanú a rozmrvenú fasádu ma znovu šokoval.	He empties his glass and looks at me, and I am shocked again to see the surface for what it truly is, a cracked and crumbling façade.	0.107051
+Poviem ti pravdu, Bill.	I’ll tell you, Bill.	0.85
+Keby nebolo chlapca, neviem ako by som to všetko zvládol.	If it wasn’t for the boy, I don’t know how I’d have coped.	0.287234
+Bolo toho medzi nami skutočne veľa.	Big subjects lie between us like shards of glass.	0.193548
+Ani jeden z nás sa nechcel hádať, preto sme postupovali pomaly. ~~~ Slová prichádzali veľmi ťažko, a keď sme ich aj vyslovili, nestačili na to, aby vyjadrili všetko to, čo je potrebné povedať.	Neither of us wants an argument, so we tread lightly, but the words prove difficult to come by and when spoken don’t seem nearly enough to cover all that needs saying.	-0.023913
+Obraz Božského Srdca na stene vedľa okna bol nakrivo.	The picture of the Sacred Heart hangs crooked on the wall beside the window.	0.182609
+Ten obraz bol nakrivo aj pred vyše desiatimi rokmi, keď som prvýkrát prišiel do tohto domu opýtať sa Elizabeth, či by sa som mnou nechcela prejsť po pobreží. ~~~ A tiež bol nakrivo v ten deň, keď som odišiel.	That picture was crooked when I first entered this house, the better part of ten years ago now, to ask Elizabeth if she might like to come out for a walk along the shore with me.	-0.0148855
+Vtedy, keď som sa všetkým utrpeniam i radostiam otočil chrbtom.		-0.3
+Namierené som mal do Anglicka, no viac som myslel na Ameriku. ~~~ Elizabeth tu už vtedy nebola, odišla tým najhorším spôsobom, aký si len možno predstaviť.	And it was crooked, too, on the day I left, the day I turned my back on all the sorrows and the joys and walked out, with England in my sights but America very much on my mind.	-0.0115385
+Odpočívala pochovaná v hlbokom hrobe na skalnatom úbočí kopca pod náhrobným kameňom, na ktorom je vyryté jej meno, spolovice moje.	Elizabeth was already gone by then, in the toughest way imaginable, her grave on the stony hillside marked by a name half-mine chiselled into rock and buried to a great depth.	0.208929
+Videl som ju však všade, kde som sa pozrel, v každom zvuku som hľadal jej melodický hlas.	Yet everywhere I turned I could see her, every voice I heard shifted with her own musical timbre.	0.271622
+Amerika je veľmi ďaleko a ja som chcel veriť tomu, že tá vzdialenosť bude stačiť na to, aby som pred všetkým ušiel.	America lay a full huge ocean away, and I wanted to believe that would be more than far enough for escape.	0.408777
+Ale nestačila.	But it was not.	0.276923
+Domov je občas ako choroba.		-0.3
+Dostane sa vám do krvi a všetko otrávi.	Home can be like a disease.	0.598137
+Je s vami v každom údere srdca, ničí vás až kým to nevzdáte.	It gets in your blood and poisons everything; it’s with you in every heartbeat, hammering away until finally you have no choice but to give in.	0.0857143
+Donúti vás vrátiť sa späť.	You have to come home.	0.236842
+Na tomto mieste zastal čas, pretože sú tu iba skaly, oceán a obloha, veci, ktorých trvanie je večné, ktoré sa rokmi nemenia.	And this land has a way of paralysing time, because out here all you really see is rock and ocean and sky, elements that keep a count in aeons rather than years.	0.35255
+Čo tu bolo vtedy, je tu stále, a ak sa chce človek tejto predstavy zbaviť, musí kopať veľmi hlboko.	What was real back then seems just as real now, and you have to dig deep beneath the ancient veneer before that illusion comes apart.	0.197561
+Odkašľal som si, ale keď som začal hovoriť, môj hlas znel akoby patril niekomu inému.	I clear my throat but my voice, when it comes, feels as if it belongs to someone else.	0.291429
+Ako sa má?	How is he?”	0.266667
+Jack?	Jack?	1.8
+V pohode.	He’s grand.	0.233333
+Je to dobrý chlapec.	He’s good as gold.”	0.282353
+Tommy si oblizol pery a podoprel bradu tak, že sa mu tvár skrčila do záhybov.	Tommy licks his mouth, bunches his chin in a way that squeezes up his face, the pasty flesh rippling and then holding its folds.	0.478125
+Rozmýšľal nad niečím, s čím sa nepodelí. ~~~ Nežnosť vyformovala jeho ústa do úsmevu a jeho očiam dala jas.	He is thinking of something that won’t be shared, and a softness turns his mouth and sets his eyes to glistening.	0.00896226
+Za oknom hrala obloha novú svetelnú hru.	Outside, the sky is doing something new to the light.	0.214286
+Slnko sa skrylo za okraj oblaku na západe.	The sun has slipped behind the fringe of western cloud.	0.208333
+Farby vypadali príliš ostré na to, aby boli prirodzené. ~~~ Táto scéna by bola pre oko umelca akiste bezchybná.	The colours feel too raw to be natural but the salt-flecked window frames a scene that is undeniably immaculate to a painterly eye.	-0.0274194
+Vtom vbehol do domu chlapec. ~~~ Keď ma uvidel, s počuteľným povzdychom sa zháčil.	The boy enters the house at a run, draws up with an audible gasp when he sees me.	-0.00923077
+Teraz už na kuchyňu dopadol súmrak a mne sa vrátili spomienky na takéto jarné dni z môjho detstva. ~~~ Na tých pár minút, keď je noc už celkom blízko, ale stále neprišla úplne a ešte nie je čas zažať sviecu.	By now, the kitchen is swamped in twilight, and I recall such moments as these from the springtime days of my own childhood, the few minutes when night feels close but not yet quite here and it is still too soon to think of sparking awake the lantern.	-0.0330357
+Samozrejme, dnes už by to bolo svetlo, ale zmysel zostáva.	Of course, these days it will be the electric light, but the sense remains the same.	0.18
+Je to najpokojnejšia časť dňa, človek má dosť času zhlboka sa nadýchnuť, prípadne zašepkať modlitbu za tých, ktorí nás už opustili, ale sú stále prítomní medzi stenami a medzi vlnami.	A groggy dusk but a most comfortable pocket in the day, time enough to take a breath, maybe to whisper a prayer for those still wandering out beyond the walls and beyond the waves, the lost ones.	0.483871
+Znovu ahoj.	Hello again.	0.272727
+Tentoraz bol môj úsmev úprimný, i keď stále trochu úzkostlivý.	This time I mean the smile I wear, but its edges still feel anxious.	0.288889
+Jack sa poobzeral navôkol a pozorne si ma prezrel.	Jack glances around, then studies me carefully.	0.667857
+Ahoj, povedal po dlhom zaváhaní.	Hello,” he says, after a long hesitation.	0.227586
+Znova.	Again.	0.3
+Nevedel som, čo mu povedať. Netušil som, koľko toho vie.	I’m not sure what to say because I’m not sure how much he knows about the way things are.	0.15
+Teraz ľutujem, že Tommy odišiel von nabrať vodu a nie je tu, aby medzi nami tvoril akýsi nárazník.	I find myself wishing for Tommy to act as our buffer, but he is outside, drawing water from the pump.	0.454236
+Dnes bol deň ako stvorený na hranie futbalu, povedal som.	Good day for a game of football,” I say.	0.154545
+Vyhrali ste?	Did you win?”	0.3
+Pokrčil plecami.	Jack shrugs his shoulders.	0.15
+Nikto nevyhral ani neprehral, nehrali sme proti sebe.	There’s no winning or losing, it wasn’t that sort of game.	0.287234
+Na ozajstný zápas sme nemali dosť hráčov.	We didn’t have enough players for a proper match.”	0.241667
+Zvažoval, že si sadne, ale rozhodol sa, že postojí.	He considers sitting, decides against it.	0.243243
+Mal som pocit, že dokážem čítať útržky jeho ustarostených myšlienok.	I feel like I can read the careworn jumble of his thoughts.	0.232653
+Poznáte môjho starkého?	You know my granddad?”	0.27
+Asi áno, keďže tu sedím a pijem jeho whisky.	I ought to, since I’m sitting here drinking his whiskey.	0.210811
+Znovu som sa doširoka usmial, pokúšal som sa odľahčiť situáciu medzi nami.	I widen my smile, trying to keep things light between us.	0.2
+Bol však stále neistý.	But he still looks uncertain.	0.21
+Mohol som vás odprevadiť.	I could have walked up with you.”	0.234783
+Hral si sa s kamarátmi a užíval si krásny slnečný deň.	You had your game, and a sunny day.	0.467816
+Určite by ťa nebavilo sedieť tu s nami a počúvať, ako hovoríme o veciach, ktoré sa stali už veľmi dávno.	You had no business being cooped up with us, listening while we rattled our teeth about things from long ago.	0.282558
+Unudil by si sa na smrť.	You’d have been bored stupid.”	0.195
+Predpokladal som, že nebude taký, ako si ho pamätám.	He should be nothing like I remember.	0.178125
+V jeho veku sa deti rýchlo menia, šesť rokov vypadá ako celý život.	At his age, six years is as good as a lifetime.	0.157895
+Niektoré detaily sa stanú viditeľnejšími, iné vymiznú. Vlasy pod vplyvom slnka menia farbu.	Details sharpen and wane, hair changes colour with the sun, and running picks away every ounce of fat even as eating piles it on.	0.19875
+Behaním sa spáli všetok nadbytočný tuk, i keď jedením sa časť z neho naberie späť. ~~~ To, že som ho na poli rozpoznal v skupinke chlapcov, sa mi akosi nezdalo správne.	The fact that, back in the field, I had been able to pick him out from the scuffed pack of others doesn’t seem quite right, somehow.	-0.0416667
+Mohol pre mňa byť iba ďalším neznámym, ktorý sa mi priplietol do cesty, ale nebol.	He should have been just another stranger who happened across my path, but he wasn’t.	0.286957
+Keď som ho v kuchyni videl zblízka a nič ma nerozptyľovalo, všimol som si, že zatínal zuby rovnako, ako to robila Elizabeth vždy, keď sa snažila zostať silnou zoči-voči nejakému problému. ~~~ Nemohol som si pomôcť. ~~~ Všimol som si tiež, že má jej oči.	And now, this close and with nothing to distract, I can’t help noticing that the way he squares his jaw was the way Elizabeth squared hers whenever she was trying to be strong in the face of something troubling.	-0.0476266
+Presne jej odtieň zelenej, takmer až šedej. ~~~ Je to typická prímorská farba očí. ~~~ Farba, akú má more v momente, keď pohltí väčšinu svetla z oblohy, a z hladiny sa stáva zrkadlo, ktoré ukrýva jeho najväčšie hĺbky.	Or that he has her eyes, her shade of green that is nearly grey, a peculiarly coastal shade of eye, mirroring the sea but only at a certain dying moment of the day, when the light has been mostly sucked out of the sky and the surface turns reflective, hiding its greater depths.	-0.162143
+Jasne som vňom rozpoznal detaily Elizabetinej tváre a keď som pozrel na nos, či zahnutý kútik úst, rozpoznal som v ňom aj seba samého.	I see the details of Elizabeth in him, and if I just consider the nose or the little crooked corner of that mouth, I will see details of myself there, too.	0.2625
+Ale viem, kedy sa prestať pozerať.	But I know when to look away.	0.225
+Tento dom funguje vďaka pretvárke, zamlčiavanie sa praxou stáva čoraz ľahším.	It is the pretence that keeps this house of cards upright, and denial becomes easier with practice.	0.229412
+Každý, kto bol v podobnej komplikovanej situácii, to chápe.	Anyone who has ever run more than two steps worth of escape understands that.	0.225
+Stále som nemohol uveriť tomu, že stojí tu, priamo predo mnou.	In many ways, I can’t quite believe he is standing here before me.	0.288679
+Myslel som na neho často. ~~~ Samozrejme, utápal som sa pri tom vo vlastnej vine a bolesti, ktorú spôsobovala. ~~~ Predstavoval som si ho takého, aký bol – s bacuľatými ručičkami, sladko spinkajúceho a usmiateho ako slniečko, s dobre známymi očkami.	I have thought of him often, of course, wallowing in my guilt beyond the tuck of its pain, picturing him as he once was, an arm’s worth of flesh all sleeping smiles and wise, familiar eyes, and then imagining how he might have been with every passing year.	-0.113514
+Inokedy som si zas predstavoval, ako sa s každým pribúdajúcim rokom mení.	But time’s wicked trick was to make him seem less real to me, somehow, more a thing of dreams than blood and bone.	0.157143
+Čas sa so mnou však kruto zahral a oddialil ma od neho. ~~~ Jack sa stal pre mňa menej skutočným, bol viac predstavou ako človekom z mäsa a kostí. ~~~ Som strašne hladný, povedal nakoniec.	I’m starving,” he says, at last, and twisting away into the shadows he finds a large knife in the cutlery drawer and proceeds to cut himself a doorstop slice of soda bread.	-0.0615155
+Otočil sa do tieňa, odkiaľ zo šuplíka na príbor vytiahol veľký nôž a odkrojil si ním poriadny krajec chleba.	Not the baby that I had rocked to sleep or tickled to hear him squeal with laughter, but already halfway towards being a man.	0.41044
+Už nebol dieťaťom, ktoré som uspával, či šteklil, až kým nekričalo od smiechu.		-0.3
+Bol už na polceste stať sa mužom.		-0.3
+Ten istý nôž použil aj na krájanie masla.	He uses the same knife to cut a wedge of butter.	0.265714
+Nemávame veľa návštev, povedal mi ponad plece.	We don’t get many visitors,” he tells me, over his shoulder.	0.226829
+Potom si odhryzol.	He takes a bite.	0.235714
+Vlastne, nikto sem nechodí.	Actually, we don’t get any.	0.2875
+Povedal by som, že ste prvý.	I’d say you’re the first.	0.272727
+Úplne.	Ever.	0.25
+Na sporáku vrelo mäso, pokrievka poskakovala na hrnci.	A pot of stew has been simmering away on the range.	0.257143
+Ďalší prvok mojej mladosti. ~~~ Tento pach patril k chalúpke. ~~~ Vôňa cibule, tymianu a nahrubo nakrájanej baraniny napĺňala celú miestnosť.	Another feature of my younger days, part of the smell of this cottage, the scent of onions and thyme and the thick chunks of mutton filtering into the aura of the room.	-0.146809
+Tommy hodil do hrnca pár zemiakov asi hodinu po mojom príchode.	About an hour after my arrival, Tommy had dropped some potatoes into the pot.	0.488889
+Za chvíľu bude večera, povedal som len tak, aby reč nestála.	You’ll destroy your appetite,” I say, just for something to take the edge out of Jack’s comment.	0.123529
+Nebudeš vládať.	We’ll be eating dinner soon.	0.1
+Znovu na mňa pozrel a hľadel dlhšie, než je príjemné, aj napriek tomu, že súmrak medzi nami vytváral čoraz hrubšiu stenu.	He looks at me again, for longer than is comfortable, even with the dusk thickening walls between us.	0.24
+Mal som dojem, že ma pozorne študuje a spája detaily tak, ako som to robil ja.	I get the sense that he is studying me too, matching details as I had done.	0.285246
+Potom si znovu odhryzol zo sódového chleba a vyzývavo ho žul. ~~~ O niekoľko rokov mu môže táto jeho vlastnosť narobiť problémy, je však nepochybne neoddeliteľnou súčasťou jeho osobnosti. ~~~ Toto zdedil po mne. ~~~ V noci som spal trhane.	Then he takes another bite of soda bread, chews it with a daring that will probably stoke a heap of trouble for him in years to come but which clearly makes up a big part of who he is.	-0.156122
+Chvíľami som aj zdriemol, no hneď som sa budil.	I’m responsible for that chip on his shoulder.	0.3
+Spánok sa v krátkych intervaloch striedal s nespavosťou. ~~~ Boli ako dve strany jednej mince, ktorá sa po vyhodení do vzduchu rýchlo točí.	The night passes in snatches, the essences of sleep and wakefulness so diluting one another that in short order they become two sides of the same tarnished and constantly spinning coin.	-0.05
+Za tie roky som si navykol na neprirodzenú polotmu mesta, tma v izbe sa mi zdala absolútnou.	After the sickly gloaming of those half-nights in the cities, this darkness feels absolute.	0.292208
+Spomienky sa mi valili do hlavy ako nezastaviteľné tsunami. ~~~ Znovu a znovu som si sadal a otáčal sa. ~~~ Pokúšal som sa ignorovať duchov, ktorí mi pripomínali dávno pretrhnuté objatia a zlomené srdcia.	Riptides of memory claw at my mind, and I toss and turn in the old bed and try to ignore the ghosts that whisper reminders of late-hour embraces and last broken breaths.	-0.118803
+Ak aj prišiel nejaký sen, bol len krátkou halucináciou, ktorá čoskoro stemnela a vytratila sa. ~~~ Potom som sa zas s hrôzou budil a lapal po dychu.	The dreams, when they come, are time trips that deepen and dissolve, and then I am back again into the waking pit, gasping at the turgid air.	-0.00775862
+Hovoril som si, že to bude tou whisky, ale nebolo.	I tell myself that it’s the whiskey, but it’s not.	0.3
+Niečo po piatej som začul pohyb. ~~~ Na chodbe pred dverami mojej izby zaškrípala doska.	A little after five, I hear movement, the croak of a floorboard, outside my bedroom door.	-0.00202703
+O päť minút som už oblečený sedel pri stole v kuchyni.		-0.3
+Elektrické osvetlenie bolo pre mňa v tej chvíli tým najúžasnejším darom.	Five minutes later I am dressed and sitting at the kitchen table.	0.256364
+Vlastne tým by bolo čokoľvek, čo dokáže tak dokonale rozptýliť ťažké chvíle pred súmrakom.	The electric light now feels like an almighty gift, as would anything that can so completely dispel the predawn heft.	0.219231
+Tommy dal do kanvice variť vodu na čaj a na panvicu položil zopár plátkov slaniny.	Tommy boils a kettle of water for tea, lays a few strips of bacon in a pan.	0.63
+Sediac na stoličke som pozoroval jeho neobratné pohyby a usúdil som, že o takomto čase nikto nie je svieži ako rybička.	I sit there and watch his shuffled moves as he tends to his business, and decide that this sort of hour does no one any favours.	0.288
+Mal oblečené to, čo mal na sebe aj včera, takisto ako ja. ~~~ Všetko bolo na ňom rozgajdané.	He wears yesterday’s clothes, the same as I do, but everything seems ill-fitting on him.	0
+Nohavice mu viseli na trakoch a tmavošedú košeľu mal zapnutú iba do polovice.	Braces hold up his trousers, his heavy grey shirt is only partially buttoned.	0.3
+Čo však bolo horšie, prešedivené vlasy na zadnej časti hlavy mu šišato stáli. ~~~ Dávalo mu to zostarnutý, bezmocný výzor.	Worse, his salt and pepper hair spools wildly from the back of his head, giving him the wizened look of the truly infirmed.	-0.00147059
+Pomôžem nejako?	Can I do anything?	0.28
+Opýtal som sa, ale on neodpovedal. ~~~ Zrejme nepočul, ďalej som nad tým neuvažoval.	I ask, but he doesn’t answer, maybe fails to hear, and I leave it at that.	-0.0275
+Masť na panvici špliechala a škvrčala. ~~~ Teplo sporáka vytlačilo z miestnosti aj tú trošku rannej sviežosti, ktorá tam mohla byť.	Lard spatters and crackles in the pan, and the heat of the range chases away whatever little chill the early morning might carry.	-0.00416667
+Najedli sme sa viac-menej v tichosti.	We eat mostly in silence.	0.15
+Jedlo nebolo veľmi gurmánske, ale slanina chutila presne tak, ako chutiť má a žĺtky sa po rozkrojení roztekali.	The food won’t be mistaken for gourmet, but the bacon tastes the way it should and the egg yolks run when cut apart.	0.3
+Nebol som hladný, ale to je jedno.	I’m not hungry but that’s of no consequence.	0.206897
+Na tomto ostrove sa z jedla stal akýsi rituál. ~~~ Najesť sa je iba ďalšia z povinností, ktoré treba splniť.	Here on the island, food takes on the qualities of a ritual, another of the many duties to be fulfilled.	-0.00523256
+Tommy svoj tanier vytrel dočista kusom maslového chleba, zamyslene ho požul a usadil sa na svojej stoličke.	Tommy wipes his plate clean with a piece of buttered bread, chews it thoughtfully and then sits back in his chair.	0.623551
+No, povedal tak ticho, že som to ledva počul.	So,” he says, barely loud enough for me to hear.	0.584211
+O čo tu vlastne ide?	Is this about something?”	0.194118
+Na chvíľu som sa stratil.	For a moment, I am lost.	0.27
+Myslím tvoju návštevu.	Your visit, I mean.	0.229412
+Pokrútil som hlavou.	I shake my head, no.	0.264706
+Je to presne tak, ako som napísal v liste.	It’s like I said in the letter.	0.196154
+Proste som mal nutkanie prísť domov.	I just had an urge to come home.	0.230769
+Elizabethino výročie sa mi zdalo dobrou príležitosťou.	Elizabeth’s anniversary seemed as good an excuse as any.	0.3
+A myslím, že som tiež chcel vidieť chlapca.	And I suppose I wanted to see the boy.	0.241935
+Teplý čaj v mojich ústach by mal byť príjemnejší ako v skutočnosti bol.	The heat of the tea in my mouth should feel better than it does.	0.253846
+Spoveď som nikdy nemal rád.	Confession has never sat well with me.	0.1875
+A to je všetko?	And that’s all?	0.276923
+Stretli sme sa pohľadom, potom som sklopil zrak.	”I meet Tommy’s glare, then avert my eyes in surrender.	0.264286
+Áno, je to všetko.	That’s all.	0.163636
+Dobre vieš, že by nechcel ísť preč.	Because he wouldn’t want to go, you know.	0.25
+Aj keby si prišiel kvôli tomu.	Even if that was what you had in mind.	0.242308
+Si pre neho cudzí človek.	He doesn’t even know you.	0.3
+Nenechal by som ťa vziať ho preč, radšej by som ho priklincoval o dlážku.	And I’d nail him to the floor before I’d let you take him out of here.	0.273214
+Ver tomu, že by som to spravil.	So help me Christ, I would.	0.26087
+Patrí sem.	This is where he belongs.	-0.06
+Tma za oknom sa pomaličky rozplývala.	Outside the window, the darkness is splitting.	0.227273
+Úsvit sa pomaličky blížil. ~~~ Dal sa však skôr tušiť ako vidieť, oči ešte nestihli zaregistrovať zmenu.	Dawn isn’t far off but it is more of a feeling than anything else, and there’s little proof yet to the eyes.	0
+Neprišiel som ho zobrať, Tommy.	I didn’t come to take him, Tommy.	0.8
+Nie som tu kvôli tomu.	That’s not what this is about.	0.189474
+Amerika by ho zaujímala tak desať minút.	He’d like America for about ten minutes.	0.3
+Ver mi, nie je to tam také, ako tu.	It’s nothing like here, believe me.	0.267857
+Navyše viem, že nie je môj. ~~~ Nemám právo zobrať ho.	And besides, I know he’s not mine to take, not anymore.	-0.00681818
+Už nie. ~~~ Pravdupovediac, prišiel som, lebo jeho obraz mi vymizol z hlavy.	It’s just that, well, after all this time I had lost the picture of him in my mind.	-0.00703125
+Chcel som ho vidieť, to je všetko.	I wanted to see him, that’s all.	0.652778
+A tiež som potreboval prísť domov, presvedčiť sa, že také miesto ešte existuje.	And I needed to come home, just to see that there’s still such a place.”	0.254237
+Tommy sa na mňa zahľadel. ~~~ Zvyšok príbehu prečítal z mojej tváre.	Tommy stares at me, reading the rest of my story in silence.	0.0590909
+Potom pre zmenu musel odvrátiť zrak on.	Then it is his turn to look away.	0.222222
+Zrejme sa už tri – štyri dni neobťažoval s holením. ~~~ Modro-biele strnisko mu dodávalo výzor vetrom ošľahaného námorníka či divocha z prérie.	It’s been probably three or four days since he last bothered to shave, and the blue- white dusting of stubble gives him a look of wild horses and wind-battered sails.	-0.0210744
+Za obraz tejto tváre, z ktorej vyžaruje obrovská charizma, by turisti zaplatili ťažké peniaze.	Tourists would pay hard-won cash for a picture of a face so full of character.	0.221538
+Nad niečím sa pousmial. ~~~ Akiste sa mu akási spomienka pomaly vkradla do hlavy.	He smiles at somethingand I know that a memory has broken slowly across his bow.	-0.00223881
+Čakal som, že sa so mnou podelí, no nechal si ju pre seba. A ja nemám právo neho tlačiť.	I wait for him to share the thought, but he doesn’t, and it’s not my place to push.	0.28209
+Minúty bežali.	Minutes pass.	0.276923
+Ďalej sme pili čaj a pozorovali, ako nevľúdna sivá farba pomaly zapĺňala okno.	We drink more tea and watch the window fill with sullen grey.	0.205882
+Vieš, v hlave mu víri plno otázok, ktoré sa neustále hromadia.	He’s all questions, you know.	-0.0115385
+Vidím to na vráskach, ktoré sa mu robia na čele.	I can see them, piled up high in his head.	0.247059
+Kvôli nim občas vyzerá na päťdesiat.	They wrinkle his brow and age him fifty years.	0.234375
+Nikdy sa však nevypytuje, dokonca ani vtedy, keď ide o niečo vážne.	But he never asks, not when it comes to serious business.	0.24375
+Možno o pár dní niečo spomenie medzi rečou, ale nikdy sa nespýta priamo.	In a few days he might mention something in passing but he’s never outright with it.	0.255738
+Je veľmi rozumný.	He’s bright as a buttercup, that boy.	0
+Nikde sa neponáhľa, všetko si dobre premyslí, kým dospeje k záveru.	Takes his time on things, figures them out.	0.12973
+Je dôsledný.	Does it properly.	0.2
+Vie, že keby som chcel, aby niečo vedel, povedal by som mu to.	He understands, I suppose, that if I want him to know something, I’ll tell him.”	0.205882
+Vie o Elizabeth?	Does he know about Elizabeth?	0.83
+Vie, ako zomrela?	How she died, I mean? ”	0.24375
+Sčasti.	Some.	0.2
+Nie všetky podrobnosti.	Not the details, though.	0.3
+Bessie mu za tie roky postupne čo-to povedala.	Bessie told him things, over the years.	0.622059
+Udalosti trochu zjemnila, spravila z toho príbeh. ~~~ Vyplnila niektoré prázdne miesta.	Made a story out of it and filled in a few of the blanks, softened it up.	-0.0465517
+Rozprávala mu o materskej láske a o tom, že na svete existujú rôzne choroby.	Going on about a mother’s love, and how there are all kinds of sicknesses.	0.490323
+Nateraz to stačí.	For now, that’s enough.	0.20625
+Ak sa ma spýta, poviem mu, ale pochybujem, že k tomu dôjde.	If he ever asks for more, I suppose I’ll tell him, but I doubt it will ever come to that.	0.165306
+Sedeli sme mlčky, až sa ticho stalo neznesiteľným. ~~~ Naše myšlienky sa uberali tým istým smerom.	We sit until the silence becomes too much, and we are stuck in the same direction.	-0.0330882
+Potom sa Tommy stonajúc postavil a pozbieral taniere, šálky nechal.	Then Tommy stands with a groan and gathers the plates, leaving the cups.	0.835285
+Je príliš skoro a ešte vypijeme veľa čaju, kým príde čas odísť na trajekt.	It is early, and we’ll drink a lot more tea yet before the time comes for me to catch the ferry.	0.427419
+Tú trochu zvyškov čo zostali na tanieri, odrezky zo slaniny a kôrku z chleba, zoškrabal do malého koša. ~~~ Taniere ponoril do veľkého žltého plastového lavóra, nech sa pár hodín odmočia.	He scrapes what little waste there is, the bacon rinds and a few crusts of bread, into a small bin, and lowers the plates into a large yellow plastic basin so that they can soak for a couple of hours.	-0.00477707
+Popri tom, ako som ho sledoval od chrbta, som z vrecka košele vytiahol obálku.	Watching his back, I lift an envelope from inside my shirt.	0.204
+Vždy, keď so mal peniaze, poslal som im. ~~~ Keď som bol švorc, museli si poradiť sami.	Whenever I had money, they had money too; when I was on my heels they got by without.	-0.00434783
+V poslednom čase sa mi celkom darilo.	Lately, I’ve been doing okay.	0.230769
+Život ma naučil, že peniaze nielen riadia materiálny svet, ale sú tiež kľúčom k mnohým veciam a ja som sa snažil pomôcť, ako som vedel.	I have learned the hard way that money only tunes the material world, but it does hold a few keys and I do what I can to help.	0.379385
+Aj malá pomoc je pomoc.	Making a small difference is still making a difference.	-0.12
+Položil som obálku do prostred stola, potom som vstal a pokúsil sa rozhýbať stuhnuté miesto medzi lopatkami, čo som v poslednom čase robieval často.	I set the envelope in the middle of the table then stand and try to stretch out the knot between my shoulders that has become so familiar of late.	0.282353
+Trochu som to rozhýbal, nie však úplne.	It shifts a little but not far.	0.207692
+Vychádza slnko, povedal som zamysleným tónom, ktorý nepovzbudzoval k odpovedi. ~~~ Bol to iba môj spôsob ospravedlnenia, aby som mohol vykročiť von a zadívať sa na západ, na tmavomodrý oceán ležiaci nehybne pod poslednými zvyškami noci.	Sun’s coming up,” I say, in a thoughtful tone that doesn’t encourage an answer, but it’s my excuse to step outside, to gaze westward at the sloe-coloured ocean lying pinned beneath the last of night and to feel another dawn peeling open at my shoulder.	0.0242308
+Na pleciach som pocítil ďalší nový úsvit. ~~~ Na chvíľu sa zdalo, akoby tma redla a rozchádzala sa.	The darkness feels tempered, and crumbles by degrees even in those few moments.	-0.0308824
+Tommyho som opäť našiel sedieť v kuchyni. ~~~ Po obálke nebolo ani stopy.	Back in the kitchen, Tommy is sitting again and the envelope is nowhere in sight.	-0.0172131
+Pili sme čaj, až kým sa mi úplne nesprotivil a potom sme popíjali, aby sme zabili čas.	We drink tea until I am sick of the taste of it, and then we keep drinking to fill up the time.	0.283099
+Už nebolo o čom hovoriť.	There is no more, really, to be said.	0.157143
+Chcel som sa Tommyho ešte spýtať, či má nejakú predstavu, prečo Elizabeth urobila to, čo urobila. ~~~ Táto otázka mi vždy vŕta v hlave, ale dobre viem, že je lepšie nechať to tak.	I have a question that I want to ask, whether or not Tommy has any idea why Elizabeth did what she did, but that question is always in my mind, always, and I know better than to cut it loose.	0.0821128
+Namiesto toho som ho poprosil, aby mi povedal o Jackovi, aký je a ako sa učí. ~~~ Naklonil som sa dopredu, oprel sa lakťami o stôl a snažil som sa postrehnúť každé slovo odpovede.	Instead I ask him to tell me how Jack is doing at school, and how he is in general, and I lean forward with my elbows on the table and make sure to absorb every word of reply.	-0.00755396
+Teraz, keď som už nebol hrozbou pre jeho svet, ktorý sa snažil udržať pohromade, rozprával celkom uvoľnene.	Tommy talks with ease, now that I am no longer a threat to the world that he has been holding together.	0.271429
+Myslíš, že vie kto som?	Do you think he knows who I am?	0.225
+Opýtal som sa, keď dohovoril.	I ask, when I have heard everything else.	0.196154
+Ten chlapec, môj syn, sa teraz stával pre mňa skutočnejším. Bolo to, ako keby ho vyfarbil.	He is becoming more real to me now, the boy, my son, the added colours making all the difference.	0.284211
+Pýtal sa na mňa vôbec niekedy?	Does he ever ask about me, at all?	0.276923
+Mám na mysli, či sa pýtal, kto je jeho otec a podobné veci.	I mean, you know, who his father was, that sort of thing.	0.293617
+Vie, že jeho otec bol rybár a mal šikovné ruky.	He knows his father was a fisherman, and that he was good with his hands.	0.411189
+Naozaj veľmi šikovné.	Damn good, in fact.	0.247059
+Všimol si si ako ťa minulý večer sledoval?	Did you see him watching you, last night?	0.291429
+Že si prezeral tvoje ruky?	Did you happen to notice him checking out your hands?	0.0130435
+Pochybujem, že to niekedy povie, ale vie to.	I doubt he’ll never say so, but he knows.	0.264706
+Vie toho dosť, Bill.	He knows enough, Bill.	0.866667
+Keď som pochopil, že viac mi nepovie, prikývol som.	I nod, understanding that I can’t hope for any more than that.	0.245455
+O ôsmej som mal toho už dosť.	By eight o’clock, I’ve had enough.	0.225
+Kompa nepremáva pred jedenástou, ale ospravedlnil som sa, že chcem vybaviť niekoľko vecí, kým odídem.	The ferry is not due to sail until eleven but I make the excuse that there are some things I’d like to do before I leave.	0.269318
+Chcel som sa chvíľu poprechádzať, možno navštíviť starých priateľov.	I want to walk a while, maybe look in on a few old faces.	0.193333
+Mal som v pláne ísť aj na cintorín, vzdať úctu.	And I want to stop at the graveyard, pay my respects.	0.261538
+Pomodliť sa tichú modlitbu za nás všetkých, živých aj mŕtvych.	Whisper a prayer for all of us, the living and the dead.	0.247826
+Veď starí duchovia na to čakajú.	The old ghosts are waiting.	0.25
+Jackovi som potriasol rukou, objatie by bolo zrejme divné, hoci sme ho zrejme obaja chceli.	I shake Jack’s hand, because a hug would be too awkward, even though it is probably something we both want.	0.257692
+Tak zatiaľ, chlapče. ~~~ Povedal som dúfajúc, že to nie je navždy.	So long, boy, I say, hoping in my heart that it’s not goodbye.	-0.0117647
+Zaťal zuby a prikývol, potom si šiel sadnúť do kúta.	He clenches his mouth and nods, then goes to sit in the corner.	0.245455
+Tommy na neho krátko pozrel, potom vyšiel za mnou.	Tommy looks at him for a moment, then follows me outside.	0.565116
+Vyšli sme na cestu.	We walk out onto the road.	0.211765
+Som rád, že som ťa videl, Bill, povedal.	It’s been good seeing you, Bill, he says.	0.62451
+Dávaj na seba pozor.	Take care of yourself, you hear?	0.133333
+V hrdle ma pálili potláčané slzy, ktoré som prehĺtal.	My throat hurts from tears that are near but trying not to fall.	0.254348
+Dole do prístavu sa po dvoch alebo troch dňoch vrátil čln.	Down in the harbour a boat has come in after two or three days at sea.	0.257143
+Vyčerpaní muži svoj úlovok, určený pre pevninské obchody, vypitvú a uložia do debničiek.	The men, bone-tired, will be gutting and crating their catch for the mainland markets.	0.287838
+Vánok, ktorý s krátkymi prestávkami prichádzal od východu, prinášal netrpezlivé škriekanie čajok, ktoré krúžili a zlietali sa v očakávaní, že sa im ujdú nejaké zvyšky. ~~~ Napíšem, povedal som.	A breeze blowing in breaths from the east carries the impatient screams of the gulls as they circle and perch in anticipation of the scraps.	-0.0346154
+Bolo to jediné na čo som sa zmohol. ~~~ Ruky som si strčil do vreciek a kráčal som preč. ~~~ Aby som sa neobzrel späť, počítal som svoje kroky.	I’ll write, I say, the best that I can manage, and I slip my hands into my pockets and stroll away, counting the steps so that I won’t look back.	-0.139286
+Keď som sa začal zaujímať o knihu Ostrovan, neustále ma zarážal rozdiel medzi originálom a prekladom Robina Flowera.	When I was first interested in An tOileánach, I was always puzzled by the difference between the original and Robin Flower`s translation.	0.249
+Po celý čas som to pripisoval doslovnosti prekladu. ~~~ Keď som sa sám pokúsil preložiť niektoré časti, uvedomil som si skutočnú kvalitu Flowerovho prekladu, i to, že problém sa nachádzal hlboko v samotnom jazyku, hlboko v štýle.	I was inclined to blame this on the literalness of the translation, and it was only when I tried to translate parts of it myself that I came to realize how good a translation Flower`s actually is and that the difficulty was deep in the language itself, in the style.	-0.0194301
+Ak si predstavíme štýl ako prejav človeka, ako prejav ľudskej osobnosti, v ktorom je oveľa dôležitejšia kvalita osobnosti než látka, z ktorej vychádza, potom to potvrdzuje opak.	If we think of the style as a man, of style as the revelation of personality in language and that the quality of the personality is more important than the material out of which the pattern is shaped, then the opposite can be argued: style itself must be the outcome of a view of reality.	0.136184
+O’Crohan má jednoznačný štýl, čo znamená, že svoje myšlienky a náhľady na svet vyjadruje vždy rovnakou formou.	O Crohan`s is a definite style, in the sense that a persistent way of seeing and thinking falls naturally into an equally persistent form of expression.	0.362456
+Jeho pohľad na svet sa podriaďuje spoločenským hodnotám, a tak musí v niektorých prípadoch potláčať svoje vlastné názory.	His view of reality is at no time a personal view and it is never at variance with the values of his society as a whole.	0.42977
+V skutočnosti sa neustále chváli tým, že nikdy v živote neporušil žiadny zvyk, ktorý vníma ako železný zákon tejto spoločnosti.	In fact, we find him boasting that never once in a whole lifetime did he break a custom, and custom was the only law of that civilization.	0.288991
+V knihe sa objavujú ľudia, ktorí nezdieľajú O’Crohanov názor na zvyky, a preto ich bez výčitiek porušujú. ~~~ To spôsobuje, že jeho názor na nich závratne klesá.	There are people in the book who disagree with O Crohan, who do not respect custom, and he always look on them as degenerate.	-0.0216667
+Ani na jednej stránke knihy nenájdeme opis ostrova, na ktorom O’Crohan žije.	Nowhere in the work does he attempt to describe the little island he lives on.	0.295385
+Flower na to upozorňuje v úvode k jeho prekladu a kvôli čitateľom pokračuje opisom Blasketských ostrovov. ~~~ Aj napriek tomu, že O’Crohan sa neustále obracia na svojich čitateľov, neposkytol im opis ostrova, ktorý by bol pre nich prínosom.	Flower draws attention to this in the introduction to his translation, and he goes on to describe for the benefit of his readers the island group of the Blaskets, a benefit it never occurs to O Crohan to confer, though he is continually addressing himself directly to the reader.	0.0322883
+Podľa mňa je táto skutočnosť spojená s O’Crohanovým vnímaním, s jeho pohľadom na realitu.	I believe this fact to be linked with O Crohan`s view of his world, his view of reality.	0.279167
+V takom prípade je podobný opis zbytočný.	Within that view such a description would be pointless.	0.2
+Ostrov je jednoducho ľudským sídlom, je to prostá podstata zeme, kde sa ľudia pohybujú a žijú.	The island is simply there as a human habitation, a bare foundation of earth on which people live and move.	0.442721
+Krajina je tu len preto, aby dodala životu potrebný tvar a oporu.	The scenery is there only insofar as it furnishes the necessary frame and sustenance for life.	0.163636
+Niekedy priestor vyzerá príjemne, akoby bol vhodný pre akúkoľvek príležitosť, no častejšie je to práve naopak.	Sometimes a place is seen as friendly to whatever action happens to be afoot, more often it is hostile.	0.441587
+Priestor a činnosť sa nedajú oddeliť.	Always place and action are inseparable.	0.272727
+Jedno nemôže existovať bez druhého.	One cannot subsist without the other.	0.290625
+Nenájdu sú tu časti, ktoré by bolo treba vyplniť márnivosťou.	There are no idle stretches to be filled with contemplation of the daffodil.	0.232075
+Vyčnieva už len hora, na ktorú treba vyliezť, kde ľudia ťažia rašelinu a nosia ju domov.	What stands out is a mountain that has to be climbed, where turf has to be cut and won and creeled home.	0.43593
+Je pozoruhodné, že O’Crohan konkrétne neopisuje ťažbu rašeliny. Venuje sa len tomu, ako je možné zjednodušiť, no častejšie tomu, ako brzdiť ťažbu.	It is remarkable that no description is ever given of the turfcutting, other than what helps or, more often, hinders it.	0.362106
+Nie sú tu "rašelinové močiare, ktoré by boli vysekané do posledného kúska".	There are no `turf banks stripped for the victory`, no scattering, footing, clamping.	0.258462
+Vieme len to, ako prebieha jeho práca, ako sa mu darí plniť ju počas jednotlivých častí dňa.	All we are told is how well he is working, how much he has succeeded in getting done by a certain time of day.	0.257143
+Básnik prichádza, aby ju narušil, ako to zvyknú robiť ženy.	A poet arrives to interrupt the work, as do the girls.	0.532727
+Dojemne spomína na to, ako jeho matka priniesla domov kúsok rašeliny, aby mohol chodiť do školy. Keby sa tak nestalo, kniha, ktorú práve čítame, by nikdy nevznikla.	Movingly, we are told that his mother brought home the turf, so that he could attend school; otherwise the book we are now reading would never have been written.	0.288806
+Pole je v jeho ponímaní spojené iba s obrábaním a zveľaďovaním.	A field is only described as it is reclaimed and cultivated.	0.282353
+Prameň je tu na to, aby ho niekto prekročil, more, aby v ňom ľudia lovili ryby, mesto, aby ho navštívili a na breh musia vkročiť a zostať tam žiť.	A strand is there to be crossed, a sea to be fished, a town to be reached, a shore to be gained, walked upon, lived upon.	0.454181
+To sú všetko konkrétne skutočnosti, ale kvôli potrebám deja ich zjednodušil až tak, že sa zdá, akoby boli nezávislé od mesta.	These are all near and concrete realities but so stripped down to their essence, because of the necessities of the action, as to seem free of all local characteristics.	0.200943
+Jedna podmieňuje ostatné k rovnakej jednoduchosti formy.	One conditions the other to the same simplicity of form.	0.28125
+Živelnosť jeho vízie spôsobuje, že v angličtine je možné vyjadriť ju len spolovice.	So elemental is the vision that it can only be rendered into English we now possess, in a weakened half-light.	0.216667

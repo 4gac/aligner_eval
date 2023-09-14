@@ -1,0 +1,915 @@
+# Sentence pair (1) source length 16 target length 16 alignment score : 5.36455e-23
+Seamus Heaney sa narodil v katolíckej vlasteneckej rodine v Severnom Írsku, ktoré obývali prevažne protestantskí unionisti. 
+NULL ({ 3 9 }) Seamus ({ 1 2 4 }) Heaney ({ }) was ({ }) born ({ }) into ({ }) a ({ }) Catholic ({ }) nationalist ({ 5 }) family ({ 6 7 8 }) in ({ }) the ({ }) mainly ({ }) Protestant ({ 10 11 12 13 15 16 }) unionist ({ 14 }) Northern ({ }) Ireland. ({ }) 
+# Sentence pair (2) source length 17 target length 17 alignment score : 3.58031e-23
+Keď mal jedenásť rokov, získal štipendium do internátnej školy. Išlo o Strednú školu sv. Kolumba v Derry. 
+NULL ({ 16 }) When ({ 1 }) he ({ }) was ({ }) eleven, ({ 2 3 4 5 6 }) he ({ }) won ({ }) a ({ }) scholarship ({ }) to ({ }) a ({ }) boarding ({ 7 8 9 }) school, ({ }) St. ({ }) Columb’s ({ 10 11 12 }) College ({ }) in ({ }) Derry. ({ 13 14 15 17 }) 
+# Sentence pair (3) source length 19 target length 21 alignment score : 2.71114e-28
+Následne pokračoval na vysokej škole v Belfaste, kde získal pozíciu univerzitného učiteľa. Svoju prvú zbierku poézie vydal, keď mal dvadsaťsedem rokov. 
+NULL ({ 3 6 }) He ({ 1 2 }) went ({ }) on ({ }) to ({ }) university ({ 4 }) teachers’ ({ 5 7 8 9 10 }) college ({ }) in ({ }) Belfast, ({ }) publishing ({ 11 12 13 14 }) his ({ }) first ({ }) book ({ }) of ({ }) poetry ({ 15 16 17 }) when ({ }) he ({ }) was ({ }) twenty-seven. ({ 18 19 20 21 }) 
+# Sentence pair (4) source length 22 target length 27 alignment score : 5.91944e-35
+O štyridsať štyri rokov neskôr bol už autorom dvanástich básnických zbierok, veľkého množstva prekladov, divadelných hier, próz a mnohých rozprávok. Nesmieme zabudnúť ani na jeho limitovanú edíciu. 
+NULL ({ 18 24 }) Forty-four ({ 1 2 3 4 }) years ({ }) later, ({ 5 6 7 }) he ({ }) is ({ }) the ({ }) author ({ }) of ({ }) a ({ }) dozen ({ 8 9 10 }) poetry ({ }) collections, ({ 11 12 }) numerous ({ 13 }) translations, ({ }) plays, ({ }) prose, ({ 14 15 16 }) and ({ }) countless ({ 17 }) chapbooks ({ }) and ({ }) limited ({ 19 20 21 22 }) editions. ({ 23 25 26 27 }) 
+# Sentence pair (5) source length 14 target length 22 alignment score : 9.79883e-27
+Má toľko veľa priaznivcov, že masa ľudí vystáva rady len preto, aby ho mohla počuť. Títo ľudia sú známi ako Heaneyho stúpenci. 
+NULL ({ 5 }) His ({ }) following ({ 1 2 3 4 }) is ({ }) so ({ }) largethat ({ 6 }) crowds ({ 7 8 9 10 }) lining ({ }) up ({ }) to ({ }) hear ({ }) him ({ 11 12 13 14 }) are ({ }) dubbed ({ 15 16 17 18 }) "Heaneyboppers. ({ 19 20 21 22 }) 
+# Sentence pair (6) source length 12 target length 8 alignment score : 4.51188e-11
+Heaneyho básne zobrazujú blízkosť prírodného sveta, jeho stelesňovanie. 
+NULL ({ }) Heaney’s ({ 1 2 3 }) poems ({ }) engage ({ }) with ({ }) the ({ }) immediacy ({ 4 }) of ({ }) the ({ }) natural ({ 5 6 }) world, ({ }) its ({ }) physicality. ({ 7 8 }) 
+# Sentence pair (7) source length 14 target length 16 alignment score : 3.53228e-21
+Oslavuje v nich domácu sféru, ale vždy aj s vedomím o existencii sveta za jej bránami. 
+NULL ({ 2 }) He ({ }) celebrates ({ 1 3 4 5 }) the ({ }) domestic ({ }) sphere ({ 6 7 8 }) but ({ }) always ({ }) with ({ 9 }) an ({ }) awareness ({ 10 11 12 13 }) of ({ }) the ({ }) world ({ }) beyond. ({ 14 15 16 }) 
+# Sentence pair (8) source length 24 target length 20 alignment score : 1.1125e-27
+V básni Hranica (Terminus) niektoré riadky zachytávajú tento zmysel opisujúc, že keď kope, nachádza oboje, žaluď, ale aj zhrdzavenú skrutku. 
+NULL ({ 11 }) Some ({ 1 2 3 }) lines ({ 4 5 6 7 }) in ({ }) a ({ }) poem ({ }) called ({ }) "Terminus” ({ }) capture ({ }) that ({ }) sense, ({ }) describing ({ 8 9 10 }) how ({ }) when ({ 12 }) he ({ }) digs, ({ }) he ({ }) finds ({ 13 }) both ({ }) an ({ }) acorn ({ }) and ({ }) a ({ }) rusted ({ 14 15 16 17 }) bolt. ({ 18 19 20 }) 
+# Sentence pair (9) source length 12 target length 10 alignment score : 3.51478e-16
+Ak pozdvihne svoj zrak, zočí strechu továrne, ale aj hory. 
+NULL ({ }) If ({ }) he ({ }) looks ({ }) up, ({ }) he ({ }) sees ({ }) a ({ }) factory ({ 3 }) chimney ({ 4 5 6 7 8 }) and ({ }) a ({ }) mountain. ({ 1 2 9 10 }) 
+# Sentence pair (10) source length 26 target length 23 alignment score : 5.08332e-36
+"Je na tom niečo neobvyklé, ak mám z toho zmiešané pocity?" napísal. Neskôr jeho báseň znie: "Odniesť dve vedrá je jednoduchšie ako jedno. 
+NULL ({ 2 }) "Is ({ 1 3 4 }) it ({ }) any ({ }) wonder ({ 5 6 }) when ({ }) I ({ }) thought ({ }) /I ({ 7 8 9 10 11 }) would ({ }) have ({ }) second ({ }) thoughts? ({ }) ”he ({ }) writes, ({ }) and, ({ 12 }) later ({ }) in ({ }) that ({ }) poem: ({ 13 14 15 16 }) "Two ({ }) buckets ({ }) were ({ }) easier ({ }) carried ({ 17 18 19 20 21 }) than ({ }) one. ({ 22 23 }) 
+# Sentence pair (11) source length 5 target length 4 alignment score : 2.5614e-05
+Uprostred toho som rástol." 
+NULL ({ }) I ({ }) grew ({ }) up ({ }) in ({ }) between. ({ 1 2 3 4 }) 
+# Sentence pair (12) source length 17 target length 15 alignment score : 2.55695e-21
+Slovo "uprostred" neznázorňuje iba politickú líniu, ale odráža aj jeho postoj a vzťah k svetu. 
+NULL ({ 12 }) ”That ({ 1 }) "in ({ 2 3 4 5 }) between” ({ }) isn’t ({ 6 7 8 }) just ({ }) a ({ }) political ({ }) line ({ 9 10 11 }) but ({ }) reflects ({ 13 14 15 }) his ({ }) posture ({ }) in ({ }) relation ({ }) to ({ }) the ({ }) world. ({ }) 
+# Sentence pair (13) source length 12 target length 13 alignment score : 9.19199e-20
+Od roku 1972 Heaney svoj čas delí striedavo medzi grófstvom Wicklow a Dublin. 
+NULL ({ 12 }) Heaney ({ 3 4 5 }) has ({ }) divided ({ 6 7 8 }) his ({ }) time ({ }) between ({ }) County ({ }) Wicklow ({ 9 10 11 }) and ({ }) Dublin ({ }) since ({ }) 1972. ({ 1 2 13 }) 
+# Sentence pair (14) source length 26 target length 24 alignment score : 1.72053e-32
+Dvadsať rokov pôsobil ako profesor. Jeden semester strávil na Harvardskej univerzite a v rokoch 1989 – 1994 zastával post profesora poézie na Oxfordskej univerzite. 
+NULL ({ 9 12 13 22 }) For ({ }) twenty ({ 1 2 3 4 5 6 }) years, ({ }) he ({ }) taught ({ }) one ({ }) semester ({ }) a ({ }) year ({ }) at ({ }) Harvard, ({ 7 8 10 11 }) and ({ }) between ({ }) 1989 ({ }) and ({ }) 1994 ({ }) he ({ }) held ({ }) the ({ }) position ({ 14 15 16 }) of ({ }) Professor ({ 17 }) of ({ }) Poetry ({ 18 19 20 21 }) at ({ }) Oxford. ({ 23 24 }) 
+# Sentence pair (15) source length 10 target length 8 alignment score : 2.34248e-10
+V roku 1995 získal Nobelovu cenu za literatúru. 
+NULL ({ }) In ({ 1 }) 1995, ({ 2 3 }) he ({ }) was ({ }) awarded ({ 4 }) the ({ }) Nobel ({ }) Prize ({ }) in ({ }) Literature. ({ 5 6 7 8 }) 
+# Sentence pair (16) source length 11 target length 15 alignment score : 5.32351e-19
+Jeho najnovšia zbierka Ľudské puto (Human Chain) sa objaví vo vašich kníhkupectvách už túto jeseň. 
+NULL ({ 8 }) His ({ 1 2 }) new ({ }) collection, ({ 3 }) Human ({ 4 5 6 7 }) Chain, ({ }) will ({ }) be ({ }) coming ({ 9 10 11 }) out ({ }) this ({ }) fall. ({ 12 13 14 15 }) 
+# Sentence pair (17) source length 45 target length 58 alignment score : 7.21317e-99
+Wachtelová: Narodili ste sa na farme Mossbawn v severoírskom okrese Derry a už viackrát ste spomenuli, že o tomto území sa už tak často písalo, či už v úvode kníh, alebo v rôznych cestopisoch, že tomu už ani nemôžete uveriť. Ale aj tak sa spýtam. Aké sú prvé spomienky, ktoré sa vám vybavia v súvislosti s farmou Mossbawn? 
+NULL ({ 4 5 12 17 21 28 32 35 44 51 54 }) Wachtel: ({ 1 }) You ({ 2 3 }) were ({ }) born ({ 48 49 50 52 53 }) at ({ }) Mossbawn ({ }) Farm ({ 6 7 9 }) in ({ 8 }) County ({ 10 11 }) Derry, ({ 55 56 57 58 }) Northern ({ }) Ireland, ({ }) and ({ }) you ({ }) say ({ }) these ({ }) details ({ 45 46 }) are ({ 47 }) retold ({ 42 43 }) so ({ }) often ({ }) in ({ }) introductions ({ 29 30 31 }) and ({ }) bios ({ 33 34 }) that ({ }) you ({ }) can ({ }) scarcely ({ 18 }) believe ({ 13 14 27 }) them ({ }) yourself ({ }) anymore, ({ 22 }) but ({ }) all ({ }) the ({ }) same, ({ 23 24 25 }) what ({ 26 }) are ({ }) your ({ 15 }) earliest ({ }) memories ({ 16 19 20 }) of ({ }) Mossbawn ({ }) Farm? ({ 36 37 38 39 40 41 }) 
+# Sentence pair (18) source length 25 target length 27 alignment score : 3.00076e-36
+Kontakt mojej nohy s podlahou je prvá spomienka, ktorá sa mi spája s farmou Mossbawn v okrese Derry (alebo skôr išlo o miesto položené o niečo vyššie). 
+NULL ({ 10 16 }) Well, ({ 1 }) my ({ }) earliest ({ }) memory ({ 2 3 4 5 }) is ({ 6 }) of ({ }) my ({ }) foot ({ }) touching ({ 7 8 9 11 12 }) the ({ }) ground ({ }) of ({ }) Mossbawn, ({ 13 14 15 }) the ({ }) County ({ 17 18 }) Derry ({ }) earth, ({ 19 20 }) or ({ }) rather ({ }) a ({ }) floor ({ 21 }) laid ({ }) above ({ 22 23 24 25 }) the ({ }) earth. ({ 26 27 }) 
+# Sentence pair (19) source length 29 target length 17 alignment score : 3.78411e-28
+Ležal som v postieľke, ktorú zhotovil tesár. Spodnú časť postieľky tvorili drevené latky a malé hladké dosky. 
+NULL ({ 2 3 14 }) I ({ }) was ({ }) in ({ }) a ({ }) cot ({ }) made ({ }) by ({ }) the ({ }) local ({ }) carpenter, ({ 8 }) and ({ }) the ({ }) bottom ({ }) of ({ }) the ({ }) cot ({ 9 10 }) consisted ({ 11 12 13 }) of ({ }) slats ({ 1 4 5 6 }) of ({ }) timber, ({ 7 }) little ({ }) smooth ({ }) boards ({ }) laid ({ }) on ({ }) kind ({ }) of ({ }) ledges. ({ 15 16 17 }) 
+# Sentence pair (20) source length 24 target length 24 alignment score : 5.22043e-37
+Dosky neboli pribité zrejme preto, aby sa dali zodvihnúť, keby ste ich chceli vybrať, keďže deti na ne močili, ak aj nie niečo horšie. 
+NULL ({ 7 17 }) They ({ }) weren’t ({ 6 }) nailed ({ }) down; ({ }) obviously ({ 8 9 10 }) you ({ }) wanted ({ 11 12 13 }) to ({ }) be ({ }) able ({ }) to ({ }) lift ({ 14 15 16 18 19 }) them ({ }) because ({ }) the ({ }) children ({ 20 }) would ({ }) be ({ }) peeing ({ 23 24 }) on ({ }) them ({ 21 22 }) or ({ }) doing ({ 4 5 }) worse. ({ 1 2 3 }) 
+# Sentence pair (21) source length 27 target length 27 alignment score : 1.32207e-36
+Pamätám si, že ja sám som zodvihol jednu alebo dve zo spomínaných dosiek a cez spodnú časť postieľky som stúpil na hladkú chladnú betónovú podlahu nášho domu. 
+NULL ({ 3 14 21 }) I ({ }) remember ({ 1 }) lifting ({ 2 4 5 6 7 8 }) one ({ }) or ({ 9 }) two ({ }) of ({ }) those ({ }) boards ({ }) and ({ }) stepping ({ 10 11 12 13 15 }) off ({ }) the ({ }) bottom ({ 16 17 18 19 }) of ({ }) the ({ }) cot ({ }) down ({ }) onto ({ }) the ({ }) smooth, ({ 20 }) cool ({ }) cement ({ 22 23 24 25 }) floor ({ }) of ({ }) the ({ }) house. ({ 26 27 }) 
+# Sentence pair (22) source length 13 target length 11 alignment score : 1.70733e-18
+Stále niekde v mojom vnútri cítim niečo z toho malého chlapca. 
+NULL ({ 3 }) And ({ }) I ({ }) can ({ }) still ({ 1 }) feel ({ }) my ({ }) little ({ }) foot ({ }) inside ({ }) my ({ }) old ({ }) foot ({ 4 5 6 7 8 }) here. ({ 2 9 10 11 }) 
+# Sentence pair (23) source length 7 target length 7 alignment score : 1.12888e-12
+Nepochybne, toto je moja prvá, prvučičká spomienka. 
+NULL ({ }) So ({ }) that’s ({ 3 }) my ({ }) very ({ }) first ({ }) memory, ({ }) undoubtedly. ({ 1 2 4 5 6 7 }) 
+# Sentence pair (24) source length 22 target length 21 alignment score : 3.26638e-33
+Náš dom mal slamenú krytinu, bielu omietku, bol klasickým vidieckym statkom tejto doby, dlhý a nízky. Bol súčasťou typického dedinského Írska. 
+NULL ({ 15 }) The ({ }) house ({ }) was ({ }) a ({ }) typical ({ 7 8 9 10 11 }) thatched, ({ 5 }) whitewashed, ({ 6 }) long, ({ 1 2 3 4 }) low ({ }) country ({ }) farmhouse ({ 12 13 14 16 17 }) of ({ }) that ({ }) era, ({ }) part ({ }) of ({ }) the ({ }) vernacular ({ }) architecture ({ 18 19 20 21 }) of ({ }) rural ({ }) Ireland. ({ }) 
+# Sentence pair (25) source length 34 target length 39 alignment score : 1.53902e-57
+Dom mal výhľad na miestnu cestu, ktorá bola súčasťou okresu. Za ňou sa o jedno pole ďalej nachádzala železničná trať s názvom Londýnska, Vnútrozemská a škótska železničná spoločnosť, ktorá ukončila prevádzku niekedy koncom päťdesiatych rokov alebo začiatkom šesťdesiatych rokov. 
+NULL ({ 4 13 25 }) It ({ }) faced ({ 11 12 14 15 16 17 }) out ({ }) to ({ }) the ({ }) local ({ }) county ({ }) road, ({ }) and ({ }) behind ({ }) it, ({ }) one ({ }) field ({ }) away, ({ }) was ({ }) the ({ }) railway ({ 18 19 20 }) called ({ 21 22 }) the ({ }) London, ({ }) Midland, ({ 23 24 26 }) and ({ }) Scottish ({ 27 }) Railway, ({ 28 }) which ({ 29 }) stopped ({ }) operating ({ 30 31 32 33 34 }) sometime ({ 35 36 37 38 39 }) in ({ }) the ({ }) late ({ 8 9 10 }) 1950s, ({ }) early ({ }) 1960s. ({ 1 2 3 5 6 7 }) 
+# Sentence pair (26) source length 29 target length 25 alignment score : 3.38354e-39
+Ale v rokoch štyridsiatych sa tadiaľto vlaky preháňali jedna radosť. Silný hluk tohto parného stroja sa k nám doniesol cez pole až do stanice Castledawson. 
+NULL ({ 2 5 16 }) But ({ }) through ({ }) the ({ }) 1940s, ({ 1 3 4 6 7 8 }) the ({ }) trains ({ }) were ({ }) running, ({ 9 }) and ({ }) the ({ }) big ({ }) powerful ({ 17 }) noise ({ }) would ({ }) come ({ }) over ({ }) the ({ }) field ({ }) of ({ }) a ({ }) steam ({ }) engine ({ }) shunting ({ 18 19 20 21 }) up ({ 22 23 }) to ({ }) the ({ }) station ({ 10 11 12 13 14 15 }) at ({ }) Castledawson. ({ 24 25 }) 
+# Sentence pair (27) source length 12 target length 20 alignment score : 1.41165e-27
+Myslím, že o mojom detstve by som mohol hovoriť až do súdneho dňa a stále by som mal čo povedať. 
+NULL ({ 7 14 }) I ({ }) mean, ({ 1 2 }) I ({ }) could ({ }) talk ({ 3 4 5 6 8 }) about ({ }) this ({ }) till ({ 9 10 11 }) the ({ }) cows ({ 12 13 15 16 }) came ({ }) home. ({ 17 18 19 20 }) 
+# Sentence pair (28) source length 11 target length 10 alignment score : 5.73324e-16
+Doma sme kravy chovali v maštali na druhej strane dvora. 
+NULL ({ 5 }) There ({ }) were ({ }) cows ({ }) at ({ }) home ({ }) in ({ }) the ({ }) byre ({ 3 4 }) across ({ 6 7 8 }) the ({ }) yard. ({ 1 2 9 10 }) 
+# Sentence pair (29) source length 7 target length 12 alignment score : 1.67608e-15
+V stajni, ktorá sa nachádzala pod strechou obytného domu, sme mali koňa. 
+NULL ({ }) There ({ 1 2 }) was ({ }) a ({ }) horse ({ 3 4 5 6 }) in ({ }) the ({ }) stable. ({ 7 8 9 10 11 12 }) 
+# Sentence pair (30) source length 33 target length 14 alignment score : 6.8981e-22
+Často to bolo veľmi upokojujúce počúvať jeho erdžanie zo stajne na druhom konci domu. 
+NULL ({ 11 }) The ({ }) stable ({ }) was ({ }) under ({ }) the ({ }) roof ({ }) with ({ }) the ({ }) dwelling ({ }) house, ({ }) and ({ }) one ({ }) of ({ }) the ({ }) big ({ }) comforting ({ }) sounds ({ 1 2 3 4 5 }) quite ({ }) often ({ }) was ({ }) the ({ }) horse ({ }) going ({ }) nhrrrrrin ({ 6 7 }) the ({ }) stable ({ 8 9 10 12 }) at ({ }) the ({ }) other ({ }) end ({ }) of ({ }) the ({ }) house. ({ 13 14 }) 
+# Sentence pair (31) source length 23 target length 23 alignment score : 1.37176e-36
+Oheň v kozube sme síce nemali, ale to, čo sme mali, bola voda z čerpadla. Okolo celého domu sa nachádzali studne s vodou. 
+NULL ({ 2 19 }) We ({ 4 }) didn’t ({ }) have ({ }) a ({ }) fire ({ }) on ({ }) the ({ }) hearth, ({ 5 6 7 8 9 }) but ({ }) we ({ 10 }) did ({ }) have ({ }) water ({ 11 12 13 14 }) from ({ }) the ({ }) pump, ({ 1 3 22 23 }) and ({ }) there ({ }) were ({ }) wells ({ 15 16 17 18 20 21 }) around ({ }) the ({ }) place. ({ }) 
+# Sentence pair (32) source length 32 target length 32 alignment score : 1.86189e-45
+Slamená krytina, voda zo studne, konské záprahy, pluhy a mnohé iné veci. Keď sa na to pozriem spätne, mám silný pocit, že všetky tieto vymenované veci už naozaj patria do inej doby. 
+NULL ({ 9 14 15 16 22 }) What ({ }) with ({ }) thatch ({ 1 2 3 }) and ({ }) well ({ 4 5 6 7 8 }) water ({ }) and ({ }) horse-drawn ({ 10 }) vehicles ({ }) and ({ }) horse ({ }) ploughs ({ 11 12 13 }) and ({ }) so ({ }) on, ({ }) when ({ }) I ({ }) look ({ }) back ({ }) on ({ }) it, ({ }) there’s ({ }) a ({ }) strong ({ }) sense ({ }) that ({ }) it ({ }) belonged ({ 28 29 30 31 32 }) in ({ }) another ({ 17 18 19 20 21 }) age, ({ 23 24 25 26 27 }) really. ({ }) 
+# Sentence pair (33) source length 9 target length 6 alignment score : 7.40175e-11
+V Mossbawne sme viedli prostý život. 
+NULL ({ }) We ({ }) lived ({ }) a ({ }) kind ({ }) of ({ }) Arcadian ({ 3 4 5 }) life ({ }) in ({ }) Mossbawn. ({ 1 2 6 }) 
+# Sentence pair (34) source length 40 target length 39 alignment score : 3.09503e-65
+Ak by ste však žili vo Varšave alebo v Londýne, v Birminghame alebo dokonca v Belfaste, ktoré boli počas vojny bombardované, potom by ste určite mali úplne inú predstavu o svete tej doby a vaše stanovisko by bolo neistejšie. 
+NULL ({ 9 34 }) If ({ 1 }) you’d ({ }) been ({ }) living ({ }) in ({ }) Warsaw ({ 10 11 12 }) or ({ 13 }) London, ({ }) or ({ }) Birmingham, ({ 5 6 7 }) or ({ 8 }) even ({ 2 3 4 14 }) Belfast ({ 15 16 17 }) where ({ }) they ({ }) were ({ 18 }) bombed ({ 19 20 21 }) during ({ }) the ({ }) war, ({ 22 23 }) you’d ({ 37 38 39 }) have ({ }) a ({ }) very ({ }) different ({ 32 33 35 36 }) sense ({ }) of ({ }) what ({ }) the ({ }) world ({ 30 31 }) was, ({ }) and ({ }) maybe ({ }) your ({ }) make-believe ({ }) would ({ }) have ({ }) been ({ }) more ({ }) defensive. ({ 24 25 26 27 28 29 }) 
+# Sentence pair (35) source length 36 target length 34 alignment score : 6.25496e-56
+Pri tejto príležitosti vždy citujem Williama Wordswortha, zamýšľajúc sa nad jeho detstvom než odišiel na internátnu školu: "Čisté obdobie môjho zrodenia si získalo moju dušu. Preto som vyrástol posilnený nielen krásou, ale aj strachom." 
+NULL ({ 9 15 27 }) But ({ }) I ({ }) often ({ }) quote ({ 6 7 8 10 11 12 13 }) William ({ }) Wordsworth ({ }) thinking ({ }) of ({ }) his ({ }) childhood ({ }) before ({ }) he ({ }) went ({ }) to ({ }) boarding ({ }) school: ({ }) "Fair ({ 14 16 }) seed-time ({ 17 18 19 20 21 }) had ({ }) my ({ }) soul, ({ 22 23 }) ” ({ }) he ({ }) says, ({ }) "and ({ }) I ({ }) grew ({ }) up ({ }) / ({ }) Fostered ({ 24 25 26 28 29 }) alike ({ }) by ({ 30 31 32 33 }) beauty ({ 1 2 3 4 5 34 }) and ({ }) by ({ }) fear. ({ }) 
+# Sentence pair (36) source length 12 target length 11 alignment score : 3.42757e-14
+V skutočnosti každý strach, ktorý som prežíval, bol skutočne mocnou hrôzou. 
+NULL ({ 6 }) And ({ }) actually ({ 1 2 3 }) any ({ }) fear ({ 4 5 }) I ({ }) had ({ }) was ({ }) on ({ }) the ({ }) whole ({ }) elemental ({ 7 8 9 }) fear. ({ 10 11 }) 
+# Sentence pair (37) source length 26 target length 28 alignment score : 9.5519e-47
+Wordsworth mal strach z lesov, no a ja som sa bál žiab a potkanov, nehovoriac o rozmnožovaní žiab, čo som spomenul aj v mojej prvej básni Smrť prírodovedca. 
+NULL ({ 7 9 10 13 23 }) Wordsworth ({ 18 19 20 21 22 24 }) was ({ }) afraid ({ }) in ({ }) the ({ }) mountains, ({ }) I ({ }) was ({ }) scared ({ 16 17 }) by ({ }) frogs ({ 8 }) and ({ }) rats ({ 11 12 14 15 }) and ({ }) frogs ({ }) spawning, ({ 3 }) which ({ }) went ({ }) into ({ }) my ({ }) first ({ }) poem, ({ }) "Death ({ 4 5 6 }) of ({ }) a ({ }) Naturalist. ({ 1 2 25 26 27 28 }) 
+# Sentence pair (38) source length 9 target length 6 alignment score : 6.21521e-09
+Takýchto spomínaných vecí bolo všade plno. 
+NULL ({ }) ”That ({ }) kind ({ }) of ({ }) thing ({ }) was ({ }) all ({ }) over ({ }) the ({ }) place. ({ 1 2 3 4 5 6 }) 
+# Sentence pair (39) source length 5 target length 10 alignment score : 3.20853e-15
+Jednoducho išlo o obavy typické pre detstvo prežité na dedine. 
+NULL ({ 9 }) The ({ }) usual ({ 3 4 5 6 }) rural ({ }) childhood ({ 7 8 }) anxieties. ({ 1 2 10 }) 
+# Sentence pair (40) source length 20 target length 18 alignment score : 1.43552e-26
+Vo svojej podstate to bol vlastne bezstarostný život až do mojich dvanástich, keď som odišiel do internátnej školy. 
+NULL ({ 4 14 }) But ({ }) generally ({ }) it ({ }) was ({ }) a ({ }) very ({ }) secure ({ 5 6 7 8 }) time ({ }) up ({ 9 10 }) till ({ }) the ({ }) age ({ }) of ({ }) twelve, ({ 11 12 }) when ({ 13 }) I ({ }) went ({ }) to ({ }) boarding ({ 15 16 17 18 }) school. ({ 1 2 3 }) 
+# Sentence pair (41) source length 7 target length 9 alignment score : 3.01479e-11
+Wachtelová: Čo sa vám zdalo strašidelné na trení žiab? 
+NULL ({ 3 }) Wachtel: ({ 1 }) What ({ 2 }) frightened ({ 4 5 }) you ({ }) about ({ }) frogs ({ }) spawning? ({ 6 7 8 9 }) 
+# Sentence pair (42) source length 29 target length 32 alignment score : 2.19816e-51
+Tak dobre. Chodil som dole do tejto oblasti, kde sa nachádzala ľanová priehrada. Tu reálne žili aj tie stelesnené potvory s pulzujúcimi krkmi ako sa hovorí aj v jednej z mojich básní. 
+NULL ({ 4 10 25 28 }) Well, ({ }) I ({ }) went ({ }) down ({ 5 6 }) into ({ }) this ({ }) area ({ 7 8 9 11 12 13 14 }) where ({ 15 16 }) there ({ 17 26 27 29 }) was ({ }) a ({ }) flax-dam, ({ 30 31 32 }) and ({ }) they ({ }) were ({ }) there ({ }) as ({ }) physical ({ }) creatures ({ 18 }) with ({ }) their ({ }) necks ({ }) pulsing, ({ 19 20 21 22 23 }) as ({ 24 }) I ({ }) say ({ }) in ({ }) the ({ }) poem. ({ 1 2 3 }) 
+# Sentence pair (43) source length 25 target length 18 alignment score : 4.57671e-27
+Dookola kvákali. Bol to jeden z tých hrozivých zvukov doslova vytvárajúci až akýsi zbor. A to ma desilo. 
+NULL ({ 4 16 }) They ({ }) were ({ }) croaking, ({ }) and ({ }) it ({ }) was ({ }) a ({ }) very ({ }) kind ({ }) of ({ }) sinister ({ }) croak, ({ 1 2 3 5 }) a ({ }) kind ({ }) of ({ 6 }) chorus ({ 7 8 9 10 }) of ({ }) croaking, ({ 11 12 }) and ({ }) it ({ }) just ({ }) was ({ }) scaresome ({ 13 14 15 17 18 }) to ({ }) me. ({ }) 
+# Sentence pair (44) source length 8 target length 6 alignment score : 8.84592e-12
+V básni som to trochu zdramatizoval. 
+NULL ({ 3 4 }) I ({ }) dramatized ({ }) it ({ }) a ({ }) little ({ }) in ({ }) the ({ }) poem. ({ 1 2 5 6 }) 
+# Sentence pair (45) source length 9 target length 16 alignment score : 9.684e-25
+Uviedol som v nej, že som zutekal, ale aby som bol presný, iba som sa otočil. 
+NULL ({ 3 5 15 }) I ({ }) said ({ }) I ({ }) ran ({ 4 }) away, ({ 6 }) but ({ }) I ({ }) certainly ({ 7 8 9 }) turned. ({ 1 2 10 11 12 13 14 16 }) 
+# Sentence pair (46) source length 5 target length 3 alignment score : 0.000141501
+Naháňali mi strach. 
+NULL ({ }) I ({ }) was ({ }) afraid ({ }) of ({ }) them. ({ 1 2 3 }) 
+# Sentence pair (47) source length 8 target length 8 alignment score : 8.70871e-15
+Neviem celkom presne, koľko rokov som vtedy mal. 
+NULL ({ 6 }) I ({ }) don’t ({ }) quite ({ }) know ({ }) what ({ }) age ({ 2 3 4 5 }) I ({ }) was. ({ 1 7 8 }) 
+# Sentence pair (48) source length 23 target length 31 alignment score : 4.09319e-46
+Možno päť, možno šesť alebo sedem. Ako som už povedal, nie som si tým istý, ale to nemenilo nič na mojej veľkej a ozajstnej fóbii zo žiab a zvuku, ktorý vydávali. 
+NULL ({ 8 12 17 20 23 28 }) Maybe ({ 1 2 }) five, ({ 3 4 5 6 }) six, ({ 7 }) seven, ({ 9 10 11 }) I ({ }) don’t ({ }) know, ({ 13 14 15 }) but ({ 16 }) the ({ }) sense ({ }) of ({ }) the ({ }) gross, ({ }) physical ({ }) frogginess ({ }) of ({ }) them ({ }) all ({ }) and ({ }) the ({ }) sound ({ 18 19 21 22 24 25 26 27 }) they ({ }) made. ({ 29 30 31 }) 
+# Sentence pair (49) source length 14 target length 12 alignment score : 1.14172e-16
+Krajina, z ktorej pochádzate, sa často objavuje vo vašej poézii a próze. 
+NULL ({ 5 11 }) Wachtel: ({ }) The ({ }) land ({ }) around ({ 1 2 }) you ({ }) comes ({ 3 4 }) up ({ }) frequently ({ 6 7 8 }) in ({ }) your ({ }) poetry ({ }) and ({ }) your ({ }) prose. ({ 9 10 12 }) 
+# Sentence pair (50) source length 13 target length 15 alignment score : 8.97878e-21
+Ako veľmi je pre vás toto prostredie dôležité, keď sa pozriete späť na vaše detstvo? 
+NULL ({ 10 13 }) How ({ 1 }) important ({ 2 3 4 }) is ({ }) that ({ }) physical ({ }) environment ({ 5 6 7 8 }) when ({ 9 }) you ({ }) look ({ }) back ({ }) on ({ }) your ({ }) childhood? ({ 11 12 14 15 }) 
+# Sentence pair (51) source length 6 target length 7 alignment score : 7.71598e-09
+Heaney: Pre mňa to znamenalo celý svet. 
+NULL ({ }) Heaney: ({ 1 }) For ({ 2 3 }) me ({ }) it ({ }) was ({ }) all-important. ({ 4 5 6 7 }) 
+# Sentence pair (52) source length 14 target length 16 alignment score : 6.98594e-24
+Keď nad tým teraz premýšľam, sú to viac pocity ako myšlienky, ktoré sa mi stále vracajú. 
+NULL ({ 13 }) When ({ 1 }) I ({ }) think ({ }) back, ({ }) it’s ({ }) sensation, ({ 2 3 4 }) really, ({ 10 }) rather ({ 11 12 14 15 16 }) than ({ }) intellection ({ }) that ({ }) returns ({ 5 6 7 8 9 }) to ({ }) me. ({ }) 
+# Sentence pair (53) source length 4 target length 4 alignment score : 1.9067e-06
+Cit pre určité miesta. 
+NULL ({ }) A ({ 1 2 3 4 }) feel ({ }) for ({ }) places. ({ }) 
+# Sentence pair (54) source length 7 target length 11 alignment score : 5.3965e-17
+Zastávam názor, že telo si veľa vecí uchováva vo svojej pamäti. 
+NULL ({ 3 }) I ({ }) mean, ({ }) the ({ }) body ({ 4 5 }) stores ({ 6 7 8 9 }) so ({ }) much. ({ 1 2 10 11 }) 
+# Sentence pair (55) source length 24 target length 26 alignment score : 7.5289e-40
+Napríklad si pamätám, ako sa moja ruka dotýkala držadla na konskom pluhu, pamätám si otcovu ruku nad tou mojou, ktorá mi pomáhala riadiť pluh správnym smerom. 
+NULL ({ 5 10 }) I ({ }) can ({ }) remember ({ }) holding ({ 4 6 7 8 9 11 12 13 }) the ({ }) handles ({ 1 2 3 }) of ({ }) a ({ }) horse ({ }) plough, ({ 14 }) for ({ }) example, ({ }) with ({ }) my ({ }) father’s ({ 15 16 17 18 19 20 }) hands ({ }) over ({ }) my ({ }) hands ({ }) to ({ }) help ({ }) me ({ }) guide ({ 21 22 23 24 25 26 }) it. ({ }) 
+# Sentence pair (56) source length 28 target length 22 alignment score : 1.5062e-31
+Keď radlica narazila o malý kamienok v brázde, ten sa vrátil späť cez držadlá až do vašej vlastnej dlane v podobe cengnutia. 
+NULL ({ 7 10 20 }) When ({ 1 }) the ({ }) ploughshare ({ 2 3 4 5 }) would ({ }) hit ({ 6 }) a ({ }) small ({ }) stone ({ }) in ({ }) the ({ }) furrow, ({ 8 9 11 12 13 14 }) that ({ }) travelled ({ 15 16 }) back ({ }) up ({ }) the ({ }) handles ({ }) through ({ }) the ({ }) grip ({ }) into ({ }) your ({ }) own ({ }) hand ({ }) like ({ }) a ({ }) little ({ }) bleep. ({ 17 18 19 21 22 }) 
+# Sentence pair (57) source length 12 target length 13 alignment score : 3.42083e-18
+Stále si to pamätám, ale na tom asi nie je nič zvláštne, však? 
+NULL ({ 6 }) I ({ }) still ({ 1 2 }) remember ({ }) that, ({ 3 4 5 7 8 }) but ({ }) I ({ }) think ({ }) that’s ({ 9 10 }) not ({ }) uncommon, ({ 11 12 13 }) is ({ }) it? ({ }) 
+# Sentence pair (58) source length 23 target length 23 alignment score : 2.89491e-33
+To, čo si pamätá naše telo, je veľmi dôležité a ja si myslím, že iné telesné pocity môžu tento dojem neskôr prinavrátiť späť. 
+NULL ({ 10 14 }) What ({ }) is ({ }) stored ({ 3 4 5 6 }) bodily ({ }) is ({ }) very ({ }) important ({ 7 8 9 }) for ({ }) memory, ({ }) and ({ }) I ({ }) think ({ }) that ({ }) other ({ }) bodily ({ }) sensations ({ 1 2 }) later ({ 11 12 13 }) on ({ }) can ({ }) bring ({ 15 16 }) it ({ }) all ({ }) back. ({ 17 18 19 20 21 22 23 }) 
+# Sentence pair (59) source length 13 target length 11 alignment score : 4.00839e-14
+Wachtelová: Pamätám si ten obraz konského pluhu vo vašej básni Nasledovateľ. 
+NULL ({ }) Wachtel: ({ 1 }) I ({ }) remember ({ 2 3 }) that ({ }) image ({ }) of ({ }) the ({ }) horse ({ }) plough ({ 4 5 6 7 }) in ({ }) your ({ }) poem ({ }) "Follower. ({ 8 9 10 11 }) 
+# Sentence pair (60) source length 28 target length 34 alignment score : 1.01654e-51
+Nie je to len krajina, ale aj nástroje, čo robí vaše básne takými živými – a to môžeme pozorovať už od vašich prvých básní, medzi ktoré patrí aj báseň Kopanie, až po tie najnovšie. 
+NULL ({ 16 17 }) It’s ({ 1 2 }) not ({ }) just ({ 3 4 }) the ({ }) land ({ 5 }) but ({ 6 }) the ({ }) tools ({ 7 26 27 28 }) for ({ }) engaging ({ 8 9 10 }) with ({ }) it ({ }) that ({ }) are ({ }) so ({ }) vivid—from ({ 18 }) your ({ }) earliest ({ }) poems, ({ 19 20 }) such ({ 21 22 23 24 }) as ({ }) "Digging, ({ 25 }) ” ({ }) right ({ }) up ({ }) to ({ }) recent ({ 11 12 13 14 15 }) ones. ({ 29 30 31 32 33 34 }) 
+# Sentence pair (61) source length 3 target length 4 alignment score : 4.34241e-06
+Áno, to je pravda. 
+NULL ({ }) Yes, ({ 1 2 }) that’s ({ }) true. ({ 3 4 }) 
+# Sentence pair (62) source length 22 target length 24 alignment score : 1.69875e-29
+Moja hlava je plná stredovekého náradia, ako napríklad dvojručné pritĺkacie kladivo, železné klince, ktoré sa zatĺkali do steny, alebo konský chomút a mnohé ďalšie. 
+NULL ({ 15 22 }) My ({ 1 }) head ({ 2 3 }) is ({ }) furnished ({ 4 5 6 }) with ({ }) medieval ({ 7 }) tools ({ }) like ({ }) sledgehammers ({ 8 9 10 11 }) and ({ }) iron ({ }) spikes ({ 12 13 14 }) to ({ }) drive ({ 16 17 }) into ({ }) walls ({ 18 19 20 21 }) and ({ }) horse ({ }) collars ({ 23 24 }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (63) source length 12 target length 13 alignment score : 1.21391e-16
+Niečo vo mne na tieto veci silno reaguje rovnako navonok, ale aj vnútorne. 
+NULL ({ 4 }) There’s ({ }) something ({ 1 2 3 }) in ({ }) me ({ }) that ({ }) responds ({ 5 6 7 }) very ({ }) physically ({ 8 9 }) and ({ }) emotionally ({ 10 11 12 13 }) to ({ }) them. ({ }) 
+# Sentence pair (64) source length 22 target length 20 alignment score : 2.84196e-33
+Je to, akoby tieto veci človek vedel oveľa lepšie pochopiť, keď sa daných predmetov dotkne rukou, alebo keď ich vysloví. 
+NULL ({ 12 }) It’s ({ }) as ({ }) if ({ }) one ({ }) has ({ }) a ({ }) better ({ 7 8 9 10 }) grip ({ }) on ({ }) things ({ }) when ({ 11 }) I ({ }) get ({ }) my ({ }) hand ({ 13 14 15 16 }) or ({ 17 }) my ({ }) tongue ({ 18 }) around ({ }) those ({ }) particular ({ }) objects. ({ 1 2 3 4 5 6 19 20 }) 
+# Sentence pair (65) source length 29 target length 29 alignment score : 3.31022e-40
+V mojej poslednej knihe som napísal báseň o ťažkom kladive udierajúcom po kolíku. Myslím si však, že to nebol len ten stelesnený dojem, ktorý som chcel touto básňou dosiahnuť. 
+NULL ({ 5 17 25 }) In ({ 1 }) my ({ }) last ({ 2 3 4 }) book ({ }) I ({ }) did ({ }) a ({ }) poem ({ }) about ({ }) a ({ }) sledgehammer ({ }) hitting ({ 6 7 8 9 10 }) a ({ }) post, ({ 11 12 13 14 }) but ({ }) I ({ }) think ({ }) it ({ }) wasn’t ({ 15 16 18 19 }) just ({ 20 }) a ({ }) physical ({ }) sensation ({ }) I ({ }) was ({ }) trying ({ 21 22 23 24 }) to ({ }) get ({ }) at. ({ 26 27 28 29 }) 
+# Sentence pair (66) source length 10 target length 10 alignment score : 4.10635e-13
+Hovorilo sa v nej o úplnom využití nemilosrdnej, hrubej sily. 
+NULL ({ 2 }) It ({ }) was ({ }) about ({ }) the ({ }) full ({ }) exercise ({ 1 3 4 }) of ({ }) merciless, ({ 5 6 7 }) violent ({ }) power. ({ 8 9 10 }) 
+# Sentence pair (67) source length 7 target length 8 alignment score : 1.61219e-12
+Pri spomínanej básni som sa nechal inšpirovať Irakom. 
+NULL ({ 4 5 }) It ({ }) was ({ }) a ({ }) poem ({ }) written ({ }) after ({ }) Iraq. ({ 1 2 3 6 7 8 }) 
+# Sentence pair (68) source length 30 target length 28 alignment score : 7.5152e-46
+Referencie z tohto štátu by ste v nej však hľadali márne. Ide tu skôr o pocit previnenia, keď bezvýhradne a neľútostne mlátite kladivom či udierate do slepého miesta. 
+NULL ({ 7 20 }) There ({ }) were ({ }) no ({ }) Iraq ({ 8 9 10 11 12 13 }) references ({ }) in ({ }) it, ({ }) but ({ }) it ({ }) is ({ }) about ({ }) the ({ }) sense ({ }) of ({ }) transgression ({ }) you ({ }) have ({ }) when ({ 18 }) you ({ }) utterly, ({ 26 27 28 }) mercilessly ({ 1 2 3 4 }) use ({ }) a ({ }) sledgehammer, ({ }) even ({ 5 6 }) when ({ }) hitting ({ }) a ({ }) dead ({ 14 15 16 17 }) post. ({ 19 21 22 23 24 25 }) 
+# Sentence pair (69) source length 16 target length 13 alignment score : 4.49215e-24
+Cítite pritom nespútaný hnev a nemilosrdnú krutosť k tomu, čo ste chceli dosiahnuť. 
+NULL ({ 5 }) There’s ({ }) a ({ }) kind ({ }) of ({ }) unrestrained ({ 3 }) fury, ({ }) an ({ }) unforgiving ({ 9 10 }) brutality ({ 4 6 7 8 }) to ({ }) it ({ }) that ({ }) I ({ }) wanted ({ }) to ({ }) get. ({ 1 2 11 12 13 }) 
+# Sentence pair (70) source length 17 target length 25 alignment score : 5.26682e-37
+Z toho dôvodu si myslím, že je možné prenášať vnemy, a zároveň dúfam, že rovnako aj navrhovať a ovplyvňovať dôsledky toho, čo sa môže stať. 
+NULL ({ 11 14 23 }) So ({ 1 2 3 }) I ({ }) think ({ }) that ({ }) you ({ }) can ({ 4 5 }) transmit ({ 6 }) sensation ({ }) but ({ }) hopefully ({ 7 8 }) suggest ({ 9 10 12 13 15 16 17 }) and ({ }) effect ({ 18 19 }) a ({ }) consequence ({ 20 }) as ({ }) well. ({ 21 22 24 25 }) 
+# Sentence pair (71) source length 7 target length 7 alignment score : 6.14694e-09
+Wachtelová: Váš otec bol obchodník s dobytkom. 
+NULL ({ }) Wachtel: ({ 1 }) Your ({ 2 }) father ({ }) was ({ }) a ({ }) cattle ({ 3 4 }) dealer. ({ 5 6 7 }) 
+# Sentence pair (72) source length 8 target length 7 alignment score : 1.19408e-12
+Môžete mi o ňom povedať zopár slov? 
+NULL ({ }) Can ({ }) you ({ }) tell ({ }) me ({ }) a ({ }) bit ({ 3 4 5 6 }) about ({ }) him? ({ 1 2 7 }) 
+# Sentence pair (73) source length 25 target length 25 alignment score : 1.48776e-33
+Heaney:Jeho práca alebo povolanie si vyžadovalo chodiť na cesty po jarmokoch, kde kupoval dobytok a potom ich priviezol naspäť domov, alebo ich dodával iným farmárom. 
+NULL ({ 8 15 }) Heaney:His ({ 1 2 3 4 }) work—his ({ 5 6 7 9 10 11 }) calling, ({ }) really—involved ({ }) him ({ }) going ({ }) out ({ }) on ({ }) the ({ }) road ({ }) to ({ }) fairs, ({ 12 13 14 }) buying ({ }) cattle ({ }) there, ({ }) and ({ }) then ({ }) bringing ({ 16 }) them ({ }) back ({ }) home ({ }) and ({ }) supplying ({ 17 18 19 20 21 22 }) other ({ }) farmers. ({ 23 24 25 }) 
+# Sentence pair (74) source length 34 target length 35 alignment score : 3.11941e-55
+Prijímal však aj objednávky od miestnych poľnohospodárov. Fungovalo to asi tak, že sa vybral na trh s cieľom kúpiť dobytok za vopred určenú cenu, potom sa vrátil späť, aby ho mohol predať aj so ziskom. 
+NULL ({ 9 12 13 15 26 }) Or ({ }) he ({ 3 }) would ({ }) get ({ }) orders ({ 4 6 7 8 10 11 }) from ({ 5 }) local ({ }) farmers ({ 1 2 }) and ({ }) would ({ }) go ({ }) to ({ }) the ({ }) fairs ({ 14 16 17 18 19 }) to ({ }) buy ({ 20 21 22 23 }) the ({ }) beasts ({ 24 25 27 }) at ({ }) a ({ }) certain ({ }) rate ({ }) and ({ }) bring ({ }) them ({ }) back ({ }) and ({ }) sell ({ 28 29 30 31 32 33 34 35 }) them ({ }) at ({ }) some ({ }) profit ({ }) or ({ }) other. ({ }) 
+# Sentence pair (75) source length 14 target length 13 alignment score : 5.26459e-22
+Môj otec bol teda priekupníkom medzi malými poľnohospodármi a inými obchodníkmi s dobytkom. 
+NULL ({ 9 }) So ({ }) he ({ }) was ({ }) a ({ }) kind ({ }) of ({ }) middleman ({ 4 5 }) between ({ 6 }) small ({ 7 8 10 11 }) farmers ({ }) and ({ }) other ({ }) cattle ({ 2 3 }) dealers. ({ 1 12 13 }) 
+# Sentence pair (76) source length 10 target length 10 alignment score : 1.78895e-12
+Teraz hovoríme o kultúre, ktorá úplne vymizla z našich životov. 
+NULL ({ }) We’re ({ 1 2 3 }) talking ({ }) about ({ }) a ({ }) culture ({ 4 5 6 }) now ({ }) that ({ }) has ({ }) gone ({ }) completely. ({ 7 8 9 10 }) 
+# Sentence pair (77) source length 50 target length 40 alignment score : 3.50658e-58
+Myslím, že dnes neexistujú jarmočné dni v takej podobe, ako keď miestni ľudia hnali svoj dobytok na hlavnú ulicu v danej dedine. Na tomto mieste sa konalo veľké zhromaždenie každý prvý pondelok v mesiaci alebo každý druhý utorok v mesiaci. 
+NULL ({ 7 17 26 33 39 }) I ({ }) mean, ({ 1 2 }) there ({ }) are ({ }) no ({ }) fair ({ }) days ({ }) in ({ }) the ({ }) way ({ }) there ({ }) used ({ 3 4 5 6 }) to ({ }) be ({ }) when ({ }) local ({ }) people ({ }) drove ({ }) the ({ }) cattle ({ }) into ({ }) the ({ }) main ({ 8 9 10 11 }) street ({ 12 13 14 15 }) of ({ }) the ({ }) local ({ }) village, ({ 16 18 19 }) and ({ }) there ({ }) was ({ }) a ({ }) big ({ }) assembly ({ 20 }) on ({ }) the ({ }) first ({ }) Monday ({ }) of ({ }) every ({ }) month ({ }) or ({ 35 }) the ({ }) second ({ 36 }) Tuesday ({ 37 38 40 }) of ({ }) every ({ }) month ({ 21 22 23 24 }) or ({ }) whatever. ({ 25 27 28 29 30 31 32 34 }) 
+# Sentence pair (78) source length 23 target length 23 alignment score : 1.07028e-39
+Dnes, ale už aj počas neskorších dní života môjho otca, dohadovania tohto typu prebiehajú v aukčnej sieni. Má to však, viac-menej spoločenský charakter. 
+NULL ({ 15 19 }) Now, ({ 9 10 11 12 13 14 }) and ({ }) in ({ }) the ({ }) later ({ }) days ({ }) of ({ }) my ({ }) father’s ({ }) life, ({ }) all ({ }) that ({ 4 }) negotiation ({ 5 6 7 8 }) is ({ }) done ({ 3 }) in ({ }) auction ({ }) rings ({ 16 17 18 }) and ({ }) it’s ({ }) much ({ }) more ({ }) corporate. ({ 1 2 20 21 22 23 }) 
+# Sentence pair (79) source length 19 target length 20 alignment score : 7.21491e-34
+Môj otec mal na starosti nájsť individuálne zviera a urobiť konkrétny obchod najprv na jarmoku a potom neskôr na statku. 
+NULL ({ 9 14 16 19 }) What ({ }) he ({ }) did ({ }) was ({ }) find ({ }) individual ({ }) beasts ({ }) and ({ }) make ({ }) individual ({ 3 }) deals ({ 4 }) at ({ }) the ({ }) fair ({ 5 6 7 8 10 11 12 13 15 }) and ({ }) then ({ }) on ({ }) the ({ }) farm. ({ 1 2 17 18 20 }) 
+# Sentence pair (80) source length 25 target length 25 alignment score : 6.56856e-40
+Bol veľmi dobrým znalcom dobytka, vďaka čomu ho ľudia, ktorí mali záujem o kvalitný tovar, veľmi často vyhľadávali. Predpokladám však, že išlo aj o dôveru. 
+NULL ({ 21 }) He ({ }) was ({ }) a ({ }) very ({ }) good ({ }) judge ({ 1 2 3 4 }) of ({ }) cattle ({ }) and ({ }) was ({ }) much ({ }) sought ({ }) by ({ }) people ({ }) who ({ }) wanted ({ }) decent ({ }) stock, ({ 14 15 16 17 18 19 }) and ({ }) I ({ }) suppose ({ 20 22 }) he ({ }) was ({ }) trusted ({ 5 6 7 8 9 10 11 12 }) also. ({ 13 23 24 25 }) 
+# Sentence pair (81) source length 13 target length 15 alignment score : 3.13955e-19
+Wachtelová: Opísali ste ho ako tichého spoľahlivého vidieckeho muža, ktorý si vyslúžil dôveru u dedinčanov. 
+NULL ({ }) Wachtel: ({ 1 }) You’ve ({ 2 3 4 }) described ({ 5 }) him ({ }) as ({ }) a ({ }) solid, ({ 6 7 8 }) quiet ({ 9 }) country ({ }) man ({ }) with ({ }) country ({ 10 11 12 }) confidence. ({ 13 14 15 }) 
+# Sentence pair (82) source length 6 target length 8 alignment score : 4.2565e-12
+Váš otec toho asi veľa nenahovoril, nemám pravdu? 
+NULL ({ }) So ({ }) he ({ }) didn’t ({ }) say ({ }) that ({ }) much? ({ 1 2 3 4 5 6 7 8 }) 
+# Sentence pair (83) source length 7 target length 4 alignment score : 1.52754e-06
+Nie, to teda nenahovoril. 
+NULL ({ }) No, ({ }) he ({ }) didn’t ({ }) speak ({ }) that ({ }) much, ({ }) no. ({ 1 2 3 4 }) 
+# Sentence pair (84) source length 12 target length 10 alignment score : 1.03603e-17
+Často spomínam, že on považoval reč za istý druh pretvárky. 
+NULL ({ 3 }) I’ve ({ }) often ({ }) said ({ }) my ({ }) father ({ }) regarded ({ 4 }) speech ({ }) as ({ }) a ({ }) kind ({ }) of ({ }) affectation. ({ 1 2 5 6 7 8 9 10 }) 
+# Sentence pair (85) source length 12 target length 14 alignment score : 5.64866e-18
+Mal dojem, že výpoveď má pozostávať z veľkého množstva dobrého úmyslu a dobrých pocitov. 
+NULL ({ 12 }) He ({ }) suspected ({ 1 2 3 4 }) the ({ }) statement ({ 5 6 7 8 }) of ({ }) too ({ }) many ({ }) good ({ }) intentions ({ 9 10 11 }) and ({ }) good ({ }) sentiments. ({ 13 14 }) 
+# Sentence pair (86) source length 9 target length 7 alignment score : 1.53627e-10
+Predpokladal, že intuitívne konanie je to skutočné. 
+NULL ({ }) He ({ }) assumed ({ 1 2 3 }) that ({ }) intuitive ({ 4 }) transmission ({ }) was ({ }) the ({ }) real ({ 5 6 }) thing. ({ 7 }) 
+# Sentence pair (87) source length 11 target length 12 alignment score : 1.99512e-17
+Ak bolo niečo príliš prehnané, mal sklon sa veciam takéhoto typu vyhýbať. 
+NULL ({ 8 }) If ({ 1 2 }) it ({ }) was ({ }) overstated, ({ 3 4 5 6 }) he ({ }) tended ({ }) to ({ }) shy ({ 9 10 11 12 }) away ({ 7 }) from ({ }) it. ({ }) 
+# Sentence pair (88) source length 5 target length 13 alignment score : 1.60308e-17
+Wachtelová: Pod slovom prehnaný ste asi mali na mysli skôr niečo ako oficiálny. 
+NULL ({ 8 }) Wachtel:By ({ 1 }) overstated ({ 2 3 4 }) you ({ 5 }) mean ({ 6 7 9 10 11 }) stated. ({ 12 13 }) 
+# Sentence pair (89) source length 2 target length 2 alignment score : 0.00411912
+Ale, samozrejme. 
+NULL ({ }) Yes, ({ }) indeed. ({ 1 2 }) 
+# Sentence pair (90) source length 8 target length 11 alignment score : 2.68726e-15
+Každé vyhlásenie je do istej miery zveličené. V tom máte pravdu. 
+NULL ({ }) Statement ({ 1 2 3 }) was ({ }) overstatement ({ 4 5 }) to ({ }) some ({ }) extent, ({ 6 7 8 9 10 }) that’s ({ }) right. ({ 11 }) 
+# Sentence pair (91) source length 15 target length 18 alignment score : 3.98228e-23
+Wachtelová: Keď váš otec v roku 1986 zomrel, povedali ste, že ste stratili ochranný štít nad vašou hlavou. 
+NULL ({ 5 11 }) Wachtel: ({ 1 }) When ({ 2 }) your ({ }) father ({ 3 4 6 }) died ({ }) in ({ }) 1986, ({ 7 8 9 10 }) you ({ }) said ({ }) the ({ }) roof ({ 12 13 14 }) came ({ }) off ({ }) the ({ }) world. ({ 15 16 17 18 }) 
+# Sentence pair (92) source length 11 target length 7 alignment score : 2.60228e-11
+Čo ste chceli konkrétne týmto výrokom povedať? 
+NULL ({ }) Can ({ 1 2 3 4 5 6 7 }) you ({ }) tell ({ }) me ({ }) what ({ }) in ({ }) particular ({ }) that ({ }) meant ({ }) for ({ }) you? ({ }) 
+# Sentence pair (93) source length 5 target length 7 alignment score : 4.0236e-12
+Myslím, že som mal vtedy 47 rokov. 
+NULL ({ 3 }) I ({ }) was ({ }) forty-seven, ({ 4 5 6 }) I ({ }) think. ({ 1 2 7 }) 
+# Sentence pair (94) source length 14 target length 16 alignment score : 4.10637e-22
+Moja mama odišla z tohto sveta v roku 1984. Otec ju o dva roky neskôr nasledoval. 
+NULL ({ 7 }) My ({ 1 }) mother ({ 2 3 4 5 }) died ({ }) in ({ }) 1984, ({ 6 }) and ({ }) my ({ }) father ({ }) died ({ 8 9 10 11 }) a ({ }) couple ({ }) of ({ }) years ({ }) later. ({ 12 13 14 15 16 }) 
+# Sentence pair (95) source length 29 target length 27 alignment score : 7.00889e-37
+Myslím, že to nie je ničím zvláštna skúsenosť. Jednoducho, ste ďalší na rade. Už nie je nad vami nikto, keď hovoríme o veku alebo o slove rodič. 
+NULL ({ 12 }) And ({ }) I ({ }) think ({ }) maybe ({ 1 2 }) that’s ({ 3 4 5 }) just ({ }) a ({ }) common ({ }) experience; ({ 6 7 8 9 }) that ({ }) you ({ 10 }) are ({ }) next ({ 11 13 14 15 16 }) in ({ }) line, ({ 17 18 19 20 21 }) there’s ({ }) nothing ({ }) over ({ }) your ({ }) head ({ }) in ({ }) terms ({ }) of ({ }) age, ({ }) in ({ }) terms ({ }) of ({ }) a ({ }) parent. ({ 22 23 24 25 26 27 }) 
+# Sentence pair (96) source length 24 target length 31 alignment score : 1.21731e-43
+To sa odrazilo v mojom osobnom živote, o pár rokov neskôr som zažíval úžasnú vlnu v písaní. Písal sa konkrétne rok 1988, 1989, keď som napísal sériu básní s názvom Štvorhrany. 
+NULL ({ 2 4 16 19 25 }) It ({ }) coincided ({ }) in ({ }) my ({ }) own ({ }) life ({ }) with ({ }) a ({ }) wonderful ({ }) bout ({ 1 3 5 6 7 }) of ({ }) writing ({ }) a ({ }) couple ({ 8 9 }) of ({ }) years ({ 10 11 }) later—1988, ({ 12 13 14 15 }) 1989—a ({ 17 }) sequence ({ 18 }) of ({ }) poems ({ }) eventually ({ 20 21 22 23 24 26 27 28 }) called ({ 29 30 }) Squarings. ({ 31 }) 
+# Sentence pair (97) source length 32 target length 26 alignment score : 9.74757e-41
+Boli to veľmi voľné básne. Vznikli z obrazu starého zničeného domu bez strechy, z ktorého nezostalo nič, len jeho základy, alebo znázorňovali žobráka stojaceho pred dvermi. 
+NULL ({ 2 }) They ({ }) were ({ }) terrifically ({ 1 3 4 5 }) free, ({ 6 }) and ({ }) they ({ }) began ({ }) with ({ }) an ({ }) image ({ }) of ({ }) an ({ }) unroofed ({ 15 16 17 18 }) wall-stead ({ }) of ({ }) an ({ 19 20 21 22 }) old ({ }) ruined ({ }) house ({ }) and ({ }) an ({ }) image ({ }) of ({ }) the ({ }) soul ({ }) as ({ }) a ({ }) beggar ({ 23 24 25 26 }) standing ({ 7 8 9 10 11 12 13 14 }) in ({ }) the ({ }) doorway. ({ }) 
+# Sentence pair (98) source length 30 target length 23 alignment score : 3.68118e-36
+Predpokladám, že táto konkrétna predstava ma úplne ovládla – myšlienka nezastrešeného priestoru a tvora, stelesnenú dušu, medzi ktorými nie je nič len nekonečnosť. 
+NULL ({ 2 13 }) I ({ }) suppose ({ }) that ({ }) particular ({ }) image ({ }) began ({ 1 }) to ({ }) take ({ }) hold ({ }) of ({ }) me— ({ }) the ({ }) idea ({ 3 4 5 }) of ({ }) an ({ }) unroofed ({ }) space ({ 6 7 8 9 10 11 12 }) and ({ }) the ({ }) creature, ({ 23 }) soul-body, ({ 14 }) down ({ }) here ({ 15 16 17 18 }) with ({ }) nothing ({ 19 20 21 22 }) between ({ }) it ({ }) and ({ }) the ({ }) infinite. ({ }) 
+# Sentence pair (99) source length 35 target length 31 alignment score : 4.24387e-47
+Všetky predošlé formácie a náboženské predstavy, ktoré mi predtým stelesňovali život a smrť, zmysel života na tejto planéte ako aj posmrtný život. Toto všetko sa akoby šibnutím čarovného prútika opäť pomiešalo. 
+NULL ({ 4 12 16 25 }) And ({ }) all ({ }) the ({ }) early ({ }) formation, ({ 6 7 8 9 10 11 13 }) all ({ }) the ({ }) early ({ 14 15 17 18 }) religious ({ 19 }) imagery ({ }) that ({ 20 }) I ({ }) got ({ }) for ({ }) life ({ }) and ({ }) death, ({ }) for ({ }) the ({ }) meaning ({ 21 22 23 24 }) of ({ }) your ({ }) life ({ }) on ({ }) earth ({ }) and ({ }) then ({ }) your ({ }) afterlife, ({ }) all ({ }) that ({ }) somehow ({ 26 27 28 29 30 31 }) was ({ }) stirred ({ 1 2 3 5 }) again. ({ }) 
+# Sentence pair (100) source length 30 target length 28 alignment score : 4.17006e-41
+Pre kohokoľvek z mojej generácie, ale hlavne čo sa týka generácie írskych katolíkov, bola duša ako malá biela nepoškvrnená vreckovka, ktorú si však človek mohol svojimi hriechmi zašpiniť. 
+NULL ({ 9 }) For ({ 1 }) anybody ({ 2 3 4 5 6 }) in ({ }) my ({ }) generation, ({ 7 8 10 11 12 13 }) certainly ({ }) in ({ }) the ({ }) Irish ({ }) Catholic ({ }) generation, ({ 14 15 }) the ({ }) soul ({ }) was ({ }) like ({ }) a ({ }) little ({ 16 17 }) white ({ }) handkerchief, ({ 18 19 20 21 22 23 24 }) unstained, ({ 25 26 27 28 }) and ({ }) you ({ }) would ({ }) stain ({ }) it ({ }) with ({ }) sin ({ }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (101) source length 31 target length 24 alignment score : 4.63557e-42
+Oveľa dôležitejším bol ale ten zmysel, že celý vesmír riadi Boh, že božská pozornosť sa orientuje nielen na vesmír, ale aj na nás samotných. 
+NULL ({ 7 12 15 18 22 }) But ({ }) more ({ }) important ({ }) was ({ }) the ({ }) sense ({ }) that ({ 21 }) the ({ }) whole ({ 23 24 }) universe ({ 1 2 }) was ({ }) governed ({ 3 }) by ({ 4 }) the ({ }) deity, ({ 5 6 8 9 10 11 13 }) that ({ }) there ({ }) was ({ }) divine ({ }) attention ({ }) being ({ }) paid ({ 14 16 17 }) not ({ }) just ({ }) to ({ }) the ({ }) universe ({ }) but ({ }) to ({ }) you ({ }) yourself. ({ 19 20 }) 
+# Sentence pair (102) source length 47 target length 38 alignment score : 2.29202e-62
+Si ako malá kvapka vody v nekonečnom oceáne, si len malou škvrnou v celej schéme vecí. Pri tom všetkom na nás niekto striehne a to nielen v zmysle ochrany, ale aj kontroly nad tým, či nepáchame niečo zlé. 
+NULL ({ 6 13 20 24 25 27 }) You’re ({ 1 }) like ({ }) a ({ }) little ({ 2 3 }) drop ({ 4 5 7 8 9 10 11 12 }) of ({ }) water ({ }) in ({ }) this ({ }) great ({ }) ocean, ({ }) you’re ({ }) a ({ }) little ({ }) speck ({ 14 15 16 17 18 }) in ({ }) the ({ }) whole ({ 19 21 }) scheme ({ 22 23 26 }) of ({ }) things: ({ }) nevertheless, ({ }) you ({ }) are ({ }) being ({ }) watched ({ }) over, ({ }) and ({ }) watched ({ 38 }) over ({ }) not ({ }) only ({ }) in ({ }) terms ({ }) of ({ }) care ({ }) but ({ 30 }) in ({ }) terms ({ }) of ({ }) supervision ({ 28 29 }) to ({ }) see ({ }) you ({ }) do ({ 31 }) nothing ({ }) wrong. ({ 32 33 34 35 36 37 }) 
+# Sentence pair (103) source length 24 target length 24 alignment score : 1.18378e-34
+Rovnako existovala aj predstava, ktorej sa moja generácia drží už dosť dlho, že na konci našej púte po tejto Zemi nás čakajú dva súdy. 
+NULL ({ 6 13 14 }) And ({ }) there ({ }) was ({ }) this ({ }) idea, ({ 1 2 3 4 }) and ({ }) my ({ }) generation ({ 5 7 8 9 }) got ({ }) it ({ }) very ({ }) early, ({ }) that ({ }) there ({ }) would ({ }) be ({ }) two ({ 10 11 12 }) judgments ({ 18 19 20 21 22 23 24 }) at ({ }) the ({ }) end ({ 15 16 17 }) of ({ }) your ({ }) life. ({ }) 
+# Sentence pair (104) source length 40 target length 29 alignment score : 3.50787e-42
+Po prvé, budeme po ukončení nášho osobného života vyhnaní do večnosti, kde sa podrobíme osobitnému súdu, na ktorom si prezrieme celý náš život. Výsledkom budú odmeny, tresty alebo pokánie. 
+NULL ({ 13 17 }) First, ({ 1 2 3 4 }) at ({ }) the ({ }) end ({ }) of ({ }) your ({ }) particular ({ }) life, ({ }) you ({ }) would ({ }) be ({ }) whipped ({ }) away ({ }) into ({ }) eternity ({ 5 }) and ({ }) you ({ }) would ({ }) undergo ({ }) a ({ }) particular ({ 6 7 8 9 }) judgment; ({ 10 11 12 14 15 }) your ({ }) own ({ }) life ({ }) would ({ }) be ({ }) scanned, ({ 18 19 20 21 22 }) and ({ }) rewards ({ 23 24 25 26 27 }) or ({ 28 }) punishments, ({ }) or ({ }) atonement, ({ 29 }) would ({ }) be ({ }) the ({ }) result ({ 16 }) of ({ }) that. ({ }) 
+# Sentence pair (105) source length 24 target length 17 alignment score : 2.32418e-24
+Potom na konci všetkého nás opäť čaká všeobecný súd, kde sa vo väčšej miere o všetkom rozhodne. 
+NULL ({ 2 11 }) Then ({ 1 }) again ({ }) at ({ }) the ({ }) end ({ }) of ({ }) time, ({ 3 4 }) there ({ }) would ({ }) be ({ }) a ({ }) general ({ }) judgment, ({ }) and ({ }) the ({ }) whole ({ }) thing ({ }) would ({ }) be ({ }) ratified ({ 5 6 }) on ({ }) a ({ }) larger ({ 7 8 9 10 12 }) scale. ({ 13 14 15 16 17 }) 
+# Sentence pair (106) source length 11 target length 11 alignment score : 7.06325e-18
+Myslím, že každý, kto si takým niečím prejde, bude navždy poznačený. 
+NULL ({ }) Anybody ({ 8 9 10 11 }) who ({ }) undergoes ({ 3 }) that ({ }) is ({ }) marked ({ }) by ({ }) it ({ }) forever, ({ 4 5 6 7 }) I ({ }) think. ({ 1 2 }) 
+# Sentence pair (107) source length 34 target length 33 alignment score : 1.2362e-57
+Vôbec nezáleží, aká forma sekularizácie sa objaví, už od začiatku je tu obrovská súradnica vytvorená pre naše vedomie. Táto predstava lesknúceho sa vonkajšieho rámu na každej jednej veci je vždy súčasťou vašej predstavivosti. 
+NULL ({ 6 22 25 }) And ({ }) no ({ }) matter ({ }) what ({ }) kind ({ }) of ({ }) secularization ({ }) occurs, ({ 31 32 33 }) there ({ }) is ({ }) a ({ }) huge ({ 10 11 12 13 14 15 }) coordinate ({ }) established ({ 16 }) for ({ }) consciousness ({ 17 18 19 20 }) from ({ 9 }) the ({ }) beginning, ({ }) that ({ }) sense ({ 8 }) of ({ }) the ({ }) outer ({ }) shimmering ({ 21 23 24 26 27 28 }) rim ({ 29 }) of ({ }) everything ({ }) always ({ 30 }) being ({ }) there ({ }) in ({ }) your ({ }) imagination. ({ 1 2 3 4 5 7 }) 
+# Sentence pair (108) source length 28 target length 36 alignment score : 1.76191e-55
+Možno nasledujúci výrok všetko vysvetlí. Duša je po smrti vyhnaná preč z tohto sveta. S ňou sa zároveň stratí aj strecha nad hlavou a vy ste vystavení tej nekonečnosti, ktorá sa objaví po smrti vašich rodičov. 
+NULL ({ 17 24 31 }) Maybe ({ 1 2 }) that ({ }) explains ({ 3 4 5 }) it—the ({ }) soul ({ 11 12 13 14 }) being ({ 6 7 }) whipped ({ 8 9 10 }) away ({ }) and ({ }) the ({ }) roof ({ }) coming ({ }) off ({ }) and ({ }) you ({ }) being ({ }) exposed ({ 22 23 }) to ({ }) that ({ }) infinity ({ 15 16 18 19 }) that ({ 20 }) occurs ({ 21 }) after ({ }) the ({ }) death ({ 25 }) of ({ }) your ({ 26 }) parents. ({ 27 28 29 30 32 33 34 35 36 }) 
+# Sentence pair (109) source length 24 target length 26 alignment score : 1.95593e-42
+Wachtelová: Spomenuli ste, že základ vašej viery bol silný bez ohľadu na sekularizáciu, ktorá sa neskôr objavila. Ale boli ste veriaci už aj v tom čase? 
+NULL ({ 4 12 15 }) Wachtel: ({ 1 }) You ({ }) mention ({ 2 3 5 6 7 }) that ({ }) this ({ 22 23 24 }) foundation ({ 25 26 }) was ({ }) so ({ }) strong ({ 8 9 10 }) regardless ({ 11 }) of ({ }) the ({ }) secularization ({ }) that ({ }) occurred ({ 21 }) later, ({ }) but ({ }) were ({ 19 }) you ({ 20 }) a ({ }) believer ({ 13 14 16 17 18 }) at ({ }) the ({ }) time? ({ }) 
+# Sentence pair (110) source length 23 target length 19 alignment score : 7.39501e-34
+Možno som mal už niečo po dvadsiatke – teda až do tejto doby som bol rozhodne súčasťou írskeho katolicizmu. 
+NULL ({ 2 14 }) I ({ }) don’t ({ }) know ({ }) what ({ }) I ({ }) believe ({ }) anymore, ({ }) but ({ }) I ({ }) was ({ }) part ({ }) of ({ }) the ({ }) Irish ({ }) Catholic ({ 15 16 }) machinery ({ 1 3 17 18 19 }) until ({ 4 5 }) my ({ }) late ({ }) teens, ({ 6 }) early ({ }) twenties, ({ 7 8 9 10 11 12 }) definitely. ({ 13 }) 
+# Sentence pair (111) source length 15 target length 17 alignment score : 6.65149e-27
+Čo sa týka sviatosti oltárnej a jej premeny, tak tieto veci mi do istej miery nedali spávať. 
+NULL ({ 2 6 }) The ({ 1 }) matter ({ }) of ({ }) the ({ }) sacraments, ({ 5 7 8 9 }) transubstantiation ({ 10 }) for ({ }) example, ({ 11 12 13 }) gave ({ }) me ({ }) trouble ({ }) at ({ }) a ({ }) certain ({ 14 15 }) stage. ({ 3 4 16 17 }) 
+# Sentence pair (112) source length 41 target length 27 alignment score : 4.15132e-43
+Myšlienka, že môžeme prostredníctvom modlitby získať zásluhy pre nás a druhých ľudí, že aj sebaobetovanie má duchovný zmysel. Teda celá táto nadprirodzená ekonomika sa mi veľmi pozdávala. 
+NULL ({ 2 10 13 24 }) But ({ }) the ({ }) idea ({ }) that ({ }) you ({ }) could ({ }) gain ({ }) merit ({ }) through ({ }) a ({ }) system ({ 20 21 22 23 }) of ({ }) grace ({ 25 26 27 }) and ({ }) you ({ }) could ({ }) gain ({ 1 3 4 }) merit ({ }) for ({ }) other ({ }) people, ({ 11 12 }) that ({ 14 }) self-denial ({ 15 16 17 18 }) had ({ }) a ({ }) spiritual ({ 19 }) meaning, ({ }) and ({ }) that ({ }) there ({ }) was ({ }) a ({ }) whole ({ }) supernatural ({ 5 }) economy, ({ 6 7 8 9 }) that ({ }) had ({ }) strong ({ }) appeal ({ }) to ({ }) me. ({ }) 
+# Sentence pair (113) source length 29 target length 30 alignment score : 4.57552e-43
+Samozrejme, že človek stále žije v pochybnostiach ako povedal John Keats, ale môže žiť rovnako v pochybnostiach ako aj vo viere. Myslím si však, že obe možnosti majú svoje úskalia. 
+NULL ({ 2 25 }) Of ({ 1 3 4 5 }) course ({ }) you ({ }) dwell ({ 6 7 }) in ({ }) doubts, ({ }) as ({ 8 }) John ({ 9 10 11 }) Keats ({ 12 13 14 15 }) says, ({ }) and ({ }) you ({ }) can ({ }) dwell ({ 16 17 }) with ({ }) doubts ({ }) as ({ 18 }) well ({ }) as ({ }) with ({ 19 }) beliefs, ({ 20 21 22 23 24 }) but ({ }) I ({ }) think ({ }) that ({ }) all ({ }) that ({ }) was ({ }) shaken. ({ 26 27 28 29 30 }) 
+# Sentence pair (114) source length 17 target length 21 alignment score : 1.64366e-27
+Keď opustíte tu kostolnú atmosféru a zrazu je z vás dospelý človek na univerzite, náhle sa ocitnete na hranici dvoch svetov. 
+NULL ({ 6 13 16 18 }) When ({ 1 }) you ({ }) left ({ }) the ({ }) church ({ 2 3 4 5 }) atmosphere ({ 7 }) and ({ }) grew ({ }) into ({ }) adulthood, ({ 8 }) at ({ }) university, ({ 9 10 }) you ({ }) were ({ }) between ({ }) worlds ({ 11 12 14 15 }) again. ({ 17 19 20 21 }) 
+# Sentence pair (115) source length 27 target length 26 alignment score : 1.79006e-39
+Na jednej strane viete, že patríte do toho katolíckeho, stredovekého sveta s Chaucerom a Dantem. Ale na strane druhej žijete v post-freudovskom a post– lawrenskom svete. 
+NULL ({ 5 17 21 23 }) You ({ }) knew ({ 1 2 }) that ({ }) you ({ }) belonged ({ }) in ({ }) a ({ }) Catholic, ({ 14 }) medieval, ({ }) Chaucerian, ({ 15 }) Dantesque ({ 16 }) world, ({ }) and ({ }) at ({ }) the ({ }) same ({ }) time ({ }) you ({ }) were ({ }) dwelling ({ 18 19 20 }) in ({ }) a ({ }) post-Freudian, ({ 22 24 25 26 }) post–D. ({ }) H. ({ 3 4 6 7 8 9 10 }) Lawrence ({ 11 12 13 }) world. ({ }) 
+# Sentence pair (116) source length 42 target length 38 alignment score : 3.46924e-63
+Jedna časť z vás má skúsenosť s vierovyznaním, so spovedaním sa z hriechov, ktoré sú dôvodom našej nečistoty. Naša druhá časť píše eseje typu D. H. Lawrenca a vyzdvihuje temné božstvá a zmyslové reality života, ktoré Lawrence vyjadroval. 
+NULL ({ 11 28 32 }) One ({ 1 2 3 4 5 6 }) part ({ }) of ({ }) you ({ }) had ({ }) the ({ }) experience ({ }) of ({ }) going ({ }) to ({ }) confession ({ }) and ({ }) confessing ({ 7 8 }) sins ({ 9 10 }) of ({ 12 }) impurity, ({ 13 }) the ({ }) other ({ }) part ({ }) of ({ }) you ({ }) is ({ }) writing ({ }) essays ({ 14 }) about ({ }) Lawrence ({ }) and ({ }) commending ({ }) the ({ }) kind ({ }) of ({ }) dark ({ 29 30 31 }) gods ({ 26 27 }) and ({ }) the ({ }) sensual ({ 33 34 35 }) realities ({ 24 25 36 37 38 }) of ({ }) life ({ }) that ({ }) he ({ }) expressed. ({ 15 16 17 18 19 20 21 22 23 }) 
+# Sentence pair (117) source length 17 target length 13 alignment score : 6.04452e-21
+Wachtelová: Nedá mi neopýtať sa: Povedali ste niekedy svojmu otcovi, že ho milujete? 
+NULL ({ 11 }) Wachtel: ({ 1 }) I ({ }) have ({ 7 }) to ({ }) ask ({ }) you, ({ 8 9 10 12 13 }) did ({ }) you ({ }) ever ({ }) say ({ }) to ({ }) your ({ }) father ({ }) that ({ }) you ({ }) loved ({ 2 3 4 5 6 }) him? ({ }) 
+# Sentence pair (118) source length 7 target length 8 alignment score : 2.06143e-11
+Ako viete, že sa to týkalo môjho otca? 
+NULL ({ 3 4 }) How ({ 1 2 }) do ({ }) you ({ }) know ({ }) that’s ({ 5 }) my ({ }) father? ({ 6 7 8 }) 
+# Sentence pair (119) source length 3 target length 4 alignment score : 4.07999e-06
+(smiech) Wachtelová: Máte pravdu. 
+NULL ({ }) [laughs]Wachtel: ({ 1 2 }) You’re ({ 3 }) right. ({ 4 }) 
+# Sentence pair (120) source length 3 target length 3 alignment score : 0.000422759
+Priznávam svoju vinu. 
+NULL ({ }) Guilty ({ }) as ({ }) charged. ({ 1 2 3 }) 
+# Sentence pair (121) source length 3 target length 3 alignment score : 0.000118685
+Heaney: Nespomínam si. 
+NULL ({ }) Heaney:I ({ }) don’t ({ }) remember. ({ 1 2 3 }) 
+# Sentence pair (122) source length 9 target length 10 alignment score : 1.90811e-13
+Tento druh slovníka by môj otec považoval za veľmi podozrivý. 
+NULL ({ }) That ({ }) kind ({ }) of ({ }) language ({ 1 2 3 }) would ({ }) have ({ }) been ({ 4 5 }) much ({ }) suspect. ({ 6 7 8 9 10 }) 
+# Sentence pair (123) source length 3 target length 6 alignment score : 2.85764e-08
+Vedeli sme, že sa máme radi. 
+NULL ({ }) We ({ }) knew ({ }) love. ({ 1 2 3 4 5 6 }) 
+# Sentence pair (124) source length 7 target length 5 alignment score : 3.18066e-07
+Nemalo zmysel to aj vyhlasovať. 
+NULL ({ }) It ({ }) wasn’t ({ }) a ({ }) matter ({ }) of ({ }) declaring ({ 1 2 3 4 5 }) it. ({ }) 
+# Sentence pair (125) source length 3 target length 6 alignment score : 4.20172e-08
+Stačilo, že sme si lásku dokazovali. 
+NULL ({ }) It ({ }) was ({ }) proven. ({ 1 2 3 4 5 6 }) 
+# Sentence pair (126) source length 15 target length 17 alignment score : 2.97836e-22
+Wachtelová: Z vašich opisov o domove usudzujem, že ste asi nemali k dispozícii veľa podkladov na čítanie. 
+NULL ({ 8 16 }) Wachtel: ({ 1 }) From ({ 2 3 }) your ({ }) descriptions ({ 4 }) of ({ }) home, ({ }) there ({ }) wasn’t ({ }) a ({ }) lot ({ }) of ({ }) reading ({ 5 6 7 }) material ({ 9 10 11 12 }) at ({ }) hand. ({ 13 14 15 17 }) 
+# Sentence pair (127) source length 8 target length 14 alignment score : 1.67216e-24
+Kedy nastal vo vašom živote ten zlom, že ste sa začali zaujímať o poéziu? 
+NULL ({ 8 10 }) When ({ }) did ({ }) you ({ 9 }) first ({ }) become ({ 5 6 7 }) interested ({ 3 4 11 }) in ({ }) poetry? ({ 1 2 12 13 14 }) 
+# Sentence pair (128) source length 4 target length 5 alignment score : 2.11259e-07
+Nie je poézia ako poézia. 
+NULL ({ }) Well, ({ }) poetry ({ }) as ({ }) "poetry. ({ 1 2 3 4 5 }) 
+# Sentence pair (129) source length 7 target length 7 alignment score : 3.09535e-09
+Spočiatku som mal veľmi blízko k recitácii. 
+NULL ({ 2 }) ”Early ({ 1 }) on ({ }) I ({ }) was ({ }) familiar ({ 3 4 5 }) with ({ }) recitation. ({ 6 7 }) 
+# Sentence pair (130) source length 16 target length 19 alignment score : 1.97445e-28
+Ako deti sme si doma robili malé vystúpenia, na ktorých sme recitovali to, čo sme sa naučili v škole. 
+NULL ({ 9 16 18 }) We ({ }) had ({ }) little ({ }) concerts ({ 1 2 3 }) at ({ }) home ({ 4 }) as ({ }) children, ({ 17 19 }) where ({ }) we ({ }) recited ({ }) poems ({ }) we’d ({ 5 6 7 8 }) learned ({ 10 11 12 13 14 15 }) at ({ }) school. ({ }) 
+# Sentence pair (131) source length 35 target length 28 alignment score : 4.94084e-44
+V tom čase nás na Vianoce a na Veľkú noc navštevovali priatelia mojich rodičov, s ktorými sme spievali pesničky. Neskôr, keď som vyrástol, ma požiadali, aby som prednášal. 
+NULL ({ 7 8 22 27 }) Then ({ }) at ({ }) Christmas, ({ }) and ({ }) at ({ }) Easter, ({ 9 10 }) elder ({ 11 12 13 14 15 16 }) friends ({ }) of ({ }) my ({ }) father’s ({ }) and ({ }) mother’s ({ 17 }) would ({ }) be ({ 4 5 6 }) in, ({ 1 2 3 }) and ({ }) there ({ }) would ({ }) be ({ }) sing-songs; ({ 18 19 20 21 }) and ({ }) as ({ }) I ({ }) came ({ }) into ({ }) adolescence ({ 23 24 25 26 }) I ({ }) would ({ }) be ({ }) asked ({ 28 }) to ({ }) do ({ }) a ({ }) recitation. ({ }) 
+# Sentence pair (132) source length 39 target length 33 alignment score : 6.85534e-49
+Vedel som niekoľko básní, ako napríklad Ako zastrelili Dannyho McGrewa, Prekliatie Yukonu, Kremácia Sama McGee od Roberta Service a takisto básne od írskeho autora Percyho Frencha, ktorý písal podobným spôsobom ako Robert Service. 
+NULL ({ 2 19 }) I ({ }) knew ({ }) several, ({ 1 3 4 }) such ({ }) as ({ 5 }) "The ({ }) Shooting ({ 6 7 8 9 10 }) of ({ }) Dan ({ }) McGrew” ({ 11 12 13 14 15 }) from ({ }) Robert ({ }) Service, ({ 16 }) "The ({ }) Spell ({ }) the ({ }) Yukon, ({ 17 18 20 }) ” ({ 21 22 }) "The ({ }) Cremation ({ 23 24 25 26 27 28 }) of ({ }) Sam ({ 30 31 32 33 }) McGee, ({ }) ” ({ }) and ({ }) then ({ }) an ({ }) Irish ({ }) writer ({ }) called ({ }) Percy ({ }) French ({ 29 }) who ({ }) wrote ({ }) that ({ }) kind ({ }) of ({ }) thing ({ }) also. ({ }) 
+# Sentence pair (133) source length 49 target length 48 alignment score : 1.76141e-78
+Predpokladám, že to všetko začalo, keď som nastúpil na strednú školu a začal som sa zoznamovať s anglickou literatúrou ako s predmetom. Čo sa týka jazyka, niečo vo mne ožilo, prebudilo sa, alebo sa pohlo. Spôsobili to najmä spisovatelia ako John Keats, Gerard Manley Hopkins a tak ďalej. 
+NULL ({ 2 9 12 14 15 24 34 46 }) But ({ }) it ({ }) was ({ }) when ({ 6 }) I ({ 7 }) went ({ }) to ({ }) secondary ({ 4 5 8 }) school, ({ 10 11 13 }) I ({ }) suppose, ({ }) and ({ }) began ({ 1 3 37 }) to ({ }) get ({ }) into ({ }) English ({ }) literature ({ 16 }) and ({ }) poetry ({ }) as ({ }) a ({ }) subject, ({ 17 18 19 20 21 }) that ({ }) something ({ }) came ({ }) alive ({ 25 }) in ({ }) me ({ }) to ({ }) the ({ }) language, ({ 26 27 }) something ({ 28 }) wakened ({ 29 30 31 32 }) or ({ 33 }) was ({ }) stirred, ({ 35 36 38 39 }) especially ({ }) by ({ }) poets ({ 22 23 }) like ({ 40 }) John ({ 41 42 }) Keats, ({ }) Gerard ({ }) Manley ({ 43 44 45 47 }) Hopkins, ({ 48 }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (134) source length 16 target length 17 alignment score : 8.59266e-25
+Na vysokej škole tento vedomý pôžitok z jazyka ešte zosilnel, ale pri poézii som bol vždy nesmelý. 
+NULL ({ }) In ({ }) university, ({ }) that ({ }) conscious ({ 1 2 3 4 }) relish ({ 5 6 7 8 }) of ({ }) language ({ }) became ({ }) stronger, ({ 9 10 11 12 13 }) but ({ }) I ({ }) was ({ 14 15 }) always ({ 16 }) shy ({ }) of ({ }) "poetry. ({ 17 }) 
+# Sentence pair (135) source length 7 target length 8 alignment score : 1.32166e-12
+Celkom presne som nevedel, čo to malo znamenať. 
+NULL ({ }) ”I ({ 1 2 3 4 }) didn’t ({ }) quite ({ }) know ({ 5 6 }) what ({ }) it ({ }) was. ({ 7 8 }) 
+# Sentence pair (136) source length 18 target length 16 alignment score : 3.84957e-24
+Mal som však pocit, že je správne byť nesmelým, pretože nikto poriadne nevie, čo poézia znamená. 
+NULL ({ 2 5 }) And ({ }) I ({ }) think ({ }) it ({ }) was ({ }) right ({ }) to ({ }) be ({ }) shy ({ }) of ({ }) it, ({ 1 3 4 }) because ({ }) nobody ({ 6 7 8 9 10 11 }) knows ({ }) quite ({ }) what ({ }) it ({ }) is. ({ 12 13 14 15 16 }) 
+# Sentence pair (137) source length 4 target length 5 alignment score : 2.47622e-07
+Stále si nie som istý. 
+NULL ({ }) I’m ({ }) still ({ }) not ({ }) sure. ({ 1 2 3 4 5 }) 
+# Sentence pair (138) source length 29 target length 34 alignment score : 5.27817e-48
+Písal som si nejaké básne asi ako každý vysokoškolák, ale nebolo to skôr ako v mojich dvadsiatich dvoch alebo dvadsiatich troch rokoch. Písal sa vtedy rok 1962, keď sa vo mne, takpovediac, niečo zlomilo. 
+NULL ({ 15 24 29 }) I ({ }) wrote ({ 3 4 5 6 }) some ({ }) poems ({ 1 2 }) as ({ }) every ({ }) literary ({ }) undergraduate ({ 7 8 9 10 11 13 14 }) does, ({ }) but ({ }) it ({ }) wasn’t ({ 12 }) until ({ }) I ({ }) was ({ }) in ({ }) my ({ }) twenty-second ({ 16 17 18 20 }) or ({ 19 }) twenty- ({ 21 22 23 }) third ({ }) year, ({ 25 26 }) 1962, ({ 27 28 }) that ({ }) "that ({ }) something” ({ 30 31 32 33 }) started ({ }) in ({ }) me. ({ 34 }) 
+# Sentence pair (139) source length 66 target length 61 alignment score : 2.91185e-97
+Hovorím to často, ale môže za to čítanie poézie Patricka Kavanagha, írskeho básnika, s rovnakým pôvodom ako ja. Zrazu som z neho pocítil obrovský príval energie ako aj z Teda Hughesa, ktorý sa opäť dotkol vecí, o ktorých som si myslel, že sú známe len mne, a to napríklad ako mŕtve ošípané ležiace na fúriku, býky v maštali alebo v stodole. 
+NULL ({ 20 33 39 42 47 54 57 60 }) I’ve ({ }) said ({ }) this ({ }) often, ({ 1 2 3 5 6 7 }) but ({ 4 }) it ({ }) came ({ }) from ({ }) reading ({ }) poetry ({ }) by ({ }) Patrick ({ }) Kavanagh, ({ 8 9 10 11 12 13 }) an ({ }) Irish ({ }) poet ({ }) with ({ 14 }) the ({ }) same ({ }) kind ({ }) of ({ }) background ({ 15 16 }) as ({ 17 }) myself, ({ 18 }) a ({ }) wonderful ({ }) sudden ({ }) burst ({ 19 21 22 23 24 25 26 }) of ({ }) energy ({ }) from ({ }) him; ({ 27 }) and ({ }) likewise ({ 30 }) from ({ }) Ted ({ }) Hughes, ({ 31 32 }) who ({ }) again ({ 34 35 36 37 }) touched ({ }) on ({ }) subjects ({ 38 }) that ({ 28 }) I ({ }) thought ({ 29 }) were ({ }) known ({ 40 41 43 44 }) only ({ }) to ({ }) me, ({ }) such ({ }) as ({ }) dead ({ }) pigs ({ 51 }) lying ({ }) in ({ }) barrows, ({ }) and ({ }) bulls ({ 52 53 55 56 58 59 }) in ({ }) outhouses, ({ 61 }) and ({ }) barns ({ 45 46 }) and ({ }) so ({ }) on. ({ 48 49 50 }) 
+# Sentence pair (140) source length 7 target length 7 alignment score : 7.15824e-10
+Bral som to ako oprávnenie k písaniu. 
+NULL ({ }) So ({ }) that ({ }) was, ({ 1 2 }) as ({ }) they ({ }) say, ({ 3 4 }) permission. ({ 5 6 7 }) 
+# Sentence pair (141) source length 24 target length 21 alignment score : 4.51797e-31
+Počas štúdia na Kráľovninej univerzite som bol, ako už iste tušíte, vedený k súčasnej poézii. Čítal som teda Eliota či Audena. 
+NULL ({ 3 17 }) As ({ 1 2 }) an ({ }) undergraduate ({ }) at ({ }) Queen’s ({ }) University, ({ 4 5 6 7 }) of ({ }) course ({ }) I ({ }) had ({ }) been ({ }) lectured ({ }) on ({ }) contemporary ({ }) poetry, ({ }) and ({ }) I ({ }) had ({ }) read ({ }) Eliot, ({ }) I ({ }) had ({ 8 9 }) read ({ 10 11 12 13 14 15 16 }) Auden. ({ 18 19 20 21 }) 
+# Sentence pair (142) source length 15 target length 13 alignment score : 1.10963e-21
+Zabudol som poznamenať, že bežný verš vtedajšej poézie bol mestský, ironický a nestranný. 
+NULL ({ 2 12 }) But ({ }) I ({ }) had ({ }) also ({ 3 4 }) swallowed ({ 5 }) the ({ }) standard ({ }) line ({ }) that ({ }) contemporary ({ }) poetry ({ }) was ({ }) urban, ({ }) ironical, ({ 6 7 8 9 10 }) detached. ({ 1 11 13 }) 
+# Sentence pair (143) source length 29 target length 24 alignment score : 1.17767e-31
+Myslím, že pri básňach od Elliota som mohol byť poslucháčom, ale nespôsobili ani vo mne neprebudili nič zvláštne, tak ako to urobili iné hlasy. 
+NULL ({ 7 20 }) I ({ }) mean, ({ 1 2 }) the ({ }) intonations ({ 3 4 5 6 }) of ({ }) Eliot ({ }) I ({ }) could ({ }) hear ({ }) as ({ }) a ({ }) listener, ({ 8 9 10 }) but ({ 11 }) they ({ }) didn’t ({ }) enter ({ 12 13 }) me ({ }) or ({ }) waken ({ }) anything ({ 14 15 }) in ({ }) me ({ }) in ({ }) the ({ }) way ({ }) these ({ }) other ({ }) voices ({ 16 17 18 19 }) did. ({ 21 22 23 24 }) 
+# Sentence pair (144) source length 15 target length 18 alignment score : 2.06189e-27
+Takže, keď som v roku 1962 začal písať, bol som už presvedčený siahnuť s odhodlaním po niečom väčšom. 
+NULL ({ 3 4 }) So ({ }) once ({ 5 6 7 8 }) I ({ }) started ({ }) in ({ }) 1962, ({ 1 2 }) I ({ }) was ({ 9 10 }) bitten ({ }) and ({ }) kept ({ 11 12 13 14 }) going ({ }) back ({ }) for ({ }) more. ({ 15 16 17 18 }) 
+# Sentence pair (145) source length 52 target length 48 alignment score : 1.40088e-69
+Wachtelová: Keď ste písali počas vysokej školy, bolo to pod pseudonymom Neistý alebo Nerozhodný. A až potom, keď ste sa nejakým spôsobom utvrdili, že môžete veriť svojim vlastným skúsenostiam z vidieckeho života, tak ako ste sám povedali Ted Hughes, Patrick Kavanagh alebo dokonca Robert Frost vám dali povolenie. 
+NULL ({ 9 20 24 }) Wachtel: ({ 1 }) When ({ 2 }) you ({ 3 }) were ({ }) writing ({ }) as ({ }) an ({ }) undergraduate, ({ 4 5 6 7 8 }) you ({ }) went ({ }) under ({ }) the ({ }) name ({ 10 11 }) of ({ }) Incertus ({ 12 }) or ({ 13 }) Uncertain, ({ 14 15 16 17 }) and ({ }) then ({ }) when ({ 18 }) you ({ 19 }) got ({ }) this ({ }) kind ({ }) of ({ }) affirmation ({ 21 22 23 }) to ({ }) trust ({ 25 26 27 28 29 }) your ({ }) own ({ }) experience ({ 44 45 }) of ({ 30 }) rural ({ }) life ({ }) through, ({ 31 32 33 }) as ({ 34 }) you ({ 35 }) say, ({ }) Ted ({ 36 }) Hughes ({ 37 38 39 40 }) or ({ }) Patrick ({ 41 42 }) Kavanagh ({ 43 46 47 48 }) or ({ }) even ({ }) Robert ({ }) Frost, ({ }) it ({ }) gave ({ }) you ({ }) this ({ }) permission. ({ }) 
+# Sentence pair (146) source length 32 target length 32 alignment score : 8.23507e-55
+Spomenuli ste však, že žiadne miesto na celom svete sa nemôže viac pýšiť svojou ostražitosťou a realistickým prístupom ako práve Severné Írsko. Mňa zaujíma ako, vás táto skutočnosť ovplyvnila pri vašej práci. 
+NULL ({ 4 7 10 16 19 }) But ({ }) you ({ }) say ({ 1 2 }) that ({ }) no ({ 30 31 }) place ({ }) in ({ }) the ({ }) world ({ }) prides ({ 32 }) itself ({ 20 21 22 }) more ({ }) on ({ }) its ({ }) vigilance ({ 11 }) and ({ }) realism ({ 12 13 14 15 17 18 }) than ({ }) Northern ({ }) Ireland, ({ }) and ({ }) I ({ }) wondered ({ }) how ({ }) you ({ }) felt ({ 3 5 6 8 9 }) that ({ }) influence ({ }) on ({ }) your ({ }) own ({ }) work. ({ 23 24 25 26 27 28 29 }) 
+# Sentence pair (147) source length 10 target length 7 alignment score : 1.19367e-09
+Heaney:Toto by bolo veľmi náročné na rozoberanie. 
+NULL ({ 6 }) Heaney:It ({ 1 2 3 }) would ({ }) be ({ }) very ({ }) hard ({ }) for ({ }) me ({ }) to ({ }) analyze ({ 4 5 7 }) that. ({ }) 
+# Sentence pair (148) source length 23 target length 20 alignment score : 4.41453e-31
+Ja osobne si myslím, že som sám opatrný a tiež trochu skeptický. Dúfam však, že je to súčasť mojej povahy. 
+NULL ({ 5 6 9 15 }) I ({ }) take ({ }) it ({ }) that ({ }) I ({ }) am ({ 3 }) vigilant ({ 7 }) myself ({ }) and ({ }) a ({ }) bit ({ }) skeptical, ({ 8 }) and ({ }) I ({ }) hope ({ 10 11 }) merrily ({ 1 2 4 }) so, ({ 12 13 14 }) so ({ }) that’s ({ 16 17 }) part ({ }) of ({ }) the ({ }) makeup. ({ 18 19 20 }) 
+# Sentence pair (149) source length 12 target length 17 alignment score : 1.99425e-24
+Avšak dôležité je pripustiť sebe samému, že priblížiť sa k týmto vlastnostiam sa dá aj prostredníctvom činov. 
+NULL ({ 7 9 13 }) And ({ }) allowing ({ 1 2 3 4 5 6 }) yourself ({ }) to ({ }) get ({ }) through ({ 8 10 11 12 14 }) that ({ }) is ({ }) part ({ }) of ({ }) the ({ }) action. ({ 15 16 17 }) 
+# Sentence pair (150) source length 16 target length 16 alignment score : 1.28385e-20
+Myslím si, že zabúdanie na svoju prítomnosť, sebanadchýnanie je súčasťou činu - písania, samozrejme písania veršov. 
+NULL ({ 3 5 }) I ({ }) think ({ }) that ({ }) self-forgetfulness, ({ 1 2 4 }) self-entrancement, ({ 6 7 8 }) is ({ 9 }) part ({ }) of ({ }) the ({ }) action ({ 10 11 12 }) of ({ }) writing, ({ 13 }) certainly ({ }) of ({ }) writing ({ }) verse. ({ 14 15 16 }) 
+# Sentence pair (151) source length 24 target length 27 alignment score : 5.82165e-36
+Vo svojom vnútri, zotrvávať v tichu pri nejakej činnosti vo svojom vnútri, zabudnúť na to, že sme súčasťou práve daného momentu, tomu sa hovorí úspech, splnené prianie. 
+NULL ({ 5 14 16 23 }) To ({ 1 2 3 4 }) dwell ({ }) silently ({ 6 7 8 9 }) on ({ }) something ({ 10 }) within ({ 11 12 13 }) yourself, ({ 15 }) to ({ }) forget ({ }) that ({ }) you ({ }) are ({ }) there ({ }) watching ({ 17 18 19 }) yourself ({ }) in ({ }) action, ({ 20 }) that’s ({ }) the ({ }) achievement ({ 21 }) and ({ }) that’s ({ }) the ({ }) desire. ({ 22 24 25 26 27 }) 
+# Sentence pair (152) source length 16 target length 9 alignment score : 1.50108e-13
+Dnes naozaj veľa ľudí prežíva svoje zážitky pred obrazovkou. 
+NULL ({ }) And ({ }) I ({ }) think ({ }) nowadays ({ 1 }) a ({ }) lot ({ }) of ({ }) people ({ 2 3 4 }) really ({ }) experience ({ }) that ({ }) in ({ }) front ({ 5 6 7 8 }) of ({ }) a ({ }) screen. ({ 9 }) 
+# Sentence pair (153) source length 7 target length 7 alignment score : 6.4559e-11
+Počítač sa stal naším prostriedkom na uchvátenie. 
+NULL ({ 2 }) A ({ }) computer ({ }) screen ({ }) is ({ }) an ({ }) entrancement ({ }) device. ({ 1 3 4 5 6 7 }) 
+# Sentence pair (154) source length 7 target length 8 alignment score : 2.52024e-14
+Sivá žiara sa do istej miery stala hypnotizujúca. 
+NULL ({ 3 }) It’s ({ }) kind ({ }) of ({ }) hypnotic, ({ 5 }) that ({ }) grey ({ }) glow. ({ 1 2 4 6 7 8 }) 
+# Sentence pair (155) source length 9 target length 10 alignment score : 1.90376e-16
+Nikdy by som nezačínal s písaním svojich básní na počítači. 
+NULL ({ 9 }) Not ({ }) that ({ }) I ({ 3 }) would ({ }) begin ({ 4 5 6 7 8 }) poems ({ }) on ({ }) the ({ }) screen. ({ 1 2 10 }) 
+# Sentence pair (156) source length 12 target length 8 alignment score : 1.9561e-14
+Som skôr prepojený s rukoväťou môjho plniaceho pera. 
+NULL ({ }) I ({ }) have ({ }) a ({ }) connection ({ }) to ({ }) the ({ }) shaft ({ }) of ({ }) the ({ }) fountain ({ }) pen ({ 3 4 5 6 }) still. ({ 1 2 7 8 }) 
+# Sentence pair (157) source length 34 target length 35 alignment score : 9.30632e-56
+Rád totiž začínam písať na hárok bieleho papiera so žiarivým atramentom a až potom si užívam to zadosťučinenie pri prepisovaní svojich veršov do počítača. Nakoniec vytvorím ich trvalý záznam, ale neprestávam sa s nimi pohrávať. 
+NULL ({ 5 12 17 }) I ({ }) like ({ }) to ({ }) get ({ }) started ({ }) on ({ }) white ({ }) paper ({ 1 2 }) with ({ }) ink ({ 3 4 6 }) gleaming, ({ 7 }) and ({ }) then ({ }) I ({ }) like ({ }) the ({ }) reward ({ 8 9 }) of ({ }) putting ({ }) it ({ }) out ({ }) onto ({ }) the ({ }) screen ({ }) and ({ }) then ({ }) hard ({ 10 11 }) copy ({ 28 29 30 31 32 33 34 35 }) and ({ }) then ({ 13 14 15 16 26 27 }) fiddle ({ 18 19 20 21 22 23 24 25 }) away ({ }) with ({ }) that. ({ }) 
+# Sentence pair (158) source length 25 target length 22 alignment score : 5.26912e-33
+Wachtelová: Istý čas ste boli súčasťou literárneho sveta v Severnom Írsku. V rokoch šesťdesiatych a sedemdesiatych v ňom mala poézia isté miesto. 
+NULL ({ 9 15 17 }) Wachtel: ({ 1 }) You ({ }) were ({ 5 }) part ({ 6 }) of ({ }) a ({ }) literary ({ 2 3 4 }) world ({ }) in ({ }) Northern ({ }) Ireland ({ }) for ({ }) a ({ }) while; ({ 7 8 10 }) there ({ }) was ({ }) a ({ }) certain ({ }) poetry ({ }) scene ({ }) in ({ }) the ({ }) 1960s ({ 11 12 13 14 }) and ({ }) 1970s. ({ 16 18 19 20 21 22 }) 
+# Sentence pair (159) source length 8 target length 7 alignment score : 5.49197e-10
+Potom ste na rok odišli do Kalifornie. 
+NULL ({ 3 }) Then ({ 1 }) you ({ 2 }) went ({ }) to ({ }) California ({ }) for ({ }) a ({ }) year. ({ 4 5 6 7 }) 
+# Sentence pair (160) source length 22 target length 22 alignment score : 4.25817e-29
+A keď ste sa vrátili naspäť do Severného Írska, vzdali ste sa vyučovania a presťahovali ste sa na juh do Írskej republiky. 
+NULL ({ 4 14 18 }) But ({ }) when ({ }) you ({ }) came ({ }) back ({ }) to ({ }) Northern ({ }) Ireland, ({ 1 2 }) you ({ 3 }) gave ({ 5 6 7 }) up ({ }) teaching ({ 8 9 10 }) and ({ }) moved ({ 11 12 13 15 16 17 }) to ({ }) the ({ }) south, ({ }) to ({ }) the ({ }) Republic ({ }) of ({ }) Ireland. ({ 19 20 21 22 }) 
+# Sentence pair (161) source length 8 target length 10 alignment score : 2.0622e-16
+Objavilo sa to na titulnej strane novín The Irish Times. 
+NULL ({ 2 3 4 }) It ({ }) made ({ }) front-page ({ }) news ({ }) in ({ }) The ({ }) Irish ({ }) Times. ({ 1 5 6 7 8 9 10 }) 
+# Sentence pair (162) source length 6 target length 9 alignment score : 3.96422e-12
+Čo vás dohnalo v roku 1972 k tomuto kroku? 
+NULL ({ 4 }) What ({ 1 }) prompted ({ 2 3 }) this ({ }) move ({ }) in ({ }) 1972? ({ 5 6 7 8 9 }) 
+# Sentence pair (163) source length 1 target length 1 alignment score : 0.0701832
+Heaney: 
+NULL ({ }) Heaney: ({ 1 }) 
+# Sentence pair (164) source length 16 target length 13 alignment score : 4.48251e-19
+Rok, ktorý som strávil v Kalifornii, znamenal pre mňa veľa. To musím priznať. 
+NULL ({ 3 5 }) I ({ }) had ({ }) a ({ }) year ({ 1 2 }) in ({ }) California ({ }) that ({ }) meant ({ }) a ({ }) lot ({ }) to ({ }) me, ({ 4 6 7 8 }) I ({ }) have ({ }) to ({ }) say. ({ 9 10 11 12 13 }) 
+# Sentence pair (165) source length 18 target length 14 alignment score : 3.72118e-24
+Písal sa rok 1970, 1971, keď práve zúrila Vietnamská vojna, jednoducho stred konktrakultúrneho momentu. 
+NULL ({ 2 }) That ({ }) was ({ }) 1970, ({ }) 1971, ({ 5 6 7 8 9 10 }) right ({ }) in ({ }) the ({ }) middle ({ }) of ({ }) the ({ }) Vietnam ({ }) War, ({ }) the ({ }) middle ({ 11 12 }) of ({ }) the ({ }) countercultural ({ }) moment. ({ 1 3 4 13 14 }) 
+# Sentence pair (166) source length 2 target length 2 alignment score : 0.00733697
+Hrôzostrašné protesty. 
+NULL ({ }) Terrific ({ 1 }) protests. ({ 2 }) 
+# Sentence pair (167) source length 11 target length 7 alignment score : 3.46151e-11
+Celé územie zálivu bolo skutočne konktrakultúrnou oblasťou. 
+NULL ({ }) The ({ }) whole ({ }) of ({ }) that ({ }) Bay ({ }) area ({ }) was ({ }) really ({ }) a ({ }) countercultural ({ }) area. ({ 1 2 3 4 5 6 7 }) 
+# Sentence pair (168) source length 20 target length 21 alignment score : 3.85613e-33
+Len si zoberte také gangy ako Čierni panteri či Hare Krishna, a už vôbec nehovoriac o voľných odevoch či nelegálnych látkach. 
+NULL ({ 6 12 }) You ({ }) had ({ }) the ({ }) Black ({ 9 10 11 13 14 }) Panthers, ({ 7 }) you ({ }) had ({ }) the ({ }) Hare ({ }) Krishna, ({ 8 }) you ({ }) had ({ }) the ({ }) loose ({ }) garments, ({ 15 16 }) you ({ }) had ({ }) the ({ }) illegal ({ 17 18 19 20 21 }) substances. ({ 1 2 3 4 5 }) 
+# Sentence pair (169) source length 17 target length 14 alignment score : 2.86231e-24
+V areáli univerzity ste sa mohli stretnúť so všetkými druhmi vôní, rétoriky a protestov. 
+NULL ({ 5 13 }) You ({ }) had ({ }) all ({ }) kinds ({ }) of ({ }) fragrances ({ 11 12 14 }) on ({ }) that ({ }) campus, ({ }) all ({ }) kinds ({ 6 }) of ({ }) rhetoric, ({ 7 8 9 10 }) all ({ }) kinds ({ }) of ({ }) protest. ({ 1 2 3 4 }) 
+# Sentence pair (170) source length 7 target length 5 alignment score : 5.70285e-07
+Básnici boli toho všetkého súčasťou. 
+NULL ({ }) And ({ }) the ({ }) poets ({ }) were ({ }) very ({ }) much ({ }) involved. ({ 1 2 3 4 5 }) 
+# Sentence pair (171) source length 23 target length 35 alignment score : 5.28316e-57
+Veď rok, ktorý som tu strávil, mi boli Robert, mám na mysli Roberta Duncana, a taktiež Gary Snyder na blízku. V tom čase žili konkrétne v meste Inverness, ktoré sa nachádza niečo severne od Berkeley. 
+NULL ({ 11 15 19 26 30 }) The ({ }) year ({ }) I ({ 4 }) was ({ }) there, ({ }) Robert ({ }) Bly ({ 5 6 }) was ({ }) up ({ }) in ({ }) Inverness, ({ 7 }) just ({ }) a ({ }) little ({ }) north ({ 25 27 28 29 }) of ({ }) Berkeley; ({ }) Gary ({ }) Snyder ({ 17 18 20 21 22 23 24 }) was ({ }) there, ({ 8 9 10 }) Robert ({ 12 13 14 16 }) Duncan. ({ 1 2 3 31 32 33 34 35 }) 
+# Sentence pair (172) source length 45 target length 40 alignment score : 8.16464e-62
+Keď som sa vrátil do Belfastu, bol som utvrdený v myšlienke, že sa môžem vrátiť späť na katedru angličtiny, pretože posledné slová z úst vedúceho katedry boli: "Ak kedykoľvek budete potrebovať vrátiť sa, u nás budete mať dvere vždy otvorené." 
+NULL ({ 2 10 12 13 17 29 }) When ({ 1 }) I ({ }) came ({ }) back ({ 3 4 5 }) to ({ }) Belfast, ({ 6 }) I ({ }) was ({ 7 8 }) first ({ }) of ({ }) all ({ }) fortified ({ 9 }) in ({ }) the ({ }) knowledge ({ 11 14 }) that ({ }) I ({ }) could ({ }) go ({ }) back ({ }) to ({ }) the ({ }) English ({ 15 }) department, ({ 16 18 }) because ({ 19 20 }) the ({ }) last ({ }) thing ({ }) the ({ }) chairman ({ 21 22 23 24 }) said ({ }) to ({ }) me ({ }) was, ({ }) "If ({ 25 26 }) you ({ }) ever ({ }) need ({ }) to ({ }) come ({ 27 28 38 39 }) back, ({ }) you’d ({ }) be ({ }) very ({ }) welcome. ({ 30 31 32 33 34 35 36 37 40 }) 
+# Sentence pair (173) source length 21 target length 16 alignment score : 4.61487e-24
+Bol to akýsi záchytný bod, ale v tom roku vo mne rástla aj vnútorná potreba poslania. 
+NULL ({ 7 }) ”There ({ 1 2 3 4 5 }) was ({ }) that ({ }) security ({ 14 15 16 }) blanket, ({ 6 }) and ({ }) then ({ }) there ({ }) was ({ }) a ({ }) feeling ({ }) of ({ }) vocation ({ 8 9 10 11 }) that ({ }) had ({ }) grown ({ }) in ({ }) me ({ }) during ({ 12 }) that ({ 13 }) year. ({ }) 
+# Sentence pair (174) source length 28 target length 28 alignment score : 1.60242e-41
+Tým mám na mysli činnosti ako vyučovať na Kráľovninej univerzite v spomínanom Belfaste, dokončiť moju tretiu knihu ako aj pocit, že nastal čas osvedčiť sa aj ako spisovateľ. 
+NULL ({ 3 8 11 21 25 }) I ({ }) taught ({ 4 5 6 7 }) for ({ }) another ({ }) year ({ }) in ({ }) Queen’s ({ 9 10 }) University ({ 12 13 }) and ({ }) finished ({ 1 2 }) my ({ }) third ({ }) book, ({ 14 15 16 17 }) and ({ }) I ({ }) got ({ }) a ({ }) feeling ({ 18 }) that ({ }) it ({ }) was ({ }) time ({ }) to ({ }) declare ({ 19 20 22 23 24 26 }) myself ({ }) as ({ }) a ({ }) writer. ({ 27 28 }) 
+# Sentence pair (175) source length 7 target length 7 alignment score : 1.3225e-11
+Cítil som, že musím ísť do toho. 
+NULL ({ 3 }) So ({ }) I ({ }) thought, ({ 1 2 4 5 6 }) okay, ({ }) go ({ }) for ({ }) it. ({ 7 }) 
+# Sentence pair (176) source length 17 target length 10 alignment score : 8.51636e-16
+Odísť do Írskej republiky však nebola bezprostredná myšlienka jednej noci. 
+NULL ({ }) But ({ }) there ({ }) was ({ }) no ({ }) immediate ({ 5 6 7 }) plan ({ 8 9 10 }) at ({ }) all ({ }) that ({ }) we ({ }) would ({ }) go ({ }) to ({ }) the ({ }) Republic ({ 1 2 3 4 }) of ({ }) Ireland. ({ }) 
+# Sentence pair (177) source length 20 target length 19 alignment score : 2.63914e-33
+V lete 1972 sme spolu s Mary jazdili po severe a obzerali sme si okresy Derry, Tyrone a Antrim. 
+NULL ({ 11 18 }) That ({ }) early ({ }) summer ({ 8 9 10 12 13 14 }) of ({ }) 1972, ({ }) Marie ({ 6 7 }) and ({ }) I ({ }) were ({ }) driving ({ 15 16 17 19 }) around ({ }) the ({ }) north—County ({ }) Derry, ({ }) County ({ }) Tyrone, ({ }) County ({ }) Antrim—looking ({ 2 3 4 5 }) at ({ }) places. ({ 1 }) 
+# Sentence pair (178) source length 25 target length 22 alignment score : 9.75413e-31
+Z Kanady sme následne obdržali list od našej drahej priateľky Anny Saddlemyerovej vyučujúcej na Masseyskej vysokej škole, ktorá je súčasťou Torontskej univerzity. 
+NULL ({ 14 }) Then ({ }) from ({ }) Canada, ({ 1 2 3 }) we ({ }) got ({ }) a ({ }) letter ({ 4 5 6 }) from ({ 7 }) our ({ }) dear ({ }) friend ({ 8 9 10 11 }) Ann ({ }) Saddlemyer, ({ }) who ({ }) was ({ }) then ({ }) teaching ({ }) in ({ }) the ({ }) University ({ }) of ({ }) Toronto ({ }) at ({ }) Massey ({ 12 13 15 16 17 }) College. ({ 18 19 20 21 22 }) 
+# Sentence pair (179) source length 13 target length 12 alignment score : 1.03473e-17
+Ann vlastnila vidiecky dom v Írsku v okrese Wicklow južne od Dublinu. 
+NULL ({ 5 7 }) She ({ 1 2 3 4 }) had ({ }) this ({ }) cottage ({ }) in ({ }) County ({ }) Wicklow ({ }) in ({ }) the ({ }) Republic, ({ 6 8 9 10 }) south ({ }) of ({ }) Dublin. ({ 11 12 }) 
+# Sentence pair (180) source length 15 target length 20 alignment score : 1.32286e-34
+Dom bol súčasťou starého pozemku spisovateľa Johna Millingtona Synga. Ann bola jeho študentkou a okrem toho vydávala aj jeho knihy. 
+NULL ({ 14 }) It ({ }) was ({ }) on ({ }) the ({ }) old ({ 13 15 16 17 }) Synge ({ }) estate—Ann ({ }) was ({ }) a ({ }) scholar ({ }) of ({ }) Synge’s ({ 5 6 7 8 9 10 11 12 }) work, ({ }) an ({ }) editor. ({ 1 2 3 4 18 19 20 }) 
+# Sentence pair (181) source length 22 target length 21 alignment score : 1.23979e-32
+Napísala: "Donieslo sa ku mne, že zamýšľate na istý čas odísť z akadémie a taktiež, že sa obzeráte po nejakom dome. 
+NULL ({ 3 6 8 14 16 17 }) She ({ }) wrote, ({ }) "I ({ 1 2 4 5 }) heard ({ 7 9 10 11 12 13 }) on ({ }) the ({ }) grapevine ({ }) that ({ }) you’re ({ 15 }) thinking ({ }) of ({ }) leaving ({ }) the ({ }) academy ({ }) for ({ }) a ({ }) while ({ }) and ({ }) looking ({ 18 19 20 21 }) for ({ }) a ({ }) house. ({ }) 
+# Sentence pair (182) source length 7 target length 7 alignment score : 7.83121e-13
+Mám stále ten dom v okrese Wicklow." 
+NULL ({ 5 }) I’ve ({ }) got ({ }) this ({ }) cottage ({ 4 }) in ({ }) County ({ }) Wicklow. ({ 1 2 3 6 7 }) 
+# Sentence pair (183) source length 24 target length 17 alignment score : 7.47437e-27
+Na Veľkú noc sme sa tam šli s Mary a deťmi pozrieť a rozhodli sme tam presťahovať. 
+NULL ({ 5 }) So ({ 1 }) at ({ }) Easter, ({ 2 3 }) Marie ({ }) and ({ }) I ({ }) and ({ }) the ({ }) kids ({ 7 8 9 }) went ({ }) down ({ }) to ({ }) that ({ }) cottage ({ }) and ({ }) we ({ }) decided, ({ 10 }) yes, ({ 11 12 13 14 }) let’s ({ 4 6 15 16 17 }) make ({ }) a ({ }) go ({ }) of ({ }) it. ({ }) 
+# Sentence pair (184) source length 46 target length 38 alignment score : 5.33929e-64
+Rezignoval som. Na konci augusta sme osedlali kone, naložili dodávku a vydali sme sa na cestu do domu v meste Glanmore, kde sme strávili celé štyri roky. Nevrátili sme sa ani Kráľovninu univerzitu, a ani naspäť na sever. 
+NULL ({ 11 14 15 19 30 34 37 }) I ({ }) gave ({ }) in ({ }) my ({ }) resignation, ({ 1 2 }) and ({ }) in ({ }) the ({ }) month ({ }) of ({ }) August ({ 3 4 5 12 }) we ({ }) saddled ({ 7 8 9 10 }) up, ({ }) filled ({ }) a ({ }) van, ({ 21 }) and ({ }) went ({ 22 }) down ({ }) to ({ }) the ({ }) Glanmore ({ }) cottage, ({ }) stayed ({ 26 27 28 }) there ({ }) for ({ }) four ({ }) years, ({ 29 }) and ({ }) didn’t ({ 31 }) go ({ }) back ({ }) to ({ }) Queen’s, ({ 32 33 36 38 }) didn’t ({ 35 }) go ({ 16 17 18 }) back ({ }) to ({ }) the ({ }) north ({ 20 }) to ({ }) dwell ({ }) there ({ }) at ({ }) all. ({ 6 13 23 24 25 }) 
+# Sentence pair (185) source length 20 target length 12 alignment score : 2.5029e-19
+Bola to pozitívna spleť Anninej dobročinnosti a pozitívneho rozvoja v našich životoch. 
+NULL ({ 7 10 }) So ({ }) it ({ }) was ({ }) a ({ }) happy ({ }) mixture ({ 3 4 }) of ({ }) Ann’s ({ }) philanthropy, ({ }) as ({ }) it ({ }) were, ({ 5 6 }) and ({ }) the ({ }) growth ({ 8 9 }) point ({ }) in ({ }) our ({ }) own ({ }) lives. ({ 1 2 11 12 }) 
+# Sentence pair (186) source length 16 target length 14 alignment score : 1.35809e-19
+Wachtelová: V okamihu, keď ste sa presťahovali, zmenilo to váš pohľad na politickú situáciu? 
+NULL ({ 6 12 }) Wachtel: ({ 1 }) Once ({ 2 3 4 }) you ({ }) did ({ }) make ({ }) the ({ }) move, ({ }) did ({ }) it ({ }) change ({ }) how ({ }) you ({ 5 }) saw ({ 7 8 9 10 }) the ({ }) political ({ }) situation? ({ 11 13 14 }) 
+# Sentence pair (187) source length 13 target length 11 alignment score : 7.18385e-18
+Aký dopad malo presťahovanie sa do Írskej republiky na vašu rodinu? 
+NULL ({ 5 9 }) What ({ }) effect ({ }) did ({ }) it ({ }) have ({ }) on ({ }) your ({ }) family, ({ 6 7 8 }) to ({ }) move ({ }) to ({ }) the ({ }) Republic? ({ 1 2 3 4 10 11 }) 
+# Sentence pair (188) source length 16 target length 12 alignment score : 6.92365e-18
+Heaney: Nemyslím si, že sťahovanie nejakým spôsobom ovplyvnilo môj pohľad na politiku. 
+NULL ({ 4 11 }) Heaney:I ({ 1 }) don’t ({ 2 3 }) think ({ }) it ({ }) had ({ }) very ({ }) much ({ }) effect ({ }) in ({ }) terms ({ }) of ({ }) politics ({ 5 6 7 8 }) or ({ }) anything ({ }) like ({ }) that. ({ 9 10 12 }) 
+# Sentence pair (189) source length 16 target length 14 alignment score : 1.9951e-22
+Mám dojem, že keby som zostal na severe, môj názor by sa nijako nezmenil. 
+NULL ({ 3 7 12 }) I ({ }) mean, ({ }) if ({ }) I ({ }) had ({ }) been ({ }) in ({ }) the ({ }) north, ({ 4 5 }) my ({ }) attitude ({ 6 8 }) would ({ }) have ({ }) been ({ 9 10 11 }) the ({ }) same. ({ 1 2 13 14 }) 
+# Sentence pair (190) source length 38 target length 41 alignment score : 4.06637e-54
+Chcel som, aby moje deti naozaj zažili detstvo, aké som mal ja. Mám na mysli, aby pri vyrastaní mali taký istý pocit dospievania za živým plotom, aby kdekoľvek padne ich zrak, mali neustále na očiach vtáčie hniezda, lístie, kvety a podobne. 
+NULL ({ 10 14 34 40 }) I ({ }) wanted ({ }) the ({ }) kids, ({ 1 2 3 4 5 }) really, ({ }) to ({ }) have ({ }) the ({ }) kind ({ }) of ({ }) childhood ({ }) I’d ({ }) had, ({ 6 }) I ({ }) suppose; ({ 7 8 9 }) to ({ }) share ({ }) the ({ }) feeling ({ }) of ({ }) growing ({ }) up ({ }) behind ({ 11 12 13 }) hedges ({ 15 16 17 }) and ({ }) having ({ 18 19 20 }) eye-level ({ 21 22 23 24 }) contact ({ 25 26 27 }) with ({ }) bird’s ({ 28 29 }) nests ({ 30 31 32 }) and ({ }) leaves ({ 33 }) and ({ }) flowers ({ 35 36 37 38 39 41 }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (191) source length 31 target length 27 alignment score : 3.7378e-38
+Niečo hlboko v mojom vnútri si vychutnávalo skromný život vo vidieckom domčeku, ktorý bol súčasťou môjho predošlého života, nemalo to však nič spoločné s clivosťou za domovom. 
+NULL ({ 3 20 }) And ({ }) there ({ }) was ({ }) something ({ 1 2 }) in ({ }) myself ({ }) that ({ }) relished ({ 4 5 6 7 }) the ({ }) frugality ({ 8 }) of ({ }) life ({ }) in ({ }) the ({ }) cottage, ({ 9 10 11 12 13 }) something ({ }) that ({ }) belonged ({ }) in ({ }) my ({ }) first ({ }) life, ({ }) but ({ }) it ({ }) wasn’t ({ }) a ({ }) matter ({ 14 15 }) of ({ }) fleeing ({ 16 17 18 19 }) the ({ }) north. ({ 21 22 23 24 25 26 27 }) 
+# Sentence pair (192) source length 19 target length 24 alignment score : 6.74937e-34
+Nažívali sme si s rovnakou ľahkosťou ako v Belfaste, presne ako v rokoch, keď došlo ku konfliktu známym pod menom Konflikty v Severnom Írsku. 
+NULL ({ 12 22 }) We ({ 1 2 3 }) lived ({ 4 5 6 }) as ({ 7 }) easily ({ }) in ({ }) Belfast ({ 8 9 10 }) as ({ 11 }) ever ({ }) we ({ }) had ({ }) lived ({ }) in ({ }) the ({ }) years ({ }) leading ({ 13 14 15 16 17 18 19 20 }) up ({ }) to ({ }) the ({ }) Troubles. ({ 21 23 24 }) 
+# Sentence pair (193) source length 22 target length 23 alignment score : 4.4476e-40
+Nešlo o pocit strachu či o vysilenie z daného miesta, ale ani o to, že by sa nás čas na predchádzajúcom mieste naplnil. 
+NULL ({ 15 17 20 }) It ({ }) wasn’t ({ }) a ({ }) matter ({ }) of ({ }) feeling ({ }) scared ({ 6 7 8 }) or ({ }) being ({ }) hunted ({ 4 5 }) out ({ }) of ({ }) the ({ }) place ({ }) or ({ }) shaking ({ 9 10 11 12 }) the ({ }) dust ({ 13 }) of ({ }) the ({ }) place ({ 14 16 18 }) off. ({ 1 2 3 19 21 22 23 }) 
+# Sentence pair (194) source length 19 target length 13 alignment score : 1.06667e-21
+Predovšetkým malo ísť o voľbu, slobodu, možnosť výberu a o prijate niečoho iného. 
+NULL ({ 9 }) It ({ }) was ({ }) very ({ }) much ({ }) to ({ }) do ({ }) with ({ }) the ({ }) option ({ }) and ({ }) the ({ }) freedom ({ 4 }) of ({ }) making ({ }) a ({ }) choice, ({ 5 6 7 8 }) embracing ({ 10 }) something ({ }) different. ({ 1 2 3 11 12 13 }) 
+# Sentence pair (195) source length 11 target length 11 alignment score : 2.02133e-15
+V istom zmysle išlo o prvú voľbu, ktorú som urobil zámerne. 
+NULL ({ 9 }) In ({ 1 }) a ({ }) sense, ({ 2 3 4 }) it ({ }) was ({ }) the ({ }) first ({ }) choice ({ 5 6 7 8 }) I ({ }) deliberately ({ }) made. ({ 10 11 }) 
+# Sentence pair (196) source length 14 target length 15 alignment score : 5.48551e-21
+Vždy hovorím, že ja a Mary sme boli súčasťou generácie, ktorá mala dočinenia so štipendiom. 
+NULL ({ 3 5 }) I’ve ({ 1 2 4 }) often ({ }) said ({ }) that ({ }) Marie ({ 6 7 }) and ({ }) I, ({ }) we ({ }) were ({ 8 }) part ({ 9 }) of ({ }) the ({ }) scholarship ({ }) generation. ({ 10 11 12 13 14 15 }) 
+# Sentence pair (197) source length 47 target length 45 alignment score : 3.92387e-84
+Dostávali sme ho najskôr na strednej škole, potom na univerzite a nakoniec sme dostávali štipendium aj pri vykonávaní praxe. Neskôr sme začali učiť, zasnúbili sme sa, zobrali sme si hypotéku, postavili sme si dom a pomerne mladí sme si založili rodinu. Takto plynul náš život. 
+NULL ({ 5 9 11 35 }) We ({ }) got ({ }) the ({ }) scholarship ({ }) to ({ }) secondary ({ }) school, ({ }) we ({ }) got ({ }) the ({ }) scholarship ({ }) to ({ }) the ({ }) university, ({ }) we ({ 2 }) got ({ 7 8 10 }) the ({ }) scholarship ({ 12 14 15 16 17 18 19 }) to ({ }) the ({ }) teaching ({ }) training ({ 4 }) college, ({ 3 6 20 }) we ({ 13 }) went ({ }) into ({ }) teaching, ({ 1 42 43 44 45 }) we ({ 21 }) got ({ }) engaged, ({ 22 23 24 }) we ({ 25 }) got ({ }) the ({ }) mortgage, ({ 26 }) we ({ }) got ({ }) the ({ }) house, ({ 27 30 31 }) we ({ 28 29 }) got ({ }) the ({ }) young ({ }) family, ({ }) and ({ }) there ({ }) we ({ 32 33 }) were. ({ 34 36 37 38 39 40 41 }) 
+# Sentence pair (198) source length 19 target length 24 alignment score : 1.07365e-32
+Až Kalifornia bola akýmsi vybočením z tej pravidelnej čiary života, ktorý sme viedli. Keď sme sa vrátili späť, odbočili sme od nej ešte viac. 
+NULL ({ 16 }) California ({ 1 }) was ({ }) the ({ }) first ({ }) step ({ 2 3 4 }) off ({ 5 6 7 8 }) the ({ }) conveyor ({ 9 10 11 }) belt, ({ }) and ({ }) when ({ }) we ({ 12 }) came ({ }) back ({ }) we ({ }) stepped ({ 13 14 15 17 18 19 20 21 }) farther ({ 22 23 24 }) off ({ }) it. ({ }) 
+# Sentence pair (199) source length 5 target length 4 alignment score : 3.08265e-05
+To bola tá sloboda. 
+NULL ({ }) So ({ }) that ({ }) was ({ }) a ({ }) freedom. ({ 1 2 3 4 }) 
+# Sentence pair (200) source length 21 target length 22 alignment score : 3.5187e-34
+Wachtelová: V niektorých vašich dielach sa vyskytujú odkazy na spomínané Konflikty v Severnom Írsku, i keď nie často v zmysle hlavnej myšlienky. 
+NULL ({ 6 9 12 }) Wachtel: ({ 1 }) There ({ 2 }) are ({ }) references ({ 3 }) to ({ }) the ({ }) Troubles ({ 13 14 15 16 }) in ({ }) some ({ }) of ({ }) your ({ }) work, ({ }) but ({ }) it’s ({ }) not ({ 17 }) often ({ 18 19 }) there ({ }) as ({ }) a ({ }) central ({ 4 5 7 8 10 11 }) focus. ({ 20 21 22 }) 
+# Sentence pair (201) source length 14 target length 10 alignment score : 1.28994e-16
+Čo si myslíte o zodpovednosti spisovateľov za politiku svojej doby? 
+NULL ({ }) How ({ }) do ({ }) you ({ }) see ({ }) the ({ }) responsibility ({ 4 5 6 7 }) of ({ }) poets ({ }) to ({ }) the ({ }) politics ({ }) of ({ }) their ({ }) time? ({ 1 2 3 8 9 10 }) 
+# Sentence pair (202) source length 19 target length 25 alignment score : 4.56094e-35
+Heaney: Myslím, že toto je ten typ otázky, na ktorú som odpovedal veľmi často, doslova až do úmoru medzi rokmi 1969 - 1970 až 1989. 
+NULL ({ 3 9 11 }) Heaney:I ({ 1 2 4 }) think ({ }) that ({ }) is ({ }) a ({ }) question ({ 5 }) that ({ }) I ({ }) kept ({ }) answering ({ 6 7 8 10 }) ad ({ 12 }) nauseum ({ 13 14 15 16 17 18 }) between ({ 19 }) about ({ }) 1969 ({ }) or ({ }) 1970 ({ }) and ({ }) 1989. ({ 20 21 22 23 24 25 }) 
+# Sentence pair (203) source length 16 target length 19 alignment score : 1.59423e-26
+Takmer každá próza, ktorú som napísal, a už vôbec nehovoriac o dielach napísaných vo veršoch, zobrazujú práve tento problém. 
+NULL ({ 7 }) Almost ({ 1 2 3 }) everything ({ }) that ({ }) I’ve ({ }) written ({ 4 5 6 }) in ({ }) prose ({ 8 9 10 }) and ({ }) much ({ }) that’s ({ }) in ({ }) verse ({ 11 }) is ({ }) about ({ }) that ({ }) question. ({ 12 13 14 15 16 17 18 19 }) 
+# Sentence pair (204) source length 9 target length 10 alignment score : 5.68839e-14
+Básnici tridsiatych rokov pôsobiacich v Anglicku túto situáciu pociťovali najviac. 
+NULL ({ 5 }) Poets ({ 1 2 3 4 }) of ({ }) the ({ }) 1930s ({ 6 7 8 9 10 }) in ({ }) England ({ }) especially ({ }) felt ({ }) that. ({ }) 
+# Sentence pair (205) source length 33 target length 38 alignment score : 5.94172e-61
+Tým mám na mysli Spendera, Audena a napokon aj Louisa MacNeica, ktorý je samozrejme írskym básnikom, ale takisto aj súčasťou britskej generácie. Práve títo básnici sa museli vyrovnať so španielskou občianskou vojnou, s nárastom fašizmu a podobnými vecami. 
+NULL ({ 3 7 26 36 }) I ({ }) mean, ({ }) Spender, ({ 21 22 23 24 25 }) Auden, ({ }) and ({ }) Louis ({ }) MacNeice—who’s ({ 9 10 11 12 13 }) an ({ }) Irish ({ }) poet ({ }) of ({ }) course, ({ 14 15 16 17 18 19 }) but ({ }) part ({ 20 }) of ({ }) that ({ }) British ({ 27 }) generation—they ({ }) had ({ }) to ({ }) deal ({ 28 29 30 31 32 }) with ({ 33 }) the ({ }) Spanish ({ 1 2 4 }) Civil ({ }) War, ({ 34 35 37 38 }) the ({ }) rise ({ 5 6 8 }) of ({ }) fascism, ({ }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (206) source length 8 target length 16 alignment score : 6.67495e-21
+I keď boli lyrickými básnikmi, mali aj svoje vlastné životy - lásku, túžbu, sex, čas, detstvo. 
+NULL ({ }) They ({ 1 2 3 }) were ({ }) lyric ({ 4 5 6 7 }) poets, ({ 8 9 10 11 }) they ({ }) had ({ }) private ({ }) subjects. ({ 12 13 14 15 16 }) 
+# Sentence pair (207) source length 19 target length 14 alignment score : 8.57568e-22
+Súčasne popri tom všetkom zúrila neľútostná vojna a s ňou rástla aj potreba oddanosti. 
+NULL ({ 8 }) They ({ }) had ({ }) love, ({ 3 }) Eros, ({ }) sex, ({ }) time, ({ }) childhood, ({ 4 5 6 7 }) and ({ }) yet ({ }) there ({ }) was ({ }) the ({ }) big ({ }) war ({ 9 10 11 12 }) and ({ }) the ({ }) need ({ }) for ({ }) commitment. ({ 1 2 13 14 }) 
+# Sentence pair (208) source length 6 target length 4 alignment score : 2.04068e-05
+Komunizmus ako ideológia prekvital. 
+NULL ({ }) Communism ({ 1 2 }) was ({ }) flowering ({ 3 }) as ({ }) an ({ }) ideology. ({ 4 }) 
+# Sentence pair (209) source length 15 target length 26 alignment score : 1.04658e-45
+U biednych dominovala oddanosť, ktorá ich viedla k práci. Bola hlboká, morálna a podmanivá. Taká bola príťažlivá sila, ktorá tiahla zúfalých ľudí našej planéty k práci. 
+NULL ({ 13 }) The ({ }) attraction ({ 17 18 }) of ({ }) working ({ 7 }) for ({ }) the ({ }) wretched ({ 8 9 10 }) of ({ }) the ({ }) earth ({ 12 14 15 16 }) was ({ }) deep, ({ 5 6 19 20 21 22 }) moral, ({ 11 23 }) and ({ }) compelling. ({ 1 2 3 4 24 25 26 }) 
+# Sentence pair (210) source length 9 target length 9 alignment score : 9.17623e-16
+Čo mali lyrickí básnici žijúci si svoj život robiť? 
+NULL ({ }) So ({ }) what ({ }) was ({ }) the ({ }) private ({ 2 }) lyric ({ }) poet ({ 3 4 5 6 7 }) to ({ }) do? ({ 1 8 9 }) 
+# Sentence pair (211) source length 22 target length 25 alignment score : 2.76826e-38
+Mal sa on alebo ona pridŕžať výhradne svojich básnických tém, v ktorých sa orientovali na seba a krásu, alebo ich úloha mala oveľa širší význam? 
+NULL ({ 2 11 13 15 17 }) Was ({ 1 3 4 5 6 7 8 }) he ({ }) or ({ }) she ({ }) to ({ }) just ({ }) keep ({ }) to ({ }) the ({ }) lyric ({ }) matter ({ }) of ({ }) the ({ }) self ({ 9 }) and ({ }) beauty, ({ 10 12 14 16 18 }) or ({ 19 }) was ({ }) there ({ }) a ({ }) bigger ({ }) obligation? ({ 20 21 22 23 24 25 }) 
+# Sentence pair (212) source length 23 target length 30 alignment score : 1.20252e-49
+Ja osobne som mal po krk ortodoxného názoru, ktorý nám počas vysokej školy vštepovali. Myšlienku, ktorá hovorí, že je chyba, ak básnici vo svojich dielach zahŕňajú čokoľvek propagandistické alebo politické. 
+NULL ({ 3 18 }) I ({ }) grew ({ 17 19 20 }) up ({ }) with ({ }) an ({ }) orthodoxy ({ 16 }) inculcated ({ 6 7 8 9 10 14 15 }) at ({ }) the ({ }) university ({ 11 12 13 }) that ({ }) these ({ }) poets ({ }) made ({ }) a ({ }) mistake ({ 1 2 4 5 }) when ({ }) they ({ }) embraced ({ 21 22 }) anything ({ 23 }) propagandist ({ 24 25 26 27 28 }) or ({ 29 }) political. ({ 30 }) 
+# Sentence pair (213) source length 25 target length 19 alignment score : 4.33793e-29
+Myslím si, že pri rozlišovaní propagácie a politiky zavládol nielen v mojej, ale aj v hlavách mojich učiteľov, zmätok. 
+NULL ({ 3 7 15 }) I ({ }) think ({ }) there ({ }) was ({ }) a ({ }) confusion, ({ 1 2 16 17 18 19 }) perhaps, ({ 4 5 }) in ({ }) my ({ }) mind ({ 6 8 9 10 }) and ({ }) in ({ }) the ({ }) minds ({ 11 12 13 14 }) of ({ }) some ({ }) of ({ }) my ({ }) teachers ({ }) between ({ }) the ({ }) propagandist ({ }) and ({ }) the ({ }) political. ({ }) 
+# Sentence pair (214) source length 15 target length 17 alignment score : 6.37608e-23
+Čo sa politických záležitostí týka, tie boli v spojitosti s umením a poéziou vnímané ako slová nevhodné. 
+NULL ({ 2 8 12 }) Political ({ 1 3 4 5 }) was ({ }) kind ({ }) of ({ }) inculcated ({ }) as ({ }) a ({ }) bad ({ }) word ({ 6 }) in ({ }) relation ({ 7 }) to ({ }) art ({ 9 10 11 }) and ({ }) poetry. ({ 13 14 15 16 17 }) 
+# Sentence pair (215) source length 20 target length 33 alignment score : 1.22388e-51
+V tomto prípade môžeme ako vynikajúci príklad uviesť básnika známeho pod menom W. B. Yeats, ktorý dokonca nesúhlasil ani s vyjadrovaním názoru vo verši. Na verejnosti sa však svoje stanovisko nikdy nebál vyjadriť. 
+NULL ({ 5 27 }) Our ({ 19 20 21 22 23 24 25 }) great ({ }) exemplar ({ 6 }) W. ({ }) B. ({ }) Yeats ({ 7 8 9 10 }) was ({ }) ever ({ 11 12 }) against ({ 13 14 15 16 17 18 }) "opinion” ({ }) in ({ }) verse, ({ }) but ({ }) he ({ }) was ({ }) never ({ }) afraid ({ }) to ({ }) deliver ({ 26 28 29 30 31 32 33 }) opinion. ({ 1 2 3 4 }) 
+# Sentence pair (216) source length 14 target length 15 alignment score : 1.23038e-18
+Neskôr som si uvedomil, že jeho rečnícke umenie a prax boli tak trochu v rozpore. 
+NULL ({ 5 }) I ({ }) realized ({ 1 2 3 4 }) later ({ }) on ({ }) that ({ }) his ({ }) rhetoric ({ 6 7 8 }) and ({ }) his ({ }) practice ({ 9 }) were ({ }) slightly ({ 10 11 12 }) at ({ }) odds. ({ 13 14 15 }) 
+# Sentence pair (217) source length 32 target length 33 alignment score : 3.30155e-52
+Som toho názoru, že s pribúdajúcim vekom by sme sa mali učiť, ako v našich dielach spracovať udalosti, ako napr. Konflikty v Severnom Írsku – bomby, zabíjanie či skutočnú podobu súčasného Severného Írska. 
+NULL ({ 4 10 14 22 }) So ({ }) over ({ }) the ({ }) years, ({ 9 11 12 13 }) I ({ }) think ({ }) we ({ }) had ({ }) to ({ }) learn ({ 5 6 7 8 }) how ({ }) to ({ }) incorporate ({ 15 }) the ({ }) matter ({ }) of ({ }) the ({ }) Troubles—bombs, ({ }) killings, ({ 16 17 18 19 20 21 }) the ({ }) actual ({ 23 }) landscape ({ }) of ({ }) contemporary ({ 24 25 26 27 28 }) Ulster—into ({ }) the ({ }) kinds ({ }) of ({ }) things ({ }) we ({ }) were ({ }) writing. ({ 1 2 3 29 30 31 32 33 }) 
+# Sentence pair (218) source length 39 target length 39 alignment score : 2.2778e-61
+Napríklad taká farma Mossbawn bola od obrovského rachotu posunovacej lokomotívy až po výbuchy áut, ktoré v Belfaste spôsobili rinčanie okien, či od udalostí známych ako Krvavá nedeľa a Krvavý piatok, ktoré sa odohrali v roku 1972, na míle vzdialená. 
+NULL ({ 16 25 28 32 34 37 }) It’s ({ }) a ({ }) far ({ 1 2 3 }) cry ({ 5 }) from ({ 6 }) Mossbawn, ({ 4 }) if ({ }) you ({ }) like, ({ 7 8 9 10 }) from ({ }) the ({ }) big ({ }) noise ({ 11 12 }) of ({ }) the ({ }) shunting ({ }) of ({ }) an ({ }) engine ({ }) to ({ }) the ({ }) explosions ({ 38 39 }) of ({ }) car ({ 13 14 }) bombs ({ }) rattling ({ 15 }) the ({ }) windows ({ }) in ({ }) Belfast; ({ 17 18 19 20 }) Bloody ({ 21 22 23 24 26 27 }) Sunday ({ 29 }) to ({ }) Bloody ({ }) Friday, ({ 30 31 }) both ({ 33 35 36 }) occurring ({ }) in ({ }) 1972. ({ }) 
+# Sentence pair (219) source length 11 target length 12 alignment score : 1.69707e-15
+Nikto z nás poriadne nevedel, ako sa má k tejto situácii postaviť. 
+NULL ({ 7 }) None ({ 1 2 3 }) of ({ }) us ({ }) quite ({ 4 5 6 }) had ({ }) got ({ }) the ({ }) way ({ }) of ({ }) handling ({ 8 9 10 11 12 }) it. ({ }) 
+# Sentence pair (220) source length 78 target length 81 alignment score : 5.29363e-109
+Až oveľa neskôr som našiel spôsob, ako nechať prehovoriť niekoľko ľudí v básni s názvom Station Island. Bol to vlastne dialóg medzi hlavným hrdinom - básnikom a niekoľkými duchmi, z ktorých časť bola zabitá počas už spomínaných Nepokojov v Severnom Írsku, a druhá polovica duchov bola súčasťou života v Írsku v 19. storočí. Samozrejme nesmel chýbať tieň Jamesa Joyca, ktorý varuje, že sa nemáme príliš často postaviť na niečiu stranu, že nemáme byť hlasom druhých ľudí, ale sústrediť sa na seba. 
+NULL ({ 27 39 42 51 63 68 71 79 80 }) Many ({ 1 2 }) years ({ 3 }) later, ({ }) I ({ 4 }) found ({ 5 6 }) a ({ }) way ({ 7 }) of ({ }) letting ({ 8 9 10 11 }) some ({ }) people ({ }) speak ({ }) in ({ 12 }) a ({ }) poem ({ 13 }) called ({ 14 15 }) "Station ({ 16 17 18 }) Island, ({ }) ” ({ }) which ({ }) was ({ }) a ({ }) kind ({ }) of ({ }) a ({ 19 }) dialogue ({ 20 21 }) between ({ 22 }) a ({ }) poet/protagonist ({ 23 24 25 26 }) and ({ }) various ({ }) ghosts—some ({ 28 29 }) who ({ 30 31 32 }) had ({ }) been ({ }) killed ({ 33 34 35 36 37 }) in ({ }) the ({ }) Troubles, ({ 38 }) some ({ 40 41 }) who ({ }) had ({ }) been ({ }) involved ({ 43 44 45 46 }) in ({ }) Irish ({ }) life ({ 47 48 }) in ({ 49 }) the ({ }) nineteenth ({ 50 }) century, ({ 52 53 54 }) and ({ }) indeed ({ }) the ({ }) shade ({ }) of ({ }) James ({ 55 56 57 58 }) Joyce, ({ 59 60 }) who ({ }) warns ({ }) against ({ }) too ({ 61 62 }) much ({ }) side-taking, ({ 64 65 66 67 69 70 72 73 }) not ({ }) to ({ }) be ({ }) the ({ }) voice ({ }) of ({ }) any ({ }) people, ({ 74 75 76 }) but ({ 77 }) to ({ }) be ({ }) your ({ }) own ({ }) voice. ({ 78 81 }) 
+# Sentence pair (221) source length 1 target length 1 alignment score : 0.179392
+Wachtelová: 
+NULL ({ }) Wachtel: ({ 1 }) 
+# Sentence pair (222) source length 29 target length 34 alignment score : 3.77445e-55
+Keď sa teraz obzriete naspäť, nechcem tým samozrejme povedať, že by ste sa museli nejako veľmi zamýšľať nad správnosťou vašich diel, ale nedá mi nespýtať sa: "Myslíte si, že ste vždy kráčali správnym smerom? 
+NULL ({ 2 10 13 29 }) And ({ }) when ({ }) you ({ }) look ({ 1 }) back ({ }) now, ({ 14 15 16 17 18 }) not ({ }) that ({ }) you ({ 30 }) need ({ 31 32 }) to ({ }) spend ({ }) much ({ }) time ({ }) revisiting ({ 25 26 27 28 }) it ({ }) in ({ }) your ({ }) own ({ 23 24 }) work, ({ 19 20 21 22 }) but ({ }) do ({ }) you ({ 12 }) feel ({ 3 4 }) you ({ }) walked ({ 5 6 7 8 9 11 }) the ({ }) right ({ }) line? ({ 33 34 }) 
+# Sentence pair (223) source length 15 target length 15 alignment score : 7.8324e-26
+Veľakrát musela byť vaša cesta pekne tŕnistá a nebolo ľahké vybrať si ten správny variant." 
+NULL ({ 8 }) I ({ }) mean, ({ }) it ({ }) was ({ }) at ({ }) some ({ }) times, ({ }) I ({ }) think, ({ }) a ({ }) fairly ({ }) difficult ({ }) path ({ 4 5 6 7 9 10 11 12 }) to ({ }) negotiate. ({ 1 2 3 13 14 15 }) 
+# Sentence pair (224) source length 13 target length 13 alignment score : 4.83453e-18
+Rozhodne mi neschádza na um nič nečestné z toho, čo som kedy napísal. 
+NULL ({ 4 11 }) Well, ({ 1 2 }) there’s ({ 3 }) nothing ({ }) that ({ }) strikes ({ 5 6 7 8 }) me ({ }) as ({ }) dishonest ({ 9 }) in ({ }) anything ({ }) that ({ }) was ({ }) written. ({ 10 12 13 }) 
+# Sentence pair (225) source length 52 target length 43 alignment score : 8.89125e-61
+Možno to nepoteší každého, ale mne to nateraz úplne stačí. Čestnosť je tá najlepšia vec, ktorú môžete ako autor použiť. Tým mám na mysli (smiech) písať poctivo, pokiaľ ide o tému, názory, ale aj z hľadiska toho, kým a čím v skutočnosti ste. 
+NULL ({ 7 23 39 41 }) It ({ }) may ({ }) not ({ }) have ({ }) pleased ({ }) everybody, ({ 1 2 3 4 }) but ({ 5 }) it ({ }) pleased ({ }) me ({ 6 }) enough ({ }) to ({ }) be ({ }) going ({ }) on ({ }) with, ({ 8 9 10 11 }) and ({ }) that’s ({ 12 }) the ({ }) best ({ 13 14 15 16 17 }) you ({ }) can ({ }) do ({ }) as ({ 18 }) a ({ }) writer, ({ }) I ({ }) think ({ }) [laughs]—to ({ 19 20 21 22 }) write ({ }) honestly, ({ 24 25 26 27 }) honestly ({ 31 32 33 34 }) in ({ }) terms ({ 28 29 30 }) of ({ 35 }) the ({ }) subject ({ 36 37 38 }) and ({ }) in ({ }) terms ({ }) of ({ }) your ({ }) attitudes, ({ 40 42 43 }) and ({ }) in ({ }) terms ({ }) of ({ }) who ({ }) and ({ }) what ({ }) you ({ }) are. ({ }) 
+# Sentence pair (226) source length 43 target length 35 alignment score : 9.74221e-65
+Ale aj keď hovoríme o tvorbe, umení, ktoré nie je sfalšované, ale zodpovedá pravdivej nápaditej odpovedi, ktorá nie je vyvolaná vašou vôľou, ale ktorá sa zrodí z niečoho, čo je vo vašom vnútri hlboko zakorenené. 
+NULL ({ 25 }) And ({ }) honestly ({ }) in ({ }) terms ({ }) of ({ }) your ({ }) makings, ({ 4 5 6 }) in ({ }) terms ({ }) of ({ }) the ({ }) art, ({ 7 8 }) that ({ }) it ({ }) is ({ }) not ({ }) faked ({ 1 11 }) up, ({ 2 3 }) that ({ }) it ({ }) belongs ({ 9 10 18 19 30 }) as ({ }) a ({ }) true ({ }) imaginative ({ 29 }) response, ({ 28 }) that ({ }) it ({ }) isn’t ({ }) generated ({ 20 21 22 }) out ({ 23 24 26 27 }) of ({ }) will ({ }) but ({ 12 }) arises ({ 13 14 15 16 17 }) out ({ }) of ({ }) something ({ 31 }) more ({ }) deeply ({ 32 33 }) lodged ({ 34 35 }) in ({ }) yourself. ({ }) 
+# Sentence pair (227) source length 31 target length 34 alignment score : 1.30645e-51
+Niečo vo mne vyvoláva pocit, že nech už bolo v mojich knihách napísané čokoľvek, či už správne alebo nesprávne, priemerne napísané, dobré alebo zlé, nemám žiadne obavy niečo zmeniť alebo nadobro sa toho zbaviť. 
+NULL ({ 6 10 32 }) I ({ }) feel ({ }) that ({ }) anything ({ 1 2 3 }) that ({ }) is ({ }) in ({ }) the ({ }) books, ({ 4 5 7 }) mistaken ({ 31 33 34 }) or ({ 30 }) not, ({ 12 }) middling ({ 13 14 15 16 17 }) writing ({ 8 9 11 }) or ({ }) not, ({ }) good ({ }) or ({ 18 }) bad, ({ 19 20 21 22 }) got ({ }) there ({ }) like ({ }) that ({ }) and ({ }) changing ({ }) it ({ }) or ({ 23 }) getting ({ 24 25 26 27 28 29 }) rid ({ }) of ({ }) it. ({ }) 
+# Sentence pair (228) source length 20 target length 18 alignment score : 2.1308e-31
+Wachtelová:Tak veľa sa za ten čas vo vašej krajine zmenilo. V posledných rokoch to bola zmena k lepšiemu. 
+NULL ({ 3 14 }) I ({ }) have ({ }) no ({ }) anxiety ({ 11 12 13 }) about ({ }) Wachtel:So ({ 8 9 10 }) much ({ }) has ({ }) happened ({ }) since ({ 4 5 6 7 }) that ({ }) time ({ }) and ({ }) in ({ }) more ({ }) recent ({ }) years ({ }) for ({ }) the ({ }) good. ({ 1 2 15 16 17 18 }) 
+# Sentence pair (229) source length 5 target length 4 alignment score : 8.9998e-06
+Aký máte teraz pocit? 
+NULL ({ }) How ({ }) do ({ }) you ({ }) feel ({ }) now? ({ 1 2 3 4 }) 
+# Sentence pair (230) source length 9 target length 5 alignment score : 1.80032e-07
+Ako vidíte budúcnosť Severného Írska? 
+NULL ({ }) How ({ }) do ({ }) you ({ }) see ({ }) the ({ }) future ({ }) for ({ }) Northern ({ }) Ireland? ({ 1 2 3 4 5 }) 
+# Sentence pair (231) source length 24 target length 26 alignment score : 8.81427e-37
+Zriaďovanie nových inštitúcií považujem za dôležité, avšak na veľké vzplanutie lásky medzi týmito dvoma spoločenstvami (medzi republikánmi a nacionalistami) to nevidím ešte na dosť dlhý čas. 
+NULL ({ 8 18 20 23 }) I ({ }) think ({ }) that ({ }) the ({ }) new ({ 1 2 3 4 }) institutions ({ }) are ({ }) important, ({ 5 6 7 }) but ({ }) I ({ }) don’t ({ }) see ({ }) any ({ }) great ({ }) love-in ({ 9 10 11 }) occurring ({ }) between ({ 12 }) the ({ }) two ({ }) communities ({ 13 14 15 16 17 19 }) for ({ }) a ({ }) good ({ }) while. ({ 21 22 24 25 26 }) 
+# Sentence pair (232) source length 32 target length 26 alignment score : 3.50425e-42
+Najdôležitejšie by bolo, aby oponujúce strany v miestnej samospráve našli prinajmenšom spôsob, ako spolu komunikovať, namiesto toho, aby sa znovu utápali v ideologickom alebo sektárskom hneve. 
+NULL ({ 7 19 22 }) The ({ }) main ({ }) thing ({ }) would ({ }) be ({ }) that ({ }) in ({ }) the ({ }) new ({ }) local ({ }) parliament ({ 4 5 6 }) the ({ }) opposing ({ 1 2 3 }) sides ({ }) would ({ }) find ({ }) a ({ }) way ({ }) of ({ }) talking ({ }) at ({ }) least, ({ }) not ({ }) bogging ({ }) themselves ({ 8 }) down ({ }) in ({ }) ideological ({ 23 24 25 26 }) or ({ }) sectarian ({ 9 10 20 21 }) fury ({ 11 12 13 14 15 16 17 18 }) again. ({ }) 
+# Sentence pair (233) source length 9 target length 9 alignment score : 1.27286e-14
+Myslím však, že isté veci naznačujú aspoň priemerné zlepšenie. 
+NULL ({ 3 }) I ({ }) think ({ }) the ({ }) signs ({ 1 }) are ({ }) middlingly ({ 2 4 5 6 7 8 9 }) good ({ }) for ({ }) that. ({ }) 
+# Sentence pair (234) source length 18 target length 24 alignment score : 5.42819e-41
+Prešli sme z otrasnej politiky k opatrnému, obmedzenému neporiadku, kde sa uplatňuje politika oko za oko, zub za zub, čo znamená určitý krok vpred. 
+NULL ({ 11 }) We’ve ({ 10 12 13 14 15 16 17 18 }) moved ({ }) from ({ }) the ({ }) atrocious ({ }) to ({ }) the ({ }) vigilant, ({ }) small-minded ({ }) messiness ({ 9 }) of ({ }) tit-for-tat ({ 5 6 7 8 }) politics, ({ 19 20 21 }) and ({ }) that ({ }) is ({ }) an ({ }) advance. ({ 1 2 3 4 22 23 24 }) 
+# Sentence pair (235) source length 22 target length 22 alignment score : 3.20268e-37
+Takže áno, pevne dúfam v zlepšenie. Šance sú rozhodne oveľa lepšie ako pred tridsiatimi, štyridsiatimi a dokonca aj ako pred päťdesiatimi rokmi. 
+NULL ({ 5 16 }) So ({ }) I ({ }) am ({ }) hopeful, ({ }) yes, ({ }) and ({ }) certainly ({ }) it’s ({ }) a ({ }) far ({ }) better ({ 10 11 }) prospect ({ 12 13 14 15 17 18 19 20 }) now ({ }) than ({ }) it ({ }) was ({ }) thirty, ({ }) forty, ({ }) fifty ({ 21 22 }) years ({ }) ago ({ 4 6 7 8 9 }) even. ({ 1 2 3 }) 
+# Sentence pair (236) source length 4 target length 3 alignment score : 0.000382618
+Ľady sa pohli. 
+NULL ({ }) Things ({ 1 2 3 }) have ({ }) moved ({ }) on. ({ }) 
+# Sentence pair (237) source length 11 target length 11 alignment score : 6.77621e-15
+Aj malé zmeny sú veľmi dôležité, keďže sú súčasťou niečoho väčšieho. 
+NULL ({ }) Little ({ 1 2 3 }) changes ({ 4 5 6 7 8 }) are ({ }) very ({ }) important, ({ }) little ({ }) changes ({ }) in ({ }) the ({ }) individual ({ }) breast. ({ 9 10 11 }) 
+# Sentence pair (238) source length 22 target length 19 alignment score : 1.30373e-30
+Budovať nové inštitúcie, aj keď nejdú na plný plyn ale aspoň na rezervu, sú zárukou veľkého úspechu, veľkej zmeny. 
+NULL ({ 7 12 }) And ({ }) getting ({ }) the ({ }) institutions ({ 3 }) up, ({ 4 5 }) if ({ }) not ({ }) running, ({ }) at ({ }) least ({ 6 }) going ({ }) at ({ }) pedestrian ({ 8 9 }) speed, ({ }) has ({ }) been ({ }) a ({ }) great ({ 10 11 13 14 }) achievement, ({ 15 }) a ({ }) great ({ }) change. ({ 1 2 16 17 18 19 }) 
+# Sentence pair (239) source length 10 target length 7 alignment score : 1.64863e-10
+Wachtelová: Vaše diela sú bohaté na obraznosť. 
+NULL ({ 6 }) Wachtel: ({ 1 }) There ({ }) are ({ }) so ({ }) many ({ }) rich ({ 2 3 4 5 7 }) images ({ }) in ({ }) your ({ }) work. ({ }) 
+# Sentence pair (240) source length 9 target length 13 alignment score : 1.63682e-20
+Keď sa tak nad tým zamýšľam, ako sa u vás obyčajne zrodí báseň? 
+NULL ({ 8 }) I’m ({ }) wondering, ({ 2 3 }) how ({ }) does ({ }) a ({ }) poem ({ }) start ({ 4 5 6 7 9 10 }) for ({ }) you? ({ 1 11 12 13 }) 
+# Sentence pair (241) source length 19 target length 18 alignment score : 7.34349e-27
+Takmer vždy sa to začína spomienkami, niečo, na čo zabudnete, sa neskôr objaví sčista-jasna ako dar z nebies. 
+NULL ({ 3 8 11 }) Almost ({ 1 }) always ({ 2 }) it ({ 4 }) starts ({ 5 6 7 }) from ({ }) some ({ }) memory, ({ 9 }) something ({ }) you’d ({ }) forgotten ({ }) that ({ }) comes ({ }) up ({ }) like ({ }) a ({ }) living ({ }) gift ({ 10 12 13 14 }) of ({ }) presence. ({ 15 16 17 18 }) 
+# Sentence pair (242) source length 41 target length 47 alignment score : 8.77604e-71
+Robert Frost v predhovore svojej knihy Zbierka básní uviedol: "Ako vplyvné živočíchy tejto planéty sa neustále náhlime za skúsenosťami, vrháme sa vpred, aby sme si postupne vydláždili svoju budúcnosť a to i naprieč dňu, v ktorom budeme možno chcieť naraziť na rad cieľov niekde na druhej strane." 
+NULL ({ 3 15 21 30 35 41 45 }) Robert ({ }) Frost ({ 5 6 7 8 }) said ({ }) in ({ }) his ({ }) introduction ({ 9 }) to ({ }) his ({ }) Collected ({ 10 }) Poems, ({ 11 12 13 14 16 }) "like ({ 17 18 }) giants ({ 19 20 22 23 }) we ({ 24 25 }) are ({ }) always ({ }) hurling ({ }) experience ({ 1 2 }) ahead ({ 4 }) of ({ }) us ({ }) to ({ }) pave ({ 26 27 }) the ({ }) future ({ 28 29 }) with ({ }) against ({ }) the ({ }) day ({ }) when ({ }) we ({ }) may ({ 31 32 }) want ({ 33 34 36 }) to ({ }) strike ({ }) a ({ }) line ({ }) of ({ }) purpose ({ 37 }) across ({ }) from ({ }) somewhere. ({ 38 39 40 42 43 44 46 47 }) 
+# Sentence pair (243) source length 9 target length 9 alignment score : 2.96583e-15
+Toto sa asi tak vo všeobecnosti deje so mnou. 
+NULL ({ 2 }) ”That ({ }) is ({ }) generally ({ 4 5 }) the ({ }) way ({ }) things ({ }) happen ({ 6 7 8 9 }) with ({ }) me. ({ 1 3 }) 
+# Sentence pair (244) source length 18 target length 14 alignment score : 5.36511e-25
+Začnú sa vynárať spomienky. A ak mám práve šťastie, prepoja sa s ďalšou myšlienkou. 
+NULL ({ 2 11 }) The ({ }) memory ({ }) comes ({ }) up ({ }) and ({ }) if ({ }) I’m ({ }) lucky, ({ 1 }) it ({ }) attaches ({ 10 }) itself, ({ 6 }) it ({ }) crosses ({ 3 4 5 7 8 9 }) itself ({ }) with ({ }) some ({ }) other ({ }) thing. ({ 12 13 14 }) 
+# Sentence pair (245) source length 14 target length 14 alignment score : 4.43759e-22
+Myslím, že jedna z mojich básní zobrazuje hru s vláčikmi na pohovke v Mossbawne. 
+NULL ({ 11 13 }) I ({ }) mean, ({ 1 2 }) I ({ }) had ({ }) that ({ }) poem ({ }) about ({ }) playing ({ 6 7 8 9 }) trains ({ 3 4 5 }) on ({ }) the ({ }) sofa ({ 10 12 }) in ({ }) Mossbawn. ({ 14 }) 
+# Sentence pair (246) source length 19 target length 18 alignment score : 8.44827e-31
+Táto báseň, našťastie nekončí len ako nostalgické znovuvytvorenie rodinnej idylky tráviacej svoj čas na pohovke v štyridsiatych rokoch. 
+NULL ({ 14 16 }) It ({ }) luckily ({ }) didn’t ({ }) end ({ }) up ({ }) just ({ }) a ({ }) little ({ }) nostalgic ({ 9 10 }) recreation ({ 5 6 7 8 }) of ({ }) happy ({ 3 4 }) families ({ 11 12 13 }) on ({ }) the ({ }) sofa ({ 15 }) in ({ }) the ({ }) 1940s. ({ 1 2 17 18 }) 
+# Sentence pair (247) source length 31 target length 32 alignment score : 9.82812e-51
+Prepája sa so zmyslom, ktorý postupne prerastá v celok. Mám na mysli šťastný život, ktorý sme viedli, keď sme nemuseli žiť tak desivo a tragicky ako ľudia na pevnine Európy a Británie. 
+NULL ({ 2 8 11 24 28 31 }) It ({ }) crossed ({ 20 }) with ({ }) that ({ }) sense ({ }) that ({ }) gradually ({ 21 22 23 25 }) came ({ 15 }) as ({ }) one ({ }) grew, ({ }) how ({ }) lucky ({ 16 17 18 19 }) we ({ }) were ({ }) not ({ }) to ({ }) be ({ }) living ({ 26 }) the ({ }) terrible, ({ 27 }) tragic ({ 29 30 32 }) life ({ }) of ({ }) others ({ }) in ({ }) mainland ({ 7 }) Europe ({ 9 10 12 13 14 }) and ({ }) in ({ }) Britain. ({ 1 3 4 5 6 }) 
+# Sentence pair (248) source length 12 target length 15 alignment score : 9.57552e-19
+Tieň týchto udalostí, ktorý sme nezažili na vlastnej koži, sme však mali možnosť spoznať retrospektívne. 
+NULL ({ 7 }) The ({ }) shadow ({ 1 2 3 4 }) that ({ }) we ({ }) didn’t ({ }) know ({ }) was ({ }) there ({ }) could ({ }) be ({ }) recognized ({ 5 6 8 9 10 11 }) retrospectively. ({ 12 13 14 15 }) 
+# Sentence pair (249) source length 24 target length 29 alignment score : 2.88111e-42
+A to je presne druh básne, ktorý naozaj obľubujem: podnet, ktorý sa v našej pamäti vytvorí a tiež význam, ktorý je dúfam viac ako len súčasťou obsahu nášho vedomia. 
+NULL ({ 2 12 13 17 }) That ({ 1 }) is ({ 3 }) the ({ }) kind ({ }) of ({ }) poem ({ }) I ({ }) really ({ }) like: ({ 4 5 6 7 8 9 10 11 }) the ({ }) stimulus ({ }) in ({ }) memory, ({ }) but ({ }) the ({ }) import, ({ 14 }) hopefully, ({ 15 16 18 19 20 21 22 }) more ({ }) than ({ 23 24 }) just ({ 25 }) the ({ }) content ({ }) of ({ }) memory. ({ 26 27 28 29 }) 
+# Sentence pair (250) source length 9 target length 14 alignment score : 1.50973e-21
+Nemyslím si, že by som bez pamäti urobil čo i len jeden krok vpred. 
+NULL ({ 5 }) But ({ }) without ({ 6 7 8 }) memory, ({ 9 }) I ({ }) don’t ({ 1 2 }) think ({ 3 4 }) I ({ }) could ({ }) move. ({ 10 11 12 13 14 }) 
+# Sentence pair (251) source length 12 target length 8 alignment score : 2.89236e-10
+Verím totiž, že Mnemosyne je matkou všetkých Múz. 
+NULL ({ 3 }) Mnemnosyne, ({ 1 2 }) I ({ }) believe, ({ 4 }) is ({ }) supposed ({ 5 }) to ({ }) be ({ }) the ({ }) mother ({ }) of ({ }) the ({ }) Muses. ({ 6 7 8 }) 
+# Sentence pair (252) source length 1 target length 1 alignment score : 0.179392
+Wachtelová: 
+NULL ({ }) Wachtel: ({ 1 }) 
+# Sentence pair (253) source length 21 target length 26 alignment score : 9.754e-34
+V príhovore pri preberaní Nobelovej ceny v roku 1995 ste vzdali hold poézii za jej "pravdivosť o živote", a to v každom zmysle tohto slovného spojenia. 
+NULL ({ 7 19 20 21 }) In ({ 1 }) your ({ }) Nobel ({ }) lecture ({ 2 3 4 5 6 }) in ({ }) 1995, ({ 8 9 }) you ({ 10 }) credit ({ 11 12 13 14 }) poetry ({ }) for ({ }) its ({ }) "truth ({ 15 16 17 18 }) to ({ }) life, ({ }) ” ({ }) in ({ }) every ({ }) sense ({ }) of ({ }) that ({ }) phrase. ({ 22 23 24 25 26 }) 
+# Sentence pair (254) source length 12 target length 13 alignment score : 1.33138e-17
+Čo ste mali na mysli pod pojmom v každom zmysle tohto slovného spojenia? 
+NULL ({ 4 8 }) What ({ 1 }) were ({ }) you ({ 2 }) thinking ({ 3 5 6 7 }) in ({ }) terms ({ }) of ({ }) the ({ }) senses ({ }) of ({ }) that ({ }) phrase? ({ 9 10 11 12 13 }) 
+# Sentence pair (255) source length 18 target length 22 alignment score : 3.93219e-34
+Heaney: Na začiatok by som si rád požičal slová básnika Frosta, ktorý povedal, že všetko, čo opisuje aktuálne udalosti, má dokumentárny charakter. 
+NULL ({ 5 }) Heaney:First ({ 6 7 8 9 10 11 12 13 }) of ({ }) all, ({ }) in ({ }) a ({ }) poet ({ }) like ({ }) Frost, ({ }) say, ({ }) it ({ }) describes ({ 14 }) the ({ }) actual, ({ 15 }) it ({ }) has ({ }) a ({ }) documentary ({ 16 17 18 19 }) quality. ({ 1 2 3 4 20 21 22 }) 
+# Sentence pair (256) source length 14 target length 14 alignment score : 1.43608e-22
+Avšak toto nie je jediný zmysel, pri ktorom sa chcete pravdivo vyjadrovať o živote. 
+NULL ({ 9 }) But ({ }) that’s ({ 3 4 }) not ({ }) the ({ }) only ({ 5 6 7 8 10 }) sense ({ }) in ({ }) which ({ }) you ({ }) can ({ }) be ({ }) true ({ }) to ({ }) life. ({ 1 2 11 12 13 14 }) 
+# Sentence pair (257) source length 23 target length 20 alignment score : 1.29005e-28
+Hovoriť pravdu môžete aj čo sa týka morálneho pohľadu, etického úsudku či z hľadiska ponímania vecí z toho imaginárneho aspektu. 
+NULL ({ 6 }) You ({ }) can ({ }) be ({ }) true ({ }) to ({ }) it ({ }) in ({ }) terms ({ }) of ({ }) moral ({ 12 13 }) insight, ({ 14 15 16 17 }) in ({ }) terms ({ }) of ({ }) ethical ({ 18 19 20 }) judgment, ({ 1 2 }) in ({ }) realizing ({ }) the ({ }) imaginative ({ 3 4 5 7 }) dimensions ({ 8 9 10 11 }) of ({ }) things. ({ }) 
+# Sentence pair (258) source length 45 target length 42 alignment score : 9.41193e-60
+Môžete byť dôveryhodní spôsobom, akým je Wallace Stevens dôveryhodný vo svojej nedávnej básni Rieka riek v štáte Connecticut alebo druhom vyjadrovania pravdivosti v jednej z jeho starších lyrických básní. Táto kratšia a tak trochu bláznivá báseň nesie slová ako "Frajeri šli burácajúc". 
+NULL ({ 16 23 32 39 }) You ({ 1 }) can ({ }) be ({ }) true ({ 2 3 4 5 }) to ({ }) it ({ }) the ({ }) way ({ }) Wallace ({ 6 7 }) Stevens ({ 8 9 10 11 }) is ({ }) true ({ }) to ({ }) it ({ }) in ({ }) a ({ }) late ({ }) poem ({ }) like ({ }) "The ({ }) River ({ 12 13 14 15 }) of ({ }) Rivers ({ }) in ({ }) Connecticut, ({ 17 18 }) ” ({ }) or ({ 19 }) the ({ }) way ({ }) he’s ({ 20 21 22 24 }) true ({ }) to ({ }) it ({ }) in ({ }) an ({ 25 26 }) early, ({ }) crazy, ({ }) little ({ }) lyric ({ }) like ({ }) "The ({ }) bucks ({ 27 28 29 30 }) went ({ }) clattering ({ 31 33 34 }) . ({ 35 36 37 38 40 41 42 }) 
+# Sentence pair (259) source length 8 target length 14 alignment score : 1.0115e-18
+Ani za nič si však neviem spomenúť, cez aký štát to tak hlučne prechádzajú. 
+NULL ({ }) ”I’ve ({ 1 2 3 }) forgotten ({ 4 }) which ({ }) state ({ 5 6 7 8 9 10 }) they ({ 11 }) go ({ }) clattering ({ }) through. ({ 12 13 14 }) 
+# Sentence pair (260) source length 24 target length 29 alignment score : 2.83357e-48
+Ale nedá mi nespomenúť ani báseň Vládca zmrzliny, v ktorej môžeme nájsť taký druh veľkého rozkvetu – hravosť a elegancia hrajú v prospech autora, a to v oblasti jazyka. 
+NULL ({ 9 19 22 25 26 27 }) Or ({ }) "The ({ }) Emperor ({ 6 7 8 }) of ({ }) Ice ({ 10 }) Cream, ({ 11 12 13 14 }) ” ({ }) this ({ }) kind ({ }) of ({ }) grand ({ 15 }) flourish—sportive, ({ 16 }) elegant, ({ 17 }) just ({ }) play ({ 5 }) for ({ }) its ({ }) own ({ 2 3 }) sake ({ 4 }) in ({ }) the ({ }) domain ({ 18 20 21 23 24 }) of ({ }) language. ({ 1 28 29 }) 
+# Sentence pair (261) source length 58 target length 64 alignment score : 1.08306e-103
+Pozrime sa bližšie na súčasných amerických autorov, akým je napríklad aj John Ashbery, s ktorými malo a pravdepodobne ešte stále má ťažkosti veľa ľudí. Dôvodom týchto ťažkostí je nevyspytateľný, logicky nesúvisiaci druh písania, neobvyklé využitie jazyka, kľučkovanie od jednej vety k druhej. To je však súčasťou jeho spôsobu vyjadrovania skutočnosti, pretože tak dnes naozaj vyzerá ľudská myseľ – skáče od jednej myšlienky k druhej. 
+NULL ({ 2 4 17 }) If ({ }) you ({ }) take ({ 9 }) a ({ }) contemporary ({ }) American ({ 56 57 58 59 60 61 62 63 64 }) writer ({ 10 11 12 13 14 }) like ({ }) John ({ }) Ashbery, ({ 15 16 18 }) who ({ }) a ({ }) lot ({ }) of ({ }) people ({ }) had, ({ 52 53 54 55 }) and ({ }) probably ({ 19 }) still ({ }) have, ({ }) difficulty ({ 20 21 22 23 24 25 }) with—kind ({ 26 }) of ({ }) whimsical, ({ 27 }) non ({ }) sequitur ({ 28 29 30 31 }) kind ({ 32 }) of ({ }) writing, ({ 33 34 }) channel ({ 46 47 48 49 50 }) surfing ({ 51 }) the ({ }) language, ({ 35 36 37 }) going ({ }) zigzag ({ }) from ({ 38 }) sentence ({ 39 40 41 42 43 }) to ({ }) sentence—he ({ }) is ({ 44 }) true ({ }) to ({ }) life ({ }) insofar ({ 45 }) as ({ }) that ({ }) is ({ }) the ({ }) way ({ }) people’s ({ 8 }) minds ({ }) are ({ }) now, ({ }) hopping ({ 1 3 5 6 7 }) from ({ }) thing ({ }) to ({ }) thing. ({ }) 
+# Sentence pair (262) source length 9 target length 15 alignment score : 2.51364e-23
+Rozpätie času, počas ktorého sa dokážeme sústrediť, sa neustále skracuje. To je obraz dnešného sveta. 
+NULL ({ 5 8 }) It’s ({ }) the ({ }) way ({ }) the ({ }) world ({ }) is, ({ }) attention ({ 4 }) spans ({ 6 7 9 10 11 12 }) shortened. ({ 1 2 3 13 14 15 }) 
+# Sentence pair (263) source length 9 target length 8 alignment score : 2.40933e-12
+Je totiž plný rôznych útržkov, nehovoriac o hluku. 
+NULL ({ }) The ({ }) world ({ }) is ({ }) full ({ }) of ({ }) little ({ }) sound ({ }) bites, ({ }) clamours. ({ 1 2 3 4 5 6 7 8 }) 
+# Sentence pair (264) source length 9 target length 13 alignment score : 5.70023e-17
+Na tomto svete ostalo už veľmi málo miest, kde môžete nájsť božský pokoj. 
+NULL ({ }) There’s ({ 1 2 3 4 5 }) very ({ }) little ({ }) silence ({ 6 }) on ({ }) earth ({ }) for ({ }) anyone ({ 7 8 9 10 }) anymore. ({ 11 12 13 }) 
+# Sentence pair (265) source length 13 target length 18 alignment score : 3.62206e-24
+Vyžaduje si to neskutočnú dávku úsilia naraziť na miesto, kde by sme mohli kráčať len tak v tichu. 
+NULL ({ 8 17 }) It ({ 1 2 3 }) takes ({ 4 5 6 7 }) a ({ }) lot ({ }) of ({ }) effort ({ }) to ({ }) find ({ 9 10 11 12 }) a ({ }) place ({ }) to ({ }) walk ({ }) silently. ({ 13 14 15 16 18 }) 
+# Sentence pair (266) source length 11 target length 10 alignment score : 2.20305e-13
+Ashbery vierohodne zaznamenal život, aký v tomto novom svete vedieme. 
+NULL ({ 6 }) Ashbery ({ 1 2 3 }) registers ({ 4 5 }) the ({ }) truth-to-lifeness ({ }) of ({ }) the ({ }) new ({ }) world ({ }) we ({ }) live ({ 7 }) in. ({ 8 9 10 }) 
+# Sentence pair (267) source length 47 target length 39 alignment score : 1.11241e-59
+Osobne si myslím, že pravda nie je iba záležitosťou poézie či súčasťou tvorivého sveta, ktorého úlohou je informovať. Pravdivosť by mala prirodzene byť súčasťou reality. Jednoducho by mala existovať akási rovnováha medzi vymysleným a trvalým, medzi morálkou a predstavou. 
+NULL ({ 4 34 38 }) So ({ }) I ({ }) think ({ }) it’s ({ 5 6 7 8 9 10 }) not ({ }) just ({ }) a ({ }) matter ({ 11 12 }) of ({ }) poetry ({ }) being ({ }) true ({ }) in ({ }) a ({ }) novelistic ({ 13 }) kind ({ }) of ({ }) way, ({ 14 15 16 17 18 }) reporting ({ 19 }) what ({ }) happens, ({ 20 21 22 23 24 25 26 27 28 }) but ({ }) it’s ({ }) true ({ }) to ({ }) the ({ }) nature ({ 1 2 3 }) of ({ }) reality, ({ 37 39 }) to ({ }) the ({ }) balance ({ 29 }) between ({ }) the ({ }) imagined ({ 30 31 32 33 35 }) and ({ }) the ({ }) endured, ({ }) between ({ 36 }) the ({ }) moral ({ }) and ({ }) the ({ }) imagined ({ }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (268) source length 10 target length 22 alignment score : 2.75261e-38
+Čo sa týka odpovede na vašu otázku, tak som pod tým pojmom musel mať na mysli jedine to, čo som práve opísal. 
+NULL ({ 2 5 9 15 20 }) That ({ }) must ({ 10 11 12 13 14 16 17 18 }) be ({ }) what ({ 19 }) I ({ }) meant ({ 1 3 4 6 7 8 }) when ({ }) I ({ }) said ({ }) it. ({ 21 22 }) 
+# Sentence pair (269) source length 15 target length 15 alignment score : 1.27137e-21
+Wachtelová: Každá samostatná časť v dielach Johna Ashbera je veľmi zreteľná a ľahká na pochopenie. 
+NULL ({ 12 14 }) Wachtel: ({ 1 }) Each ({ 2 3 4 }) of ({ }) John ({ }) Ashbery’s ({ 5 6 7 8 }) separate ({ }) segments ({ 11 13 15 }) is ({ }) very ({ }) recognizable ({ 9 }) and ({ }) you ({ }) can ({ }) understand ({ 10 }) it. ({ }) 
+# Sentence pair (270) source length 18 target length 17 alignment score : 5.16519e-27
+Problém však vzniká, až keď sa snažíme z daných kúskov, ktoré sú tak trochu nenápadné, poskladať celok. 
+NULL ({ 6 }) It’s ({ }) only ({ }) when ({ }) you ({ }) try ({ }) to ({ }) make ({ 3 4 }) sense ({ }) of ({ }) the ({ }) whole ({ }) thing ({ }) that ({ }) each ({ 5 7 8 9 }) piece ({ }) is ({ }) somewhat ({ 10 11 12 13 14 }) discreet. ({ 1 2 15 16 17 }) 
+# Sentence pair (271) source length 12 target length 14 alignment score : 1.32586e-22
+Mňa však zaujíma, čo sa vo vašom živote zmenilo, keď ste vyhrali Nobelovu cenu? 
+NULL ({ 5 }) I ({ }) was ({ }) wondering, ({ }) also, ({ }) how ({ }) did ({ }) winning ({ 4 6 7 8 }) the ({ }) Nobel ({ }) change ({ 9 10 11 }) your ({ }) life? ({ 1 2 3 12 13 14 }) 
+# Sentence pair (272) source length 13 target length 7 alignment score : 6.88776e-10
+Heaney: Pravdupovediac, na toto naozaj neviem odpovedať. 
+NULL ({ }) Heaney:I ({ 1 }) don’t ({ }) really ({ }) know ({ }) the ({ }) answer ({ 2 3 4 }) to ({ }) that, ({ }) to ({ }) tell ({ }) you ({ }) the ({ }) truth. ({ 5 6 7 }) 
+# Sentence pair (273) source length 27 target length 36 alignment score : 2.32811e-55
+Myslím, že sa zmenilo pár vecí, pokiaľ ide o pozvania na určité udalosti či o nátlak na moju emailovú schránku. Naučil som sa aj to, že je nevyhnutné používať slovo nie pri odpovedi na mnohé veci. 
+NULL ({ 3 11 17 22 23 34 }) I ({ }) mean, ({ 1 2 }) it ({ }) changed ({ }) it ({ }) in ({ }) terms ({ }) of ({ }) invitations ({ 24 25 26 27 }) to ({ }) do ({ }) things, ({ 4 5 6 }) in ({ }) terms ({ 7 8 9 }) of ({ }) pressure ({ 10 }) of ({ }) the ({ }) mail, ({ 28 29 30 31 }) in ({ }) terms ({ }) of ({ }) saying ({ 32 }) no ({ }) to ({ }) many ({ 16 18 19 20 21 }) things. ({ 12 13 14 15 33 35 36 }) 
+# Sentence pair (274) source length 22 target length 14 alignment score : 3.55931e-22
+A v Írsku, keďže sme malá krajina, počet pozvánok sa nevzťahuje len na literatúru. 
+NULL ({ 2 10 13 }) And ({ }) in ({ }) Ireland, ({ 1 }) because ({ }) we ({ }) are ({ }) a ({ }) small ({ }) country, ({ 3 4 5 6 7 }) the ({ }) number ({ }) of ({ }) invitations ({ }) to ({ }) do ({ }) things ({ }) isn’t ({ }) just ({ }) confined ({ }) to ({ }) the ({ }) literary. ({ 8 9 11 12 14 }) 
+# Sentence pair (275) source length 14 target length 9 alignment score : 7.12343e-15
+V septembri budem napríklad prednášať na medzinárodnom kongrese gerontológov. 
+NULL ({ 6 }) For ({ }) example, ({ }) I’m ({ }) going ({ }) to ({ }) speak ({ }) at ({ }) an ({ }) international ({ }) conference ({ 2 }) of ({ }) gerontologists ({ 3 4 5 7 }) in ({ }) September. ({ 1 8 9 }) 
+# Sentence pair (276) source length 25 target length 25 alignment score : 2.27672e-37
+Týmto spôsobom sa veci pohli, ale nemám pocit, že by šlo o radikálnu zmenu, ktorá by ma zmenila či už ako človeka, alebo ako spisovateľa. 
+NULL ({ 3 9 }) So ({ }) that ({ }) kind ({ }) of ({ }) thing ({ }) changed, ({ 1 2 4 5 }) but ({ 6 }) I ({ }) don’t ({ }) think ({ }) it ({ }) radically ({ 10 11 12 13 14 15 16 }) changed ({ 17 18 19 }) my ({ }) sense ({ 20 }) of ({ }) myself ({ 7 8 }) or ({ }) what ({ }) I ({ }) was ({ }) about ({ }) as ({ }) a ({ }) writer. ({ 21 22 23 24 25 }) 
+# Sentence pair (277) source length 21 target length 21 alignment score : 1.22147e-30
+Nazdávam sa, že spomínanú cenu som dostal skôr za prácu, ktorú som už vykonal, ako za diela, ktoré ešte len prídu. 
+NULL ({ 3 6 12 }) I ({ }) mean, ({ }) I ({ }) assume ({ 1 2 4 5 }) that ({ }) it ({ }) was ({ }) given ({ }) for ({ }) work ({ 7 8 9 10 11 }) that ({ }) was ({ }) done ({ 13 14 }) rather ({ }) than ({ 15 }) work ({ }) I ({ }) was ({ }) going ({ }) to ({ }) do. ({ 16 17 18 19 20 21 }) 
+# Sentence pair (278) source length 6 target length 9 alignment score : 1.95998e-13
+Spomínané ocenenie sa mi pošťastilo získať v roku 1995. 
+NULL ({ 3 7 }) This ({ 1 2 4 5 6 }) happened ({ }) to ({ }) me ({ }) in ({ }) 1995. ({ 8 9 }) 
+# Sentence pair (279) source length 19 target length 13 alignment score : 2.96247e-23
+Práve v čase, keď som bol dosť zaneprázdnený, odhalený svetu, známy a kontrolovaný. 
+NULL ({ 5 12 }) At ({ }) that ({ }) stage, ({ }) I ({ }) was ({ }) already ({ }) fairly ({ }) busy ({ }) and ({ }) fairly ({ }) exposed ({ }) to ({ }) the ({ }) world, ({ }) and ({ }) fairly ({ 4 6 7 8 9 10 }) well-known ({ 11 }) and ({ }) scrutinized. ({ 1 2 3 13 }) 
+# Sentence pair (280) source length 30 target length 32 alignment score : 5.65716e-52
+Žil som na severe krajiny práve v čase, keď sa odohrávali udalosti známe pod názvom Konflikt v Severnom Írsku. Patril som do generácie básnikov s menami ako Longley, Derek Mahon a ďalší. 
+NULL ({ 3 7 10 17 21 31 }) Living ({ 1 2 4 5 6 }) through ({ }) the ({ }) Troubles ({ }) as ({ }) a ({ }) writer ({ }) in ({ }) the ({ }) north, ({ }) living ({ 27 }) as ({ }) someone ({ }) who’s ({ }) part ({ }) of ({ }) that ({ }) generation ({ }) of ({ }) poets—Michael ({ 28 29 30 32 }) Longley, ({ }) Derek ({ }) Mahon, ({ 20 22 23 24 25 26 }) and ({ }) so ({ }) on—we ({ 8 }) were ({ }) constantly ({ 9 }) under ({ }) scrutiny. ({ 11 12 13 14 15 16 18 19 }) 
+# Sentence pair (281) source length 12 target length 17 alignment score : 6.7478e-28
+Ja a títo básnici sme boli pod starostlivým dohľadom. Tým mám na mysli politickú kontrolu, nátlak, vypočúvanie. 
+NULL ({ 2 12 }) We ({ }) were ({ }) under ({ }) political ({ 4 }) scrutiny, ({ }) we ({ 5 }) were ({ 6 }) under ({ 7 8 }) pressure, ({ 9 10 11 13 14 }) we ({ }) were ({ }) interviewed. ({ 1 3 15 16 17 }) 
+# Sentence pair (282) source length 36 target length 37 alignment score : 3.2484e-58
+Pozornosť, ktorá prišla spolu s Nobelovou cenou, nebola ani zďaleka taká ostrá či náročná v porovnaní s dozorom, ktorým sme si už prešli. Z toho dôvodu si nemyslím, že by som klamne opísal moje reakcie na cenu. 
+NULL ({ 15 31 36 }) I ({ }) think ({ }) the ({ }) kind ({ }) of ({ }) attention ({ }) that ({ }) came ({ }) with ({ }) the ({ }) Nobel ({ }) Prize ({ 13 }) wasn’t ({ }) any ({ }) more ({ }) acute ({ 14 16 }) or ({ }) exacting ({ 17 18 19 }) than ({ }) what ({ }) we ({ 20 21 }) had ({ 22 }) suffered ({ 23 24 }) ourselves ({ 25 }) already, ({ }) so ({ }) I ({ }) don’t ({ }) think ({ 29 30 }) I’m ({ 26 27 28 37 }) misrepresenting ({ 32 33 34 35 }) my ({ }) response ({ 1 2 3 }) to ({ }) the ({ }) prize. ({ 4 5 6 7 8 9 10 11 12 }) 
+# Sentence pair (283) source length 18 target length 12 alignment score : 1.03959e-20
+Pravdou je, že akonáhle vám cenu udelia, ľudia vás začnú vnímať odlišne. 
+NULL ({ 3 }) What ({ }) is ({ }) true ({ }) is ({ }) this, ({ }) that ({ }) other ({ }) people ({ }) see ({ }) you ({ }) differently ({ 4 }) once ({ }) this ({ }) garland ({ }) is ({ }) hung ({ 5 6 7 8 9 }) on ({ }) you. ({ 1 2 10 11 12 }) 
+# Sentence pair (284) source length 10 target length 17 alignment score : 8.46192e-27
+To už je iná vec a aj ich Wachtelová: Chceli ste povedať, že to je ich problém. 
+NULL ({ 6 13 }) That’s ({ 1 2 3 4 }) another ({ }) matter, ({ 10 11 12 }) but ({ }) that’s ({ 14 15 }) their ({ }) Wachtel: ({ 9 }) That’s ({ }) their ({ 5 7 }) problem. ({ 8 16 17 }) 
+# Sentence pair (285) source length 1 target length 3 alignment score : 0.00292104
+(smiech) Heaney: Presne. 
+NULL ({ }) [laughs]Heaney:Yeah. ({ 1 2 3 }) 
+# Sentence pair (286) source length 15 target length 18 alignment score : 7.8483e-23
+Wachtelová: V roku 2006 ste prekonali mŕtvicu. Vyjadrili ste sa, že to vonkoncom nebol únik z hrobárovej lopaty. 
+NULL ({ 11 }) Wachtel:You ({ 1 2 3 4 }) had ({ }) a ({ }) stroke ({ }) in ({ }) 2006, ({ 5 6 7 8 9 10 }) which ({ }) you ({ }) say ({ }) wasn’t ({ }) exactly ({ 12 }) a ({ }) brush ({ 13 14 }) with ({ }) death. ({ 15 16 17 18 }) 
+# Sentence pair (287) source length 3 target length 5 alignment score : 1.07366e-07
+Čo konkrétne sa teda stalo? 
+NULL ({ 3 }) What ({ 1 }) was ({ }) it? ({ 2 4 5 }) 
+# Sentence pair (288) source length 41 target length 44 alignment score : 7.17425e-64
+Jedného dňa som sa zobudil v jednom penzióne, ktorý sa nachádzal na území grófstva Donegal. Predchádzajúcu noc sme tam s priateľmi niečo oslavovali. Vôbec som nebol schopný čo i len vstať z postele a keď som sa snažil urobiť nejaké pohyby, nič sa nedialo. 
+NULL ({ 4 6 10 12 34 36 37 43 }) Well, ({ }) it ({ }) was ({ }) wakening ({ }) up ({ }) one ({ }) morning ({ 1 2 3 5 }) in ({ }) County ({ }) Donegal ({ 7 8 9 11 }) in ({ }) a ({ }) guest ({ 13 }) house ({ }) where ({ }) we ({ }) had ({ }) been ({ }) at ({ }) a ({ }) party ({ 14 15 16 17 18 19 }) with ({ 20 }) friends ({ }) the ({ }) night ({ }) before ({ }) and ({ }) not ({ }) being ({ }) able ({ 21 22 23 24 }) to ({ }) get ({ }) out ({ }) of ({ }) the ({ }) bed, ({ 25 }) making ({ 26 27 28 29 30 31 }) moves ({ 32 33 }) and ({ }) nothing ({ }) happening. ({ 35 38 39 40 41 42 44 }) 
+# Sentence pair (289) source length 7 target length 6 alignment score : 2.02562e-08
+Moja ľavá strana bola úplne ochrnutá. 
+NULL ({ }) I ({ }) was ({ }) paralyzed ({ 1 }) on ({ }) my ({ }) left ({ }) side. ({ 2 3 4 5 6 }) 
+# Sentence pair (290) source length 26 target length 25 alignment score : 3.7185e-37
+Našťastie, moji výborní priatelia boli nablízku a jedna z nich bola náhodou fyzioterapeutka. Prišla do mojej izby a snažila sa so mnou viesť pokojný rozhovor. 
+NULL ({ 7 18 20 }) Luckily, ({ 1 2 3 }) our ({ 4 5 6 8 9 }) very ({ }) good ({ }) friends ({ }) were ({ }) there ({ }) on ({ }) the ({ }) spot, ({ }) one ({ }) of ({ }) them ({ }) a ({ }) physiotherapist, ({ }) so ({ }) she ({ }) came ({ }) in ({ }) and ({ }) had ({ }) a ({ }) kind ({ }) of ({ }) calm ({ 10 11 12 13 14 15 16 17 }) talk. ({ 19 21 22 23 24 25 }) 
+# Sentence pair (291) source length 39 target length 34 alignment score : 8.11498e-54
+Záchranná služba prišla veľmi rýchlo a hneď ma previezli do nemocnice, ktorá bola od penziónu vzdialená asi hodinu cesty. Celý čas som bol napojený na infúziu, čo bolo veľmi prospešné pre môj krvný obeh. 
+NULL ({ 6 25 }) The ({ }) ambulance ({ 26 27 28 }) services ({ 1 2 3 4 }) came ({ }) very ({ 29 }) quickly ({ 30 }) and ({ }) I ({ }) was ({ }) snatched ({ 31 }) straight ({ 5 7 8 9 }) to ({ }) the ({ }) hospital, ({ 10 11 }) which ({ 12 13 }) was ({ }) an ({ }) hour ({ 14 15 16 17 }) away, ({ }) and ({ }) en ({ }) route ({ 32 33 34 }) I ({ }) was ({ }) hooked ({ }) up ({ }) to ({ }) a ({ }) drip ({ 18 19 20 21 }) that ({ }) was ({ 22 23 }) very ({ }) good ({ }) for ({ }) the ({ }) circulation ({ 24 }) and ({ }) so ({ }) on. ({ }) 
+# Sentence pair (292) source length 20 target length 18 alignment score : 1.40744e-30
+Po príchode do nemocnice som niečo vyše dňa strávil na jednotke intenzívnej starostlivosti. Potom sa stalo niečo úžasné. 
+NULL ({ 5 10 15 }) So ({ }) I ({ }) went ({ }) to ({ }) hospital, ({ }) was ({ }) in ({ }) intensive ({ 9 }) care ({ }) for ({ }) a ({ }) day ({ 4 6 7 8 }) and ({ }) a ({ }) half, ({ }) and ({ }) then ({ }) something ({ }) terrific ({ 11 12 13 14 16 17 18 }) happened. ({ 1 2 3 }) 
+# Sentence pair (293) source length 12 target length 12 alignment score : 7.29959e-18
+Palec na mojej ľavej nohe sa po niekoľkých dňoch začal znovu hýbať. 
+NULL ({ 2 6 }) My ({ }) big ({ 1 }) toe ({ 3 4 5 }) moved ({ }) on ({ }) the ({ }) left ({ }) foot ({ }) after ({ 7 }) a ({ }) couple ({ }) days. ({ 8 9 10 11 12 }) 
+# Sentence pair (294) source length 19 target length 16 alignment score : 3.98702e-26
+Na základe toho ma záchranka previezla z Donegalu dole do Dublinu, čo bolo asi 190 kilometrov. 
+NULL ({ }) At ({ 1 2 3 4 }) that ({ }) point ({ 5 6 7 8 9 10 }) I ({ }) was ({ }) brought ({ 14 15 16 }) by ({ }) ambulance ({ 12 13 }) from ({ }) the ({ }) north, ({ }) from ({ }) Donegal, ({ 11 }) about ({ }) 120 ({ }) miles ({ }) down ({ }) to ({ }) Dublin. ({ }) 
+# Sentence pair (295) source length 10 target length 7 alignment score : 3.08043e-11
+Tu som strávil týždeň vo všeobecnej nemocnici. 
+NULL ({ 2 }) I ({ }) was ({ }) in ({ }) a ({ }) general ({ }) hospital ({ }) there ({ }) for ({ }) a ({ }) week. ({ 1 3 4 5 6 7 }) 
+# Sentence pair (296) source length 17 target length 24 alignment score : 4.70315e-38
+Následne som štyri týždne pobudol vo vynikajúcom rehabilitačnom centre, kde som sa učil udržať rovnováhu, chodiť, ako sa zotaviť, dostával som tabletky či inštrukcie. 
+NULL ({ 2 12 18 }) And ({ 1 }) then ({ }) I ({ }) went ({ 10 }) to ({ }) a ({ }) wonderful ({ 11 17 19 20 21 }) rehab ({ 13 14 15 16 }) hospital ({ 5 6 7 8 9 }) for ({ }) about ({ }) four ({ 3 4 }) weeks, ({ 22 23 24 }) and ({ }) that ({ }) was ({ }) it. ({ }) 
+# Sentence pair (297) source length 13 target length 9 alignment score : 2.85959e-17
+Nestratili ste však reč? Vôbec to nepostihlo vašu myseľ? 
+NULL ({ }) And ({ }) you ({ }) didn’t ({ }) lose ({ }) speech ({ }) and ({ }) it ({ }) didn’t ({ }) affect ({ 2 }) your ({ }) mind ({ }) at ({ }) all? ({ 1 3 4 5 6 7 8 9 }) 
+# Sentence pair (298) source length 8 target length 8 alignment score : 3.92723e-11
+Nie, v tomto smere som mal neskutočné šťastie. 
+NULL ({ }) No, ({ 1 2 3 4 }) I ({ }) was ({ }) extremely ({ 5 }) lucky ({ }) in ({ }) that ({ }) way. ({ 6 7 8 }) 
+# Sentence pair (299) source length 9 target length 15 alignment score : 5.32302e-19
+Nestratil som reč a ani som neprišiel o pamäť. Vyviazol som z toho absolútne nepoznačený. 
+NULL ({ 4 }) Didn’t ({ 1 2 3 }) lose ({ 5 6 7 8 }) speech, ({ 9 }) didn’t ({ }) lose ({ }) memory, ({ }) and ({ }) emerged ({ 10 11 12 }) unmarked. ({ 13 14 15 }) 
+# Sentence pair (300) source length 16 target length 19 alignment score : 8.92772e-28
+Istý čas mi však behal mráz po chrbte, keď som uvažoval nad tým, že by som mohol zostať ochrnutý. 
+NULL ({ 14 }) But ({ }) for ({ }) a ({ }) while ({ 1 2 3 }) it ({ }) was ({ }) scary ({ 4 5 6 }) enough ({ }) when ({ }) I ({ }) just ({ }) wondered ({ }) if ({ 7 8 9 }) I’d ({ 10 11 12 13 15 16 }) remain ({ }) paralyzed. ({ 17 18 19 }) 
+# Sentence pair (301) source length 4 target length 5 alignment score : 5.92992e-07
+Mal som z pekla šťastie. 
+NULL ({ }) I ({ }) was ({ }) blessed, ({ }) really. ({ 1 2 3 4 5 }) 
+# Sentence pair (302) source length 8 target length 6 alignment score : 1.01608e-11
+Koniec koncov bola to zlomová skúsenosť. 
+NULL ({ }) But ({ }) it ({ }) was ({ }) a ({ }) changing ({ 3 4 }) experience ({ }) all ({ }) right. ({ 1 2 5 6 }) 
+# Sentence pair (303) source length 21 target length 21 alignment score : 6.09792e-35
+Na čas dlhší ako jeden rok som totiž odvolal všetky stretnutia, ktoré sa týkali čítania a prednášok. Malo to blahodarné účinky. 
+NULL ({ 7 13 16 }) I ({ }) cancelled ({ 8 9 10 11 12 }) every ({ }) appointment ({ 18 19 20 21 }) I ({ }) had ({ }) for ({ }) readings, ({ 1 }) lectures, ({ 14 15 17 }) and ({ }) so ({ }) on ({ }) for ({ 2 3 4 }) a ({ }) year, ({ 5 6 }) and ({ }) that ({ }) had ({ }) a ({ }) good ({ }) effect. ({ }) 
+# Sentence pair (304) source length 29 target length 31 alignment score : 4.21003e-52
+Spôsobilo to, že som bol oveľa opatrnejší pri prijímaní pozvánok. Uvedomil som si totiž, koľko času som strávil na cestách a tiež, že by som mal pozmeniť niektoré smery mojich ciest. 
+NULL ({ 12 17 19 21 }) It ({ }) made ({ }) me ({ }) much ({ }) more ({ }) cautious ({ }) about ({ }) accepting ({ 1 }) invitations ({ 2 3 }) and ({ }) made ({ 25 26 27 }) me ({ }) realize ({ 6 7 8 9 10 11 }) how ({ }) much ({ 22 23 24 }) I ({ }) was ({ 4 5 }) on ({ }) the ({ }) road ({ 13 14 15 16 18 20 }) and ({ }) how ({ }) I ({ }) should ({ }) change ({ }) my ({ }) ways ({ }) a ({ }) bit. ({ 28 29 30 31 }) 
+# Sentence pair (305) source length 6 target length 5 alignment score : 1.0638e-06
+Takže toľko k blahodarným účinkom. 
+NULL ({ }) So ({ }) it ({ }) had ({ }) that ({ }) good ({ }) effect. ({ 1 2 3 4 5 }) 
