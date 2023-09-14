@@ -45,7 +45,7 @@ To use this evaluation framework, follow these steps:
 4. **Run the Evaluation Script:** Use the provided evaluation script, specifying the number of texts to use as an argument (e.g., `001`, `002`, etc.). This script will execute all the sentence alignment tools (VecAlign, HunAlign, BleuAlign, and Bilingual Sentence Aligner) and then proceed with the evaluation using your data.
 
    ```bash
-   ./script.sh 01
+   ./script.sh 001
 
 
 *Note*: The included binaries for the alignment tools are built for Linux. If you are using a different platform, you can find the source code for these tools in this repository. You can build the tools for your specific platform by following the provided build instructions and then overwrite the binaries in the repository.
