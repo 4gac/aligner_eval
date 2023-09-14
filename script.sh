@@ -1,4 +1,4 @@
-export LASER="$HOME/Work/uni/clanok_brno/LASER" # path with LASER embeddings -  needed for VECALIGN
+export LASER="" # path with LASER embeddings -  needed for VECALIGN
 
 fn="$1"
 
