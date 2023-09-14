@@ -42,7 +42,7 @@ To use this evaluation framework, follow these steps:
 
 3 **Edit the script:** Edit the first line of the `script.sh` in the root directory. It should point to the location with LASER data.
 
-4. **Run the Evaluation Script:** Use the provided evaluation script, specifying the number of texts to use as an argument (e.g., `01`, `02`, etc.). This script will execute all the sentence alignment tools (VecAlign, HunAlign, BleuAlign, and Bilingual Sentence Aligner) and then proceed with the evaluation using your data.
+4. **Run the Evaluation Script:** Use the provided evaluation script, specifying the number of texts to use as an argument (e.g., `001`, `002`, etc.). This script will execute all the sentence alignment tools (VecAlign, HunAlign, BleuAlign, and Bilingual Sentence Aligner) and then proceed with the evaluation using your data.
 
    ```bash
    ./script.sh 01
