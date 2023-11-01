@@ -1,0 +1,99 @@
+Po niekoľkých desaťročiach snahy rozšíriť ich využitie sa novodobé materiály stávajú dôležitým prostriedkom v biomedicíne a biotechnológii.
+Kombinovanie polymérov s inými funkčnými chemickými látkami môže viesť k takmer neobmedzenému množstvu inteligentných materiálov.
+V blízkej budúcnosti budú inteligentné polyméry hrať rolu pri sledovaní zmien kyslosti v obličkách na monitorovanie homeostáz, pri prijímaní podnetov z enzýmov v krvných cievach na odstránenie embólie, pri nasadení biochemických zlúčenín na úpravu zdeformovaných proteínov pri neurodegeneratívnych chorobách, ako napríklad Alzheimerova, Parkinsonova a Huntignotonova choroba. Ďalej na sformovanie chemických a biochemických stimulov na regulovanie zložiek krvi, ako napríklad glukóza alebo na blokovanie chemických signálov, ktoré môžu spustiť vytvorenie melanómu.
+Inteligentné materiály reagujúce na určité spúšťacie mechanizmy, ako napríklad svetlo a teplo, boli kedysi len teóriou a dnes sú realitou.
+Takéto materiály sú nesmierne zaujímavé pre vedcov hľadajúcich nové cesty ako liečiť chorobu a obísť, občas kontraproduktívne, prešibanú obranyschopnosť tela.
+Popri materiáloch reagujúcich na teplotu je aj iná kategória zaujímavých inteligentných polymérov, ktorých zmeny spúšťa svetlo.
+Keďže je svetlo čistý stimul umožňujúci diaľkové ovládanie bez fyzického kontaktu, tieto foto-reaktívne polyméry sú užitočné pre široké spektrum použitia zahŕňajúc mikro-elektrotechnické systémy, senzory, textil, povlaky a fotovoltaické články.
+Jedna sféra pútajúca pozornosť je zmena farby foto-reaktívnych materiálov ako reakcia na svetlo.
+V našom laboratóriu práve skúmame určitú skupiny polymérov, ktoré obsahujú organickú zlúčeninu spiropyrán.
+Táto molekula má štruktúru prstenca, ktorá sa otvára a zatvára pri vystavení určitých vlnových dĺžok svetla, alebo v niektorých prípadoch, keď je vystavená zmenám kyslosti.
+Štiepenie prstenca na mieste špecifickej väzby kyslíka a uhlíka vytvára chromofor (oblasť, ktorá produkuje farbu) pohlcujúca viditeľné svetlo.
+Ako iné inteligentné materiály spomínané v tomto článku, tento polymér je prísľubom pre biomedicínske využitie pri obalení a cielenom uvoľňovaní liekov.
+V úplne odlišnom využití, textilný priemysel využíva foto-reaktívne polyméry vtkané do odevu na vyrobenie oblečenia, ktoré mení farbu, alebo ktoré odkryjú vytlačený vzor na svetle, alebo vlákna, ktoré sa správajú ako indikátory pri veľkom vystavení svetla. Prostriedok, ktorý môžeme oceniť napríklad pri detskom oblečení.
+Inteligentné materiály môžu byť navrhnuté tak, aby viedli elektróny ako odpoveď na elektromagnetickú radiáciu. absorbovanie polyméry nefungujú rovnako účinne ako polovodičový materiál v počítačovom priemysle.
+Polyméry sú však považované za budúcu generáciu pre fotovoltaické zariadenia, lebo nie sú finančne náročné na spracovanie.
+Prebieha výskum na zlepšenie výkonu solárnych článkov na polymérovej báze.
+V ideálnom prípade by tieto polymérové modely reagovali na široké spektrum svetla (infračervené žiarenie na viditeľných vlnových dĺžkach) a zvyšovali by ich účinnosť napríklad pri zariadeniach výkonovej elektroniky.
+Na to, aby sme dosiahli tento cieľ, naša skupina pracuje na rozvíjaní materiálov známe ako parafenylénové oligomery.
+Experimentálne a teoretické štúdie vykonané v našej skupine ukazujú, že spojenie týchto molekúl s ďalšími molekulovými skupinami spôsobuje, že foto-reaktívne polyméry absorbujú dlhšie červenšie vlnové dĺžky svetla.
+Zisťujeme, že tieto materiály môžu byť nastavené tak, aby reagovali na ešte širšie spektrum svetla pridaním skupiny silných akceptorov elektrónov.
+Polyméry obsahujúce prechodné kovy, ako napríklad ruténium, sú obzvlášť vhodné ako prostriedok priťahujúci svetlo, ktorý zjednodušuje absorbovanie svetla a presun elektrónov (a/alebo presun energie) v materiáli.
+Naša skupina v spolupráci s kolegami na Univerzite Severnej Karolíny.
+Chapel Hill používa ruténium s kombináciou polyméru na vytvorenie hybridného systému (ako napríklad ruténium (II) polypyridyl derivovaný polystyrén), ktorý vyzerá veľmi sľubne.
+Vďaka tejto metóde môžeme bližšie porozumieť tomu, ako sa elektrónová a fotónová energia presúva v rámci foto-reaktívnych polymérov.
+Naše nedávne štúdie ukazujú, že relatívne priestorové usporiadanie medzi iónmi ruténia v polyméri je kľúčovým parametrom ovplyvňujúcim spôsob prenosu elektrónov cez systém.
+Tieto objavy nás prinášajú bližšie k objaveniu polymérových solárnych článkov, ktoré môžu konkurovať uhlíku a paroplynovým elektrárňam.
+Pochopenie internej fyziky o polyméroch absorbujúcich svetlo je nevyhnutné pre uskutočnenie ďalších pokrokov.
+Aj keď sa všeobecne využívajú fotovoltaické články na báze kremíka, solárne zariadenia na báze polymérov by mohli tiež ponúknuť značné výhody.
+Polyméry nie sú finančné náročné na rozvoj, sú ľahko spracovateľné do veľkých manufaktúrnych množstiev a ľahko sa prispôsobujú širokej škále dizajnových kritérií.
+Zlepšenie a následné komercializovanie tejto technológie by prospelo nielen priemyslu solárnych panelov, ale aj textilnému. Bolo by možné vtkať elektrovodivé inteligentné materiály do látok, čo sa môže využiť v textilnom priemysle.
+V skutočnosti sa tieto dve odvetvia môžu jedného dňa prekrývať.
+Začlenenie foto-reaktívnych látok do textilu by mohlo zmeniť spôsob interagovať s našou elektronikou, čo môže v konečnom dôsledku viesť k zariadeniam, ktoré môžu byť nabíjané v kontakte s naším oblečením.
+Jeho veličenstvo kráľovná
+Prečo sa Hatšepsut rozhodla vládnuť starovekému Egyptu ako muž, kým jej nevlastný syn stál v tieni?
+Jej múmia a životný príbeh vychádzajú na svetlo sveta.
+Na končekoch jej prstov prekvapivo niečo nesedelo.
+Očné jamky mala naplnené čiernou živicou a v nozdrách nevkusne vložené tenké kúsky látky.
+Ľavé ucho jej pokleslo do mäsa na boku lebky a na hlave už nemala prakticky žiadne vlasy.
+Naklonil som sa k otvorenej vitríne v Egyptskom múzeu v Káhire a hľadel na čosi, čo je pravdepodobne telo faraónky Hatšepsut, výnimočnej ženy vládnucej v Egypte od roku 1458 pred Kristom. V súčasnosti nie je až tak známa pre jej vládnutie počas zlatého veku egyptskej 18. dynastie, ale skôr pre jej trúfalosť nechať sa vyobrazovať ako muž.
+V ovzduší som necítil očarujúcu vôňu myrhy, len akýsi ostrý a kyslý zápach pravdepodobne vytvorený počas mnohých storočí, ktoré strávila vo vápencovej hrobke.
+Bolo pre mňa ťažké predstaviť si, že toto zničené torzo bolo kedysi veľkolepou vládkyňou žijúcou pred mnohými rokmi, o ktorej sa písalo: Pohľad na ňu bol krajší než čokoľvek iné.
+Jediná ľudská črta sa zablysla v pozostatkoch jej končekoch prstov bez nechtov, kde ustúpilo mumifikované tkanivo tvoriac ilúziu manikúry a vyvolávajúc nielen našu pravekú márnivosť, ale aj naše chabé dôvernosti i krátky a pominuteľný dojem zo sveta.
+Objav stratenej múmie Hatšepsut sa stal mediálnou senzáciou pred dvoma rokmi, no celý príbeh sa rozvíjal pomaly, po krokoch, pripomínajúc skôr kriminálnu drámu zo seriálu CSI ako Dobyvateľov stratenej archy.
+V skutočnosti pátranie po Hatšepsut vykazovalo rozsah, pri ktorom sa muselo klasické archeologické náradie ako hoblíky a kefky doplniť CT skenermi a gradientovými termocyklérmi pre určenie DNA.
+V roku 1903 objavil preslávený archeológ Howard Carter sarkofág kráľovnej Hatšepsut v 20. hrobke v Údolí kráľov (Valley of the Kings) – KV20.
+Jeden z troch sarkofágov pripravených pre Hatšepsut bol prázdny.
+Vedci netušili, kde sa jej múmia nachádza, a či vôbec prežila ničivé ťaženie jej spoluvládcu a hlavného následníka Thutmosa III. Takmer všetky jej obrazy ako kráľovnej sa postupne vysekávali z chrámov, pamätníkov a obeliskov.
+Výskum, ktorý, ako sa zdá, konečne vyriešil záhadu, sa uskutočnil v roku 2005 Zahi Hawass, vedúci Projektu egyptskej múmie a generálny tajomník Najvyššej rady pre starožitnosti Egypta.
+Hawass a tím vedcov si vzali na mušku múmiu nazývanú KV60a. Tá sa našla pred viac ako storočím, no nepovažovali ju za natoľko dôležitú, aby ju premiestnili z podlahy menšej hrobky v Údolí kráľov.
+KV60a blúdila celú večnosť bez rakvy, ba dokonca bez sprievodu pohrebných figúrok znázorňujúcich kráľovských služobníkov.
+Nemala žiadne oblečenie, ani nijakú ozdobu hlavy, bola bez šperkov, zlatých sandál či zlatej špičky a ozdobných návlekov na prsty, nemala žiaden z pokladov, aké boli objavené v hrobke faraóna Tutanchamóna, ktorý bol v porovnaní s Hatšepsut len obyčajným smrteľníkom.
+Ak by nedošlo k náhodnému objavu zuba, dokonca aj za pomoci špičkovej technológie použitej na rozlúštenie jedného z najpozoruhodnejších egyptských prípadov nezvestnej osoby, KV60a by ešte stále bývala ležala osamote v tme a jej meno a prestíž by zostali v zabudnutí.
+Dnes sa jej múmia uchováva v jednej z dvoch miestností kráľovských múmií v Egyptskom múzeu, kde je na pamätných doskách v arabčine a angličtine označená ako Jeho veličenstvo kráľovná Hatšepsut a kde je opäť pohromade s jej vzdialenou rodinou faraónov Novej ríše.
+Vzhľadom na to, že Hatšepsut upadla do zabudnutia, ťažko si predstaviť faraóna, ktorého túžba po večnej sláve by bola silnejšia.
+Zdá sa, že sa viac obávala anonymity než smrti.
+Bola jedným z najvýznamnejších panovníkov podporujúcich kultúrny rozmach v čase jednej z najvýznamnejších dynastií Egypta.
+Dala postaviť a renovovať chrámy a svätyne tiahnuce od vrchu Sinaj až po Núbiu.
+Takisto dala postaviť štyri žulové obelisky týčiace sa na rozsiahlom chráme veľkého boha Amona v Karnaku, ktoré patria medzi najimpozantnejšie aké kedy boli postavené.
+Nechala postaviť stovky sôch so svojou podobizňou a v kameni zanechala pravdivé no i vymyslené správy o jej pôvode, hodnosti, minulosti, dokonca sa z času na čas úprimne zverila aj so svojimi myšlienkami a nádejami.
+Svoje obavy, ktoré aj dnes znejú takmer pôvabne neisto, vyryla do jedného z jej obeliskov v Karnaku: Tomu sa moje srdce prispôsobí, čo ľudí uspokojí.
+Tí, ktorí moje pamiatky neskôr uvidia a o mojich skutkoch povedia.
+Na počiatku sužovali Novú ríšu mnohé neistoty, ale je isté, že v čase, keď sa narodila Hatšepsut, Egypt naberal na sile.
+Ahmose, zakladateľ 18. dynastie a pravdepodobne starý otec Hatšepsut, vyhnal obávanú útočnú skupinu Hyksósov, ktorá po dve storočia okupovala severnú časť údolia Nílu.
+Keď syn Ahmosa Amenhotep I. nepočal syna, ktorý by bol jeho nástupcom, obávaný generál známy ako Thutmose I. sa vraj dostal sobášom s princeznou do kráľovskej línie.
+Hatšepsut bola najstaršou dcérou Thutmosa a jeho Veľkej kráľovskej manželky, kráľovnej Ahmose, a pravdepodobne blízkou príbuznou kráľa Ahmosa.
+Thutmose mal ale s inou kráľovnou syna nazývaného Thutmose II., ktorý zdedil korunu, keď sa jeho otec pobral na večný odpočinok.
+Ako bolo v tom čase kvôli zachovaniu kráľovského rodu zaužívané, Thutmose II. a Hatšepsut sa vzali. Dnes by bol takýto sobáš spochybňovaný pre pohlavný styk s vlastnou sestrou a aj pre vtedy tak rozšírenú polygamiu.
+Splodili spolu jednu dcéru a jeho ďalšia manželka Isis porodila Thutmosovi mužského dediča, ktorého mu Hatšepsut nedala.
+Thutmose II. nevládol dlho a ako zistili CT skenery o 3 500 rokov neskôr, na druhý svet ho poslal infarkt. V tom čase bol jeho dedič Thutmose III. ešte len dieťa.
+Podľa vtedajšej tradície Hatšepsut prevzala aktívnu kontrolu ako kráľovská regentka mladého faraóna.
+A tak sa začala jedna z najfascinujúcejších dôb starovekého Egypta.
+Hatšepsut spočiatku jednala v prospech svojho nevlastného syna rešpektujúc zvyklosti predchádzajúcich kráľovien v otázkach riešenia politických záležitostí, zatiaľ čo sa ratolesť priúčala, ako držať opraty.
+Onedlho sa však začalo ukazovať, že jej vláda bude iná.
+Reliéfy z raného obdobia znázorňujú Hatšepsut zastávať kráľovské funkcie pri obete bohom a pri zabezpečovaní obeliskov z lomov čiernej žuly v egyptskom meste Asuán.
+O pár rokov sa zhostila úlohy kráľa Egypta, najvyššej moci v krajine.
+Jej nevlastný syn, v tom čase už plne schopný chopiť sa trónu, zostal len ako následník.
+Hatšepsut pokračovala vo vládnutí, ktoré napokon trvalo 21 rokov.
+Čo ovplyvnilo Hatšepsut, aby skoncovala s tradičnou úlohou kráľovskej regentky?
+Stála za tým sociálna či vojenská kríza?
+Snáď politika dynastie?
+Zásah boha Amona?
+Alebo hlad po moci?
+Nevieme presne čo, ale niečo ju donútilo zmeniť spôsob, akým sa nechávala vyobraziť na verejných pamiatkach, vraví Peter Dorman, známy egyptológ a predseda Americkej bejrútskej univerzity.
+Jednou z najťažších vecí je prísť na to, aký bol jej motív.
+Mohlo by to mať nejakú súvislosť s pokrvnou líniou.
+Na pomníku v pieskovcových lomoch v oblasti Gebel el Silsila ju označuje jej správca a architekt Senenmut ako na kráľovu prvorodenú dcéru. Táto pocta zdôrazňuje skôr jej pôvod ako najstaršej dedičky Thutmosa I., a nie jej postavenie kráľovskej manželky Thutmosa II.
+Nezabúdajme, že Hatšepsut mala skutočne modrú krv, pretože bola príbuznou faraóna Ahmosa, zatiaľ čo jej manžel a zároveň i brat bol potomkom adoptovaného kráľa.
+Egypťania verili v božstvo faraónov. Iba Hatšepsut bola biologicky prepojená s božským majestátom, nie jej nevlastný syn.
+Avšak stále tu rezonovala jedna maličkosť týkajúca sa pohlavia.
+Kráľovstvo sa malo odovzdať z otca na syna, nie na dcéru. Podľa náboženskej viery žena nie je schopná adekvátne vykonávať úlohu kráľa.
+Na zdolanie tejto prekážky musela kráľovná, ktorá vystupovala ako muž, disponovať lišiackou prefíkanosťou.
+Po smrti jej manžela už nebolo prioritnou hodnosťou Hatšepsut titul Kráľova manželka, ale Manželka boha Amona. Toto oslovenie jej pravdepodobne vydláždilo cestu na trón.
+Na jednej soche z červenej žuly je Hatšepsut jasne vyobrazená so ženským telom no so znakmi kráľa, a to slávnostnou prúžkovanou šatkou nemes so znakom uraeus, znakom kobry so vztýčenou hlavou.
+V niektorých chrámových reliéfoch je odetá v tradičnom priliehavom rúchu siahajúcom po členky, avšak s postojom príznačným pre kráľa, čiže chodidlami ďaleko od seba, znázorňujúc tým vykročenie.
+Ako roky plynuli, bolo pre ňu očividne jednoduchšie vyhýbať sa otázke pohlavia.
+Formálne sa nechávala zobrazovať ako mužský vládca bez akýchkoľvek ženských čŕt s čelenkou faraóna, faraónskou suknicou s vyčnievajúcim cípom a falošnou briadkou príznačnou pre faraónov.
+Mnoho jej sôch, podobizní a textov sa javí ako súčasť dobre prešpekulovanej mediálnej kampane na upevnenie jej vlády ako panovníčky a ospravedlnenie jej previnení.
+V reliéfoch na jej zádušnom chráme interpretovala príbeh o jej nástupe na trón ako splnenie božieho plánu a uviedla, že jej otec Thutmose I. ju zamýšľal nielen dosadiť na trón, ale mohol sa tiež zúčastniť na jej korunovácii.
+Kazety znázorňujú veľkého boha Amona ako sa objavuje ešte predtým, než sa matka kráľovnej Hatšepsut prezlečie za Thutmosa I.
